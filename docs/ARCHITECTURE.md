@@ -385,24 +385,23 @@ After each phase, run analysis and relevant tests before moving forward.
 
 ## 10. Dependency map and responsibilities
 
-### Selected package direction for implementation
+### Current package choices
 
-The following is the intended stable dependency set for the production implementation and is aligned with the project requirements:
+The resolved package set in the configured Flutter 3.50.0 / Dart 3.14.0 environment is:
 
-- Flutter stable + Dart SDK (required to be installed in the working environment)
-- Riverpod 2.x for state and dependency injection
-- GoRouter 14.x for navigation
-- `sqflite_sqlcipher` for SQLite access backed by SQLCipher on Android and iOS. This is the current adapter choice because the official Drift encrypted adapter requires a GitHub dependency that could not be fetched in this environment.
-- flutter_secure_storage 9.x for protected key storage
-- local_auth 2.x for biometric unlock
-- flutter_local_notifications 17.x for local reminders
-- fl_chart 0.68.x for charting
-- intl 0.19.x for formatting and locale support
-- freezed + json_serializable for domain models and state serialization
-- argon2 for Argon2id-based key derivation
-- file_picker and path_provider for backup/export workflows
+- Riverpod 2.6.1 for state and dependency injection
+- GoRouter 14.8.1 for navigation
+- `sqflite_sqlcipher` 3.4.1 for SQLite access backed by SQLCipher on Android and iOS
+- `flutter_secure_storage` 11.2.0 for protected key storage (requires Android API 24+; the app minimum is API 26)
+- `local_auth` 3.0.2 for biometric unlock
+- `flutter_local_notifications` 17.2.4 for local reminders
+- `fl_chart` 0.68.0 for charting
+- `intl` 0.20.3 for formatting and localization compatibility with the Flutter SDK
+- Freezed 4.0.3 / `freezed_annotation` 3.1.0 and `json_serializable` 6.15.2 for model generation
+- `serverpod_argon2` 0.1.0 for Argon2id-capable key derivation
+- `file_picker` 13.3.3 and `path_provider` 2.1.6 for local file workflows
 
-The configured environment uses Flutter 3.50.0 and Dart 3.14.0. Package resolution and Android runtime validation are being performed against this toolchain. Security behavior remains unverified until implemented and tested.
+The Drift encrypted adapter was replaced, with approval, by direct `sqflite_sqlcipher` integration because fetching Drift's official encrypted adapter from GitHub repeatedly failed. Drift is no longer a project dependency. SQLCipher opening, key handling, and encryption-at-rest behavior are not yet implemented or verified.
 
 ### Flutter / Dart
 
@@ -425,6 +424,8 @@ The `sqflite_sqlcipher` package is only a database integration dependency at thi
 ### flutter_secure_storage
 
 Protects encryption keys and sensitive local secrets using platform secure storage.
+
+Version 11 removes legacy Android storage algorithms; existing data from earlier versions may need an intermediate migration before upgrading. No migration of previously stored values has been tested, so do not assume older installations retain secure-storage data across this dependency change.
 
 ### local_auth
 

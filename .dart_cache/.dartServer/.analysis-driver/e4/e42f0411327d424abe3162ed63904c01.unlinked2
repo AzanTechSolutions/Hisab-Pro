@@ -1,0 +1,1749 @@
+_startstart_extentextent==hashCodetoStringlerpborderAnimationbordergapAnimationgaptextDirection	fillColorhoverColorTweenhoverAnimationblendedColorpaintshouldRepaint
+hoverColor
+isHoveringcreateState_kHoverDuration_controller_hoverColorController_borderAnimation_border_hoverAnimation_hoverColorTween	initStatedisposedidUpdateWidgetbuild	textAlignhelper
+helperTexthelperStylehelperMaxLineserror	errorText
+errorStyleerrorMaxLinesempty_helper_error
+_hasHelper	_hasError_handleChange_buildHelper_buildErrorneverautoalways_xcenter
+_stringifyiconinputlabelhintprefixsuffix
+prefixIcon
+suffixIconhelperErrorcounter	containercontentPaddingisCollapsedfloatingLabelHeightfloatingLabelProgressfloatingLabelAlignment	borderGapalignLabelWithHintisDenseisEmptyvisualDensityinputGapmaintainHintSizemaintainLabelSizeinputConstraintsbaselinecontainerHeightsubtextSizesize
+subtextGapprefixToInputGapinputToSuffixGapchildren
+decoration_decoration_textDirectiontextBaseline_textBaseline_defaultTextAlignVerticaltextAlignVertical_textAlignVertical	isFocused
+_isFocusedexpands_expands	material3
+_material3_isOutlineAligned_densityOffsetvisitChildrenForSemantics	_minWidth	_maxWidth
+_minHeight_boxSize_getBaseline_getDryBaseline_boxParentData_computeSubtextSizes_layout_interpolateThreecomputeMinIntrinsicWidthcomputeMaxIntrinsicWidth_lineHeightcomputeMinIntrinsicHeightcomputeMaxIntrinsicHeightcomputeDistanceToActualBaseline_labelTransformcomputeDryBaselinecomputeDryLayoutperformLayout_paintLabelapplyPaintTransformhitTestSelfhitTestChildren$_childSemanticsConfigurationDelegatedescribeSemanticsConfigurationslotschildForSlotcreateRenderObjectupdateRenderObjectlabelIsFloatingtextstylechildsemanticsSortKeysemanticsTag	baseStyle_labelShouldWithdrawcontainerOfdebugFillProperties_floatingLabelController_floatingLabelAnimation_shakingLabelController
+_borderGap_prefixSemanticsSortOrder_inputSemanticsSortOrder_suffixSemanticsSortOrder_kPrefixSemanticsTag_kPrefixIconSemanticsTag_kSuffixSemanticsTag_kSuffixIconSemanticsTagdidChangeDependencies_effectiveDecoration_floatingLabelEnabledlabelShouldWithdraw_getDefaultM2BorderColor_getFillColor_getHoverColor_getIconColor_getPrefixIconColor_getSuffixIconColor_hasInlineLabel_shouldShowLabel_getInlineLabelStyle_getInlineHintStyle_getFloatingLabelStyle_getHelperStyle_getErrorStylewidgetState_getDefaultBorder_curvedAnimation_buildTransition_topStartLayout	iconColor	labelText
+labelStylefloatingLabelStylehintText	hintStylehintTextDirectionhintMaxLineshintFadeDurationmaintainHintHeightfloatingLabelBehaviorprefixIconConstraints
+prefixTextprefixStyleprefixIconColor
+suffixTextsuffixStylesuffixIconColorsuffixIconConstraintscounterTextcounterStylefilled
+focusColorerrorBorderfocusedBorderfocusedErrorBorderdisabledBorderenabledBorderenabledsemanticCounterTextconstraintscopyWithapplyDefaults_data_labelStyle_floatingLabelStyle_helperStyle_helperMaxLines
+_hintStyle_hintFadeDuration_hintMaxLines_errorStyle_errorMaxLines_floatingLabelBehavior_floatingLabelAlignment_isDense_contentPadding_isCollapsed
+_iconColor_prefixStyle_prefixIconColor_prefixIconConstraints_suffixStyle_suffixIconColor_suffixIconConstraints_counterStyle_filled
+_fillColor_activeIndicatorBorder_outlineBorder_focusColor_hoverColor_errorBorder_focusedBorder_focusedErrorBorder_disabledBorder_enabledBorder_alignLabelWithHint_constraints_visualDensityactiveIndicatorBorderoutlineBorderdataofmergeupdateShouldNotifywrapcontext_colors
+_textTheme_kTransitionDuration_kTransitionCurve_kFinalLabelScale_kInputExtraPadding_kSubtextCounterPadding_SubtextSize_ChildBaselineGetter_kHintFadeTransitionDuration_InputBorderGap_InputBorderTween_InputBorderPainter_BorderContainer_BorderContainerState_HelperError_HelperErrorStateFloatingLabelBehaviorFloatingLabelAlignment_DecorationSlot_Decoration_RenderDecorationLayout_RenderDecoration
+_Decorator
+_AffixTextInputDecorator_InputDecoratorStateInputDecorationInputDecorationThemeInputDecorationThemeData_InputDecoratorDefaultsM2_InputDecoratorDefaultsM3Ì
+lerpDoubleDurationmillisecondsCurvefastOutSlowInCurvesdouble	RenderBoxBoxConstraintsChangeNotifiernotifyListenersoverrideboolObject	identicalruntimeTypestartextentinthashStringdescribeIdentityTweenInputBorderbeginendlerpShapeBorderCustomPainterrepaint	AnimationTextDirectionColor
+ColorTween
+alphaBlendevaluatevoidCanvasSizeRectzeroOffsetalphaPaintcolorstylefillPaintingStylepreferPaintInteriorpaintInteriortextDirectiondrawPathgetOuterPathpaintgapStart	gapExtentgapPercentagevalueborderAnimationhoverAnimationgapAnimationbordergapStatefulWidgetStateTickerProviderStateMixinAnimationControllerCurvedAnimation	initStateduration
+isHoveringwidgetvsyncparentcurvereverseCurveflippedlinear	withAlpha
+hoverColordisposedidUpdateWidgetforwardreverseWidgetBuildContextCustomPaintforegroundPaintermerge
+ListenableofDirectionality	fillColorhoverColorTween	TextAlign	TextStyleSingleTickerProviderStateMixinshrinkSizedBox
+helperTexthelper	errorTexterroraddListenersetState	Semantics	containerchildFadeTransitionopacityanimateTexthelperStyle	textAlignoverflowellipsisTextOverflowmaxLineshelperMaxLines
+errorStyleDefaultTextStyleBuilderbuilder
+liveRegionsupportsAnnounceOf
+MediaQuerycontextFractionalTranslationtranslationviewerrorMaxLinesisDismissedisCompletedStackchildrenfloatingLabelBehaviorlabel	labelTextfloatingLabelAlignment	immutableltrrtl_hashCode_xtoStringAsFixedEdgeInsetsDirectionalVisualDensitycontentPaddingisCollapsedfloatingLabelHeightfloatingLabelProgress	borderGapalignLabelWithHintisDenseisEmptyvisualDensityinputGapmaintainHintSizemaintainLabelSizeiconinputhintprefixsuffix
+prefixIcon
+suffixIconhelperErrorcounter!SlottedContainerRenderObjectMixinchildForSlotIterablemarkNeedsLayoutTextBaselineTextAlignVerticalcentertopymarkNeedsSemanticsUpdate	isOutlinebaseSizeAdjustmentRenderObjectVisitorgetMinIntrinsicWidthgetMaxIntrinsicWidthgetMinIntrinsicHeightsizegetBaselineChildLayoutHelper
+alphabeticheightgetDryBaselinedryLayoutChildBoxParentData
+parentDataChildLayouterboxdeflateonly
+EdgeInsetsleftwidthcounterSizemaxcounterAscentmaxWidthinfinityloosenconstraintslayoutChild
+horizontalcopyWithbottomHeighttightenverticaldybottomkMinInteractiveDimension	maxHeightmininputConstraintscontainerHeightbaselinesubtextSizesubtextHeightList+reduceoffsetgetDistanceToActualBaselineMatrix4ideographicgetDryLayout	constrainconstrainWidthconstrainHeighttightForlayoutparentUsesSizeascentgetDistanceToBaseline-dxoffsetToPrefixIconPaintingContext
+paintChild
+BorderSide
+borderSidestrokeOffsetidentitytranslateByDoublescaleByDoublelayerpushTransformneedsCompositingoldLayerTransformLayerRenderObjectmultiplyapplyPaintTransformBoxHitTestResultaddWithPaintOffsetpositionhitTesttransformed"ChildSemanticsConfigurationsResultSemanticsConfiguration)ChildSemanticsConfigurationsResultBuilderSemanticsTag_kPrefixSemanticsTag_kPrefixIconSemanticsTag_kSuffixSemanticsTag_kSuffixIconSemanticsTagfirstWhereOrNulltagsChildrenWithchildConfigaddputIfAbsentmarkAsMergeUpforEachvaluesmarkAsSiblingMergeGroupbuildchildConfigurationsDelegate#SlottedMultiChildRenderObjectWidget
+decorationtextBaselinetextAlignVertical	isFocusedexpands	material3useMaterial3ThemeStatelessWidgetSemanticsSortKeyIgnorePointerignoringAnimatedOpacitysortKeytagForChildren	TextFieldEditableTextMaterial
+DecorationDecoratedBoxkey	ThemeData	textThememinLinesDropdownButtonInkWellenabledfilledcounterTextfindAncestorRenderObjectOfTypeDiagnosticPropertiesBuilderdebugFillPropertiesDiagnosticsPropertydefaultValueOrdinalSortKeynametoStringdidChangeDependenciesneverapplyDefaults_labelShouldWithdrawalwaystransparentColorsdisabledColorcolorSchemeprimary	hintColorwithOpacity	onSurface	resolveAsWidgetStateProperty	iconColorIconButtonThemeDataprefixIconColorresolveforegroundColorsuffixIconColor
+labelStyletitleMedium	baseStyle	hintStyle	bodyLargefloatingLabelStyleSetWidgetStatedisabledfocusedhoveredUnderlineInputBordernoneactiveIndicatorBorderoutlineBorderIconButtonThemehintTexthintTextDirectionhintMaxLineshintFadeDurationAnimatedSwitchertransitionBuilderlayoutBuildererrorBorderdisabledBorderfocusedErrorBorderfocusedBorderenabledBorderMatrixTransition	animationonTransformtranslationValuesAnimatedDefaultTextStyle
+prefixText
+suffixTextlabelIsFloatingtextprefixStylesemanticsSortKeysemanticsTagsuffixStyleMouseRegioncursorbasicSystemMouseCursorsPaddingpadding	IconThemedataIconThemeDataCenterwidthFactorheightFactorConstrainedBoxprefixIconConstraintseffectiveConstraintsminWidth	minHeightButtonStyleWidgetStatePropertyAlliconSizesuffixIconConstraintscounterStylesemanticsLabelsemanticCounterTextfromSTEBrightscaletextScalerOffontSizeOutlineInputBorder
+gapPadding
+DeprecatedIcon	ImageIconWidgetStateColorrichWidgetStateTextStyleColorSchemeTextFormField	validatorautoEdgeInsetsGeometry	collapsedAlignstandard
+focusColorWidgetStateInputBordercompactcomfortableSemanticsServicemaintainHintHeightArgumentErrorhashAlljoininputDecorationThemeInheritedThemeDiagnosticableTabBar"dependOnInheritedWidgetOfExactTypeIntPropertyColorPropertyresolveWithcontainsstates	bodySmallbrightnessOfdark
+Brightnesslightwhite70black45	TextThemeonSurfaceVariantsurfaceContainerHighestWidgetStateBorderSideonErrorContaineroutlineChangeNotifierTweenCustomPainterStatefulWidgetStateTickerProviderStateMixinSingleTickerProviderStateMixin	RenderBox!SlottedContainerRenderObjectMixin#SlottedMultiChildRenderObjectWidgetStatelessWidgetInheritedThemeDiagnosticableInputDecorationThemeDataÙª­g­pJÜ£»#ş0ëŸ/    •   §ªmathª	dart:mathÂÑ
+lerpDouble ²   dart:ui  ×   "package:collection/collection.dart  ‚   package:flutter/foundation.dart  ‚0   package:flutter/rendering.dart  ‚Z   package:flutter/widgets.dart  ‚„   button_style.dart  ‚¡   color_scheme.dart  ‚¾   colors.dart  ‚Õ   constants.dart  ‚ï   icon_button_theme.dart  ƒ   input_border.dart  ƒ.   material.dart  ƒG   material_state.dart  ƒf   text_theme.dart  ƒ   
+theme.dart  ƒ—   theme_data.dartÀÖ) À®ú—Ö =€ˆ€§€©€Ù€Ş€ÿ =`ˆ’”±ÔÖ‚‚/‚Y‚‚ƒ‚ ‚½‚Ô‚îƒƒ-ƒFƒeƒ€ƒ–ƒ±ƒ³ƒÌƒå„„„-„Ä……?…g…i…·…Ü†/†L†­†Ö†Ø‡,‡c‡‘‡“‡éˆGˆIˆ„ˆˆˆË‰‰<‰‡‰‰‰Î‰îŠŠ1ŠQŠoŠ‹Š¢Š¼ŠÃŠÈŠÊŠã‹‹"‹?‹W‹q‹x‹}‹‹Œ‹îŒŒ5ŒIŒPŒ}Œ’Œ™ŒñŒöŒøgšœ©ÙÜŞFvx…×ÚÜ.az—»Ö÷1Or–ŸËî‘‘5‘[‘u‘š‘Å‘Ç’,’.’;’e’¬’İ““6“S“w““Ì”)”9””§”®”°”È”×”ê••$•N•s•{•€•‚••Ç––<–p–˜–º–î–ó–õ——2—5—7—„—Ğ˜˜;˜l˜ˆ˜£˜»˜Ü˜ú™™8™?™A™^™|™¥™¿™Ú™ô™öššFšIšKš¨šïšñ››M›w›š›Ã›è›ê›÷œœ%œWœyœ¦œºœÂ@\}­µ^`±ŸŸŸŸ(Ÿ<ŸXŸ~ŸŸŸ¿ŸÕŸÚŸÜŸé  F t Å Ø ï¡¡¡B¡•¡ú¢¢7¢W¢¢‘¢»¢Ä¢Ë¢Ğ¢Ò¢ß££ £O£€££´£Ö£ã¤¤)¤U¤o¤£¤É¤õ¥¥)¥1¥6¥9¥;¥~¥¾¥ñ¦¦6¦K¦]¦s¦Š¦¤¦µ¦Ê¦à¦ù§ §§!§:§W§x§–§®§Ê§ê¨¨	¨¨Q¨T¨V¨±¨ú©4©f©h©‘©¥©¸©ºªªSªUªbªxªªåªû««:«X«y«€«­«²«´«Á«Õ«ñ¬¬¬¬(¬;¬j¬s¬x¬z¬‡¬³¬Ô¬Ö­­6­d­š­Ã­ô®®R®T®®ò¯>¯g¯¼¯¾¯Ü¯ş°°@°w°˜°¸°ø±±;±K±k±t±{±€±‚±±Ş±õ²²+²w²‡²¥²¸²Û³³1³a³‘³¡³«³³³¸³º³Ô´´L´w´¶µµµ,µUµpµŒµÌµî¶¶<¶g¶™¶¼¶é¶ÿ·#·<·e·”·Æ·ü¸1¸G¸W¸e¸q¸{¸ƒ¸ˆ¸Š¸—¸¿¸ã¸ù¹¹<¹L¹e¹|¹…¹Œ¹¹²¹É¹áº	ºº1ºHºQºXºZºƒº º§º©ºÒºğº÷ºù»»$»A»\»¬»É»×»ñ»ı¼¼¼¼'¼<¼Y¼t¼´¼À¼Ê¼Ñ¼Ó¼æ¼ë¼î¼ğ½'½,½;½@½½Ï¾¾5¾S¾¾§¾©¾ğ¾ù¾û¿1¿<¿?¿A¿‰¿ ¿¥¿´¿¹À @
+À @JÀ @šÀ @ªÀ @¶À @ÖÀ A$À A&À AcÀ AwÀ AyÀ AÆÀ AÍÀ BÀ B À BmÀ B¼À B¾À CÀ CTÀ CVÀ CcÀ C‡À C‰À C–À CºÀ CİÀ CñÀ CøÀ D%À D:À DAÀ D€À D…À D‡À D¯À DÈÀ D÷À E&À EhÀ EpÀ EuÀ EwÀ E„À E¬À E¯À E±À EìÀ FÀ FÀ FÀ F!À F*À F5À F@À FOÀ F^À FnÀ FzÀ FˆÀ F‹À FÀ FÉÀ FÕÀ FêÀ GÀ G$À GDÀ GlÀ G–À GÁÀ GÜÀ GúÀ H!À H=À HYÀ H{À H˜À H½À HãÀ HóÀ IÀ IÀ I%À I7À IIÀ I_À IuÀ IŒÀ IŸÀ I´À I»À I½À IìÀ JÀ J,À JSÀ J‹À J¨À JÌÀ JîÀ KÀ KÀ KCÀ K]À K}À KÀ KµÀ KÍÀ KåÀ KüÀ LÀ L.À LKÀ LhÀ L†À L À L¼À L¾À LËÀ LïÀ MÀ M&À M-À MZÀ MoÀ MvÀ MšÀ MÍÀ MúÀ N7À NxÀ N»À NŞÀ OÀ OBÀ OgÀ OŒÀ O½À OäÀ PÀ PTÀ PsÀ P”À PµÀ PÔÀ P÷À QÀ QEÀ QpÀ QÀ QÂÀ QéÀ QîÀ QğÀ QıÀ R!À R6À RPÀ RlÀ R‰À R–À R¦À R¿À RÍÀ RÛÀ RïÀ RşÀ SÀ S-À S8À SDÀ SPÀ S[À ShÀ SuÀ SÀÀ SÆÀ SÉÀ SËÀ TÀ TaÀ TšÀ T»À TŞÀ UÀ U À UDÀ UdÀ U}À U„À U†À U°À UÊÀ UëÀ VÀ V#À V&À V(À VoÀ VšÀ VäÀ VûÀ WÀ W>À W`À WÀ WœÀ W»À WÙÀ WàÀ WâÀ X6À XfÀ X™À XÒÀ YÀ YÀ YKÀ Y‹À YËÀ Z	À ZKÀ ZÀ Z×À [!À [mÀ [±À [ùÀ [ûÀ \/À \<À \bÀ \±À \ÊÀ \ØÀ \çÀ \ûÀ ]À ]À ]/À ]>À ]LÀ ]aÀ ]rÀ ]…À ]À ]’À ]”À ]ÂÀ ]ŞÀ ^À ^&À ^5À ^<À ^VÀ ^nÀ ^sÀ ^uÀ ^«À ^ÌÀ ^øÀ _À _+À _2À _OÀ _gÀ _lÀ _nÀ _¡À _ÀÀ _êÀ `À `À `#À `?À `WÀ `\À `^À `”À `áÀ a@À ajÀ aŸÀ aÇÀ aÖÀ aİÀ b#À bpÀ b“À b¢À b©À bÊÀ bâÀ bçÀ béÀ cÀ c"À cAÀ caÀ cpÀ cwÀ cÀ c±À c¶À c¸À cÙÀ cóÀ dÀ d.À d=À dDÀ d[À dsÀ dxÀ dzÀ dŸÀ d»À dÚÀ dúÀ e	À eÀ e)À eAÀ eFÀ eHÀ e˜À e¦À eÆÀ f
+À fÀ fÀ f^À f`À fmÀ f®À fÇÀ fŞÀ fåÀ g À gÀ g À g?À g\À gcÀ geÀ gÀ g—À gÀ g·À gÏÀ gèÀ hÀ h$À h-À h4À h6À hPÀ hhÀ hoÀ hÀ h«À h²À hÍÀ hæÀ híÀ iÀ i'À i.À iIÀ ieÀ iÀ i†À i‹À iÀ iÊÀ iûÀ j8À jiÀ j¦À j×À kÀ khÀ kÃÀ kİÀ kâÀ käÀ l5À l“À lÚÀ lßÀ láÀ m<À m>À mˆÀ mŠÀ m²À mÜÀ nÀ n5À n=À n†À näÀ oÀ oÀ oÀ oUÀ o©À oñÀ p3À p;À pšÀ pœÀ pŞÀ pòÀ pùÀ pûÀ qOÀ q±À qíÀ rÀ riÀ rÃÀ s#À s{À s€À s‚À sĞÀ tÀ tdÀ tˆÀ t«À tÔÀ uÀ uÀ uÀ uHÀ u—À u»À v	À vYÀ v¨À vòÀ wÀ w À w"À wcÀ weÀ w›À wÃÀ xÀ xhÀ x‘À x™À xæÀ y	À yEÀ y}À y‡À yÀ y‘À yÛÀ zÀ zBÀ zjÀ z‹À z¬À z´À z¶À zêÀ {À {RÀ {gÀ {¡À {ÕÀ {êÀ |$À |PÀ ||À |ßÀ }BÀ }DÀ }‡À }•À }¬À }ÊÀ }éÀ ~%À ~`À ~lÀ ~ŠÀ ~©À ~ãÀ À &À (À QÀ ]À ¡À ©À ÓÀ ğÀ €
+À €LÀ €±À €ÔÀ €ÿÀ À -À UÀ rÀ ÈÀ ‚À ‚!À ‚#À ‚pÀ ‚¥À ‚´À ‚ÔÀ ‚ÿÀ ƒ
+À ƒRÀ ƒ†À ƒÀ ƒ½À ƒ¿À „À „0À „À „™À „§À „¿À „ÆÀ „ÈÀ …À …EÀ …ˆÀ …ÄÀ …×À …óÀ †MÀ †[À †fÀ †ŒÀ †À †¸À †àÀ ‡>À ‡fÀ ‡{À ‡ÄÀ ˆ"À ˆPÀ ˆ_À ˆ¨À ˆªÀ ˆîÀ ‰À ‰jÀ ‰ƒÀ ‰‹À ‰ÜÀ ‰ŞÀ ŠAÀ Š¤À Š¦À ŠõÀ ‹À ‹PÀ ‹¢À ‹ÑÀ ‹üÀ Œ'À Œ/À Œ|À Œ£À ŒÛÀ À À RÀ ZÀ \À –À ğÀ À 2À EÀ eÀ €À ™À ´À ×À õÀ ıÀ ]À tÀ ™À øÀ $À BÀ ˜À šÀ çÀ ‘À ‘cÀ ‘™À ‘©À ‘«À ‘ûÀ ’MÀ ’—À ’åÀ “4À “mÀ “¼À ”À ”^À ”ŠÀ ”ëÀ ”íÀ •<À •aÀ •À •”À •µÀ •ÓÀ •ôÀ –À –;À –À –àÀ —*À —,À —HÀ —fÀ —ºÀ —ÄÀ ˜ À ˜QÀ ˜À ˜ÎÀ ˜ØÀ ™$À ™tÀ ™¶À ™âÀ šGÀ š{À šÍÀ šòÀ ›À ›/À ›OÀ ›kÀ ›uÀ ›ƒÀ ›ŞÀ œÀ œ#À œ%À œJÀ œuÀ œÀ œ¹À œÚÀ :À BÀ GÀ IÀ ˜À êÀ :À …À ÖÀ Ÿ(À Ÿ7À Ÿ[À ŸnÀ Ÿ‚À Ÿ“À Ÿ½À ŸÄÀ  À  WÀ  ŠÀ  ±À  ×À ¡	À ¡À ¡À ¡À ¡QÀ ¡¢À ¡éÀ ¢À ¢LÀ ¢†À ¢À ¢ÃÀ £#À £LÀ £qÀ £‰À £®À £×À ¤4À ¤9À ¤;À ¤HÀ ¤|À ¤ÍÀ ¥À ¥9À ¥wÀ ¥±À ¥ÈÀ ¥îÀ ¦NÀ ¦wÀ ¦œÀ ¦´À ¦ÙÀ §À §_À §dÀ §fÀ §¤À §»À §ÛÀ §õÀ ¨À ¨À ¨KÀ ¨RÀ ¨fÀ ¨´À ¨æÀ ©"À ©'À ©)À ©6À ©jÀ ©¢À ©İÀ ©ßÀ ªÀ ªÀ ªTÀ ª¡À ª£À ªçÀ «4À «6À «À «‘À «æÀ ¬#À ¬aÀ ¬¥À ¬§À ¬íÀ ­AÀ ­¥À ­ÿÀ ®GÀ ®gÀ ®‹À ®’À ®”À ®ĞÀ ¯À ¯À ¯OÀ ¯À ¯’À ¯ÄÀ °À °À °&À °uÀ °ƒÀ °¨À °±À °ŞÀ °òÀ ±À ±À ±5À ±7À ±YÀ ±wÀ ±¹À ±ÓÀ ±ôÀ ²À ²>À ²QÀ ²gÀ ²€À ²™À ²²À ²øÀ ³À ³,À ³.À ³yÀ ³~À ³€À ³À ³ÁÀ ³ëÀ ³ğÀ ³òÀ ³ÿÀ ´BÀ ´lÀ ´†À ´™À ´ À ´ÎÀ µÀ µ À µ"À µMÀ µjÀ µlÀ µyÀ µÖÀ ¶ À ¶À ¶-À ¶4À ¶iÀ ¶}À ¶³À ¶ØÀ ¶àÀ · À ·+À ·RÀ ·«À ·öÀ ¸RÀ ¸œÀ ¸©À ¸ÃÀ ¸ÈÀ ¸ÊÀ ¸×À ¹À ¹CÀ ¹WÀ ¹À ¹²À ¹ºÀ ¹êÀ ¹ïÀ ¹ñÀ ¹şÀ ºÀ ºRÀ ºoÀ º¤À º¸À ºëÀ »À »À »EÀ »À »ÜÀ »ŞÀ ¼À ¼À ¼FÀ ¼dÀ ¼¡À ¼ÊÀ ¼ÿÀ ½	À ½NÀ ½À ½¢À ½ÖÀ ½àÀ ¾À ¾!À ¾#À ¾VÀ ¾ŠÀ ¾ÛÀ ¾ùÀ ¿ À ¿À ¿À ¿LÀ ¿‹À ¿®À ¿¸À ¿×À ¿ŞÀ ¿àÀ ÀBÀ ÀpÀ ÀÕÀ Á:À Á<À ÁTÀ ÁrÀ Á‘À ÁÏÀ ÂÀ Â7À Â_À Â‘À ÂÀ Â½À ÂñÀ Ã.À Ã^À ÃlÀ ÃwÀ Ã–À ÃãÀ ÄÀ Ä<À Ä}À Ä¯À Ä»À ÄÛÀ ÅÀ Å7À ÅgÀ ÅuÀ Å€À Å‡À Å‰À Å·À ÅíÀ ÆÀ Æ%À ÆnÀ ÆxÀ Æ–À ÆÀ ÆŸÀ Æ½À ÆÜÀ ÆçÀ ÇÀ Ç8À Ç‰À Ç±À ÇÅÀ ÇğÀ ÇıÀ ÈÀ ÈOÀ È‘À È§À ÈçÀ ÈöÀ ÉÀ É$À ÉoÀ É|À ÉœÀ ÉÜÀ ÉéÀ ÊÀ ÊFÀ ÊSÀ ÊxÀ Ê À ÊÔÀ ÊúÀ ËÀ Ë7À ËDÀ ËeÀ Ë—À Ë¤À Ë¶À ËÁÀ ËàÀ ËëÀ ÌÀ Ì<À ÌtÀ ÌœÀ Ì°À ÌÛÀ ÌèÀ ÍÀ Í:À ÍhÀ Í~À ÍªÀ Í¹À ÍÆÀ ÍçÀ ÎÀ Î*À ÎJÀ ÎvÀ ÎƒÀ Î¢À ÎÍÀ ÎÚÀ ÎÿÀ Ï'À ÏtÀ ÏšÀ Ï®À Ï×À ÏäÀ ĞÀ ĞLÀ ĞYÀ ĞkÀ ĞvÀ Ğ}À ĞÀ Ğ™À ĞØÀ ÑÀ ÑfÀ Ñ²À ÑòÀ Ò2À ÒRÀ ÒsÀ ÒœÀ ÒãÀ ÓFÀ ÓSÀ Ó‡À ÓÉÀ Ô
+À Ô#À Ô1À Ô3À ÔTÀ Ô¦À ÔøÀ ÕMÀ ÕvÀ Õ½À ÕéÀ Ö1À ÖGÀ ÖTÀ ÖˆÀ ÖÉÀ ×
+À ×#À ×1À ×:À ×†À ×”À ×¾À ×èÀ ×ïÀ ×ôÀ ×öÀ Ø4À Ø]À ØbÀ ØdÀ ØqÀ Ø©À ØÏÀ ØëÀ Ù6À Ù?À ÙFÀ ÙHÀ ÙaÀ ÙcÀ Ù}À Ù¾À ÙøÀ Ú0À ÚsÀ Ú¾À ÚÿÀ ÛBÀ Û|À ÛÈÀ ÛñÀ Ü2À Ü…À Ü¿À ÜçÀ İ<À İlÀ İ‹À İÄÀ ŞÀ Ş-À Ş“À Ş¯À ŞÊÀ ŞêÀ ß%À ßfÀ ß‡À ßáÀ à@À àMÀ à„À à¨À àÉÀ á#À á…À á’À á›À áñÀ â-À âwÀ â£À âßÀ ãÀ ã7À ãRÀ ãcÀ ã~À ã”À ãÁÀ ãËÀ ãÙÀ ãîÀ ãõÀ ã÷À äÀ ä!À ä7À äQÀ äkÀ äŠÀ ä À ä§À ä¼À ä×À äîÀ äóÀ äõÀ åÀ åGÀ å}À å¾À åÏÀ åõÀ æ;À æBÀ ætÀ æyÀ æ{À æˆÀ æ¶À æ¸À æÅÀ çÀ çCÀ çÀ çÈÀ çıÀ èÀ è3À èuÀ èªÀ èêÀ èöÀ é À éÀ é*À é3À é:À éMÀ éRÀ éTÀ é À éĞÀ é×À êÀ êÀ êdÀ ê†À ê¸À êîÀ ë À ëVÀ ë^À ë`À ëÀ ëÇÀ ì	À ìÀ ì-À ì‡À ì—À ìÄÀ ìÍÀ ìÔÀ ìÖÀ íÀ í5À í:À í<À íIÀ í‘À íáÀ íæÀ íéÀ íëÀ îGÀ î]À îƒÀ î¢À îÄÀ îåÀ ïÀ ïÀ ï&À ï(À ïIÀ ïoÀ ï“À ïÂÀ ïÛÀ ïòÀ ïôÀ ğÀ ğCÀ ğEÀ ğRÀ ğ‚À ğÀ ğÎÀ ñ À ñ2À ñbÀ ñ–À ñÊÀ òÀ òBÀ ò€À ò¶À òğÀ òøÀ òıÀ òÿÀ óÀ óLÀ ókÀ óŠÀ ó¯À óÒÀ óÿÀ ôÀ ô5À ôgÀ ôoÀ ôtÀ ôvÀ ôƒÀ ôÖÀ ôèÀ õ	À õ$À õCÀ õrÀ õ—À õ¿À õÄÀ õÇÀ õÉÀ õõÀ öÀ ö/À ö?À öPÀ öaÀ ö}À öÀ ö¥À ö§À öÆÀ öİÀ öøÀ ÷À ÷=À ÷aÀ ÷cÀ ÷pÀ ÷˜À ÷¼À ÷ÑÀ ÷îÀ øÀ ø4À ø_À ø„À øµÀ øÒÀ øúÀ ù%À ùuÀ ùƒÀ ùÀ ù™À ù¡À ù¦À ù©À ù«À ùèÀ ùíÀ ú:À úŠÀ úÕÀ û"À û'À ûoÀ ûtÀ ûÄÀ û÷À ûüÀ üNÀ üšÀ ü·À ü¼À üËÀ üĞÀ ıÀ ıUÀ ı À ı¾À ıíÀ ş0À şJÀ şQÀ ş£À ş³À şÍÀ şİÀ şüÀ ÿÀ ÿ&À ÿCÀ ÿ`À ÿ~À ÿ™À ÿ´À ÿÅÀ ÿÌÀ ÿÎÀ À À bÀ À ÂÀ ÄÀÀNÀUÀÀÑÀØÀ$ÀQÀpÀrÀ¸À×ÀÙÀÀPÀWÀ¥À÷ÀFÀ˜ÀèÀ4ÀƒÀ£À¹ÀèÀêÀÀÀlÀ{À‚ÀœÀ£À´À»ÀÀZÀkÀ„À†ÀÏÀÖÀÀ`À—ÀÀ¸ÀÒÀÔÀ	 À	'À	wÀ	ÈÀ	ÕÀ	ÜÀ
+)À
+yÀ
+·À
+¾À
+ØÀ
+ïÀ
+ñÀÀ!ÀrÀÀ†À À·À¹ÀêÀñÀ5ÀMÀOÀœÀ½ÀÄÀÀZÀ\ÀiÀ«À­ÀøÀGÀ”ÀÚÀ ÀÀEÀ~ÀâÀÀÀÀÀ[À‡ÀÜÀ=À…ÀŞÀ"À'À*À,À†ÀÂÀùÀ4ÀmÀºÀÌÀÀÀ=ÀCÀ©ÀòÀúÀÀ ÀÀÇÀïÀõÀVÀœÀÄÀÊÀÌÀÙÀïÀÀ	ÀkÀ¥ÀÕÀşÀÀOÀWÀYÀºÀ¿ÀÁÀÎÀğÀÀ6À8ÀcÀÄÀÀÀÀ$À8ÀaÀ‰À±ÀÌÀîÀÀ	ÀÀ%À8ÀtÀ}À‚À„À®ÀÓÀ6À8ÀiÀ”ÀçÀ*ÀQÀuÀÂÀÇÀÉÀìÀÀ[À]ÀjÀ˜À¹ÀéÀÀÀÀ8À’À”ÀğÀ +À XÀ hÀ •À À ¥À §À ÜÀ!À!À!}À!œÀ!³À!ÉÀ!ĞÀ!ÕÀ!×À"À">À"—À"·À"İÀ"äÀ"úÀ#%À#,À#BÀ#oÀ#vÀ#•À#¸À#¿À$À$)À$xÀ$ÄÀ$ËÀ$åÀ$êÀ$ìÀ%=À%cÀ%”À%¶À%½À%æÀ&7À&>À&‹À&À&’À&ÁÀ'À'7À'>À'yÀ'~À'€À'ÑÀ(!À(kÀ(pÀ(rÀ(À(ºÀ(âÀ(éÀ)?À)ˆÀ)ØÀ)İÀ)ßÀ)ıÀ*'À*OÀ*VÀ*¬À*õÀ+EÀ+JÀ+LÀ+‰À+ÓÀ,%À,7À,UÀ,µÀ,ºÀ,¼À,ıÀ-GÀ-IÀ-”À-ÒÀ..À.”À.–À.÷À.ùÀ/&À/HÀ/fÀ/}À/œÀ/¡À/£À/íÀ0+À0†À0ëÀ0íÀ1MÀ1OÀ1sÀ1¡À1ÒÀ1ôÀ2À2*À2/À21À2À2ĞÀ2õÀ3	À3À3OÀ3©À3°À3àÀ4À4'À4)À4fÀ4ŒÀ4 À4¨À4ªÀ4×À4ùÀ5À52À5QÀ5VÀ5XÀ5¯À5ÚÀ5øÀ6À6^À6cÀ6eÀ6»À6æÀ7À7À7<À7AÀ7CÀ7yÀ7­À7ÖÀ8 À8'À8-À8/À8ŠÀ8ªÀ8ôÀ9À9À9_À9uÀ9|À9~À9¯À9ÅÀ9ÌÀ9ÎÀ9ñÀ:À:nÀ:À:ÅÀ;À;5À;CÀ;OÀ;_À;€À;ÛÀ;çÀ;ğÀ;şÀ<À<>À<uÀ<‡À<´À<ğÀ=À=-À=HÀ=]À=sÀ=À=‰À=À=•À=—À=½À=¿À>À>AÀ>eÀ>½À>ÄÀ>ÆÀ?À?À?À?kÀ?¶À?»À?½À?ÊÀ?òÀ@&À@„À@ÃÀ@ÿÀA-ÀA\ÀAªÀA¬ÀAùÀB:ÀB<ÀB‡ÀBºÀBúÀCÀCEÀCfÀC„ÀC•ÀC­ÀCÌÀDÀDÀDDÀD—ÀDºÀDêÀDøÀE2ÀEQÀEoÀEÀEóÀFÀF>ÀFMÀFlÀFÂÀFöÀG%ÀGlÀG|ÀGƒÀG…ÀGŸÀG¿ÀHÀH,ÀH‚ÀHÀHßÀHæÀIÀI ÀIPÀIgÀIÀI­ÀIãÀJÀJ0ÀJ8ÀJ:ÀJNÀJÀJ®ÀJÛÀKÀK9ÀKYÀK}ÀK¤ÀK²ÀKğÀL ÀLjÀLvÀL—ÀLÂÀLçÀMÀMEÀMrÀM™ÀMıÀNÀN6ÀN›ÀN©ÀNµÀN¿ÀNÆÀNÈÀO ÀOxÀOzÀOÀOëÀOúÀP$ÀPDÀP”ÀP–ÀP¼ÀPÓÀQÀQ0ÀQ•ÀQğÀR!ÀRHÀRUÀRfÀRhÀRÀR¥ÀRØÀSÀSgÀSÂÀSóÀTÀT'ÀT8ÀT:ÀToÀTºÀTÁÀTÃÀUÀU;ÀU=ÀUoÀUÀU—ÀUÆÀUãÀV(ÀVOÀV°ÀVÚÀVìÀVüÀW
+ÀWÀWJÀWZÀWmÀWŒÀW¬ÀWÍÀWşÀX$ÀXBÀX{ÀX´ÀXáÀYÀY\ÀYvÀYÀY·ÀYßÀZ+ÀZPÀZfÀZ‘ÀZÁÀZìÀ[5À[€À[œÀ[éÀ\ À\8À\_À\ À\ÕÀ\íÀ]À]À])À]9À]GÀ]IÀ]‡À]—À]ªÀ]ÉÀ]éÀ^
+À^;À^aÀ^À^¸À^ñÀ_À_[À_™À_³À_ËÀ_ôÀ`À`hÀ`À`£À`ÎÀ`şÀa)ÀarÀa½ÀaÙÀb&Àb]ÀbuÀbœÀbİÀcÀc*Àc@ÀcTÀcfÀcvÀc„Àc†Àc´ÀcÑÀcóÀdÀdWÀd‰Àd©ÀdÑÀe	Àe9ÀeAÀeCÀeYÀe€Àe¥Àe÷ÀfÀf-ÀfMÀfcÀf‡ÀfªÀfÂÀfÙÀg2Àg^Àg™Àg¥Àg¯Àg¶Àg¸ÀhÀh1ÀhvÀh°ÀhÓÀhõÀhıÀiYÀi®Ài¾ÀiéÀj5ÀjWÀj£ÀjÈÀjÖÀjØÀk	Àk0Àk2ÀkVÀkxÀkÈÀkíÀlAÀlÀlµÀlŞÀløÀm!Àm<ÀmaÀmµÀn	Àn.Àn|ÀnÎÀnŞÀo,ÀozÀo¾ÀoØÀpÀpÀpAÀp“ÀpåÀq
+ÀqVÀq¦Àq¯Àq½ÀqßÀq÷ÀrÀr7ÀrZÀr­ÀsÀs$ÀsrÀsÂÀsÉÀsËÀsäÀsıÀt(ÀtOÀt_ÀtÁÀtÊÀtÑÀtÓÀtöÀuÀu?ÀunÀu‹Àu¾ÀvÀvBÀv[Àv{ÀvÀÀvæÀwÀw(ÀwUÀwÀw¤Àw»ÀwÒÀwçÀx ÀxÀx:Àx[Àx~Àx™Àx¸ÀxÂÀxçÀy
+Ày>Ày[Ày{ÀyƒÀy…ÀyÓÀz"ÀzpÀz¼À{	À{WÀ{ À{ÜÀ|.À|gÀ|iÀ|¶À|¸À|ùÀ}À}`À}gÀ}{À}€À}ƒÀ}…À}ÌÀ}äÀ}éÀ~9À~À~ÍÀ~ÒÀ~çÀ8À…ÀÓÀ€%À€lÀ€qÀ€ÎÀ€ÓÀ,À=ÀBÀWÀÀëÀ‚0À‚5À‚œÀ‚¡À‚úÀƒÀƒÀƒ%ÀƒuÀƒÀÀ„À„À„pÀ„uÀ„ÎÀ„ßÀ„äÀ„ùÀ…CÀ…•À…ÍÀ…ÒÀ†=À†BÀ†›À†¬À†±À†ÆÀ‡À‡uÀ‡zÀ‡àÀ‡ñÀ‡öÀˆÀˆbÀˆµÀˆ÷ÀˆüÀ‰bÀ‰sÀ‰xÀ‰‡À‰ŒÀ‰ËÀ‰æÀŠ2ÀŠXÀŠ¥ÀŠÄÀŠĞÀŠéÀ‹2À‹`À‹gÀ‹»ÀŒÀŒ[ÀŒ{ÀŒ‚ÀŒÁÀŒÈÀÀ-À=ÀRÀcÀxÀÀ¬À¾ÀÔÀëÀÀÀ)À>À[ÀsÀÀ¡ÀÉÀÀDÀKÀpÀ“À¸ÀÉÀŞÀôÀÀ.ÀPÀgÀzÀ”ÀªÀËÀİÀóÀ‘
+À‘%À‘;À‘MÀ‘cÀ‘zÀ‘•À‘¶À‘ÉÀ‘àÀ‘øÀ’
+À’À’5À’KÀ’bÀ’{À’™À’³À’ÌÀ’ŞÀ’øÀ“À“5À“LÀ“eÀ“uÀ“¦À“èÀ“óÀ”À”/À”oÀ”zÀ”ŠÀ”½À•À•À•À•OÀ•“À•À•®À•áÀ–%À–0À–@À–qÀ–³À–¾À–ÀÀ—À—À—_À—fÀ—µÀ—ÜÀ—ãÀ˜À˜SÀ˜xÀ˜•À˜§À˜ğÀ™-À™4À™gÀ™yÀ™ÂÀ™ÿÀšÀš;ÀšPÀš`Àš}Àš•Àš±ÀšÃÀšëÀ›)À›fÀ›mÀ›’À›µÀ›ÚÀ›ôÀœ	ÀœÀœ5ÀœZÀœtÀœ‹Àœ ÀœºÀœĞÀœêÀÀ(À?ÀZÀvÀ•À«ÀÅÀàÀşÀÀAÀ]ÀxÀÀªÀÆÀæÀŸÀŸ#ÀŸ>ÀŸYÀŸuÀŸ•ÀŸ»ÀŸÓÀŸïÀ À (À FÀ iÀ ˆÀ ¦À ÊÀ¡7À¡nÀ¡ÛÀ¢À¢8À¢VÀ¢XÀ¢¦À¢¸À¢¿À£
+À£WÀ£kÀ£rÀ£«À£²À£ÿÀ¤DÀ¤ƒÀ¤ªÀ¤±À¤ÑÀ¤èÀ¤êÀ¥
+À¥À¥SÀ¥”À¥ÁÀ¥ÜÀ¥ŞÀ¦À¦À¦VÀ¦¤À¦òÀ§@À§”À§åÀ§ıÀ¨À¨À¨tÀ¨ÇÀ¨ÎÀ¨åÀ©7À©ˆÀ©À©ğÀªÀª
+ÀªGÀª_ÀªaÀª–ÀªÀªÔÀªÛÀ«)À«fÀ«‚À«„À«ÃÀ¬À¬/À¬6À¬}À¬ÃÀ¬ğÀ¬÷À­KÀ­“À­šÀ­èÀ®À®À®[À®¢À®äÀ®ëÀ¯À¯PÀ¯xÀ¯À¯ÑÀ°À°2À°9À°¦À°¹À°ÏÀ°ïÀ°ñÀ±8À±‚À±¿À±ÆÀ²À²?À²FÀ²•À²ÛÀ³À³À³9À³@À³€À³ÇÀ´	À´À´hÀ´ƒÀ´ŠÀ´¡À´ïÀµÀµÀµbÀµ²ÀµÙÀµàÀ¶VÀ¶iÀ¶À¶§À¶©À¶ïÀ¶öÀ·IÀ·œÀ·ÍÀ·ÔÀ·ëÀ¸>À¸ŠÀ¸‘À¸óÀ¹À¹À¹LÀ¹eÀ¹gÀ¹¸À¹ŞÀ¹åÀº4Àº€Àº´Àº»À»À»À»VÀ»sÀ»uÀ»£À»ªÀ»òÀ¼8À¼eÀ¼†À¼ˆÀ¼ÈÀ¼ÏÀ½À½eÀ½¶À¾À¾?À¾FÀ¾–À¾æÀ¿À¿"À¿eÀ¿À¿¤À¿µÀ¿¼À¿ÿÀÀÀÀÀÀ_ÀÀfÀÀ¸ÀÁÀÁWÀÁ~ÀÁ™ÀÁ›ÀÁĞÀÁ×ÀÂÀÂ1ÀÂ3ÀÂ_ÀÂfÀÂ¬ÀÂòÀÃÀÃ&ÀÃpÀÃ¾ÀÃùÀÄ ÀÄNÀÄzÀÄ™ÀÄ›ÀÄËÀÄÒÀÅÀÅHÀÅsÀÅuÀÅ³ÀÅºÀÅúÀÆÀÆDÀÆšÀÆàÀÆüÀÆşÀÇEÀÇLÀÇ•ÀÇåÀÈ
+ÀÈÀÈ^ÀÈªÀÈ±ÀÈúÀÉ1ÀÉ8ÀÉQÀÉaÀÉ‡ÀÉÃÀÉşÀÊÀÊ%ÀÊ'ÀÊwÀÊÖÀÊİÀË1ÀËlÀËsÀËŒÀË¬ÀË®ÀËşÀÌaÀÌhÀÌ¾ÀÌàÀÌçÀÍÀÍ;ÀÍ=ÀÍ’ÀÍ™ÀÍóÀÍúÀÎ7ÀÎOÀÎQÀÎ›ÀÎ¢ÀÎñÀÏÀÏ
+ÀÏUÀÏŒÀÏ“ÀÏáÀÏèÀĞ%ÀĞAÀĞCÀĞ‚ÀĞ¿ÀĞÆÀÑÀÑ@ÀÑGÀÑ‰ÀÑÒÀÒ"ÀÒlÀÒ{ÀÒ‘ÀÒ±ÀÒ³ÀÒòÀÒùÀÓGÀÓÀÓßÀÔ1ÀÔhÀÔoÀÔ½ÀÕÀÕAÀÕHÀÕ‹ÀÕÂÀÕÉÀÕÚÀÕáÀÖ&ÀÖCÀÖEÀÖÀÖÈÀÖÏÀ×"À×qÀ×À×¥À×÷ÀØÀØ%ÀØxÀØÀØ´ÀØ»ÀÙ
+ÀÙÀÙ"ÀÙ)ÀÙwÀÙ–ÀÙÍÀÙÏÀÚÀÚ[ÀÚbÀÚ²ÀÚıÀÛLÀÛ^ÀÛeÀÛ·ÀÛĞÀÛæÀÛíÀÜ=ÀÜDÀÜUÀÜ\ÀÜ®ÀÜÀÀÜùÀÜûÀİWÀİfÀİmÀİ‡ÀİŸÀİ¡ÀİÚÀİáÀŞ(ÀŞ/ÀŞ}ÀŞÀŞ•ÀŞáÀŞèÀßÀßÀßnÀß¼ÀàÀàÀàeÀà´ÀàÿÀáÀáRÀá•ÀáßÀáæÀâÀâÀâlÀâºÀãÀãÀãeÀã´ÀäÀäÀäTÀä˜ÀäâÀåÀåÀåTÀå[ÀåªÀåÑÀåØÀæ(ÀæDÀæFÀæ‘ÀæàÀæçÀç9Àç†ÀçšÀç¡ÀçğÀè;Àè‹ÀèÜÀé(Àé<ÀéCÀéRÀénÀé¯ÀéêÀéóÀéşÀêÀêLÀêSÀê°ÀêÇÀêÎÀêåÀë?ÀëpÀëwÀëŞÀëñÀëøÀì	ÀìÀìZÀì¤ÀìÚÀíÀílÀíÀí»Àí½ÀíéÀíğÀîAÀîHÀî˜ÀîäÀï0Àï}Àï¿ÀïÆÀïİÀğ,Àğ|ÀğƒÀğÃÀğñÀğøÀñDÀñQÀñXÀñËÀñŞÀòÀòÀòNÀòUÀò¢ÀòñÀó=ÀóNÀóUÀó”Àó›ÀóæÀóíÀóşÀôÀôBÀô[Àô]Àô Àô§ÀôùÀõ=ÀõDÀõ”ÀõÓÀõÚÀö)Àö0ÀöAÀöHÀö‰Àö¦Àö¨ÀöÖÀöİÀ÷%À÷kÀ÷˜À÷ŸÀ÷ÌÀ÷ÓÀ÷äÀ÷ëÀø-ÀøNÀøPÀøxÀøÀøÀø¥ÀøíÀù.Àù[Àù|Àù~ÀùÈÀúÀúÀúoÀú¼ÀúĞÀú×Àû&ÀûqÀûÁÀüÀü]ÀüuÀü|Àü‹Àü§ÀüæÀı Àı)Àı4Àı;ÀıˆÀıÍÀşÀş3Àş:Àş—Àş®ÀşµÀşÌÀÿ&ÀÿWÀÿ^ÀÿÅÀÿØÀÿßÀÿğÀÿ÷À AÀ ‹À ÁÀÀRÀ„À¡À£ÀàÀçÀ8ÀŠÀ×ÀŞÀÀ$ÀpÀwÀˆÀÀËÀäÀæÀ(À/ÀÀÅÀÌÀÀ[ÀbÀ²À¹ÀÊÀÑÀÀ.À0À^ÀeÀ²ÀúÀ À'ÀTÀ[ÀlÀsÀ´ÀÕÀ×ÀÀ	À(À/ÀwÀ¸ÀåÀ	À	À	4À	;À	ŒÀ	“À	ãÀ
+/À
+{À
+ÈÀ
+ÀÀ_ÀlÀsÀŠÀÙÀ)À0ÀpÀÀ¥ÀñÀşÀÀxÀ‹À»À½À ÀÀUÀbÀiÀ¹ÀÀÀÀ<ÀZÀ\À«ÀõÀÀÀ!ÀPÀWÀ ÀæÀÀÀIÀkÀmÀ³ÀºÀÀ.À5À‡ÀÀØÀ*À{ÀÉÀßÀæÀÀ'À)ÀiÀpÀÂÀäÀëÀ%ÀRÀYÀ À»À½ÀÀÀPÀ~À…ÀÔÀÀbÀÀ¤ÀëÀÀ	ÀUÀ~À…ÀÒÀûÀÀRÀ†ÀÀÑÀØÀÀ;À=ÀÀ¬À³ÀÄÀËÀÀ8À•ÀéÀ?À€ÀÉÀÀHÀ•ÀÈÀÀQÀŸÀÒÀÀQÀtÀvÀÆÀßÀæÀ÷ÀşÀ RÀ kÀ ÈÀ!À!rÀ!³À!üÀ"@À"{À"ÇÀ"şÀ#PÀ#‡À#ÕÀ$À$TÀ$‡À$¬À$®À$úÀ%À%À%+À%2À%†À%ŸÀ%üÀ&PÀ&¦À&çÀ'0À'tÀ'¯À'ûÀ(2À(À(²À) À)3À)À)²À)ÜÀ)ŞÀ*,À*EÀ*LÀ*]À*dÀ*½À+À+nÀ+ÄÀ,À,NÀ,’À,ÍÀ-À-PÀ-À-ĞÀ."À.YÀ.¥À.ØÀ.şÀ/ À/MÀ/fÀ/mÀ/~À/…À/ŞÀ0;À0À0åÀ1&À1oÀ1³À1îÀ2:À2qÀ2¾À2ñÀ3CÀ3zÀ3ÈÀ3ûÀ4 À4"À4lÀ4sÀ4ÊÀ4êÀ5À5+À5LÀ5mÀ5tÀ5ÉÀ6À6nÀ6½À7À7#À7pÀ7µÀ7öÀ8<À8bÀ8iÀ8·À8ÕÀ8ÜÀ9)À9|À9ÈÀ:À:KÀ:†À:À:ÕÀ;!À;(À;9À;@À;{À;ÂÀ;÷À<@À<„À<¢À<¤À=À=!À=JÀ=aÀ=cÀ=’À=™À=²À=¹À>À>*À>,À>xÀ>ÉÀ?À?À?4À?WÀ?YÀ?œÀ?£À?òÀ@?À@‡À@ÓÀ@áÀ@èÀA>ÀA‹ÀA·ÀAİÀAßÀBÀB"ÀB{ÀBªÀB±ÀCÀC3ÀC:ÀCÀCÀÀCÇÀDÀD=ÀDDÀDœÀDàÀDçÀDøÀDÿÀEXÀEtÀEÎÀEéÀFÀFÀF`ÀFzÀF˜ÀF«ÀFÂÀFÖÀFîÀG
+ÀG.ÀGCÀG\ÀGyÀG“ÀGªÀG½ÀGØÀGÿÀH ÀH8ÀHWÀHtÀH’ÀH¦ÀH¾ÀHÚÀHóÀI&ÀI[ÀIsÀI‡ÀI°ÀIÉÀIŞÀI÷ÀJ#ÀJ@ÀJ]ÀJvÀJ‹ÀJ¤ÀJÁÀJŞÀK
+ÀK ÀK:ÀKXÀKkÀK‚ÀKšÀK²ÀKÑÀKòÀLÀL:ÀL[ÀLuÀL‰ÀL«ÀLÊÀLìÀMÀM8ÀM@ÀM]ÀM}ÀM¬ÀMÏÀMşÀN0ÀNzÀN ÀNÒÀOÀOEÀOqÀO‘ÀOÀÀPÀP?ÀPƒÀPÍÀQÀQXÀQ{ÀQªÀQÜÀRÀRjÀRÀÀRõÀSÀS\ÀSÀS´ÀSæÀTÀT\ÀT¯ÀTáÀUÀU9ÀUnÀU¯ÀVÀV+ÀV`ÀV˜ÀV¾ÀVíÀWÀWQÀW†ÀWÁÀXÀXIÀX„ÀXªÀXÓÀY ÀYjÀYŸÀYÚÀYâÀYçÀYéÀZ6ÀZŠÀZ‘ÀZİÀ[À[]À[ÓÀ\À\KÀ\gÀ\ÌÀ\ÖÀ\İÀ]8À]]À]šÀ]°À]ãÀ^.À^dÀ^£À^ÓÀ_À_QÀ_„À_ÀÀ`À`kÀ`•À`ÔÀa
+Àa:ÀapÀa²ÀbÀb<Àb~ÀbÒÀcÀc2ÀcbÀc•ÀcÈÀcşÀd:Àd…ÀdÄÀe Àe'ÀerÀe¨ÀeäÀeìÀeñÀeóÀf Àf$ÀfGÀf[ÀfbÀfÀf¤Àf«ÀfÓÀfòÀgÀg<ÀgeÀgÀgËÀgîÀhÀhFÀhyÀh Àh¿ÀhèÀi!ÀiPÀi‡ÀiÂÀiùÀj2ÀjSÀj|Àj§ÀjØÀkÀk\ÀkÀk´ÀkáÀlÀlAÀldÀlÀl¼ÀlıÀm(Àm]Àm€Àm«ÀmØÀnÀn>ÀnkÀnšÀn½ÀnæÀoÀo<ÀoiÀošÀoÕÀpÀp9Àp\ÀpÀp¾ÀpùÀq&ÀqUÀqZÀq\ÀqiÀqÀqÀq«Àq½ÀqËÀqİÀqøÀrÀrÀr-ÀrAÀrXÀriÀrvÀrˆÀr¢Àr·ÀrĞÀrëÀsÀsÀs,Às>ÀsQÀsgÀs…Às¤Às´ÀsËÀsßÀsîÀt ÀtÀt&Àt9ÀtQÀt`ÀtsÀt‡Àt¥Àt¸ÀtĞÀtßÀtòÀuÀu$Àu4ÀuHÀu]ÀuqÀu‡Àu¢Àu¹ÀuÏÀuŞÀuîÀv
+Àv%Àv9ÀvOÀvWÀv{Àv€Àv‚ÀvÀv¦ÀvÉÀvñÀw(ÀwSÀwŒÀwàÀxÀxLÀx”ÀxÊÀxòÀy4Ày‚Ày¿ÀyøÀz1Àz^Àz—ÀzÓÀ{À{sÀ{ÑÀ|À|IÀ|‡À|ÁÀ}
+À}8À}rÀ}¯À~
+À~DÀ~À~»À~õÀ2ÀÀ¾ÀûÀ€;À€gÀ€À€ØÀÀOÀ’ÀäÀ‚*À‚mÀ‚›À‚ÂÀƒÀƒiÀƒ¦ÀƒéÀƒñÀ„+À„0À„3À„5À„oÀ„tÀ„ÈÀ…À…SÀ…XÀ…gÀ…lÀ…¿À…ßÀ†6À†bÀ†«À†÷À‡À‡<À‡LÀ‡hÀ‡ŒÀ‡©À‡ÃÀ‡ŞÀ‡ÿÀˆÀˆ3ÀˆLÀˆÀˆ´ÀˆÈÀˆñÀ‰	À‰ À‰=À‰ZÀ‰†À‰£À‰ÀÀ‰ìÀŠ
+ÀŠÀŠ4ÀŠ\ÀŠ|ÀŠ”ÀŠ¬ÀŠËÀŠìÀ‹À‹4À‹UÀ‹oÀ‹À‹°À‹ÓÀ‹øÀŒÀŒÀŒ6ÀŒSÀŒÀŒ¤ÀŒÌÀŒïÀÀ?ÀcÀŠÀ¹ÀéÀ
+À2ÀWÀzÀŸÀÈÀ÷ÀÀEÀtÀšÀºÀİÀÀ3ÀWÀ{À ÀÇÀóÀ‘À‘BÀ‘bÀ‘À‘³À‘ÛÀ‘óÀ‘şÀ’ À’RÀ’vÀ’ À’ÀÀ’îÀ“À“6À“^À“´À”À”3À”]À”ŠÀ”ªÀ”ÎÀ”úÀ•2À•VÀ•‚À•ºÀ•àÀ–À–#À–[À–ƒÀ–¥À–ÇÀ–ëÀ—À—EÀ—oÀ——À—±À—ìÀ˜À˜8À˜NÀ˜†À˜ˆÀ˜²À˜ÓÀ˜üÀ™À™=À™]À™ƒÀ™ À™ÁÀ™ßÀšÀšOÀšgÀš•Àš±ÀšÍÀšïÀ›À›BÀ›dÀ›†À›·À›ÚÀ›ñÀœÀœ:Àœ_Àœ|Àœ™Àœ½ÀœãÀÀ5À[ÀzÀÀÄÀìÀîÀ3À:À‡ÀßÀŸ/ÀŸ1ÀŸ~ÀŸ…ÀŸÒÀ 2À ZÀ ¡À £À ğÀ ÷À¡DÀ¡À¡ğÀ¡òÀ¢;À¢BÀ¢À¢ëÀ£AÀ£CÀ£‡À£À£ÛÀ¤2À¤À¤À¤ÌÀ¤ÓÀ¥ À¥~À¥ßÀ¥áÀ¦(À¦/À¦|À¦ÖÀ§&À§(À§mÀ§tÀ§ÁÀ¨À¨iÀ¨kÀ¨³À¨ºÀ©À©bÀ©µÀ©·ÀªÀªÀª[Àª¾ÀªôÀ«AÀ«CÀ«”À«›À«èÀ¬LÀ¬„À¬ÓÀ¬ÕÀ­À­À­kÀ­ÀÀ®À®À®LÀ®SÀ® À®üÀ¯aÀ¯cÀ¯©À¯°À¯ıÀ°VÀ°£À°¥À°éÀ°ğÀ±=À±”À±İÀ±ßÀ²%À²,À²yÀ²ÒÀ³%À³'À³qÀ³xÀ³ÅÀ´"À´}À´À´ÏÀ´ÖÀµ#Àµ†Àµ¶À¶À¶À¶KÀ¶RÀ¶ŸÀ¶øÀ·KÀ·MÀ·—À·À·ëÀ¸HÀ¸£À¸¥À¸õÀ¸üÀ¹IÀ¹¬À¹ÜÀº)Àº+ÀºrÀºyÀºÆÀ» À»vÀ»xÀ»¹À»ÀÀ¼À¼aÀ¼ŸÀ¼¡À¼åÀ¼ìÀ½9À½À½ÙÀ½ÛÀ¾(À¾/À¾|À¾ßÀ¿À¿XÀ¿ZÀ¿¥À¿¬À¿ùÀÀTÀÀ®ÀÀ°ÀÀõÀÀüÀÁIÀÁ¡ÀÁíÀÁïÀÂ4ÀÂ;ÀÂˆÀÂàÀÃ,ÀÃ.ÀÃtÀÃ{ÀÃÈÀÄ!ÀÄvÀÄxÀÄÀÀÄÇÀÅÀÅoÀÅÊÀÅÌÀÆÀÆ ÀÆmÀÆÍÀÆ÷ÀÇ>ÀÇ@ÀÇ‰ÀÇÀÇİÀÈ9ÀÈ—ÀÈ™ÀÈáÀÈèÀÉ5ÀÉÀÉëÀÉíÀÊ.ÀÊ5ÀÊ‚ÀÊÖÀËÀËÀËkÀËrÀË¿ÀÌÀÌÀÌƒÀÌÉÀÌĞÀÍÀÍvÀÍÎÀÍĞÀÎÀÎÀÎlÀÎÇÀÏ$ÀÏ&ÀÏfÀÏÀÏÀÏ¿ÀÏáÀĞÀĞ7ÀĞaÀĞÀĞ¯ÀĞÕÀĞ÷ÀÑÀÑWÀÑ‘ÀÑ­ÀÑ×ÀÑûÀÒÀÒ?ÀÒkÀÒ£ÀÒÇÀÒóÀÓ+ÀÓQÀÓkÀÓ‹ÀÓÃÀÓëÀÔÀÔ/ÀÔSÀÔ{ÀÔ­ÀÔ×ÀÔÿÀÕÀÕKÀÕoÀÕ—ÀÕ¡ÀÕ£ÀÕûÀÖÀÖFÀÖwÀÖ~ÀÖ¢ÀÖ©ÀÖ¸À×À×À×KÀ×‹À×ÑÀØ#ÀØ(ÀØ*ÀØ{ÀØÀØ•ÀØàÀÙ#ÀÙFÀÙbÀÙ†ÀÙ£ÀÙ½ÀÙØÀÙùÀÚÀÚ-ÀÚFÀÚyÀÚ®ÀÚÂÀÚëÀÛÀÛÀÛ7ÀÛTÀÛ€ÀÛÀÛºÀÛæÀÜÀÜÀÜ.ÀÜVÀÜvÀÜÀÜ¦ÀÜÅÀÜæÀİÀİ.ÀİOÀİiÀİˆÀİªÀİÍÀİÕÀİ÷ÀŞ)ÀŞsÀŞ¨ÀŞæÀßÀßYÀß‘ÀßÃÀßşÀàQÀà§ÀàĞÀáÀá=ÀárÀá§ÀáèÀâ;ÀâpÀâ±ÀãÀã<ÀãbÀã‘ÀãäÀäÀäQÀäƒÀä¸ÀäóÀå=Àå{Àå¶ÀåÜÀæ&Àæ[Àæ–ÀæÀæ£Àæ¥ÀæõÀçFÀçkÀçrÀçËÀè%Àè,ÀèÀèÒÀéÀé)Àé=ÀéDÀéZÀéÀéØÀêÀêMÀê}ÀêÂÀêûÀë.ÀëjÀë©ÀëÙÀìÀìQÀì¥ÀìÛÀíÀíqÀíªÀíÚÀî.ÀîjÀîÀîĞÀïÀïBÀïÀïÌÀğÀğ/ÀğeÀğ¡Àğ©Àğ®Àğ°Àğ½ÀñÀñÀñ"ÀñWÀñ“Àñ˜Àñ›ÀñÀñ×ÀñÜÀò0Àò„Àò»ÀòÀÀóÀóDÀóIÀóXÀó]Àó´ÀóàÀóìÀô"ÀôsÀô©ÀôÍÀôãÀõÀõÀõ2ÀõGÀõcÀõ{Àõ‘ÀõªÀõèÀö)ÀöDÀö^Àö}Àö’Àö©ÀöÄÀöåÀöüÀ÷À÷8À÷PÀ÷jÀ÷À÷ À÷¹À÷ÏÀ÷åÀ÷üÀøÀø3ÀøMÀøfÀøxÀøÀøµÀøÎÀøÕÀø×ÀùÀù3Àù5ÀùyÀù¡Àù£ÀùİÀùäÀú,ÀúrÀúŸÀúÀÀúÂÀûÀûÀûiÀûªÀû±ÀûôÀü,Àü3ÀüDÀüKÀüÀü¼Àü¾ÀüúÀıÀıGÀıÀıºÀıÁÀıÿÀşPÀş¡Àş°Àş·ÀÿÀÿ1ÀÿPÀÿRÀÿ©ÀÿÎÀÿĞÀ À %À sÀ ´À »À şÀ9ÀUÀWÀ“À³ÀµÀÀÀ]À›À¢ÀåÀÀ#À4À;ÀÀ­À¯ÀöÀıÀ.ÀdÀfÀ®ÀµÀèÀ À"ÀqÀÀ•À¯ÀÆÀÈÀÀÀIÀÀÖÀÀ]ÀƒÀŠÀÙÀ)ÀFÀsÀuÀ¸À¿À	À	HÀ	cÀ	eÀ	À	¤À	æÀ
+'À
+TÀ
+[À
+’À
+­À
+¯À
+íÀ
+ôÀ<À‚À¯À¶ÀãÀÀÀDÀKÀ“ÀÔÀÀÀ?À`ÀbÀ­À´À÷ÀÀ#ÀsÀ¿ÀÀXÀšÀ¡ÀíÀúÀ*À,ÀjÀqÀ¹ÀúÀ'À.À[À|À~À¼ÀÃÀÀLÀyÀ€À·ÀØÀÚÀ%À,ÀoÀ”À›ÀëÀ7ÀƒÀĞÀÀÀeÀrÀ¢À¤ÀãÀêÀ3ÀyÀ¦À­ÀÜÀşÀ ÀFÀMÀ‡À¦À­ÀôÀ6ÀaÀhÀ’À¨ÀªÀùÀ ÀAÀHÀÀÑÀüÀÀÀdÀˆÀŠÀ×ÀÀÀVÀ‰ÀÀÔÀÛÀ"ÀdÀÀ«À­ÀöÀ2À9À}À„ÀËÀÀ8À?ÀÀ¬À®ÀÀÀ$À5À<ÀÀ©À À ZÀ °À ñÀ!:À!~À!¹À"À"9À"‹À"ÂÀ#À#CÀ#À#ÂÀ#åÀ#çÀ$7À$PÀ$WÀ$hÀ$oÀ$ÃÀ$ÜÀ%9À%À%ãÀ&$À&mÀ&±À&ìÀ'8À'oÀ'ÁÀ'øÀ(FÀ(yÀ(ÅÀ(øÀ)À)À)kÀ)„À)‹À)œÀ)£À)÷À*À*mÀ*ÁÀ+À+XÀ+¡À+åÀ, À,lÀ,£À,ğÀ-#À-qÀ-¤À-ğÀ.#À.MÀ.OÀ.À.¶À.½À.ÎÀ.ÕÀ/.À/‹À/ßÀ05À0vÀ0¿À1À1>À1ŠÀ1ÁÀ2À2AÀ2“À2ÊÀ3À3IÀ3oÀ3qÀ3¾À3×À3ŞÀ3ïÀ3öÀ4OÀ4¬À5 À5VÀ5—À5àÀ6$À6_À6«À6âÀ7/À7bÀ7´À7ëÀ89À8lÀ8‘À8“À8İÀ8äÀ94À9À9˜À9ŸÀ9ìÀ:1À:rÀ:¸À:ŞÀ:åÀ;3À;QÀ;XÀ;¥À;øÀ<DÀ<ˆÀ<ÇÀ=À=	À=QÀ=À=¤À=µÀ=¼À=÷À>>À>sÀ>¼À? À?À? À?lÀ?½À@À@)À@+À@nÀ@uÀ@ÄÀAÀAYÀA¥ÀA³ÀAºÀB ÀB,ÀB3ÀBDÀBKÀBšÀBµÀBÛÀBİÀCÀC ÀCyÀC¨ÀC¯ÀDÀD1ÀD8ÀDÀD¾ÀDÅÀEÀE;ÀEBÀEyÀE€ÀE‘ÀE˜ÀEñÀFÀF^ÀFyÀF ÀF¢ÀFóÀGÀG-ÀGIÀGmÀGŠÀG¤ÀG¿ÀGàÀGøÀHÀH-ÀH`ÀH•ÀH©ÀHÒÀHêÀIÀIÀI;ÀIgÀI„ÀI¡ÀIÍÀIëÀIşÀJÀJ=ÀJ]ÀJuÀJÀJ¬ÀJÍÀJóÀKÀK6ÀKPÀKoÀK‘ÀK´ÀK¼ÀKâÀLÀL^ÀL“ÀLÑÀM ÀMDÀM|ÀM®ÀMéÀN<ÀN’ÀN»ÀNùÀO(ÀO]ÀO’ÀOÓÀP&ÀP[ÀPœÀPïÀQ'ÀQMÀQ|ÀQÏÀR
+ÀR<ÀRnÀR£ÀRŞÀS(ÀSfÀS¡ÀSÇÀTÀTFÀTÀT‰ÀTÀTÀTäÀU9ÀUbÀUiÀU­ÀUõÀV'ÀV.ÀV{ÀVÂÀVãÀW(ÀWBÀWVÀW]ÀWsÀW¦ÀWñÀX'ÀXfÀX–ÀXÛÀYÀYGÀYƒÀYÂÀYòÀZ(ÀZjÀZ¾ÀZôÀ[6À[ŠÀ[ÃÀ[óÀ\GÀ\ƒÀ\¶À\éÀ]À][À]¦À]åÀ^!À^HÀ^~À^ºÀ^ÂÀ^ÇÀ^ÉÀ^ÖÀ^úÀ_À_$À_6À_KÀ_[À_nÀ_À_“À_¯À_ÌÀ_ÚÀ_ïÀ`À`À`#À`9À`UÀ`gÀ`}À`À`­À`ÂÀ`ÑÀ`ãÀaÀaÀa*Àa=ÀaQÀagÀa‚Àa™Àa¯Àa¾ÀaÙÀaíÀbÀbÀb$Àb*Àb,Àb9Àb]Àb€Àb”Àb›ÀbÈÀbİÀbäÀcÀc@Àc{Àc¨ÀcÛÀdÀd;ÀdfÀd—Àd¼ÀdïÀeÀeEÀerÀe§ÀeèÀfÀfJÀf‹ÀfºÀfûÀg>ÀgaÀgŠÀgËÀgüÀh'ÀhRÀhÀh°ÀhëÀiÀiOÀirÀi¡ÀiÜÀj	Àj<ÀjkÀjpÀjrÀjÀjÅÀjñÀk'Àk<ÀkcÀkzÀkÀk¿ÀkÉÀkÑÀkæÀlÀl,ÀlIÀlÀl‹Àl“Àl¨ÀlÏÀlçÀlıÀm.Àm8Àm@ÀmUÀm¶Àm¾ÀmÓÀn8Àn@ÀnUÀn{Àn˜Àn³ÀnéÀnóÀnûÀoÀokÀosÀoˆÀo¯ÀoÆÀoÛÀpÀpÀpÀp2ÀpÀp˜Àp­ÀpàÀqÀq"Àq]ÀqgÀqoÀq„Àq¸ÀqÛÀqüÀr8ÀrBÀrJÀr_Àr¹ÀrÁÀrÖÀsÀs!Às:ÀsnÀsxÀs€Às•ÀsûÀtÀtÀtyÀtÀt–Àt¹ÀtÕÀtïÀu$Àu.Àu6ÀuKÀuwÀu™Àu¹ÀuôÀuşÀvÀvÀvBÀvZÀvpÀv¡Àv«Àv³ÀvÈÀvëÀwÀw!ÀwVÀw`ÀwhÀw}Àw©ÀwËÀwëÀx&Àx0Àx8ÀxMÀxtÀxŒÀx¢ÀxÓÀxİÀxåÀxúÀy!Ày:ÀyQÀyƒÀyÀy•ÀyúÀz\ÀzqÀz™Àz»ÀzÛÀ{À{ À{(À{=À{eÀ{À{—À{ÊÀ{ÔÀ{ÜÀ|AÀ|¦À|»À|äÀ|üÀ}À}CÀ}MÀ}UÀ}jÀ}“À}­À}ÅÀ}ıÀ~À~À~$À~MÀ~lÀ~‰À~ÁÀ~ËÀ~ÓÀ~èÀÀ,ÀEÀyÀƒÀ‹À ÀÉÀãÀûÀ€.À€8À€@À€UÀ€³À€»À€ĞÀ€òÀÀ.ÀfÀpÀxÀÀ¹ÀÑÀçÀ‚À‚"À‚*À‚?À‚jÀ‚„À‚œÀ‚ÏÀ‚ÙÀ‚áÀ‚æÀ‚éÀ‚ëÀƒ/ÀƒkÀƒmÀƒŒÀƒÀƒ›Àƒ÷À„)À„jÀ„qÀ„¬À„³À„µÀ„ÂÀ…À…QÀ…’À…™À…ÔÀ…ÛÀ…İÀ…êÀ†OÀ†À†ÂÀ†ÉÀ†øÀ‡=À‡DÀ‡uÀ‡¼À‡ÃÀ‡şÀˆÀˆÀˆÀˆrÀˆ¦ÀˆØÀ‰*À‰1À‰3À‰„À‰‹À‰À‰šÀ‰÷ÀŠ+ÀŠ]ÀŠ¯ÀŠ¶À‹À‹À‹À‹%À‹yÀ‹ÕÀŒÀŒfÀŒ¯ÀŒùÀÀÀ
+ÀÀkÀÆÀõÀüÀ-ÀbÀiÀœÀÆÀñÀùÀ ÀÀÀiÀÄÀóÀúÀ+À`ÀgÀšÀÄÀïÀ÷ÀşÀ‘ À‘À‘gÀ‘ÂÀ‘ñÀ‘øÀ’'À’ZÀ’aÀ’’À’ÇÀ’ÎÀ“À“+À“VÀ“^À“eÀ“hÀ“jÀ“ À“¢À“æÀ”+À”TÀ”ˆÀ”ŠÀ”À”âÀ•À•À• À•?À•AÀ•„À•ÆÀ•ÈÀ–À–qÀ–ÉÀ—"À—{À—®À˜À˜:À˜tÀ˜vÀ˜ƒÀ˜ßÀ™À™VÀ™]À™•À™œÀ™À™«À™ÿÀš1ÀšdÀškÀš˜ÀšŸÀš¡Àš®À›À›JÀ›À›—À›ÆÀ›ùÀœ7Àœ@ÀœsÀœ°Àœ¹ÀœéÀœğÀ!À_ÀfÀ—ÀËÀÒÀÀÀÀ#À…À·ÀıÀŸÀŸ3ÀŸfÀŸ¤ÀŸ­ÀŸàÀ À &À VÀ ]À À ÌÀ ÓÀ¡À¡8À¡?À¡oÀ¡vÀ¡xÀ¡…À¡ºÀ¡¼À¡ÉÀ¢#À¢UÀ¢ˆÀ¢À¢µÀ¢¼À¢¾À¢ËÀ£%À£WÀ£ŠÀ£‘À£ÀÀ£óÀ¤À¤&À¤CÀ¤JÀ¤pÀ¤wÀ¤yÀ¤†À¤ãÀ¥/À¥aÀ¥¯À¥¶À¥åÀ¦À¦RÀ¦[À¦À¦ÓÀ¦ÜÀ§À§À§LÀ§†À§À§¾À¨À¨À¨IÀ¨PÀ¨RÀ¨_À¨ÄÀ©À©BÀ©À©—À©ÆÀ©ùÀª3Àª<ÀªoÀª´Àª½ÀªõÀªüÀ«-À«gÀ«nÀ«ŸÀ«âÀ«éÀ¬*À¬1À¬3À¬@À¬À¬êÀ­À­jÀ­qÀ­²À­¹À­»À­ÈÀ®%À®qÀ®§À®®À®±À®ÄÀ®ÆÀ®ú   €×/// @docImport 'package:flutter/widgets.dart';
+///
+/// @docImport 'dropdown.dart';
+/// @docImport 'ink_well.dart';
+/// @docImport 'tabs.dart';
+/// @docImport 'text_field.dart';
+/// @docImport 'text_form_field.dart';”ª ± ÂÑÖ  ‚  ‚/  ‚Y  ‚ƒ  ‚   ‚½  ‚Ô  ‚î  ƒ  ƒ-  ƒF  ƒe  ƒ€  ƒ–       Š(Š Š( ŠİŠÓŠÌŠÓ    Š3Š3Š?    ŠåŠåŠğ   ŒúŒûŒúŒú€q    Š]Š]Še  ŠSŠSsŠW    ‹‹‹  ‹‹u‹
+    ŒŒŒ ‹‹‚‹‹s‹ş   Ÿ9²  ‰î‰îƒì‰ô   H Y      [[a   hh	n  HH,         ˜˜Ÿ z{zz[“  €È   c v    	  ~~   ››©   ¿¿Í   ÚÚè   ûû	   !   55C   SSa   vv„  cc8    ¹¡'¹  åÍå  ‘ğ$‘  ‘/‘‘/  ‘K‘7!‘K  ‘i‘]‘i  ‘ˆ‘w ‘ˆ  ‘´‘œ&‘´    ‘É‘Éa‘Ó     ’H’H’O   ’W’W	’\ ’0’1’0’0ƒN’B    •¤•¤•¸ •„•…•„•„m•–   –÷–ø–÷–÷9—  ..ˆ4   ˜t ˜„      ˜Œ˜Œ˜š   ˜§˜§˜µ   ˜¿˜¿˜Í   ˜à˜à˜î   ˜ş˜ş™   ™™™+  ˜n˜n€Ï    ™U™C™U  ™v™`™v  ™–™~$™–  ™³™§™³  ™Í™Á™Í  ™ç™Ü™ç     ™ø™ù™ø™øLš  ˜;˜;‚˜A   šÒšÚšëšÛšçšéšÀšªBšÀ  ›šó$›  ›5›.›5  ›d›O%›d  ››y›  ›±›œ$›±  ›Õ›Å ›Õ     ›ì›í›ì›ìƒ+›ş   ŸŸŸŸ€»Ÿ/          ŸŞŸßŸŞŸŞ‚ğŸğ    ¢î¢î¢û ¢Ô¢Õ¢Ô¢Ô‚`¢è  šKšKŠìšQ   ¦& ¦2    	  ¦:¦:¦?   ¦O¦O¦T   ¦a¦a¦f   ¦w¦w¦|   ¦¦¦“   ¦¨¦¨
+¦­   ¦¹¦¹¦¾   ¦Î¦Î¦Ó   ¦ä¦ä¦é  ¦ ¦ €Ş   	 §§§  §1§#§1  §J§<§J  §j§Y§j  §…§z§…  §¦§˜§¦  §¾§°§¾  §İ§Ì§İ  §÷§ì§÷     ¨¨¨¨D¨*  ¥ñ¥ñ‚a¥÷   ©R©Z©[©a©b©J©6-©J  ©ƒ©j$©ƒ  ©›©“©›  ©¯©§©¯    ©¼©¼J©Å    ª
+ª
+Gª    ªWªXªWªWYªi   «¶«·«¶«¶T«È    ¬¬f¬    ¬¬¬« ¬|¬}¬|¬|…¬    ±„±„‚2±‹    ³¼³¼„Ê³Ã    ¸¦¸¦¸³ ¸Œ¸¸Œ¸Œ„]¸   ¨V¨V”–¨\   À @ŞÀ @ôÀ @ö      À @÷À @÷À @ü À AÀ AÀ A À AÀ AÀ A	À AÀ AÀ AÀ AÀ AÀ @ØÀ @ØJÀ @õ   À ArÀ AeÀ Ar À B›À B±À B²À B³À B¸À B´À BµÀ B“À A{>À B“€ä/// Align the floating label on the leading edge of the [InputDecorator].
+///
+/// For left-to-right text ([TextDirection.ltr]), this is the left edge.
+///
+/// For right-to-left text ([TextDirection.rtl]), this is the right edge.À C4À CJÀ CKÀ CLÀ CPÀ CMÀ C+À BÀ€‘À C+C/// Aligns the floating label to the center of an [InputDecorator].  À CXÀ CYÀ CXÀ CX-À Cm     À C©À C©À C° À C‹À CŒÀ C‹À C‹€øÀ C¦    À D¢À D¢À D©  À D‰À D‰€êÀ D—   À EyÀ EzÀ EyÀ Ey1À E À @ªÀ @«¿A¿A†lÀ @¼_/// Defines **where** the floating label should be displayed within an
+/// [InputDecorator].
+///
+/// See also:
+///
+///  * [InputDecoration.floatingLabelAlignment] which defines the alignment for
+///    [InputDecoration.label] or [InputDecoration.labelText].
+///  * [FloatingLabelBehavior] which defines **how** the floating label should
+///    behave.  À Fò À Fı      À GÀ GÀ G   À G(À G(À G6   À GHÀ GH!À GV   À GpÀ Gp#À G~   À GšÀ Gš$À G¨   À GÅÀ GÅÀ GÓ   À GàÀ GàÀ Gî   À GşÀ Gş À H   À H%À H%À H3   À HAÀ HAÀ HO   À H]À H]À Hk   À HÀ HÀ H   À HœÀ HœÀ Hª   À HÁÀ HÁÀ HÏ   À HçÀ Hç	À Hì   À H÷À H÷
+À Hü   À IÀ I
+À I   À IÀ I	À I   À I)À I)À I.   À I;À I;À I@   À IMÀ IMÀ IR   À IcÀ IcÀ Ih   À IyÀ IyÀ I~   À IÀ IÀ I•   À I£À I£À I¨  À FìÀ Fì‚Í    À IÛÀ I¿*À IÛ  À IùÀ IîÀ Iù  À JÀ J	 À J  À J;À J."À J;  À JrÀ JU3À Jr  À JŸÀ JÀ JŸ  À JÀÀ JªÀ JÀ  À JÙÀ JÎÀ JÙ  À JüÀ JğÀ Jü  À KÀ KÀ K  À K3À K!À K3  À KRÀ KEÀ KR  À KjÀ K_À Kj  À KŠÀ KÀ KŠ  À K®À K À K®  À KÅÀ K·À KÅ  À KİÀ KÏÀ Kİ  À KõÀ KçÀ Kõ  À LÀ KşÀ L  À L%À LÀ L%  À L>À L0À L>  À L[À LMÀ L[  À LxÀ LjÀ Lx  À L–À LˆÀ L–  À L°À L¢À L°   À QòÀ QóÀ QòÀ QòÒÀ R     À LŞÀ LŞÀ Lå À LÀÀ LÁÀ LÀÀ LÀ…,À LÛ À FÉÀ FÊÀ FÉÀ FÉŒşÀ FÛ   À TÃ À TÚ      À TâÀ TâÀ Tğ   À UÀ UÀ U   À U$À U$À U2   À UHÀ UHÀ UV   À UhÀ UhÀ Uv  À T½À T½€Å    À UÀ Uˆ%À U  À U¿À U²À U¿  À UÙÀ UÌÀ UÙ  À VÀ UíÀ V  À VÀ VÀ V     À TšÀ TšŠÀ T    À Væ À V÷      À VÿÀ VÿÀ W   À WÀ WÀ W-   À WBÀ WBÀ WP   À WdÀ WdÀ Wr   À WƒÀ WƒÀ W‘   À W À W À W®   À W¿À W¿À WÄ  À VæÀ Væ€ø    À ]ĞÀ ]ÄÀ ]Ğ  À ^»À ^­À ^»  À _°À _£À _°  À aUÀ aB%À aU  À cÀ cÀ c À cëÀ càÀ cÛÀ cà À d³À d¦À d¡À d¦  À µXÀ µOÀ µX    À XhÀ Xh/À Xs    À X›À X›5À X¦    À XÔÀ XÔ5À Xß    À YÀ Y:À Y    À YMÀ YM<À Y\    À YÀ Y<À Yœ    À YÍÀ YÍ:À YÜ    À ZÀ Z>À Z    À ZMÀ ZM>À Z\    À ZÀ ZFÀ Z    À ZÙÀ ZÙFÀ Zè    À [#À [#HÀ [1    À [oÀ [o@À [~    À [³À [³DÀ [Â   À \1À \2À \1À \1_À \V    À ]–À ]–*À ]¦    À ^wÀ ^w2À ^‰    À _pÀ _p/À _    À ``À ``À `v    À `ãÀ `ã[À `ù    À bëÀ bë!À bô    À cºÀ cºÀ cÃ    À d|À d|!À d…    À e¨À e¨eÀ e±    À fÀ fIÀ f    À m@À m@FÀ mZ    À ]ïÀ ]ïÀ ]û  À ]àÀ ]à€‘À ]ä    À ^àÀ ^àÀ ^î  À ^ÎÀ ^Î€œÀ ^Ò    À _ÓÀ _ÓÀ _à  À _ÂÀ _Â€˜À _Æ    À a‚À a‚À a•  À alÀ alyÀ ap    À c2À c2
+À c7  À c$À c$€À c(    À dÀ d
+À d  À cõÀ cõ€À cù    À dËÀ dË
+À dĞ  À d½À d½€‡À dÁ    À fÀ fÀ f¢ À fbÀ fcÀ fbÀ fbƒ'À ft    À i§À i§À i²   À i·À i·À i¾  À iÀ ijÀ i    À jÀ jÀ j    À j%À j%À j,  À iıÀ iıjÀ j    À j„À j„À j   À j”À j”À j›  À jkÀ jkjÀ jy    À jîÀ jîÀ jù  À jÙÀ jÙ?À jå    À k7À k7À kA   À kFÀ kFÀ kU  À kÀ k€ÄÀ k*    À lÀ lÀ l   À lÀ lÀ l"  À kæÀ kæ€÷À kô    À mÀ mÀ m  À lãÀ lãWÀ lø    À m¶À m¶#À mÎ   À màÀ mà"À m÷   À n	À n	)À n'  À mŒÀ mŒ…òÀ mš    À tŒÀ tŒÀ t›   À t¯À t¯"À tÆ   À tØÀ tØ)À tö  À tfÀ tf¨ßÀ t~    À Ÿ_À Ÿ_À Ÿf   À ŸrÀ ŸrÀ Ÿy   À Ÿ†À Ÿ†
+À Ÿ   À Ÿ—À Ÿ—#À Ÿ©  À Ÿ9À Ÿ9ÓÀ ŸG    À ¡?À ¡?À ¡F À ¡À ¡À ¡À ¡ƒ%À ¡&    À ¤jÀ ¤jÀ ¤q À ¤=À ¤>À ¤=À ¤=ƒ%À ¤Q    À §{À §{À §‚   À §‰À §‰À §š  À §hÀ §h½À §o    À ©YÀ ©YÀ ©` À ©+À ©,À ©+À ©+ŠQÀ ©?    À ³°À ³°À ³· À ³‚À ³ƒÀ ³‚À ³‚lÀ ³–    À ´(À ´(À ´5 À ³ôÀ ³õÀ ³ôÀ ³ô*À ´    À µ–À µ–$À µ¯   À µ¼À µ¼À µÉ À µnÀ µoÀ µnÀ µnƒXÀ µƒ    À ¸ïÀ ¸ïÀ ¸ş À ¸ÌÀ ¸ÍÀ ¸ÌÀ ¸Ì!À ¸Ş   À ¹óÀ ¹ôÀ ¹óÀ ¹óÿÀ º    À Ø	À Ø	À Ø   À Ø"À Ø"À Ø)  À ×øÀ ×øhÀ ×ı    À Ø~À Ø~À Ø   À Ø—À Ø—À Ø À ØfÀ ØgÀ ØfÀ ØfŒ‹À Øx    À åÀ åÀ å*   À å1À å1À å9 À ä÷À äøÀ ä÷À ä÷€À å	    À æ›À æ›À æ¢ À æ}À æ~À æ}À æ}7À æ    À æÜÀ æÜÀ æí   À æöÀ æöÀ ç À æºÀ æ»À æºÀ æº‚–À æÌ    À é¤À é¤)À éÁ  À éVÀ éVƒâÀ éy    À íoÀ íoÀ í† À í>À í?À í>À í>€¦À íP  À VoÀ VoÀ —xÀ Vu   À îO À îY      À îaÀ îaÀ îo   À î‡À î‡À î•   À î¦À î¦À î´   À îÈÀ îÈÀ îÖ   À îéÀ îéÀ î÷   À ïÀ ïÀ ï  À îIÀ îI€Û    À ï<À ï*À ï<  À ï_À ïK!À ï_  À ï„À ïqÀ ï„  À ï®À ï•*À ï®  À ïÏÀ ïÄÀ ïÏ  À ïèÀ ïİÀ ïè   À ïöÀ ï÷À ïöÀ ïöKÀ ğ!     À ğiÀ ğiÀ ğy À ğGÀ ğHÀ ğGÀ ğG‚´À ğ\    À ó3À ó3À ó@ À óÀ óÀ óÀ óqÀ ó     À ôÀ ôÀ ôª   À ô³À ô³À ôÅ À ôxÀ ôyÀ ôxÀ ôxJÀ ôŠ  À íëÀ íë‡ÚÀ íñ   À õı À ö      À öÀ öÀ ö   À ö3À ö3	À ö8   À öCÀ öC
+À öH   À öTÀ öT
+À öY   À öeÀ öeÀ öj   À öÀ öÀ ö  À õ÷À õ÷€¬    À ö´À ö©À ö´  À öÖÀ öÈÀ öÖ  À öğÀ ößÀ öğ  À ÷À öúÀ ÷  À ÷*À ÷(À ÷*  À ÷RÀ ÷?À ÷R      À ÷À ÷À ÷Œ À ÷eÀ ÷fÀ ÷eÀ ÷e‚?À ÷y  À õÉÀ õÉƒŞÀ õÏ   À ş» À şÉ    
+  À şÑÀ şÑ	À ş×   À şáÀ şáÀ şï   À ÿ À ÿ À ÿ   À ÿÀ ÿÀ ÿ   À ÿ*À ÿ*À ÿ/   À ÿGÀ ÿGÀ ÿL   À ÿdÀ ÿdÀ ÿi   À ÿ‚À ÿ‚À ÿ‡   À ÿÀ ÿÀ ÿ¢   À ÿ¸À ÿ¸
+À ÿ½ À ÿXÀ ÿvÀ ÿ‘À ÿ¬À ıïÀ ıïÛ €¶/// Creates a widget that displays a border, labels, and icons,
+/// for a [TextField].
+///
+/// The [isFocused], [isHovering], [expands], and [isEmpty] arguments must not
+/// be null. 	 À µÀ ÿĞ€ïÀ µ€Â/// The text and styles to use when decorating the child.
+///
+/// Null [InputDecoration] properties are initialized with the corresponding
+/// values from the ambient [InputDecorationThemeData]. ÀdÀ Æ§Àdt/// The style on which to base the label, hint, counter, and error styles
+/// if the [decoration] does not provide explicit styles.
+///
+/// If null, [baseStyle] defaults to the `titleMedium` style from the
+/// current [Theme], see [ThemeData.textTheme].
+///
+/// The [TextStyle.textBaseline] of the [baseStyle] is used to determine
+/// the baseline used for text alignment. ÀËÀt`ÀËB/// How the text in the decoration should be aligned horizontally. ÀÔÀÛƒ
+ÀÔ‚»/// {@template flutter.material.InputDecorator.textAlignVertical}
+/// How the text should be aligned vertically.
+///
+/// Determines the alignment of the baseline within the available space of
+/// the input (typically a TextField). For example, TextAlignVertical.top will
+/// place the baseline such that the text, and any attached decoration like
+/// prefix and suffix, is as close to the top of the input as possible without
+/// overflowing. The heights of the prefix and suffix are similarly included
+/// for other alignment values. If the height is greater than the height
+/// available, then the prefix and suffix will be allowed to overflow first
+/// before the text scrolls.
+/// {@endtemplate} ÀxÀì•Àx\/// Whether the input field has focus.
+///
+/// Determines the position of the label text and the color and weight of the
+/// border.
+///
+/// Defaults to false.
+///
+/// See also:
+///
+///  * [InputDecoration.hoverColor], which is also blended into the focus
+///    color and fill color when the [isHovering] is true to produce the final
+///    color. ÀÅÀˆGÀÅ/// Whether the input field is being hovered over by a mouse pointer.
+///
+/// Determines the container fill color, which is a blend of
+/// [InputDecoration.hoverColor] with [InputDecoration.fillColor] when
+/// true, and [InputDecoration.fillColor] when not.
+///
+/// Defaults to false. À
+åÀÖ‚À
+åâ/// If true, the height of the input field will be as large as possible.
+///
+/// If wrapped in a widget that constrains its child's height, like Expanded
+/// or SizedBox, the input field will only be affected if [expands] is set to
+/// true.
+///
+/// See [TextField.minLines] and [TextField.maxLines] for related ways to
+/// affect the height of an input. When [expands] is true, both must be null
+/// in order to avoid ambiguity in determining the height.
+///
+/// Defaults to false. À­À
+ó€ÁÀ­€œ/// Whether the input field is empty.
+///
+/// Determines the position of the label text and whether to display the hint
+/// text.
+///
+/// Defaults to false. ÀEÀ»€ÀEr/// The widget below this widget in the tree.
+///
+/// Typically an [EditableText], [DropdownButton], or [InkWell].   ÀQÀQÀ€«/// Whether the label needs to get out of the way of the input, either by
+/// floating or disappearing.
+///
+/// Will withdraw when not empty or when focused while enabled.   À^À_À^À^KÀ    ÀeÀeÀr  À¯À¯‚UÀY‚/// The RenderBox that defines this decorator's "container". That's the
+/// area which is filled if [InputDecoration.filled] is true. It's the area
+/// adjacent to [InputDecoration.icon] and above the widgets that contain
+/// [InputDecoration.helperText], [InputDecoration.errorText], and
+/// [InputDecoration.counterText].
+///
+/// [TextField] renders ink splashes within the container.   À0À0&ÀL À
+ÀÀ
+À
+‚À  À ù«À ù«˜}À ıÄƒü/// Defines the appearance of a Material Design text field.
+///
+/// [InputDecorator] displays the visual elements of a Material Design text
+/// field around its input [child]. The visual elements themselves are defined
+/// by an [InputDecoration] object and their layout and appearance depend
+/// on the `baseStyle`, `textAlign`, `isFocused`, and `isEmpty` parameters.
+///
+/// [TextField] uses this widget to decorate its [EditableText] child.
+///
+/// [InputDecorator] can be used to create widgets that look and behave like a
+/// [TextField] but support other kinds of input.
+///
+/// Requires one of its ancestors to be a [Material] widget. The [child] widget,
+/// as well as the decorative widgets specified in [decoration], must have
+/// non-negative baselines.
+///
+/// See also:
+///
+///  * [TextField], which uses an [InputDecorator] to display a border,
+///    labels, and icons, around its [EditableText] child.
+///  * [Decoration] and [DecoratedBox], for drawing arbitrary decorations
+///    around other widgets.   À§Àˆ7À§  ÀßÀÄ2Àß  ÀÀû6À ÀYÀhÀiÀLÀ64ÀL ÀÀÀ?ÀÀ!À%À'À/À0À8À9ÀèÀÎrÀè ÀzÀˆÀ¥À‰ÀŒÀÀ’ÀšÀ›À£À¤À_ÀEaÀ_ ÀáÀïÀÀöÀşÀÀÀÀÀÀÀÅÀ«rÀÅ ÀSÀ_À}À`À<À"\À< À¸ÀÄÀñÀËÀÀƒoÀ À(À4ÀRÀ5ÀÀ÷\À ÀÀ™ÀÆÀ ÀrÀXoÀr  À—À†%À—  À=ªÀ=™!À=ª    À°À°€„ÀÄ    À:À:-ÀI    ÀkÀk'Àt    À–À–OÀŸ    ÀéÀé?Àò    À,À,#À5    ÀSÀSrÀ\    ÀËÀË€ÀÔ    À,9À,9À,B    À,ÿÀ,ÿFÀ-    À7EÀ7E€æÀ7Z    ÀÎÀÏÀÎÀÎïÀà   ÀÃÀÄÀÃÀÃPÀÕ   ÀÀÀÀ€îÀ+    ÀÀsÀ    ÀÀÀ À_À`À_À_ƒtÀq    À!øÀ!øÀ"  À!ÙÀ!ÙƒÀ!ß    À%À%À%   À%À%!À%0  À$îÀ$î À$ô    À&©À&©À&³  À&”À&”€èÀ&š    À'–À'–À'    À'«À'«!À'Ä  À'‚À'‚€ìÀ'ˆ    À(”À(”#À(¨   À(¾À(¾!À(×  À(tÀ(tgÀ(z    À*À*#À*   À*+À*+!À*D  À)áÀ)ágÀ)ç    À-óÀ-óÀ-ı   À.À.!À.!  À-ÔÀ-ÔËÀ-Ş    À0KÀ0KÀ0U   À0`À0`!À0y  À0-À0-‚ À07    À2TÀ2TÀ2^   À2iÀ2i!À2‚  À23À23ƒ!À2=    À5tÀ5tÀ5~   À5‰À5‰!À5¢  À5ZÀ5ZÀ5d    À6€À6€À6Š   À6•À6•!À6®  À6gÀ6g€ØÀ6q    À8OÀ8OÀ8Y   À8dÀ8d!À8}  À81À81…bÀ8=    À=áÀ=áÀ=è   À=ïÀ=ïÀ>  À=ÁÀ=ÁNÀ=Ğ    À?3À?3À?;   À?IÀ?IÀ?V  À?À?€¤À?#    À?ÙÀ?ÙÀ?æ À?¿À?ÀÀ?¿À?¿½¿À?Ó  À,À,À kUÀ2   À À)    :  À1À1	À6   ÀAÀAÀF   ÀVÀV
+À[   ÀgÀgÀl   À|À|À   À’À’À—   À°À°Àµ   ÀÂÀÂÀÇ   ÀØÀØÀİ   ÀïÀïÀô   À	À	À   ÀÀ	À"   À-À-À2   ÀBÀBÀG   À_À_Àd   ÀwÀwÀ|   À“À“€ÚÀT   ÀtÀtÀy   À—À—Àœ   À¼À¼
+ÀÁ   ÀÍÀÍÀÒ   ÀâÀâÀç   ÀøÀøÀı   ÀÀÀ   À2À2À7   ÀTÀTÀY   ÀkÀkÀp   À~À~Àƒ   À˜À˜À   À®À®À³   ÀÏÀÏÀÔ   ÀáÀáÀæ   À÷À÷Àü   À‘À‘À‘   À‘)À‘)À‘.   À‘?À‘?À‘D   À‘QÀ‘QÀ‘V   À‘gÀ‘gÀ‘l   À‘~À‘~À‘ƒ   À‘™À‘™À‘   À‘ºÀ‘ºÀ‘¿   À‘ÍÀ‘ÍÀ‘Ò   À‘äÀ‘äÀ‘é   À‘üÀ‘üÀ’   À’À’À’   À’#À’#À’(   À’9À’9À’>   À’OÀ’OÀ’T   À’fÀ’fÀ’k   À’À’À’„   À’À’À’¢   À’·À’·À’¼   À’ĞÀ’ĞÀ’Õ   À’âÀ’âÀ’ç   À’üÀ’üÀ“   À“À“À“    À“9À“9À“>   À“PÀ“PÀ“U bÀ“À”ÀÀHÀ§ÀÏÀÀiÀŒÀ°À’ñÀ“lÀ“rÀ“£À“ïÀ“~À“À“¢À“À“†À“€À“‰À“›À“‘À“À“¯À“úÀ” À”,À”vÀ”À”À”À”À”%À”À”(À”8À”À”‡À”ºÀ•À”“À””À”¹À”¤À”œÀ”•À”ŸÀ”²À”§À”µÀ”ÆÀ•À•À•LÀ•šÀ•%À•&À•KÀ•6À•.À•'À•1À•DÀ•9À•GÀ•XÀ•¥À•«À•ŞÀ–,À•·À•¸À•İÀ•ÈÀ•ÀÀ•¹À•ÃÀ•ÖÀ•ËÀ•ÙÀ•êÀ–7À–=À–nÀ–ºÀ–IÀ–JÀ–mÀ–YÀ–QÀ–KÀ–TÀ–fÀ–\À–iÀ–zÀŠëÀŠë‹Ñ ‚/// Creates a bundle of the border, labels, icons, and styles used to
+/// decorate a Material Design text field.
+///
+/// Unless specified by the ambient [InputDecorationThemeData], [InputDecorator]
+/// defaults [isDense] to false and [filled] to false. The default border is
+/// an instance of [UnderlineInputBorder]. If [border] is [InputBorder.none]
+/// then no border is drawn.
+///
+/// Only one of [prefix] and [prefixText] can be specified.
+///
+/// Similarly, only one of [suffix] and [suffixText] can be specified.  À˜[À˜jÀ˜t      À˜|À˜|À˜Š   À˜™À˜™€ËÀ™O   À™kÀ™k€ÍÀš"   Àš?Àš?ÀšD   ÀšTÀšT	ÀšY   ÀšdÀšdÀši   ÀšÀšÀš†   Àš™Àš™Àš   ÀšµÀšµ€ÚÀ›v   À›–À›–À››   À›¹À›¹À›¾   À›ŞÀ›ŞÀ›ã   À›øÀ›øÀ›ı   ÀœÀœÀœ   Àœ#Àœ#Àœ(   Àœ9Àœ9Àœ>   Àœ^Àœ^Àœc   ÀœxÀœxÀœ} €›À˜™À˜šÀ˜¤À™1À˜­À˜öÀ™kÀ™lÀ™vÀšÀ™À™ÈÀšµÀš¶ÀšÀÀ›jÀšÉÀšñÀ›/À›‹À›®À›ÒÀ›ìÀœGÀœRÀœSÀœmÀœ’Àœ—Àœ™Àœ§Àœ±Àœ³ÀœÁÀœÇÀœÉÀœ×ÀœáÀœãÀœñÀœüÀœşÀÀÀ!À/À6À8ÀFÀQÀSÀaÀmÀoÀ}ÀŒÀÀœÀ¢À¤À²À¼À¾ÀÌÀ×ÀÙÀçÀõÀ÷ÀÀÀÀÀ-À/À9À:ÀHÀTÀVÀdÀoÀqÀÀ†ÀˆÀ–À¡À£À±À½À¿ÀÍÀİÀßÀíÀŸÀŸÀŸÀŸÀŸÀŸ*ÀŸ5ÀŸ7ÀŸEÀŸPÀŸRÀŸ`ÀŸlÀŸnÀŸ|ÀŸŒÀŸÀŸœÀŸ²ÀŸ´ÀŸÂÀŸÊÀŸÌÀŸÚÀŸæÀŸèÀŸöÀ À À À À !À /À =À ?À MÀ `À bÀ pÀ À À À À ŸÀ ­À ÁÀ ÃÀ¡>À¡TÀ¡VÀ¡âÀ¡ùÀ¡ûÀ¢À¢.À¢0À¢?À¢MÀ¢OÀ–ÂÀ–Â‹’À˜kw/// Defines an [InputDecorator] that is the same size as the input field.
+///
+/// This type of input decoration does not include a border by default.
+///
+/// A collapsed decoration cannot have [labelText], [errorText], [counter],
+/// [icon], prefixes, and suffixes.
+///
+/// Sets the [isCollapsed] property to true.
+/// Sets the [contentPadding] property to [EdgeInsets.zero]. : À¤áÀ¢Z‚‹À¤á‚K/// An icon to show before the input field and outside of the decoration's
+/// container.
+///
+/// The size and color of the icon is configured automatically using an
+/// [IconTheme] and therefore does not need to be explicitly given in the
+/// icon widget.
+///
+/// The trailing edge of the icon is padded by 16dps.
+///
+/// The decoration's container is the area which is filled if [filled] is
+/// true and bordered per the [border]. It's the area adjacent to
+/// [icon] and above the widgets that contain [helperText],
+/// [errorText], and [counterText].
+///
+/// See [Icon], [ImageIcon]. À¥ĞÀ¤ì€íÀ¥Ğ€Ç/// The color of the [icon].
+///
+/// If [iconColor] is a [WidgetStateColor], then the effective
+/// color can depend on the [WidgetState.focused] state, i.e.
+/// if the [TextField] is focused or not. ÀªWÀ¥à„|ÀªW„&/// Optional widget that describes the input field.
+///
+/// {@template flutter.material.inputDecoration.label}
+/// When the input field is empty and unfocused, the label is displayed on
+/// top of the input field (i.e., at the same location on the screen where
+/// text may be entered in the input field). When the input field receives
+/// focus (or if the field is non-empty), depending on [floatingLabelAlignment],
+/// the label moves above, either vertically adjacent to, or to the center of
+/// the input field.
+/// {@endtemplate}
+///
+/// This can be used, for example, to add multiple [TextStyle]'s to a label that would
+/// otherwise be specified using [labelText], which only takes one [TextStyle].
+///
+/// {@tool dartpad}
+/// This example shows a `TextField` with a [Text.rich] widget as the [label].
+/// The widget contains multiple [Text] widgets with different [TextStyle]'s.
+///
+/// ** See code in examples/api/lib/material/input_decorator/input_decoration.label.0.dart **
+/// {@end-tool}
+///
+/// Only one of [label] and [labelText] can be specified. À«vÀªcÀ«v€ò/// Optional text that describes the input field.
+///
+/// {@macro flutter.material.inputDecoration.label}
+///
+/// If a more elaborate label is required, consider using [label] instead.
+/// Only one of [label] and [labelText] can be specified. À°âÀ«†…fÀ°â„ó/// {@template flutter.material.inputDecoration.labelStyle}
+/// The style to use for [InputDecoration.labelText] when the label is on top
+/// of the input field.
+///
+/// If [labelStyle] is a [WidgetStateTextStyle], then the effective
+/// text style can depend on the [WidgetState.focused] state, i.e.
+/// if the [TextField] is focused or not.
+///
+/// When the [InputDecoration.labelText] is above (i.e., vertically adjacent to)
+/// the input field, the text uses the [floatingLabelStyle] instead.
+///
+/// If null, defaults to a value derived from the base [TextStyle] for the
+/// input field and the current [Theme].
+///
+/// Specifying this style will override the default behavior
+/// of [InputDecoration] that changes the color of the label to the
+/// [InputDecoration.errorStyle] color or [ColorScheme.error].
+///
+/// {@tool dartpad}
+/// It's possible to override the label style for just the error state, or
+/// just the default state, or both.
+///
+/// In this example the [labelStyle] is specified with a [WidgetStateProperty]
+/// which resolves to a text style whose color depends on the decorator's
+/// error state.
+///
+/// ** See code in examples/api/lib/material/input_decorator/input_decoration.label_style_error.0.dart **
+/// {@end-tool}
+/// {@endtemplate} À¶’À°ó…±À¶’…0/// {@template flutter.material.inputDecoration.floatingLabelStyle}
+/// The style to use for [InputDecoration.labelText] when the label is
+/// above (i.e., vertically adjacent to) the input field.
+///
+/// When the [InputDecoration.labelText] is on top of the input field, the
+/// text uses the [labelStyle] instead.
+///
+/// If [floatingLabelStyle] is a [WidgetStateTextStyle], then the effective
+/// text style can depend on the [WidgetState.focused] state, i.e.
+/// if the [TextField] is focused or not.
+///
+/// If null, defaults to [labelStyle].
+///
+/// Specifying this style will override the default behavior
+/// of [InputDecoration] that changes the color of the label to the
+/// [InputDecoration.errorStyle] color or [ColorScheme.error].
+///
+/// When the input field receives focus, the font size of [InputDecoration.label] is
+/// scaled down by 75%.
+///
+/// {@tool dartpad}
+/// It's possible to override the label style for just the error state, or
+/// just the default state, or both.
+///
+/// In this example the [floatingLabelStyle] is specified with a
+/// [WidgetStateProperty] which resolves to a text style whose color depends
+/// on the decorator's error state.
+///
+/// ** See code in examples/api/lib/material/input_decorator/input_decoration.floating_label_style_error.0.dart **
+/// {@end-tool}
+/// {@endtemplate} À¹\À¶«‚·À¹\‚x/// Optional widget that appears below the [InputDecorator.child].
+///
+/// If non-null, the [helper] is displayed below the [InputDecorator.child], in
+/// the same location as [error]. If a non-null [error] or [errorText] value is
+/// specified then the [helper] is not shown.
+///
+/// {@tool dartpad}
+/// This example shows a `TextField` with a [Text.rich] widget as the [helper].
+/// The widget contains [Text] and [Icon] widgets with different styles.
+///
+/// ** See code in examples/api/lib/material/input_decorator/input_decoration.helper.0.dart **
+/// {@end-tool}
+///
+/// Only one of [helper] and [helperText] can be specified. À»fÀ¹i‚À»fĞ/// Text that provides context about the [InputDecorator.child]'s value, such
+/// as how the value will be used.
+///
+/// If non-null, the text is displayed below the [InputDecorator.child], in
+/// the same location as [errorText]. If a non-null [errorText] value is
+/// specified then the helper text is not shown.
+///
+/// If a more elaborate helper text is required, consider using [helper] instead.
+///
+/// Only one of [helper] and [helperText] can be specified. À¼xÀ»wÀ¼x€à/// The style to use for the [helperText].
+///
+/// If [helperStyle] is a [WidgetStateTextStyle], then the effective
+/// text style can depend on the [WidgetState.focused] state, i.e.
+/// if the [TextField] is focused or not. ÀÀÀ¼ŠƒÀÀƒ@/// The maximum number of lines the [helperText] can occupy.
+///
+/// Defaults to null, which means that soft line breaks in [helperText] are
+/// truncated with an ellipse while hard line breaks are respected.
+/// For example, a [helperText] that overflows the width of the field will be
+/// truncated with an ellipse. However, a [helperText] with explicit linebreak
+/// characters (\n) will display on multiple lines.
+///
+/// To cause a long [helperText] to wrap, either set [helperMaxLines] or use
+/// [helper] which offers more flexibility. For instance, it can be set to a
+/// [Text] widget with a specific overflow value.
+///
+/// This value is passed along to the [Text.maxLines] attribute
+/// of the [Text] widget used to display the helper.
+///
+/// See also:
+///
+///  * [errorMaxLines], the equivalent but for the [errorText]. ÀÁÀÀ!uÀÁL/// Text that suggests what sort of input the field accepts.
+///
+/// Displayed on top of the [InputDecorator.child] (i.e., at the same location
+/// on the screen where text may be entered in the [InputDecorator.child]),
+/// when [InputDecorator.isEmpty] is true and either (a) [labelText] is null
+/// or (b) the input has the focus. ÀÂ*ÀÁ€‘ÀÂ*u/// The widget to use in place of the [hintText].
+///
+/// Either [hintText] or [hint] can be specified, but not both. ÀÄÀÂ5‚aÀÄ‚"/// The style to use for the [hintText].
+///
+/// If [hintStyle] is a [WidgetStateTextStyle], then the effective
+/// text style can depend on the [WidgetState.focused] state, i.e.
+/// if the [TextField] is focused or not.
+///
+/// Also used for the [labelText] when the [labelText] is displayed on
+/// top of the input field (i.e., at the same location on the screen where
+/// text may be entered in the [InputDecorator.child]).
+///
+/// If null, defaults to a value derived from the base [TextStyle] for the
+/// input field and the current [Theme]. ÀÅ_ÀÄ€ÓÀÅ_€ /// The direction to use for the [hintText].
+///
+/// If null, defaults to a value derived from [Directionality] for the
+/// input field and the current context. ÀÆíÀÅw‚ÀÆíU/// The maximum number of lines the [hintText] can occupy.
+///
+/// Defaults to the value of [TextField.maxLines] attribute.
+///
+/// This value is passed along to the [Text.maxLines] attribute
+/// of the [Text] widget used to display the hint text. [TextOverflow.ellipsis] is
+/// used to handle the overflow when it is limited to single line. ÀÇ÷ÀÇ ÀÇ÷€Ú/// The duration of the [hintText] fade in and fade out animations.
+///
+/// If null, defaults to [InputDecorationThemeData.hintFadeDuration].
+/// If [InputDecorationThemeData.hintFadeDuration] is null defaults to 20ms.ÀÉSÀÉTÀÉ^ÀÊ ÀÉeÀÉ‹ÀÉÇÀÊÀÈ‚ÀÊ//// Whether the input field's height should always be greater than or equal to
+/// the height of the [hintText], even if the [hintText] is not visible.
+///
+/// The [InputDecorator] widget ignores [hintText] during layout when
+/// it's not visible, if this flag is set to false.
+///
+/// Defaults to true. ÀË™ÀÊ)€ÀË™O/// Whether the input field's size should always be greater than or equal to
+/// the size of the [hint] or [hintText], even if the [hint] or [hintText] are not visible.
+///
+/// The [InputDecorator] widget ignores [hint] and [hintText] during layout when
+/// they are not visible, if this flag is set to false.
+///
+/// Defaults to true. ÀÍ'ÀË°ˆÀÍ'V/// Whether the input field's size should always be greater than or equal to
+/// the size of the [label] or [labelText], even if the [label] or [labelText] are not visible.
+///
+/// The [InputDecorator] widget ignores [label] and [labelText] during layout when
+/// this flag is set to false.
+///
+/// Defaults to false for compatibility reason. ÀÎGÀÍ?ÀÎG€ê/// Optional widget that appears below the [InputDecorator.child] and the border.
+///
+/// If non-null, the border's color animates to red and the [helperText] is not shown.
+///
+/// Only one of [error] and [errorText] can be specified. ÀĞ5ÀÎSëÀĞ5²/// Text that appears below the [InputDecorator.child] and the border.
+///
+/// If non-null, the border's color animates to red and the [helperText] is
+/// not shown.
+///
+/// In a [TextFormField], this is overridden by the value returned from
+/// [TextFormField.validator], if that is not null.
+///
+/// If a more elaborate error is required, consider using [error] instead.
+///
+/// Only one of [error] and [errorText] can be specified. ÀÒ¤ÀĞE‚iÀÒ¤‚)/// {@template flutter.material.inputDecoration.errorStyle}
+/// The style to use for the [InputDecoration.errorText].
+///
+/// If null, defaults of a value derived from the base [TextStyle] for the
+/// input field and the current [Theme].
+///
+/// By default the color of style will be used by the label of
+/// [InputDecoration] if [InputDecoration.errorText] is not null. See
+/// [InputDecoration.labelStyle] or [InputDecoration.floatingLabelStyle] for
+/// an example of how to replicate this behavior when specifying those
+/// styles.
+/// {@endtemplate} ÀÖ3ÀÒµƒ‹ÀÖ3ƒ</// The maximum number of lines the [errorText] can occupy.
+///
+/// Defaults to null, which means that soft line breaks in [errorText] are
+/// truncated with an ellipse while hard line breaks are respected.
+/// For example, an [errorText] that overflows the width of the field will be
+/// truncated with an ellipse. However, an [errorText] with explicit linebreak
+/// characters (\n) will display on multiple lines.
+///
+/// To cause a long [errorText] to wrap, either set [errorMaxLines] or use
+/// [error] which offers more flexibility. For instance, it can be set to a
+/// [Text] widget with a specific overflow value.
+///
+/// This value is passed along to the [Text.maxLines] attribute
+/// of the [Text] widget used to display the error.
+///
+/// See also:
+///
+///  * [helperMaxLines], the equivalent but for the [helperText]. ÀÙµÀÖGƒƒÀÙµƒ/// {@template flutter.material.inputDecoration.floatingLabelBehavior}
+/// Defines **how** the floating label should behave.
+///
+/// When [FloatingLabelBehavior.auto] the label will float to the top only when
+/// the field is focused or has some text content, otherwise it will appear
+/// in the field in place of the content.
+///
+/// When [FloatingLabelBehavior.always] the label will always float at the top
+/// of the field above the content.
+///
+/// When [FloatingLabelBehavior.never] the label will always appear in an empty
+/// field in place of the content.
+/// {@endtemplate}
+///
+/// If null, [InputDecorationThemeData.floatingLabelBehavior] will be used.
+///
+/// See also:
+///
+///  * [floatingLabelAlignment] which defines **where** the floating label
+///    should be displayed. ÀÜàÀÙÑƒ%ÀÜà‚º/// {@template flutter.material.inputDecoration.floatingLabelAlignment}
+/// Defines **where** the floating label should be displayed.
+///
+/// [FloatingLabelAlignment.start] aligns the floating label to the leftmost
+/// (when [TextDirection.ltr]) or rightmost (when [TextDirection.rtl]),
+/// possible position, which is vertically adjacent to the label, on top of
+/// the field.
+///
+/// [FloatingLabelAlignment.center] aligns the floating label to the center on
+/// top of the field.
+/// {@endtemplate}
+///
+/// If null, [InputDecorationThemeData.floatingLabelAlignment] will be used.
+///
+/// See also:
+///
+///  * [floatingLabelBehavior] which defines **how** the floating label should
+///    behave. Àİ•ÀÜı€ŸÀİ•/// Whether the [InputDecorator.child] is part of a dense form (i.e., uses less vertical
+/// space).
+///
+/// Defaults to false. ÀäşÀİ£‡iÀäş†Ô/// The padding for the input decoration's container.
+///
+/// {@macro flutter.material.input_decorator.container_description}
+///
+/// By default the [contentPadding] reflects [isDense] and the type of the
+/// [border].
+///
+/// If [isCollapsed] is true then [contentPadding] is [EdgeInsets.zero].
+///
+/// ### Material 3 default content padding
+///
+/// If `isOutline` property of [border] is false and if [filled] is true then
+/// [contentPadding] is `EdgeInsets.fromLTRB(12, 4, 12, 4)` when [isDense]
+/// is true and `EdgeInsets.fromLTRB(12, 8, 12, 8)` when [isDense] is false.
+///
+/// If `isOutline` property of [border] is false and if [filled] is false then
+/// [contentPadding] is `EdgeInsets.fromLTRB(0, 4, 0, 4)` when [isDense] is
+/// true and `EdgeInsets.fromLTRB(0, 8, 0, 8)` when [isDense] is false.
+///
+/// If `isOutline` property of [border] is true then [contentPadding] is
+/// `EdgeInsets.fromLTRB(12, 16, 12, 8)` when [isDense] is true
+/// and `EdgeInsets.fromLTRB(12, 20, 12, 12)` when [isDense] is false.
+///
+/// ### Material 2 default content padding
+///
+/// If `isOutline` property of [border] is false and if [filled] is true then
+/// [contentPadding] is `EdgeInsets.fromLTRB(12, 8, 12, 8)` when [isDense]
+/// is true and `EdgeInsets.fromLTRB(12, 12, 12, 12)` when [isDense] is false.
+///
+/// If `isOutline` property of [border] is false and if [filled] is false then
+/// [contentPadding] is `EdgeInsets.fromLTRB(0, 8, 0, 8)` when [isDense] is
+/// true and `EdgeInsets.fromLTRB(0, 12, 0, 12)` when [isDense] is false.
+///
+/// If `isOutline` property of [border] is true then [contentPadding] is
+/// `EdgeInsets.fromLTRB(12, 20, 12, 12)` when [isDense] is true
+/// and `EdgeInsets.fromLTRB(12, 24, 12, 16)` when [isDense] is false. Àæ6Àå.Àæ6/// Whether the decoration is the same size as the input field.
+///
+/// A collapsed decoration cannot have [labelText], [errorText], [counter],
+/// [icon], prefixes, and suffixes.
+///
+/// To create a collapsed input decoration, use [InputDecoration.collapsed]. Àí®ÀæH‡pÀí®†Ü/// An icon that appears before the [prefix] or [prefixText] and before
+/// the editable part of the text field, within the decoration's container.
+///
+/// The size and color of the prefix icon is configured automatically using an
+/// [IconTheme] and therefore does not need to be explicitly given in the
+/// icon widget.
+///
+/// The prefix icon is constrained with a minimum size of 48px by 48px, but
+/// can be expanded beyond that. Anything larger than 24px will require
+/// additional padding to ensure it matches the Material Design spec of 12px
+/// padding between the left edge of the input and leading edge of the prefix
+/// icon. The following snippet shows how to pad the leading edge of the
+/// prefix icon:
+///
+/// ```dart
+/// prefixIcon: Padding(
+///   padding: const EdgeInsetsDirectional.only(start: 12.0),
+///   child: _myIcon, // _myIcon is a 48px-wide widget.
+/// )
+/// ```
+///
+/// {@macro flutter.material.input_decorator.container_description}
+///
+/// The prefix icon alignment can be changed using [Align] with a fixed `widthFactor` and
+/// `heightFactor`.
+///
+/// {@tool dartpad}
+/// This example shows how the prefix icon alignment can be changed using [Align] with
+/// a fixed `widthFactor` and `heightFactor`.
+///
+/// ** See code in examples/api/lib/material/input_decorator/input_decoration.prefix_icon.0.dart **
+/// {@end-tool}
+///
+/// See also:
+///
+///  * [Icon] and [ImageIcon], which are typically used to show icons.
+///  * [prefix] and [prefixText], which are other ways to show content
+///    before the text field (but after the icon).
+///  * [suffixIcon], which is the same but on the trailing edge.
+///  * [Align] A widget that aligns its child within itself and optionally
+///    sizes itself based on the child's size. ÀñöÀí¿„LÀñöƒŞ/// The constraints for the prefix icon.
+///
+/// This can be used to modify the [BoxConstraints] surrounding [prefixIcon].
+///
+/// This property is particularly useful for getting the decoration's height
+/// less than the minimum tappable height (which is 48px when the visual
+/// density is set to [VisualDensity.standard]). This can be achieved by
+/// setting [isDense] to true and setting the constraints' minimum height
+/// and width to a value lower than the minimum tappable size.
+///
+/// {@tool dartpad}
+/// This example shows the differences between two `TextField` widgets when
+/// [prefixIconConstraints] is set to the default value and when one is not.
+///
+/// The [isDense] property must be set to true to be able to
+/// set the constraints smaller than 48px.
+///
+/// If null, [BoxConstraints] with a minimum width and height of 48px is
+/// used.
+///
+/// ** See code in examples/api/lib/material/input_decorator/input_decoration.prefix_icon_constraints.0.dart **
+/// {@end-tool} ÀôRÀò‚FÀôR‚/// Optional widget to place on the line before the input.
+///
+/// This can be used, for example, to add some padding to text that would
+/// otherwise be specified using [prefixText], or to add a custom widget in
+/// front of the input. The widget's baseline is lined up with the input
+/// baseline.
+///
+/// Only one of [prefix] and [prefixText] can be specified.
+///
+/// The [prefix] appears after the [prefixIcon], if both are specified.
+///
+/// See also:
+///
+///  * [suffix], the equivalent but on the trailing edge. Àö™Àô_‚DÀö™‚/// Optional text prefix to place on the line before the input.
+///
+/// Uses the [prefixStyle]. Uses [hintStyle] if [prefixStyle] isn't specified.
+/// The prefix text is not returned as part of the user's input.
+///
+/// If a more elaborate prefix is required, consider using [prefix] instead.
+/// Only one of [prefix] and [prefixText] can be specified.
+///
+/// The [prefixText] appears after the [prefixIcon], if both are specified.
+///
+/// See also:
+///
+///  * [suffixText], the equivalent but on the trailing edge. Àø@Àöª¡Àø@c/// The style to use for the [prefixText].
+///
+/// If [prefixStyle] is a [WidgetStateTextStyle], then the effective
+/// text style can depend on the [WidgetState.focused] state, i.e.
+/// if the [TextField] is focused or not.
+///
+/// If null, defaults to the [hintStyle].
+///
+/// See also:
+///
+///  * [suffixStyle], the equivalent but on the trailing edge. ÀùjÀøR'Àùj€õ/// Optional color of the prefixIcon
+///
+/// Defaults to [iconColor]
+///
+/// If [prefixIconColor] is a [WidgetStateColor], then the effective
+/// color can depend on the [WidgetState.focused] state, i.e.
+/// if the [TextField] is focused or not. À”Àù€ˆÀ”‡/// An icon that appears after the editable part of the text field and
+/// after the [suffix] or [suffixText], within the decoration's container.
+///
+/// The size and color of the suffix icon is configured automatically using an
+/// [IconTheme] and therefore does not need to be explicitly given in the
+/// icon widget.
+///
+/// The suffix icon is constrained with a minimum size of 48px by 48px, but
+/// can be expanded beyond that. Anything larger than 24px will require
+/// additional padding to ensure it matches the Material Design spec of 12px
+/// padding between the right edge of the input and trailing edge of the
+/// prefix icon. The following snippet shows how to pad the trailing edge of
+/// the suffix icon:
+///
+/// ```dart
+/// suffixIcon: Padding(
+///   padding: const EdgeInsetsDirectional.only(end: 12.0),
+///   child: _myIcon, // myIcon is a 48px-wide widget.
+/// )
+/// ```
+///
+/// The decoration's container is the area which is filled if [filled] is
+/// true and bordered per the [border]. It's the area adjacent to
+/// [icon] and above the widgets that contain [helperText],
+/// [errorText], and [counterText].
+///
+/// The suffix icon alignment can be changed using [Align] with a fixed `widthFactor` and
+/// `heightFactor`.
+///
+/// {@tool dartpad}
+/// This example shows how the suffix icon alignment can be changed using [Align] with
+/// a fixed `widthFactor` and `heightFactor`.
+///
+/// ** See code in examples/api/lib/material/input_decorator/input_decoration.suffix_icon.0.dart **
+/// {@end-tool}
+///
+/// See also:
+///
+///  * [Icon] and [ImageIcon], which are typically used to show icons.
+///  * [suffix] and [suffixText], which are other ways to show content
+///    after the text field (but before the icon).
+///  * [prefixIcon], which is the same but on the leading edge.
+///  * [Align] A widget that aligns its child within itself and optionally
+///    sizes itself based on the child's size. ÀÛÀ¥‚<ÀÛ‚ /// Optional widget to place on the line after the input.
+///
+/// This can be used, for example, to add some padding to the text that would
+/// otherwise be specified using [suffixText], or to add a custom widget after
+/// the input. The widget's baseline is lined up with the input baseline.
+///
+/// Only one of [suffix] and [suffixText] can be specified.
+///
+/// The [suffix] appears before the [suffixIcon], if both are specified.
+///
+/// See also:
+///
+///  * [prefix], the equivalent but on the leading edge. À!Àè‚CÀ!‚/// Optional text suffix to place on the line after the input.
+///
+/// Uses the [suffixStyle]. Uses [hintStyle] if [suffixStyle] isn't specified.
+/// The suffix text is not returned as part of the user's input.
+///
+/// If a more elaborate suffix is required, consider using [suffix] instead.
+/// Only one of [suffix] and [suffixText] can be specified.
+///
+/// The [suffixText] appears before the [suffixIcon], if both are specified.
+///
+/// See also:
+///
+///  * [prefixText], the equivalent but on the leading edge. ÀÇÀ2 ÀÇb/// The style to use for the [suffixText].
+///
+/// If [suffixStyle] is a [WidgetStateTextStyle], then the effective text
+/// style can depend on the [WidgetState.focused] state, i.e. if the
+/// [TextField] is focused or not.
+///
+/// If null, defaults to the [hintStyle].
+///
+/// See also:
+///
+///  * [prefixStyle], the equivalent but on the leading edge. ÀôÀÙ*Àô€ø/// Optional color of the [suffixIcon].
+///
+/// Defaults to [iconColor]
+///
+/// If [suffixIconColor] is a [WidgetStateColor], then the effective
+/// color can depend on the [WidgetState.focused] state, i.e.
+/// if the [TextField] is focused or not. À£À	
+„®À£„7/// The constraints for the suffix icon.
+///
+/// This can be used to modify the [BoxConstraints] surrounding [suffixIcon].
+///
+/// This property is particularly useful for getting the decoration's height
+/// less than the minimum tappable height (which is 48px when the visual
+/// density is set to [VisualDensity.standard]). This can be achieved by
+/// setting [isDense] to true and setting the constraints' minimum height
+/// and width to a value lower than the minimum tappable size.
+///
+/// If null, a [BoxConstraints] with a minimum width and height of 48px is
+/// used.
+///
+/// {@tool dartpad}
+/// This example shows the differences between two `TextField` widgets when
+/// [suffixIconConstraints] is set to the default value and when one is not.
+///
+/// The [isDense] property must be set to true to be able to
+/// set the constraints smaller than 48px.
+///
+/// If null, [BoxConstraints] with a minimum width and height of 48px is
+/// used.
+///
+/// ** See code in examples/api/lib/material/input_decorator/input_decoration.suffix_icon_constraints.0.dart **
+/// {@end-tool} ÀLÀ¿˜ÀLc/// Optional text to place below the line as a character count.
+///
+/// Rendered using [counterStyle]. Uses [helperStyle] if [counterStyle] is
+/// null.
+///
+/// The semantic label can be replaced by providing a [semanticCounterText].
+///
+/// If null or an empty string and [counter] isn't specified, then nothing
+/// will appear in the counter's location. ÀÀ^€¾À€Ÿ/// Optional custom counter widget to go in the place otherwise occupied by
+/// [counterText]. If this property is non null, then [counterText] is
+/// ignored. À\À#EÀ\/// The style to use for the [counterText].
+///
+/// If [counterStyle] is a [WidgetStateTextStyle], then the effective
+/// text style can depend on the [WidgetState.focused] state, i.e.
+/// if the [TextField] is focused or not.
+///
+/// If null, defaults to the [helperStyle]. ÀÀo‚µÀ‚x/// If true the decoration's container is filled with [fillColor].
+///
+/// When [InputDecorator.isHovering] is true, the [hoverColor] is also blended
+/// into the final fill color.
+///
+/// Typically this field set to true if [border] is an [UnderlineInputBorder].
+///
+/// {@template flutter.material.input_decorator.container_description}
+/// The decoration's container is the area which is filled if [filled] is true
+/// and bordered per the [border]. It's the area adjacent to [icon] and above
+/// the widgets that contain [helperText], [errorText], and [counterText].
+/// {@endtemplate}
+///
+/// This property is false by default. À¯À+À¯[/// The base fill color of the decoration's container color.
+///
+/// When [InputDecorator.isHovering] is true, the [hoverColor] is also blended
+/// into the final fill color.
+///
+/// By default the [fillColor] is based on the current
+/// [InputDecorationThemeData.fillColor].
+///
+/// {@macro flutter.material.input_decorator.container_description} ÀúÀ¿‚EÀú‚/// The fill color of the decoration's container when it has the input focus.
+///
+/// By default the [focusColor] is based on the current
+/// [InputDecorationThemeData.focusColor].
+///
+/// This [focusColor] is ignored by [TextField] and [TextFormField] because
+/// they don't respond to focus changes by changing their decorator's
+/// container color, they respond by changing their border to the
+/// [focusedBorder], which you can change the color of.
+///
+/// {@macro flutter.material.input_decorator.container_description} À.À‚-À.ñ/// The color of the highlight for the decoration shown if the container
+/// is being hovered over by a mouse.
+///
+/// If [filled] is true, the [hoverColor] is blended with [fillColor] and
+/// fills the decoration's container.
+///
+/// If [filled] is false, and [InputDecorator.isFocused] is false, the color
+/// is blended over the [enabledBorder]'s color.
+///
+/// By default the [hoverColor] is based on the current [Theme].
+///
+/// {@macro flutter.material.input_decorator.container_description} ÀfÀ?…2Àf„Ñ/// The border to display when the [InputDecorator] does not have the focus and
+/// is showing an error.
+///
+/// See also:
+///
+///  * [InputDecorator.isFocused], which is true if the [InputDecorator]'s child
+///    has the focus.
+///  * [InputDecoration.errorText], the error shown by the [InputDecorator], if non-null.
+///  * [border], for a description of where the [InputDecorator] border appears.
+///  * [UnderlineInputBorder], an [InputDecorator] border which draws a horizontal
+///    line at the bottom of the input decorator's container.
+///  * [OutlineInputBorder], an [InputDecorator] border which draws a
+///    rounded rectangle around the input decorator's container.
+///  * [InputBorder.none], which doesn't draw a border.
+///  * [focusedBorder], displayed when [InputDecorator.isFocused] is true
+///    and [InputDecoration.errorText] is null.
+///  * [focusedErrorBorder], displayed when [InputDecorator.isFocused] is true
+///    and [InputDecoration.errorText] is non-null.
+///  * [disabledBorder], displayed when [InputDecoration.enabled] is false
+///    and [InputDecoration.errorText] is null.
+///  * [enabledBorder], displayed when [InputDecoration.enabled] is true
+///    and [InputDecoration.errorText] is null. À$œÀx…1À$œ„Î/// The border to display when the [InputDecorator] has the focus and is not
+/// showing an error.
+///
+/// See also:
+///
+///  * [InputDecorator.isFocused], which is true if the [InputDecorator]'s child
+///    has the focus.
+///  * [InputDecoration.errorText], the error shown by the [InputDecorator], if non-null.
+///  * [border], for a description of where the [InputDecorator] border appears.
+///  * [UnderlineInputBorder], an [InputDecorator] border which draws a horizontal
+///    line at the bottom of the input decorator's container.
+///  * [OutlineInputBorder], an [InputDecorator] border which draws a
+///    rounded rectangle around the input decorator's container.
+///  * [InputBorder.none], which doesn't draw a border.
+///  * [errorBorder], displayed when [InputDecorator.isFocused] is false
+///    and [InputDecoration.errorText] is non-null.
+///  * [focusedErrorBorder], displayed when [InputDecorator.isFocused] is true
+///    and [InputDecoration.errorText] is non-null.
+///  * [disabledBorder], displayed when [InputDecoration.enabled] is false
+///    and [InputDecoration.errorText] is null.
+///  * [enabledBorder], displayed when [InputDecoration.enabled] is true
+///    and [InputDecoration.errorText] is null. À)ÇÀ$°…)À)Ç„Á/// The border to display when the [InputDecorator] has the focus and is
+/// showing an error.
+///
+/// See also:
+///
+///  * [InputDecorator.isFocused], which is true if the [InputDecorator]'s child
+///    has the focus.
+///  * [InputDecoration.errorText], the error shown by the [InputDecorator], if non-null.
+///  * [border], for a description of where the [InputDecorator] border appears.
+///  * [UnderlineInputBorder], an [InputDecorator] border which draws a horizontal
+///    line at the bottom of the input decorator's container.
+///  * [OutlineInputBorder], an [InputDecorator] border which draws a
+///    rounded rectangle around the input decorator's container.
+///  * [InputBorder.none], which doesn't draw a border.
+///  * [errorBorder], displayed when [InputDecorator.isFocused] is false
+///    and [InputDecoration.errorText] is non-null.
+///  * [focusedBorder], displayed when [InputDecorator.isFocused] is true
+///    and [InputDecoration.errorText] is null.
+///  * [disabledBorder], displayed when [InputDecoration.enabled] is false
+///    and [InputDecoration.errorText] is null.
+///  * [enabledBorder], displayed when [InputDecoration.enabled] is true
+///    and [InputDecoration.errorText] is null. À.íÀ)à…À.í„º/// The border to display when the [InputDecorator] is disabled and is not
+/// showing an error.
+///
+/// See also:
+///
+///  * [InputDecoration.enabled], which is false if the [InputDecorator] is disabled.
+///  * [InputDecoration.errorText], the error shown by the [InputDecorator], if non-null.
+///  * [border], for a description of where the [InputDecorator] border appears.
+///  * [UnderlineInputBorder], an [InputDecorator] border which draws a horizontal
+///    line at the bottom of the input decorator's container.
+///  * [OutlineInputBorder], an [InputDecorator] border which draws a
+///    rounded rectangle around the input decorator's container.
+///  * [InputBorder.none], which doesn't draw a border.
+///  * [errorBorder], displayed when [InputDecorator.isFocused] is false
+///    and [InputDecoration.errorText] is non-null.
+///  * [focusedBorder], displayed when [InputDecorator.isFocused] is true
+///    and [InputDecoration.errorText] is null.
+///  * [focusedErrorBorder], displayed when [InputDecorator.isFocused] is true
+///    and [InputDecoration.errorText] is non-null.
+///  * [enabledBorder], displayed when [InputDecoration.enabled] is true
+///    and [InputDecoration.errorText] is null. À4À/…À4„»/// The border to display when the [InputDecorator] is enabled and is not
+/// showing an error.
+///
+/// See also:
+///
+///  * [InputDecoration.enabled], which is false if the [InputDecorator] is disabled.
+///  * [InputDecoration.errorText], the error shown by the [InputDecorator], if non-null.
+///  * [border], for a description of where the [InputDecorator] border appears.
+///  * [UnderlineInputBorder], an [InputDecorator] border which draws a horizontal
+///    line at the bottom of the input decorator's container.
+///  * [OutlineInputBorder], an [InputDecorator] border which draws a
+///    rounded rectangle around the input decorator's container.
+///  * [InputBorder.none], which doesn't draw a border.
+///  * [errorBorder], displayed when [InputDecorator.isFocused] is false
+///    and [InputDecoration.errorText] is non-null.
+///  * [focusedBorder], displayed when [InputDecorator.isFocused] is true
+///    and [InputDecoration.errorText] is null.
+///  * [focusedErrorBorder], displayed when [InputDecorator.isFocused] is true
+///    and [InputDecoration.errorText] is non-null.
+///  * [disabledBorder], displayed when [InputDecoration.enabled] is false
+///    and [InputDecoration.errorText] is null. À<™À4$ˆ{À<™‡ê/// The shape of the border to draw around the decoration's container.
+///
+/// If [border] is a [WidgetStateInputBorder] then the effective border is resolved
+/// in the following states:
+///  * [WidgetState.disabled].
+///  * [WidgetState.error].
+///  * [WidgetState.focused].
+///  * [WidgetState.hovered].
+///
+/// If [border] derives from [InputBorder] the border's [InputBorder.borderSide],
+/// i.e. the border's color and width, will be overridden to reflect the input
+/// decorator's state. Only the border's shape is used. If custom  [BorderSide]
+/// values are desired for a given state, all five borders â€“ [errorBorder],
+/// [focusedBorder], [enabledBorder], [disabledBorder], [focusedErrorBorder] â€“ must be set.
+///
+/// The decoration's container is the area which is filled if [filled] is
+/// true and bordered per the [border]. It's the area adjacent to
+/// [InputDecoration.icon] and above the widgets that contain
+/// [InputDecoration.helperText], [InputDecoration.errorText], and
+/// [InputDecoration.counterText].
+///
+/// The border's bounds, i.e. the value of `border.getOuterPath()`, define
+/// the area to be filled.
+///
+/// This property is only used when the appropriate one of [errorBorder],
+/// [focusedBorder], [focusedErrorBorder], [disabledBorder], or [enabledBorder]
+/// is not specified. This border's [InputBorder.borderSide] property is
+/// configured by the InputDecorator, depending on the values of
+/// [InputDecoration.errorText], [InputDecoration.enabled],
+/// [InputDecorator.isFocused] and the current [Theme].
+///
+/// Typically one of [UnderlineInputBorder] or [OutlineInputBorder].
+/// If null, InputDecorator's default is `const UnderlineInputBorder()`.
+///
+/// See also:
+///
+///  * [InputBorder.none], which doesn't draw a border.
+///  * [UnderlineInputBorder], which draws a horizontal line at the
+///    bottom of the input decorator's container.
+///  * [OutlineInputBorder], an [InputDecorator] border which draws a
+///    rounded rectangle around the input decorator's container. À=WÀ<¦€¸À=W€œ/// If false the opacity of the visual elements is reduced, including [helperText],[errorText], and [counterText].
+///
+/// This property is true by default. À>À=e€ÂÀ>€‘/// A semantic label for the [counterText].
+///
+/// Defaults to null.
+///
+/// If provided, this replaces the semantic label of the [counterText]. À?BÀ>.&À?B€ø/// Typically set to true when the [InputDecorator] contains a multiline
+/// [TextField] ([TextField.maxLines] is null or > 1) to override the default
+/// behavior of aligning the label with the center of the [TextField].
+///
+/// Defaults to false. ÀAÏÀ?[‚ÀAÏ‚</// Defines minimum and maximum sizes for the [InputDecorator].
+///
+/// Typically the decorator will fill the horizontal space it is given. For
+/// larger screens, it may be useful to have the maximum width clamped to
+/// a given value so it doesn't fill the whole screen. This property
+/// allows you to control how big the decorator will be in its available
+/// space.
+///
+/// If null, then the ambient [InputDecorationThemeData.constraints] will be used.
+/// If that is null then the decorator will fill the available width with
+/// a default height based on text size. ÀF ÀAá„,ÀF ƒÄ/// Defines how compact the decoration's layout will be.
+///
+/// The vertical aspect of the default or user-specified [contentPadding] is adjusted
+/// automatically based on [visualDensity].
+///
+/// When the visual density is [VisualDensity.compact], the vertical aspect of
+/// [contentPadding] is reduced by 8 pixels.
+///
+/// When the visual density is [VisualDensity.comfortable], the vertical aspect of
+/// [contentPadding] is reduced by 4 pixels.
+///
+/// When the visual density is [VisualDensity.standard] vertical aspect of
+/// [contentPadding] is not changed.
+///
+/// If null, then the ambient [InputDecorationThemeData.visualDensity] will be used.
+/// If that is null then [ThemeData.visualDensity] will be used.
+///
+/// See also:
+///
+///  * [ThemeData.visualDensity], which specifies the [visualDensity] for all widgets
+///    within a [Theme].
+///  * [InputDecorationThemeData.visualDensity], which can override this setting for a
+///    given decorator.  Àq^Àq_Àq^Àq^… Àqs   ;  ÀFœÀFœÀF¤   ÀF¯ÀF¯ÀF¶   ÀFÆÀFÆÀFÎ   ÀFÚÀFÚÀFâ   ÀFòÀFòÀFı   ÀGÀGÀG   ÀG2ÀG2ÀG:   ÀGGÀGGÀGO   ÀG`ÀG`ÀGk   ÀG}ÀG}ÀG‚   ÀG—ÀG—ÀGŸ   ÀG®ÀG®ÀG¶   ÀGÁÀGÁÀGÌ   ÀGÜÀGÜ ÀGë   ÀHÀHÀH   ÀH$ÀH$ÀH)   ÀH<ÀH<ÀHB   ÀH[ÀH[ÀHa   ÀHxÀHxÀH~   ÀH–ÀH–ÀH   ÀHªÀHªÀH²   ÀHÂÀHÂÀHÍ   ÀHŞÀHŞÀHã   ÀH÷ÀH÷,ÀI   ÀI*ÀI*.ÀIB   ÀI_ÀI_ÀIe   ÀIwÀIwÀI}   ÀI‹ÀI‹"ÀIŸ   ÀI´ÀI´ÀI¼   ÀIÍÀIÍÀIÕ   ÀIâÀIâÀIê   ÀIûÀIû%ÀJ   ÀJ'ÀJ'ÀJ2   ÀJDÀJDÀJK   ÀJaÀJaÀJi   ÀJzÀJzÀJ‚   ÀJÀJÀJ—   ÀJ¨ÀJ¨ÀJ³   ÀJÅÀJÅÀJÌ   ÀJâÀJâ%ÀJò   ÀKÀKÀK   ÀK$ÀK$ÀK,   ÀK>ÀK>ÀKI   ÀK\ÀK\ÀKb   ÀKoÀKoÀKv   ÀK†ÀK†ÀK   ÀKÀKÀK¥   ÀK¶ÀK¶ÀKÃ   ÀKÕÀKÕÀKâ   ÀKöÀKöÀL   ÀLÀLÀL)   ÀL>ÀL>ÀLK   ÀL_ÀL_ÀLl   ÀLyÀLyÀL   ÀLÀLÀL•   ÀL¯ÀL¯ÀLµ   ÀLÎÀLÎÀLŞ   ÀLğÀLğÀLÿ   ÀMÀM"ÀM%  ÀFÀF“ÑÀFŒa/// Creates a copy of this input decoration with the given fields replaced
+/// by the new values.   À[=À[=À[D  ÀYëÀYëŒÀ[/$/// Used by widgets like [TextField] and [InputDecorator] to create a new
+/// [InputDecoration] with default values taken from the [inputDecorationTheme].
+///
+/// Only null valued properties from this [InputDecoration] are replaced
+/// by the corresponding values from [inputDecorationTheme].   ÀfÀfÀf ÀeõÀeöÀeõÀeõ‹cÀf   Àv„Àv…Àv„Àv„ªÀv˜ ÀŠÄÀŠÅÀ}…À}…À¬ÀŠÖŒö/// The border, labels, icons, and styles used to decorate a Material
+/// Design text field.
+///
+/// The [TextField] and [InputDecorator] classes use [InputDecoration] objects
+/// to describe their decoration. (In fact, this class is merely the
+/// configuration of an [InputDecorator], which does all the heavy lifting.)
+///
+/// {@tool dartpad}
+/// This sample shows how to style a `TextField` using an `InputDecorator`. The
+/// TextField displays a "send message" icon to the left of the input area,
+/// which is surrounded by a border an all sides. It displays the `hintText`
+/// inside the input area to help the user understand what input is required. It
+/// displays the `helperText` and `counterText` below the input area.
+///
+/// ![](https://flutter.github.io/assets-for-api-docs/assets/material/input_decoration.png)
+///
+/// ** See code in examples/api/lib/material/input_decorator/input_decoration.0.dart **
+/// {@end-tool}
+///
+/// {@tool dartpad}
+/// This sample shows how to style a "collapsed" `TextField` using an
+/// `InputDecorator`. The collapsed `TextField` surrounds the hint text and
+/// input area with a border, but does not add padding around them.
+///
+/// ![](https://flutter.github.io/assets-for-api-docs/assets/material/input_decoration_collapsed.png)
+///
+/// ** See code in examples/api/lib/material/input_decorator/input_decoration.1.dart **
+/// {@end-tool}
+///
+/// {@tool dartpad}
+/// This sample shows how to create a `TextField` with hint text, a red border
+/// on all sides, and an error message. To display a red border and error
+/// message, provide `errorText` to the [InputDecoration] constructor.
+///
+/// ![](https://flutter.github.io/assets-for-api-docs/assets/material/input_decoration_error.png)
+///
+/// ** See code in examples/api/lib/material/input_decorator/input_decoration.2.dart **
+/// {@end-tool}
+///
+/// {@tool dartpad}
+/// This sample shows how to style a `TextField` with a round border and
+/// additional text before and after the input area. It displays "Prefix" before
+/// the input area, and "Suffix" after the input area.
+///
+/// ![](https://flutter.github.io/assets-for-api-docs/assets/material/input_decoration_prefix_suffix.png)
+///
+/// ** See code in examples/api/lib/material/input_decorator/input_decoration.3.dart **
+/// {@end-tool}
+///
+/// {@tool dartpad}
+/// This sample shows how to style a `TextField` with a prefixIcon that changes color
+/// based on the `WidgetState`. The color defaults to gray and is green while focused.
+///
+/// ** See code in examples/api/lib/material/input_decorator/input_decoration.widget_state.0.dart **
+/// {@end-tool}
+///
+/// {@tool dartpad}
+/// This sample shows how to style a `TextField` with a prefixIcon that changes color
+/// based on the `WidgetState` through the use of `ThemeData`. The color defaults
+/// to gray, be blue while focused and red if in an error state.
+///
+/// ** See code in examples/api/lib/material/input_decorator/input_decoration.widget_state.1.dart **
+/// {@end-tool}
+///
+/// See also:
+///
+///  * [TextField], which is a text input widget that uses an
+///    [InputDecoration].
+///  * [InputDecorator], which is a widget that draws an [InputDecoration]
+///    around an input child widget.
+///  * [Decoration] and [DecoratedBox], for drawing borders and backgrounds
+///    around a child widget.  À‡$ À‡8    (  À‡@À‡@	À‡F   À‡PÀ‡PÀ‡[   À‡lÀ‡lÀ‡w   À‡À‡À‡›   À‡­À‡­À‡²   À‡ÇÀ‡ÇÀ‡Ò   À‡âÀ‡âÀ‡ì   ÀˆÀˆÀˆ   ÀˆÀˆÀˆ&   Àˆ7Àˆ7Àˆ<   ÀˆPÀˆP,Àˆg   ÀˆƒÀˆƒ.Àˆ›   Àˆ¸Àˆ¸Àˆ¾   ÀˆÌÀˆÌ"Àˆà   ÀˆõÀˆõÀˆû   À‰À‰À‰   À‰$À‰$À‰/   À‰AÀ‰AÀ‰H   À‰^À‰^%À‰n   À‰ŠÀ‰ŠÀ‰•   À‰§À‰§À‰®   À‰ÄÀ‰Ä%À‰Ô   À‰ğÀ‰ğÀ‰û   ÀŠÀŠÀŠ   ÀŠ!ÀŠ!ÀŠ(   ÀŠ8ÀŠ8!ÀŠD   ÀŠ`ÀŠ`ÀŠl   ÀŠ€ÀŠ€ÀŠ‡   ÀŠ˜ÀŠ˜ÀŠŸ   ÀŠ°ÀŠ°ÀŠ½   ÀŠÏÀŠÏÀŠÜ   ÀŠğÀŠğÀŠı   À‹À‹À‹#   À‹8À‹8À‹E   À‹YÀ‹YÀ‹f   À‹sÀ‹sÀ‹y   À‹’À‹’À‹¢   À‹´À‹´À‹Ã   À‹×À‹×À‹ñ   À‹üÀ‹üÀŒ €ãÀŒÀŒÀ‘úÀŒ2ÀŒ*ÀŒ%ÀŒ-À‘×ÀŒCÀ‘ÕÀ‘¯À‘ŠÀ‘^À‘>À‘ÀïÀÃÀœÀwÀSÀ/ÀÀÙÀ¶À–ÀpÀAÀÀóÀÄÀ›ÀvÀSÀ.ÀÀåÀµÀ†À_À;ÀÀŒëÀŒÈÀŒ ÀŒ{ÀŒOÀŒDÀŒhÀŒ”ÀŒ¹ÀŒáÀÀ.ÀTÀxÀŸÀÎÀşÀÀGÀlÀÀ´ÀİÀÀ1ÀZÀ‰À¯ÀÏÀòÀ!ÀHÀlÀÀµÀÜÀ‘À‘0À‘WÀ‘wÀ‘£À‘ÈÀ‘ìÀ’À’À’À’'À’;À’=À’YÀ’fÀ’hÀ’}À’À’À’§À’²À’´À’ÇÀ’ÙÀ’ÛÀ’õÀ“À“À“À“'À“)À“=À“LÀ“NÀ“eÀ“|À“”À“~À“—À“¬À“­À“»À“ÓÀ“ìÀ“ÕÀ“ïÀ”À”À”À”À”(À” À”+À”:À”JÀ”LÀ”dÀ”qÀ”À”sÀ”‚À”‘À”œÀ”À”±À”¾À”ÀÀ”ÕÀ”æÀ”èÀ•À•À•À•9À•FÀ•HÀ•]À•nÀ•pÀ•‰À• À•¢À•ÁÀ•ÏÀ•ÑÀ•çÀ•ïÀ•øÀ•ñÀ•ûÀ–
+À–À–À–*À–AÀ–CÀ–bÀ–qÀ–sÀ–ŠÀ––À–˜À–¬À–¸À–ºÀ–ÎÀ–ÛÀ–İÀ–òÀ—À—À—À—.À—0À—LÀ—\À—^À—vÀ—…À—‡À—À—¦À—¨À—¸À—ÌÀ—áÀ—ÎÀ—äÀ—óÀ˜ À˜À˜À˜&À˜(À˜?À˜EÀ˜GÀ˜UÀ˜ZÀ˜‚À˜[À˜`À˜hÀ˜bÀ˜kÀ˜qÀ˜yÀ˜zÀ˜€À˜À†­À†­‘× j/// Creates a [InputDecorationTheme] that controls visual parameters for
+/// descendant [InputDecorator]s. & À˜ªÀ˜Š%À˜ª  À˜ÅÀ˜´À˜Å  À˜æÀ˜Õ$À˜æ  À™À˜şÀ™  À™+À™ À™+  À™PÀ™?À™P  À™oÀ™_!À™o  À™À™…À™  À™³À™¢À™³  À™ÎÀ™ÃÀ™Î  À™ıÀ™á2À™ı  Àš5Àš4Àš5  Àš\ÀšQÀš\  ÀšƒÀši)Àšƒ  Àš¢Àš—Àš¢  ÀšÀÀš³ÀšÀ  ÀšàÀšÏÀšà  ÀšşÀšñÀšş  À›)À›,À›)  À›UÀ›DÀ›U  À›sÀ›fÀ›s  À›À›ˆ,À›  À›ÊÀ›¹À›Ê  À›çÀ›ÜÀ›ç  Àœ À›óÀœ   Àœ!Àœ(Àœ!  ÀœNÀœ< ÀœN  ÀœnÀœaÀœn  Àœ‹Àœ~Àœ‹  Àœ®Àœ›Àœ®  ÀœÒÀœ¿!ÀœÒ  ÀœøÀœå&Àœø  À#À"À#  ÀJÀ7!ÀJ  ÀpÀ]Àp  À‡À|À‡  ÀµÀŸ"Àµ  ÀÛÀÆ#ÀÛ &   ÀğÀğ=Àğ€ä/// Overrides the default value for [InputDecoration.labelStyle].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.labelStyle] property in [data] instead.   ÀŸ3ÀŸ3lÀ C€ô/// Overrides the default value for [InputDecoration.floatingLabelStyle].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.floatingLabelStyle] property in [data] instead.   À ¥À ¥IÀ¡®€í/// Overrides the default value for [InputDecoration.floatingLabelStyle].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.helperStyle] property in [data] instead.   À¡ôÀ¡ôKÀ¢ö€ì/// Overrides the default value for [InputDecoration.helperMaxLines].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.helperMaxLines] property in [data] instead.   À£EÀ£E8À¤C€â/// Overrides the default value for [InputDecoration.hintStyle].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.hintStyle] property in [data] instead.   À¤ƒÀ¤ƒZÀ¥€ğ/// Overrides the default value for [InputDecoration.hintFadeDuration].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.hintFadeDuration] property in [data] instead.   À¥ãÀ¥ãAÀ¦á€è/// Overrides the default value for [InputDecoration.hintMaxLines].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.hintMaxLines] property in [data] instead.   À§*À§*=À¨*€ä/// Overrides the default value for [InputDecoration.errorStyle].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.errorStyle] property in [data] instead.   À¨mÀ¨mFÀ©m€ê/// Overrides the default value for [InputDecoration.errorMaxLines].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.errorMaxLines] property in [data] instead.   À©¹À©¹†ÀªÚ€ú/// Overrides the default value for [InputDecoration.floatingLabelBehavior].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.floatingLabelBehavior] property in [data] instead.   À«EÀ«EŒÀ¬i€ü/// Overrides the default value for [InputDecoration.floatingLabelAlignment].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.floatingLabelAlignment] property in [data] instead.   À¬×À¬×(À­Ë€Ş/// Overrides the default value for [InputDecoration.isDense].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.isDense] property in [data] instead.   À®À®ZÀ¯€ì/// Overrides the default value for [InputDecoration.contentPadding].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.contentPadding] property in [data] instead.   À¯eÀ¯e<À°a€æ/// Overrides the default value for [InputDecoration.isCollapsed].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.isCollapsed] property in [data] instead.   À°§À°§4À±¡€â/// Overrides the default value for [InputDecoration.iconColor].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.iconColor] property in [data] instead.   À±áÀ±áBÀ²ã€æ/// Overrides the default value for [InputDecoration.prefixStyle].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.prefixStyle] property in [data] instead.   À³)À³)RÀ´/€î/// Overrides the default value for [InputDecoration.prefixIconColor].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.prefixIconColor] property in [data] instead.   À´À´€Àµœ€ú/// Overrides the default value for [InputDecoration.prefixIconConstraints].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.prefixIconConstraints] property in [data] instead.   À¶À¶BÀ·	€æ/// Overrides the default value for [InputDecoration.suffixStyle].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.suffixStyle] property in [data] instead.   À·OÀ·ORÀ¸U€î/// Overrides the default value for [InputDecoration.suffixIconColor].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.suffixIconColor] property in [data] instead.   À¸§À¸§€À¹Â€ú/// Overrides the default value for [InputDecoration.suffixIconConstraints].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.suffixIconConstraints] property in [data] instead.   Àº-Àº-GÀ»1€è/// Overrides the default value for [InputDecoration.counterStyle].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.counterStyle] property in [data] instead.   À»zÀ»z#À¼l€Ü/// Overrides the default value for [InputDecoration.filled].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.filled] property in [data] instead.   À¼£À¼£4À½€â/// Overrides the default value for [InputDecoration.fillColor].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.fillColor] property in [data] instead.   À½İÀ½İyÀ¾ñ€÷/// The borderSide of the UnderlineInputBorder with `color` and `weight`.
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.activeIndicatorBorder] property in [data] instead.   À¿\À¿\PÀÀf€í/// The borderSide of the OutlineInputBorder with `color` and `weight`.
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.outlineBorder] property in [data] instead.   ÀÀ²ÀÀ²9ÀÁ®€ä/// Overrides the default value for [InputDecoration.focusColor].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.focusColor] property in [data] instead.   ÀÁñÀÁñ9ÀÂí€ä/// Overrides the default value for [InputDecoration.hoverColor].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.hoverColor] property in [data] instead.   ÀÃ0ÀÃ0DÀÄ4€æ/// Overrides the default value for [InputDecoration.errorBorder].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.errorBorder] property in [data] instead.   ÀÄzÀÄzNÀÅ‚€ê/// Overrides the default value for [InputDecoration.focusedBorder].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.focusedBorder] property in [data] instead.   ÀÅÎÀÅÎnÀÆà€ô/// Overrides the default value for [InputDecoration.focusedErrorBorder].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.focusedErrorBorder] property in [data] instead.   ÀÇBÀÇBSÀÈL€ì/// Overrides the default value for [InputDecoration.disabledBorder].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.disabledBorder] property in [data] instead.   ÀÈ›ÀÈ›NÀÉ£€ê/// Overrides the default value for [InputDecoration.enabledBorder].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.enabledBorder] property in [data] instead.   ÀÉïÀÉï+ÀÊé€Ü/// Overrides the default value for [InputDecoration.border].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.border] property in [data] instead.   ÀË ÀË _ÀÌ*€ô/// Overrides the default value for [InputDecoration.alignLabelWithHint].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.alignLabelWithHint] property in [data] instead.   ÀÌ…ÀÌ…GÀÍŒ€æ/// Overrides the default value for [InputDecoration.constraints].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.constraints] property in [data] instead.   ÀÍÒÀÍÒPÀÎÜ€ê/// Overrides the default value for [InputDecoration.visualDensity].
+///
+/// This property is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.visualDensity] property in [data] instead.   ÀÏ(ÀÏ(†wÀÏ…</// The properties used for all descendant [TabBar] widgets.    À×2À×2À×?  ÀÕ¥ÀÕ¥‚À×/K/// Returns the closest [InputDecorationThemeData] instance given the build context.
+///
+/// If there is no enclosing [InputDecorationTheme] widget, then
+/// [ThemeData.inputDecorationTheme] is used.
+///
+/// Typical usage is as follows:
+///
+/// ```dart
+/// InputDecorationThemeData theme = InputDecorationTheme.of(context);
+/// ``` %  ÀÙJÀÙJÀÙU   ÀÙfÀÙfÀÙq   ÀÙŠÀÙŠÀÙ•   ÀÙ§ÀÙ§ÀÙ¬   ÀÙÁÀÙÁÀÙÌ   ÀÙÜÀÙÜÀÙæ   ÀÙıÀÙıÀÚ   ÀÚÀÚÀÚ    ÀÚ1ÀÚ1ÀÚ6   ÀÚJÀÚJ,ÀÚa   ÀÚ}ÀÚ}.ÀÚ•   ÀÚ²ÀÚ²ÀÚ¸   ÀÚÆÀÚÆ"ÀÚÚ   ÀÚïÀÚïÀÚõ   ÀÛÀÛÀÛ   ÀÛÀÛÀÛ)   ÀÛ;ÀÛ;ÀÛB   ÀÛXÀÛX%ÀÛh   ÀÛ„ÀÛ„ÀÛ   ÀÛ¡ÀÛ¡ÀÛ¨   ÀÛ¾ÀÛ¾%ÀÛÎ   ÀÛêÀÛêÀÛõ   ÀÜÀÜÀÜ   ÀÜÀÜÀÜ"   ÀÜ2ÀÜ2!ÀÜ>   ÀÜZÀÜZÀÜf   ÀÜzÀÜzÀÜ   ÀÜ’ÀÜ’ÀÜ™   ÀÜªÀÜªÀÜ·   ÀÜÉÀÜÉÀÜÖ   ÀÜêÀÜêÀÜ÷   ÀİÀİÀİ   Àİ2Àİ2Àİ?   ÀİSÀİSÀİ`   ÀİmÀİmÀİs   ÀİŒÀİŒÀİœ   Àİ®Àİ®Àİ½  ÀØ,ÀØ,uÀÙ:€é/// Creates a copy of this object but with the given fields replaced with the
+/// new values.
+///
+/// This method is obsolete and will be deprecated in a future release:
+/// please use the [InputDecorationThemeData.copyWith] instead.   ÀèïÀèïÀé  Àæ§Àæ§ŠÀèé‚/// Returns a copy of this InputDecorationTheme where the non-null fields in
+/// the given InputDecorationTheme override the corresponding nullable fields
+/// in this InputDecorationTheme.
+///
+/// The non-nullable fields of InputDecorationTheme, such as [floatingLabelBehavior],
+/// [isDense], [isCollapsed], [filled], and [alignLabelWithHint] cannot be overridden.
+///
+/// In other words, the fields of the provided [InputDecorationTheme] are used to
+/// fill in the unspecified and nullable fields of this InputDecorationTheme.   Àğ×Àğ×Àğì Àğ²Àğ³Àğ²Àğ²_ÀğÄ    Àñ0Àñ0Àñ=   ÀñFÀñFÀñM ÀñÀñÀñÀñÀñ+  À„5À„5À mdÀ†h‚ /// Defines the default appearance of [InputDecorator]s.
+///
+/// Descendant widgets obtain the current theme's [InputDecorationThemeData] using
+/// [InputDecorationTheme.of]. When a widget uses [InputDecorationTheme.of], it is
+/// automatically rebuilt if the theme later changes.
+///
+/// See also:
+///
+///  * [InputDecorationThemeData], which describes the actual configuration of an
+///    input decoration theme.
+///  * [ThemeData.inputDecorationTheme], which specifies an input decoration theme as
+///    part of the overall Material theme.  Àô± ÀôÉ    %  ÀôÑÀôÑÀôÖ   ÀôçÀôçÀôì   ÀõÀõÀõ
+   ÀõÀõÀõ!   Àõ6Àõ6Àõ;   ÀõKÀõKÀõP   ÀõgÀõgÀõl   ÀõÀõÀõ„   Àõ•Àõ•Àõš   Àõ®Àõ®7Àõ³   ÀõìÀõì:Àõñ   Àö-Àö-Àö2   ÀöHÀöHÀöM   ÀöbÀöbÀög   ÀöÀöÀö†   Àö–Àö–Àö›   Àö­Àö­Àö²   ÀöÈÀöÈÀöÍ   ÀöéÀöéÀöî   À÷ À÷ À÷   À÷À÷À÷    À÷<À÷<À÷A   À÷TÀ÷TÀ÷Y   À÷nÀ÷nÀ÷s   À÷ƒÀ÷ƒÀ÷ˆ   À÷¤À÷¤À÷©   À÷½À÷½À÷Â   À÷ÓÀ÷ÓÀ÷Ø   À÷éÀ÷éÀ÷î   Àø Àø Àø   ÀøÀøÀø   Àø7Àø7Àø<   ÀøQÀøQÀøV   ÀøjÀøjÀøo   Àø|Àø|Àø   Àø¢Àø¢Àø§   Àø¹Àø¹Àø¾ 
+ÀõËÀõàÀõáÀö
+Àö Àö!Àö<ÀöuÀ÷bÀø–Àô$Àô$„¯ €€/// Creates a [InputDecorationThemeData] that can be used to override default
+/// properties in a [InputDecorationTheme] widget. % Àù&ÀøÙWÀù&8/// {@macro flutter.material.inputDecoration.labelStyle} ÀùŒÀù7gÀùŒ@/// {@macro flutter.material.inputDecoration.floatingLabelStyle} Àú²Àù¥Àú²€ì/// The style to use for [InputDecoration.helperText].
+///
+/// If [helperStyle] is a [WidgetStateTextStyle], then the effective
+/// text style can depend on the [WidgetState.focused] state, i.e.
+/// if the [TextField] is focused or not. Àü«ÀúÄõÀü«º/// The maximum number of lines the [InputDecoration.helperText] can occupy.
+///
+/// Defaults to null, which means that the [InputDecoration.helperText] will
+/// be limited to a single line with [TextOverflow.ellipsis].
+///
+/// This value is passed along to the [Text.maxLines] attribute
+/// of the [Text] widget used to display the helper.
+///
+/// See also:
+///
+///  * [errorMaxLines], the equivalent but for the [InputDecoration.errorText]. ÀÿDÀüÀ‚ÀÿD‚K/// The style to use for the [InputDecoration.hintText].
+///
+/// If [hintStyle] is a [WidgetStateTextStyle], then the effective
+/// text style can depend on the [WidgetState.focused] state, i.e.
+/// if the [TextField] is focused or not.
+///
+/// Also used for the [InputDecoration.labelText] when the
+/// [InputDecoration.labelText] is displayed on top of the input field (i.e.,
+/// at the same location on the screen where text may be entered in the input
+/// field).
+///
+/// If null, defaults to a value derived from the base [TextStyle] for the
+/// input field and the current [Theme]. Àÿ»ÀÿTwÀÿ»S/// The duration of the [InputDecoration.hintText] fade in and fade out animations. ÀFÀÿÒ€ÀFS/// The maximum number of lines the [InputDecoration.hintText] can occupy.
+///
+/// Defaults to null, which means that the [InputDecoration.hintText] will
+/// be limited to a single line with [TextOverflow.ellipsis].
+///
+/// This value is passed along to the [Text.maxLines] attribute
+/// of the [Text] widget used to display the hint text. À¦ÀYWÀ¦8/// {@macro flutter.material.inputDecoration.errorStyle} ÀÀ·óÀ¹/// The maximum number of lines the [InputDecoration.errorText] can occupy.
+///
+/// Defaults to null, which means that the [InputDecoration.errorText] will be
+/// limited to a single line with [TextOverflow.ellipsis].
+///
+/// This value is passed along to the [Text.maxLines] attribute
+/// of the [Text] widget used to display the error.
+///
+/// See also:
+///
+///  * [helperMaxLines], the equivalent but for the [InputDecoration.helperText]. ÀLÀ±€°ÀLu/// {@macro flutter.material.inputDecoration.floatingLabelBehavior}
+///
+/// Defaults to [FloatingLabelBehavior.auto]. ÀÀh€µÀx/// {@macro flutter.material.inputDecoration.floatingLabelAlignment}
+///
+/// Defaults to [FloatingLabelAlignment.start]. À¼À$€ŸÀ¼€€/// Whether the input decorator's child is part of a dense form (i.e., uses
+/// less vertical space).
+///
+/// Defaults to false. ÀbÀÊ‚¦Àb‚Y/// The padding for the input decoration's container.
+///
+/// The decoration's container is the area which is filled if
+/// [InputDecoration.filled] is true and bordered per the [border].
+/// It's the area adjacent to [InputDecoration.icon] and above the
+/// [InputDecoration.icon] and above the widgets that contain
+/// [InputDecoration.helperText], [InputDecoration.errorText], and
+/// [InputDecoration.counterText].
+///
+/// By default the [contentPadding] reflects [visualDensity], [isDense] and
+/// the type of the [border]. If [isCollapsed] is true then [contentPadding]
+/// is [EdgeInsets.zero]. À	UÀw€éÀ	U€Æ/// Whether the decoration is the same size as the input field.
+///
+/// A collapsed decoration cannot have [InputDecoration.labelText],
+/// [InputDecoration.errorText], or an [InputDecoration.icon]. À
+¡À	gCÀ
+¡/// The Color to use for the [InputDecoration.icon].
+///
+/// If [iconColor] is a [WidgetStateColor], then the effective
+/// color can depend on the [WidgetState.focused] state, i.e.
+/// if the [TextField] is focused or not.
+///
+/// If null, defaults to the [ColorScheme.primary]. ÀöÀ
+±PÀö/// The style to use for the [InputDecoration.prefixText].
+///
+/// If [prefixStyle] is a [WidgetStateTextStyle], then the effective
+/// text style can depend on the [WidgetState.focused] state, i.e.
+/// if the [TextField] is focused or not.
+///
+/// If null, defaults to the [hintStyle]. ÀNÀUÀN#/// The Color to use for the [InputDecoration.prefixIcon].
+///
+/// If [prefixIconColor] is a [WidgetStateColor], then the effective
+/// color can depend on the [WidgetState.focused] state, i.e.
+/// if the [TextField] is focused or not.
+///
+/// If null, defaults to the [ColorScheme.primary]. ÀÀd‚ÃÀ‚p/// The constraints to use for [InputDecoration.prefixIconConstraints].
+///
+/// This can be used to modify the [BoxConstraints] surrounding
+/// [InputDecoration.prefixIcon].
+///
+/// This property is particularly useful for getting the decoration's height
+/// less than the minimum tappable height (which is 48px when the visual
+/// density is set to [VisualDensity.standard]). This can be achieved by
+/// setting [isDense] to true and setting the constraints' minimum height
+/// and width to a value lower than the minimum tappable size.
+///
+/// If null, [BoxConstraints] with a minimum width and height of 48px is
+/// used. ÀnÀ.KÀn/// The style to use for the [InputDecoration.suffixText].
+///
+/// If [suffixStyle] is a [WidgetStateTextStyle], then the effective
+/// color can depend on the [WidgetState.focused] state, i.e.
+/// if the [TextField] is focused or not.
+///
+/// If null, defaults to the [hintStyle]. ÀÆÀ€UÀÆ#/// The Color to use for the [InputDecoration.suffixIcon].
+///
+/// If [suffixIconColor] is a [WidgetStateColor], then the effective
+/// color can depend on the [WidgetState.focused] state, i.e.
+/// if the [TextField] is focused or not.
+///
+/// If null, defaults to the [ColorScheme.primary]. ÀŠÀÜ‚ÃÀŠ‚p/// The constraints to use for [InputDecoration.suffixIconConstraints].
+///
+/// This can be used to modify the [BoxConstraints] surrounding
+/// [InputDecoration.suffixIcon].
+///
+/// This property is particularly useful for getting the decoration's height
+/// less than the minimum tappable height (which is 48px when the visual
+/// density is set to [VisualDensity.standard]). This can be achieved by
+/// setting [isDense] to true and setting the constraints' minimum height
+/// and width to a value lower than the minimum tappable size.
+///
+/// If null, [BoxConstraints] with a minimum width and height of 48px is
+/// used. ÀïÀ¦UÀï"/// The style to use for the [InputDecoration.counterText].
+///
+/// If [counterStyle] is a [WidgetStateTextStyle], then the effective
+/// text style can depend on the [WidgetState.focused] state, i.e.
+/// if the [TextField] is focused or not.
+///
+/// If null, defaults to the [helperStyle]. ÀŸÀ£ÀŸs/// If true the decoration's container is filled with [fillColor].
+///
+/// Typically this field set to true if [border] is an
+/// [UnderlineInputBorder].
+///
+/// The decoration's container is the area, defined by the border's
+/// [InputBorder.getOuterPath], which is filled if [filled] is
+/// true and bordered per the [border].
+///
+/// This property is false by default. ÀÀ¬hÀ</// The color to fill the decoration's container with, if [filled] is true.
+///
+/// By default the fillColor is based on the current [Theme].
+///
+/// The decoration's container is the area, defined by the border's
+/// [InputBorder.getOuterPath], which is filled if [filled] is
+/// true and bordered per the [border]. ÀxÀjÀxG/// The borderSide of the OutlineInputBorder with `color` and `weight`. ÀëÀŒtÀëI/// The borderSide of the UnderlineInputBorder with `color` and `weight`. ÀÀ¡Àq/// The color to blend with the decoration's [fillColor] with, if [filled] is
+/// true and the container has the input focus.
+///
+/// By default the [focusColor] is based on the current [Theme].
+///
+/// The decoration's container is the area, defined by the border's
+/// [InputBorder.getOuterPath], which is filled if [filled] is
+/// true and bordered per the [border]. ÀŸÀ¯úÀŸÄ/// The color to blend with the decoration's [fillColor] with, if the
+/// decoration is being hovered over by a mouse pointer.
+///
+/// By default the [hoverColor] is based on the current [Theme].
+///
+/// The decoration's container is the area, defined by the border's
+/// [InputBorder.getOuterPath], which is filled if [filled] is
+/// true and bordered per the [border].
+///
+/// The container will be filled when hovered over even if [filled] is false. À#×À°…2À#×„Ñ/// The border to display when the [InputDecorator] does not have the focus and
+/// is showing an error.
+///
+/// See also:
+///
+///  * [InputDecorator.isFocused], which is true if the [InputDecorator]'s child
+///    has the focus.
+///  * [InputDecoration.errorText], the error shown by the [InputDecorator], if non-null.
+///  * [border], for a description of where the [InputDecorator] border appears.
+///  * [UnderlineInputBorder], an [InputDecorator] border which draws a horizontal
+///    line at the bottom of the input decorator's container.
+///  * [OutlineInputBorder], an [InputDecorator] border which draws a
+///    rounded rectangle around the input decorator's container.
+///  * [InputBorder.none], which doesn't draw a border.
+///  * [focusedBorder], displayed when [InputDecorator.isFocused] is true
+///    and [InputDecoration.errorText] is null.
+///  * [focusedErrorBorder], displayed when [InputDecorator.isFocused] is true
+///    and [InputDecoration.errorText] is non-null.
+///  * [disabledBorder], displayed when [InputDecoration.enabled] is false
+///    and [InputDecoration.errorText] is null.
+///  * [enabledBorder], displayed when [InputDecoration.enabled] is true
+///    and [InputDecoration.errorText] is null. À)À#é…1À)„Î/// The border to display when the [InputDecorator] has the focus and is not
+/// showing an error.
+///
+/// See also:
+///
+///  * [InputDecorator.isFocused], which is true if the [InputDecorator]'s child
+///    has the focus.
+///  * [InputDecoration.errorText], the error shown by the [InputDecorator], if non-null.
+///  * [border], for a description of where the [InputDecorator] border appears.
+///  * [UnderlineInputBorder], an [InputDecorator] border which draws a horizontal
+///    line at the bottom of the input decorator's container.
+///  * [OutlineInputBorder], an [InputDecorator] border which draws a
+///    rounded rectangle around the input decorator's container.
+///  * [InputBorder.none], which doesn't draw a border.
+///  * [errorBorder], displayed when [InputDecorator.isFocused] is false
+///    and [InputDecoration.errorText] is non-null.
+///  * [focusedErrorBorder], displayed when [InputDecorator.isFocused] is true
+///    and [InputDecoration.errorText] is non-null.
+///  * [disabledBorder], displayed when [InputDecoration.enabled] is false
+///    and [InputDecoration.errorText] is null.
+///  * [enabledBorder], displayed when [InputDecoration.enabled] is true
+///    and [InputDecoration.errorText] is null. À.8À)!…)À.8„Á/// The border to display when the [InputDecorator] has the focus and is
+/// showing an error.
+///
+/// See also:
+///
+///  * [InputDecorator.isFocused], which is true if the [InputDecorator]'s child
+///    has the focus.
+///  * [InputDecoration.errorText], the error shown by the [InputDecorator], if non-null.
+///  * [border], for a description of where the [InputDecorator] border appears.
+///  * [UnderlineInputBorder], an [InputDecorator] border which draws a horizontal
+///    line at the bottom of the input decorator's container.
+///  * [OutlineInputBorder], an [InputDecorator] border which draws a
+///    rounded rectangle around the input decorator's container.
+///  * [InputBorder.none], which doesn't draw a border.
+///  * [errorBorder], displayed when [InputDecorator.isFocused] is false
+///    and [InputDecoration.errorText] is non-null.
+///  * [focusedBorder], displayed when [InputDecorator.isFocused] is true
+///    and [InputDecoration.errorText] is null.
+///  * [disabledBorder], displayed when [InputDecoration.enabled] is false
+///    and [InputDecoration.errorText] is null.
+///  * [enabledBorder], displayed when [InputDecoration.enabled] is true
+///    and [InputDecoration.errorText] is null. À3^À.Q…À3^„º/// The border to display when the [InputDecorator] is disabled and is not
+/// showing an error.
+///
+/// See also:
+///
+///  * [InputDecoration.enabled], which is false if the [InputDecorator] is disabled.
+///  * [InputDecoration.errorText], the error shown by the [InputDecorator], if non-null.
+///  * [border], for a description of where the [InputDecorator] border appears.
+///  * [UnderlineInputBorder], an [InputDecorator] border which draws a horizontal
+///    line at the bottom of the input decorator's container.
+///  * [OutlineInputBorder], an [InputDecorator] border which draws a
+///    rounded rectangle around the input decorator's container.
+///  * [InputBorder.none], which doesn't draw a border.
+///  * [errorBorder], displayed when [InputDecorator.isFocused] is false
+///    and [InputDecoration.errorText] is non-null.
+///  * [focusedBorder], displayed when [InputDecorator.isFocused] is true
+///    and [InputDecoration.errorText] is null.
+///  * [focusedErrorBorder], displayed when [InputDecorator.isFocused] is true
+///    and [InputDecoration.errorText] is non-null.
+///  * [enabledBorder], displayed when [InputDecoration.enabled] is true
+///    and [InputDecoration.errorText] is null. À8À3s…À8„»/// The border to display when the [InputDecorator] is enabled and is not
+/// showing an error.
+///
+/// See also:
+///
+///  * [InputDecoration.enabled], which is false if the [InputDecorator] is disabled.
+///  * [InputDecoration.errorText], the error shown by the [InputDecorator], if non-null.
+///  * [border], for a description of where the [InputDecorator] border appears.
+///  * [UnderlineInputBorder], an [InputDecorator] border which draws a horizontal
+///    line at the bottom of the input decorator's container.
+///  * [OutlineInputBorder], an [InputDecorator] border which draws a
+///    rounded rectangle around the input decorator's container.
+///  * [InputBorder.none], which doesn't draw a border.
+///  * [errorBorder], displayed when [InputDecorator.isFocused] is false
+///    and [InputDecoration.errorText] is non-null.
+///  * [focusedBorder], displayed when [InputDecorator.isFocused] is true
+///    and [InputDecoration.errorText] is null.
+///  * [focusedErrorBorder], displayed when [InputDecorator.isFocused] is true
+///    and [InputDecoration.errorText] is non-null.
+///  * [disabledBorder], displayed when [InputDecoration.enabled] is false
+///    and [InputDecoration.errorText] is null. À?À8•††À?†/// The shape of the border to draw around the decoration's container.
+///
+/// If [border] is a [WidgetStateInputBorder], then the effective border can
+/// depend on the [WidgetState.focused] state, i.e. if the [TextField] is
+/// focused or not.
+///
+/// The decoration's container is the area which is filled if [filled] is
+/// true and bordered per the [border]. It's the area adjacent to
+/// [InputDecoration.icon] and above the widgets that contain
+/// [InputDecoration.helperText], [InputDecoration.errorText], and
+/// [InputDecoration.counterText].
+///
+/// The border's bounds, i.e. the value of `border.getOuterPath()`, define
+/// the area to be filled.
+///
+/// This property is only used when the appropriate one of [errorBorder],
+/// [focusedBorder], [focusedErrorBorder], [disabledBorder], or [enabledBorder]
+/// is not specified. This border's [InputBorder.borderSide] property is
+/// configured by the InputDecorator, depending on the values of
+/// [InputDecoration.errorText], [InputDecoration.enabled],
+/// [InputDecorator.isFocused] and the current [Theme].
+///
+/// Typically one of [UnderlineInputBorder] or [OutlineInputBorder].
+/// If null, InputDecorator's default is `const UnderlineInputBorder()`.
+///
+/// See also:
+///
+///  * [InputBorder.none], which doesn't draw a border.
+///  * [UnderlineInputBorder], which draws a horizontal line at the
+///    bottom of the input decorator's container.
+///  * [OutlineInputBorder], an [InputDecorator] border which draws a
+///    rounded rectangle around the input decorator's container. À@À?"À@€İ/// Typically set to true when the [InputDecorator] contains a multiline
+/// [TextField] ([TextField.maxLines] is null or > 1) to override the default
+/// behavior of aligning the label with the center of the [TextField]. ÀBÍÀ@-‚«ÀBÍ‚\/// Defines minimum and maximum sizes for the [InputDecorator].
+///
+/// Typically the decorator will fill the horizontal space it is given. For
+/// larger screens, it may be useful to have the maximum width clamped to
+/// a given value so it doesn't fill the whole screen. This property
+/// allows you to control how big the decorator will be in its available
+/// space.
+///
+/// If null, then the decorator will fill the available width with
+/// a default height based on text size.
+///
+/// See also:
+///
+///  * [InputDecoration.constraints], which can override this setting for a
+///    given decorator. ÀFÀBßƒ¾ÀFƒY/// Defines how compact the decoration's layout will be.
+///
+/// The vertical aspect of the default or user-specified [contentPadding] is adjusted
+/// automatically based on [visualDensity].
+///
+/// When the visual density is [VisualDensity.compact], the vertical aspect of
+/// [contentPadding] is reduced by 8 pixels.
+///
+/// When the visual density is [VisualDensity.comfortable], the vertical aspect of
+/// [contentPadding] is reduced by 4 pixels.
+///
+/// When the visual density is [VisualDensity.standard] vertical aspect of
+/// [contentPadding] is not changed.
+///
+/// If null, defaults to [ThemeData.visualDensity].
+///
+/// See also:
+///
+///  * [ThemeData.visualDensity], which specifies the [visualDensity] for all widgets
+///    within a [Theme].
+///  * [InputDecoration.visualDensity], which can override this setting for a
+///    given decorator.  À^ËÀ^ÌÀ^ËÀ^Ëƒ]À^à   %  ÀG1ÀG1ÀG<   ÀGMÀGMÀGX   ÀGqÀGqÀG|   ÀGÀGÀG“   ÀG¨ÀG¨ÀG³   ÀGÃÀGÃÀGÍ   ÀGäÀGäÀGé   ÀGüÀGüÀH   ÀHÀHÀH   ÀH1ÀH1,ÀHH   ÀHdÀHd.ÀH|   ÀH™ÀH™ÀHŸ   ÀH­ÀH­"ÀHÁ   ÀHÖÀHÖÀHÜ   ÀHîÀHîÀHõ   ÀIÀIÀI   ÀI"ÀI"ÀI)   ÀI?ÀI?%ÀIO   ÀIkÀIkÀIv   ÀIˆÀIˆÀI   ÀI¥ÀI¥%ÀIµ   ÀIÑÀIÑÀIÜ   ÀIïÀIïÀIõ   ÀJÀJÀJ	   ÀJÀJ!ÀJ%   ÀJAÀJAÀJM   ÀJaÀJaÀJh   ÀJyÀJyÀJ€   ÀJ‘ÀJ‘ÀJ   ÀJ°ÀJ°ÀJ½   ÀJÑÀJÑÀJŞ   ÀJ÷ÀJ÷ÀK   ÀKÀKÀK&   ÀK:ÀK:ÀKG   ÀKTÀKTÀKZ   ÀKsÀKsÀKƒ   ÀK•ÀK•ÀK¤  ÀF¤ÀF¤èÀG!]/// Creates a copy of this object but with the given fields replaced with the
+/// new values.   ÀWÀWÀW  ÀT’ÀT’Š3ÀVş‚1/// Returns a copy of this InputDecorationThemeData where the non-null fields in
+/// the given InputDecorationThemeData override the corresponding nullable fields
+/// in this InputDecorationThemeData.
+///
+/// The non-nullable fields of InputDecorationThemeData, such as
+/// [floatingLabelBehavior], [isDense], [isCollapsed], [filled], and
+/// [alignLabelWithHint] cannot be overridden.
+///
+/// In other words, the fields of the provided [InputDecorationThemeData]
+/// are used to fill in the unspecified and nullable fields of this
+/// InputDecorationThemeData.   ÀbLÀbLÀbS Àb.Àb/Àb.Àb.ˆ@ÀbI    ÀjšÀjš&Àj¶ ÀjtÀjuÀjtÀjt˜pÀj† ÀóàÀóáÀñÀñÀ ‘JÀóò‚5/// Defines the default appearance of [InputDecorator]s.
+///
+/// Descendant widgets obtain the current theme's [InputDecorationThemeData] using
+/// [InputDecorationTheme.of]. When a widget uses [InputDecorationTheme.of], it is
+/// automatically rebuilt if the theme later changes.
+///
+/// The [InputDecoration.applyDefaults] method is used to combine an input
+/// decoration theme with an [InputDecoration] object.
+///
+/// See also:
+///
+///  * [ThemeData.inputDecorationTheme], which specifies an input decoration theme as
+///    part of the overall Material theme.  Àƒ7 ÀƒP      ÀƒQÀƒQÀƒV ÀƒaÀƒfÀƒgÀƒ1Àƒ18    Àƒ‚ÀƒoÀƒ‚ 	  ÀƒÀƒ‘ÀƒÀƒ!Àƒ¬   À„·À„¸À„·À„·"À„Ó   À…ßÀ…àÀ…ßÀ…ß‚$À…û   Àˆ	Àˆ
+Àˆ	Àˆ	€Àˆ%   À‰À‰À‰À‰…À‰«   À‹À‹À‹À‹ìÀ‹2   ÀÀÀÀòÀ$   ÀÀÀÀøÀ   À‘À‘À‘À‘‚aÀ‘    À‚ëÀ‚ë{À‚ñ   À”å À”ş      À”ÿÀ”ÿÀ• À•À•À•À”åÀ”å7    À•5À•"À•5 À•dÀ•iÀ•jÀ•lÀ•tÀ•mÀ•uÀ•vÀ•ZÀ•C>À•Z À•¨À•­À•®À•°À•¸À•±À•¹À•ºÀ•›À•†=À•›   À˜xÀ˜yÀ˜xÀ˜x"À˜”   À™ À™¡À™ À™ €ıÀ™¸   Àš£Àš¤Àš£Àš£ƒoÀšÀ   ÀÀÀÀƒ\À5   À¡zÀ¡{À¡zÀ¡z>À¡’   À¡¾À¡¿À¡¾À¡¾€üÀ¡Ö   À¢ÀÀ¢ÁÀ¢ÀÀ¢ÀµÀ¢Ø   À¤{À¤|À¤{À¤{ƒÓÀ¤—   À¨TÀ¨UÀ¨TÀ¨TƒÛÀ¨p   À¬5À¬6À¬5À¬5‚À¬Q   À­½À­¾À­½À­½€ïÀ­Ù    À”À”šÀ”¤     ¾U¾UO¾ŸF/// The label will always be positioned within the content, or hidden. ¾«¾«K¾òC/// The label will float when the input is focused, or has content. ¾ı¾ı<¿32/// The label will always float above the content.    ¼ğ¼ğ‚M¾:</// Defines **how** the floating label should behave.
+///
+/// See also:
+///
+///  * [InputDecoration.floatingLabelBehavior] which defines the behavior for
+///    [InputDecoration.label] or [InputDecoration.labelText].
+///  * [FloatingLabelAlignment] which defines **where** the floating label
+///    should displayed.   À FÀ FÀ F  À FÀ FÀ F  À FÀ FÀ F  À F#À F#À F#  À F,À F,À F,  À F7À F7À F7  À FBÀ FB
+À FB  À FQÀ FQ
+À FQ  À F`À F`À F`  À FpÀ FpÀ Fp  À F|À F|	À F|     À EìÀ Eì€À Eñ       „ê„ò…„ó„ÿ…„Ó„ÄA„Ó …(….…/……4… …`…L…?%…L †Ğ†º†­&†º ‡Š‡p‡c+‡p ‰j‰r‰ƒ‰s‰‰‰K‰<H‰K   ‡“‡“T‡›   ‡é‡é\‡ñ    €²  package:flutter/widgets.dart  €ç  dropdown.dart    ink_well.dart  )  	tabs.dart  F  text_field.dart  i  text_form_field.dart —Ö =€ˆ€§€©€Ù€Ş€ÿ =`ˆ’”±ÔÖ‚‚/‚Y‚‚ƒ‚ ‚½‚Ô‚îƒƒ-ƒFƒeƒ€ƒ–ƒ±ƒ³ƒÌƒå„„„-„Ä……?…g…i…·…Ü†/†L†­†Ö†Ø‡,‡c‡‘‡“‡éˆGˆIˆ„ˆˆˆË‰‰<‰‡‰‰‰Î‰îŠŠ1ŠQŠoŠ‹Š¢Š¼ŠÃŠÈŠÊŠã‹‹"‹?‹W‹q‹x‹}‹‹Œ‹îŒŒ5ŒIŒPŒ}Œ’Œ™ŒñŒöŒøgšœ©ÙÜŞFvx…×ÚÜ.az—»Ö÷1Or–ŸËî‘‘5‘[‘u‘š‘Å‘Ç’,’.’;’e’¬’İ““6“S“w““Ì”)”9””§”®”°”È”×”ê••$•N•s•{•€•‚••Ç––<–p–˜–º–î–ó–õ——2—5—7—„—Ğ˜˜;˜l˜ˆ˜£˜»˜Ü˜ú™™8™?™A™^™|™¥™¿™Ú™ô™öššFšIšKš¨šïšñ››M›w›š›Ã›è›ê›÷œœ%œWœyœ¦œºœÂ@\}­µ^`±ŸŸŸŸ(Ÿ<ŸXŸ~ŸŸŸ¿ŸÕŸÚŸÜŸé  F t Å Ø ï¡¡¡B¡•¡ú¢¢7¢W¢¢‘¢»¢Ä¢Ë¢Ğ¢Ò¢ß££ £O£€££´£Ö£ã¤¤)¤U¤o¤£¤É¤õ¥¥)¥1¥6¥9¥;¥~¥¾¥ñ¦¦6¦K¦]¦s¦Š¦¤¦µ¦Ê¦à¦ù§ §§!§:§W§x§–§®§Ê§ê¨¨	¨¨Q¨T¨V¨±¨ú©4©f©h©‘©¥©¸©ºªªSªUªbªxªªåªû««:«X«y«€«­«²«´«Á«Õ«ñ¬¬¬¬(¬;¬j¬s¬x¬z¬‡¬³¬Ô¬Ö­­6­d­š­Ã­ô®®R®T®®ò¯>¯g¯¼¯¾¯Ü¯ş°°@°w°˜°¸°ø±±;±K±k±t±{±€±‚±±Ş±õ²²+²w²‡²¥²¸²Û³³1³a³‘³¡³«³³³¸³º³Ô´´L´w´¶µµµ,µUµpµŒµÌµî¶¶<¶g¶™¶¼¶é¶ÿ·#·<·e·”·Æ·ü¸1¸G¸W¸e¸q¸{¸ƒ¸ˆ¸Š¸—¸¿¸ã¸ù¹¹<¹L¹e¹|¹…¹Œ¹¹²¹É¹áº	ºº1ºHºQºXºZºƒº º§º©ºÒºğº÷ºù»»$»A»\»¬»É»×»ñ»ı¼¼¼¼'¼<¼Y¼t¼´¼À¼Ê¼Ñ¼Ó¼æ¼ë¼î¼ğ½'½,½;½@½½Ï¾¾5¾S¾¾§¾©¾ğ¾ù¾û¿1¿<¿?¿A¿‰¿ ¿¥¿´¿¹À @
+À @JÀ @šÀ @ªÀ @¶À @ÖÀ A$À A&À AcÀ AwÀ AyÀ AÆÀ AÍÀ BÀ B À BmÀ B¼À B¾À CÀ CTÀ CVÀ CcÀ C‡À C‰À C–À CºÀ CİÀ CñÀ CøÀ D%À D:À DAÀ D€À D…À D‡À D¯À DÈÀ D÷À E&À EhÀ EpÀ EuÀ EwÀ E„À E¬À E¯À E±À EìÀ FÀ FÀ FÀ F!À F*À F5À F@À FOÀ F^À FnÀ FzÀ FˆÀ F‹À FÀ FÉÀ FÕÀ FêÀ GÀ G$À GDÀ GlÀ G–À GÁÀ GÜÀ GúÀ H!À H=À HYÀ H{À H˜À H½À HãÀ HóÀ IÀ IÀ I%À I7À IIÀ I_À IuÀ IŒÀ IŸÀ I´À I»À I½À IìÀ JÀ J,À JSÀ J‹À J¨À JÌÀ JîÀ KÀ KÀ KCÀ K]À K}À KÀ KµÀ KÍÀ KåÀ KüÀ LÀ L.À LKÀ LhÀ L†À L À L¼À L¾À LËÀ LïÀ MÀ M&À M-À MZÀ MoÀ MvÀ MšÀ MÍÀ MúÀ N7À NxÀ N»À NŞÀ OÀ OBÀ OgÀ OŒÀ O½À OäÀ PÀ PTÀ PsÀ P”À PµÀ PÔÀ P÷À QÀ QEÀ QpÀ QÀ QÂÀ QéÀ QîÀ QğÀ QıÀ R!À R6À RPÀ RlÀ R‰À R–À R¦À R¿À RÍÀ RÛÀ RïÀ RşÀ SÀ S-À S8À SDÀ SPÀ S[À ShÀ SuÀ SÀÀ SÆÀ SÉÀ SËÀ TÀ TaÀ TšÀ T»À TŞÀ UÀ U À UDÀ UdÀ U}À U„À U†À U°À UÊÀ UëÀ VÀ V#À V&À V(À VoÀ VšÀ VäÀ VûÀ WÀ W>À W`À WÀ WœÀ W»À WÙÀ WàÀ WâÀ X6À XfÀ X™À XÒÀ YÀ YÀ YKÀ Y‹À YËÀ Z	À ZKÀ ZÀ Z×À [!À [mÀ [±À [ùÀ [ûÀ \/À \<À \bÀ \±À \ÊÀ \ØÀ \çÀ \ûÀ ]À ]À ]/À ]>À ]LÀ ]aÀ ]rÀ ]…À ]À ]’À ]”À ]ÂÀ ]ŞÀ ^À ^&À ^5À ^<À ^VÀ ^nÀ ^sÀ ^uÀ ^«À ^ÌÀ ^øÀ _À _+À _2À _OÀ _gÀ _lÀ _nÀ _¡À _ÀÀ _êÀ `À `À `#À `?À `WÀ `\À `^À `”À `áÀ a@À ajÀ aŸÀ aÇÀ aÖÀ aİÀ b#À bpÀ b“À b¢À b©À bÊÀ bâÀ bçÀ béÀ cÀ c"À cAÀ caÀ cpÀ cwÀ cÀ c±À c¶À c¸À cÙÀ cóÀ dÀ d.À d=À dDÀ d[À dsÀ dxÀ dzÀ dŸÀ d»À dÚÀ dúÀ e	À eÀ e)À eAÀ eFÀ eHÀ e˜À e¦À eÆÀ f
+À fÀ fÀ f^À f`À fmÀ f®À fÇÀ fŞÀ fåÀ g À gÀ g À g?À g\À gcÀ geÀ gÀ g—À gÀ g·À gÏÀ gèÀ hÀ h$À h-À h4À h6À hPÀ hhÀ hoÀ hÀ h«À h²À hÍÀ hæÀ híÀ iÀ i'À i.À iIÀ ieÀ iÀ i†À i‹À iÀ iÊÀ iûÀ j8À jiÀ j¦À j×À kÀ khÀ kÃÀ kİÀ kâÀ käÀ l5À l“À lÚÀ lßÀ láÀ m<À m>À mˆÀ mŠÀ m²À mÜÀ nÀ n5À n=À n†À näÀ oÀ oÀ oÀ oUÀ o©À oñÀ p3À p;À pšÀ pœÀ pŞÀ pòÀ pùÀ pûÀ qOÀ q±À qíÀ rÀ riÀ rÃÀ s#À s{À s€À s‚À sĞÀ tÀ tdÀ tˆÀ t«À tÔÀ uÀ uÀ uÀ uHÀ u—À u»À v	À vYÀ v¨À vòÀ wÀ w À w"À wcÀ weÀ w›À wÃÀ xÀ xhÀ x‘À x™À xæÀ y	À yEÀ y}À y‡À yÀ y‘À yÛÀ zÀ zBÀ zjÀ z‹À z¬À z´À z¶À zêÀ {À {RÀ {gÀ {¡À {ÕÀ {êÀ |$À |PÀ ||À |ßÀ }BÀ }DÀ }‡À }•À }¬À }ÊÀ }éÀ ~%À ~`À ~lÀ ~ŠÀ ~©À ~ãÀ À &À (À QÀ ]À ¡À ©À ÓÀ ğÀ €
+À €LÀ €±À €ÔÀ €ÿÀ À -À UÀ rÀ ÈÀ ‚À ‚!À ‚#À ‚pÀ ‚¥À ‚´À ‚ÔÀ ‚ÿÀ ƒ
+À ƒRÀ ƒ†À ƒÀ ƒ½À ƒ¿À „À „0À „À „™À „§À „¿À „ÆÀ „ÈÀ …À …EÀ …ˆÀ …ÄÀ …×À …óÀ †MÀ †[À †fÀ †ŒÀ †À †¸À †àÀ ‡>À ‡fÀ ‡{À ‡ÄÀ ˆ"À ˆPÀ ˆ_À ˆ¨À ˆªÀ ˆîÀ ‰À ‰jÀ ‰ƒÀ ‰‹À ‰ÜÀ ‰ŞÀ ŠAÀ Š¤À Š¦À ŠõÀ ‹À ‹PÀ ‹¢À ‹ÑÀ ‹üÀ Œ'À Œ/À Œ|À Œ£À ŒÛÀ À À RÀ ZÀ \À –À ğÀ À 2À EÀ eÀ €À ™À ´À ×À õÀ ıÀ ]À tÀ ™À øÀ $À BÀ ˜À šÀ çÀ ‘À ‘cÀ ‘™À ‘©À ‘«À ‘ûÀ ’MÀ ’—À ’åÀ “4À “mÀ “¼À ”À ”^À ”ŠÀ ”ëÀ ”íÀ •<À •aÀ •À •”À •µÀ •ÓÀ •ôÀ –À –;À –À –àÀ —*À —,À —HÀ —fÀ —ºÀ —ÄÀ ˜ À ˜QÀ ˜À ˜ÎÀ ˜ØÀ ™$À ™tÀ ™¶À ™âÀ šGÀ š{À šÍÀ šòÀ ›À ›/À ›OÀ ›kÀ ›uÀ ›ƒÀ ›ŞÀ œÀ œ#À œ%À œJÀ œuÀ œÀ œ¹À œÚÀ :À BÀ GÀ IÀ ˜À êÀ :À …À ÖÀ Ÿ(À Ÿ7À Ÿ[À ŸnÀ Ÿ‚À Ÿ“À Ÿ½À ŸÄÀ  À  WÀ  ŠÀ  ±À  ×À ¡	À ¡À ¡À ¡À ¡QÀ ¡¢À ¡éÀ ¢À ¢LÀ ¢†À ¢À ¢ÃÀ £#À £LÀ £qÀ £‰À £®À £×À ¤4À ¤9À ¤;À ¤HÀ ¤|À ¤ÍÀ ¥À ¥9À ¥wÀ ¥±À ¥ÈÀ ¥îÀ ¦NÀ ¦wÀ ¦œÀ ¦´À ¦ÙÀ §À §_À §dÀ §fÀ §¤À §»À §ÛÀ §õÀ ¨À ¨À ¨KÀ ¨RÀ ¨fÀ ¨´À ¨æÀ ©"À ©'À ©)À ©6À ©jÀ ©¢À ©İÀ ©ßÀ ªÀ ªÀ ªTÀ ª¡À ª£À ªçÀ «4À «6À «À «‘À «æÀ ¬#À ¬aÀ ¬¥À ¬§À ¬íÀ ­AÀ ­¥À ­ÿÀ ®GÀ ®gÀ ®‹À ®’À ®”À ®ĞÀ ¯À ¯À ¯OÀ ¯À ¯’À ¯ÄÀ °À °À °&À °uÀ °ƒÀ °¨À °±À °ŞÀ °òÀ ±À ±À ±5À ±7À ±YÀ ±wÀ ±¹À ±ÓÀ ±ôÀ ²À ²>À ²QÀ ²gÀ ²€À ²™À ²²À ²øÀ ³À ³,À ³.À ³yÀ ³~À ³€À ³À ³ÁÀ ³ëÀ ³ğÀ ³òÀ ³ÿÀ ´BÀ ´lÀ ´†À ´™À ´ À ´ÎÀ µÀ µ À µ"À µMÀ µjÀ µlÀ µyÀ µÖÀ ¶ À ¶À ¶-À ¶4À ¶iÀ ¶}À ¶³À ¶ØÀ ¶àÀ · À ·+À ·RÀ ·«À ·öÀ ¸RÀ ¸œÀ ¸©À ¸ÃÀ ¸ÈÀ ¸ÊÀ ¸×À ¹À ¹CÀ ¹WÀ ¹À ¹²À ¹ºÀ ¹êÀ ¹ïÀ ¹ñÀ ¹şÀ ºÀ ºRÀ ºoÀ º¤À º¸À ºëÀ »À »À »EÀ »À »ÜÀ »ŞÀ ¼À ¼À ¼FÀ ¼dÀ ¼¡À ¼ÊÀ ¼ÿÀ ½	À ½NÀ ½À ½¢À ½ÖÀ ½àÀ ¾À ¾!À ¾#À ¾VÀ ¾ŠÀ ¾ÛÀ ¾ùÀ ¿ À ¿À ¿À ¿LÀ ¿‹À ¿®À ¿¸À ¿×À ¿ŞÀ ¿àÀ ÀBÀ ÀpÀ ÀÕÀ Á:À Á<À ÁTÀ ÁrÀ Á‘À ÁÏÀ ÂÀ Â7À Â_À Â‘À ÂÀ Â½À ÂñÀ Ã.À Ã^À ÃlÀ ÃwÀ Ã–À ÃãÀ ÄÀ Ä<À Ä}À Ä¯À Ä»À ÄÛÀ ÅÀ Å7À ÅgÀ ÅuÀ Å€À Å‡À Å‰À Å·À ÅíÀ ÆÀ Æ%À ÆnÀ ÆxÀ Æ–À ÆÀ ÆŸÀ Æ½À ÆÜÀ ÆçÀ ÇÀ Ç8À Ç‰À Ç±À ÇÅÀ ÇğÀ ÇıÀ ÈÀ ÈOÀ È‘À È§À ÈçÀ ÈöÀ ÉÀ É$À ÉoÀ É|À ÉœÀ ÉÜÀ ÉéÀ ÊÀ ÊFÀ ÊSÀ ÊxÀ Ê À ÊÔÀ ÊúÀ ËÀ Ë7À ËDÀ ËeÀ Ë—À Ë¤À Ë¶À ËÁÀ ËàÀ ËëÀ ÌÀ Ì<À ÌtÀ ÌœÀ Ì°À ÌÛÀ ÌèÀ ÍÀ Í:À ÍhÀ Í~À ÍªÀ Í¹À ÍÆÀ ÍçÀ ÎÀ Î*À ÎJÀ ÎvÀ ÎƒÀ Î¢À ÎÍÀ ÎÚÀ ÎÿÀ Ï'À ÏtÀ ÏšÀ Ï®À Ï×À ÏäÀ ĞÀ ĞLÀ ĞYÀ ĞkÀ ĞvÀ Ğ}À ĞÀ Ğ™À ĞØÀ ÑÀ ÑfÀ Ñ²À ÑòÀ Ò2À ÒRÀ ÒsÀ ÒœÀ ÒãÀ ÓFÀ ÓSÀ Ó‡À ÓÉÀ Ô
+À Ô#À Ô1À Ô3À ÔTÀ Ô¦À ÔøÀ ÕMÀ ÕvÀ Õ½À ÕéÀ Ö1À ÖGÀ ÖTÀ ÖˆÀ ÖÉÀ ×
+À ×#À ×1À ×:À ×†À ×”À ×¾À ×èÀ ×ïÀ ×ôÀ ×öÀ Ø4À Ø]À ØbÀ ØdÀ ØqÀ Ø©À ØÏÀ ØëÀ Ù6À Ù?À ÙFÀ ÙHÀ ÙaÀ ÙcÀ Ù}À Ù¾À ÙøÀ Ú0À ÚsÀ Ú¾À ÚÿÀ ÛBÀ Û|À ÛÈÀ ÛñÀ Ü2À Ü…À Ü¿À ÜçÀ İ<À İlÀ İ‹À İÄÀ ŞÀ Ş-À Ş“À Ş¯À ŞÊÀ ŞêÀ ß%À ßfÀ ß‡À ßáÀ à@À àMÀ à„À à¨À àÉÀ á#À á…À á’À á›À áñÀ â-À âwÀ â£À âßÀ ãÀ ã7À ãRÀ ãcÀ ã~À ã”À ãÁÀ ãËÀ ãÙÀ ãîÀ ãõÀ ã÷À äÀ ä!À ä7À äQÀ äkÀ äŠÀ ä À ä§À ä¼À ä×À äîÀ äóÀ äõÀ åÀ åGÀ å}À å¾À åÏÀ åõÀ æ;À æBÀ ætÀ æyÀ æ{À æˆÀ æ¶À æ¸À æÅÀ çÀ çCÀ çÀ çÈÀ çıÀ èÀ è3À èuÀ èªÀ èêÀ èöÀ é À éÀ é*À é3À é:À éMÀ éRÀ éTÀ é À éĞÀ é×À êÀ êÀ êdÀ ê†À ê¸À êîÀ ë À ëVÀ ë^À ë`À ëÀ ëÇÀ ì	À ìÀ ì-À ì‡À ì—À ìÄÀ ìÍÀ ìÔÀ ìÖÀ íÀ í5À í:À í<À íIÀ í‘À íáÀ íæÀ íéÀ íëÀ îGÀ î]À îƒÀ î¢À îÄÀ îåÀ ïÀ ïÀ ï&À ï(À ïIÀ ïoÀ ï“À ïÂÀ ïÛÀ ïòÀ ïôÀ ğÀ ğCÀ ğEÀ ğRÀ ğ‚À ğÀ ğÎÀ ñ À ñ2À ñbÀ ñ–À ñÊÀ òÀ òBÀ ò€À ò¶À òğÀ òøÀ òıÀ òÿÀ óÀ óLÀ ókÀ óŠÀ ó¯À óÒÀ óÿÀ ôÀ ô5À ôgÀ ôoÀ ôtÀ ôvÀ ôƒÀ ôÖÀ ôèÀ õ	À õ$À õCÀ õrÀ õ—À õ¿À õÄÀ õÇÀ õÉÀ õõÀ öÀ ö/À ö?À öPÀ öaÀ ö}À öÀ ö¥À ö§À öÆÀ öİÀ öøÀ ÷À ÷=À ÷aÀ ÷cÀ ÷pÀ ÷˜À ÷¼À ÷ÑÀ ÷îÀ øÀ ø4À ø_À ø„À øµÀ øÒÀ øúÀ ù%À ùuÀ ùƒÀ ùÀ ù™À ù¡À ù¦À ù©À ù«À ùèÀ ùíÀ ú:À úŠÀ úÕÀ û"À û'À ûoÀ ûtÀ ûÄÀ û÷À ûüÀ üNÀ üšÀ ü·À ü¼À üËÀ üĞÀ ıÀ ıUÀ ı À ı¾À ıíÀ ş0À şJÀ şQÀ ş£À ş³À şÍÀ şİÀ şüÀ ÿÀ ÿ&À ÿCÀ ÿ`À ÿ~À ÿ™À ÿ´À ÿÅÀ ÿÌÀ ÿÎÀ À À bÀ À ÂÀ ÄÀÀNÀUÀÀÑÀØÀ$ÀQÀpÀrÀ¸À×ÀÙÀÀPÀWÀ¥À÷ÀFÀ˜ÀèÀ4ÀƒÀ£À¹ÀèÀêÀÀÀlÀ{À‚ÀœÀ£À´À»ÀÀZÀkÀ„À†ÀÏÀÖÀÀ`À—ÀÀ¸ÀÒÀÔÀ	 À	'À	wÀ	ÈÀ	ÕÀ	ÜÀ
+)À
+yÀ
+·À
+¾À
+ØÀ
+ïÀ
+ñÀÀ!ÀrÀÀ†À À·À¹ÀêÀñÀ5ÀMÀOÀœÀ½ÀÄÀÀZÀ\ÀiÀ«À­ÀøÀGÀ”ÀÚÀ ÀÀEÀ~ÀâÀÀÀÀÀ[À‡ÀÜÀ=À…ÀŞÀ"À'À*À,À†ÀÂÀùÀ4ÀmÀºÀÌÀÀÀ=ÀCÀ©ÀòÀúÀÀ ÀÀÇÀïÀõÀVÀœÀÄÀÊÀÌÀÙÀïÀÀ	ÀkÀ¥ÀÕÀşÀÀOÀWÀYÀºÀ¿ÀÁÀÎÀğÀÀ6À8ÀcÀÄÀÀÀÀ$À8ÀaÀ‰À±ÀÌÀîÀÀ	ÀÀ%À8ÀtÀ}À‚À„À®ÀÓÀ6À8ÀiÀ”ÀçÀ*ÀQÀuÀÂÀÇÀÉÀìÀÀ[À]ÀjÀ˜À¹ÀéÀÀÀÀ8À’À”ÀğÀ +À XÀ hÀ •À À ¥À §À ÜÀ!À!À!}À!œÀ!³À!ÉÀ!ĞÀ!ÕÀ!×À"À">À"—À"·À"İÀ"äÀ"úÀ#%À#,À#BÀ#oÀ#vÀ#•À#¸À#¿À$À$)À$xÀ$ÄÀ$ËÀ$åÀ$êÀ$ìÀ%=À%cÀ%”À%¶À%½À%æÀ&7À&>À&‹À&À&’À&ÁÀ'À'7À'>À'yÀ'~À'€À'ÑÀ(!À(kÀ(pÀ(rÀ(À(ºÀ(âÀ(éÀ)?À)ˆÀ)ØÀ)İÀ)ßÀ)ıÀ*'À*OÀ*VÀ*¬À*õÀ+EÀ+JÀ+LÀ+‰À+ÓÀ,%À,7À,UÀ,µÀ,ºÀ,¼À,ıÀ-GÀ-IÀ-”À-ÒÀ..À.”À.–À.÷À.ùÀ/&À/HÀ/fÀ/}À/œÀ/¡À/£À/íÀ0+À0†À0ëÀ0íÀ1MÀ1OÀ1sÀ1¡À1ÒÀ1ôÀ2À2*À2/À21À2À2ĞÀ2õÀ3	À3À3OÀ3©À3°À3àÀ4À4'À4)À4fÀ4ŒÀ4 À4¨À4ªÀ4×À4ùÀ5À52À5QÀ5VÀ5XÀ5¯À5ÚÀ5øÀ6À6^À6cÀ6eÀ6»À6æÀ7À7À7<À7AÀ7CÀ7yÀ7­À7ÖÀ8 À8'À8-À8/À8ŠÀ8ªÀ8ôÀ9À9À9_À9uÀ9|À9~À9¯À9ÅÀ9ÌÀ9ÎÀ9ñÀ:À:nÀ:À:ÅÀ;À;5À;CÀ;OÀ;_À;€À;ÛÀ;çÀ;ğÀ;şÀ<À<>À<uÀ<‡À<´À<ğÀ=À=-À=HÀ=]À=sÀ=À=‰À=À=•À=—À=½À=¿À>À>AÀ>eÀ>½À>ÄÀ>ÆÀ?À?À?À?kÀ?¶À?»À?½À?ÊÀ?òÀ@&À@„À@ÃÀ@ÿÀA-ÀA\ÀAªÀA¬ÀAùÀB:ÀB<ÀB‡ÀBºÀBúÀCÀCEÀCfÀC„ÀC•ÀC­ÀCÌÀDÀDÀDDÀD—ÀDºÀDêÀDøÀE2ÀEQÀEoÀEÀEóÀFÀF>ÀFMÀFlÀFÂÀFöÀG%ÀGlÀG|ÀGƒÀG…ÀGŸÀG¿ÀHÀH,ÀH‚ÀHÀHßÀHæÀIÀI ÀIPÀIgÀIÀI­ÀIãÀJÀJ0ÀJ8ÀJ:ÀJNÀJÀJ®ÀJÛÀKÀK9ÀKYÀK}ÀK¤ÀK²ÀKğÀL ÀLjÀLvÀL—ÀLÂÀLçÀMÀMEÀMrÀM™ÀMıÀNÀN6ÀN›ÀN©ÀNµÀN¿ÀNÆÀNÈÀO ÀOxÀOzÀOÀOëÀOúÀP$ÀPDÀP”ÀP–ÀP¼ÀPÓÀQÀQ0ÀQ•ÀQğÀR!ÀRHÀRUÀRfÀRhÀRÀR¥ÀRØÀSÀSgÀSÂÀSóÀTÀT'ÀT8ÀT:ÀToÀTºÀTÁÀTÃÀUÀU;ÀU=ÀUoÀUÀU—ÀUÆÀUãÀV(ÀVOÀV°ÀVÚÀVìÀVüÀW
+ÀWÀWJÀWZÀWmÀWŒÀW¬ÀWÍÀWşÀX$ÀXBÀX{ÀX´ÀXáÀYÀY\ÀYvÀYÀY·ÀYßÀZ+ÀZPÀZfÀZ‘ÀZÁÀZìÀ[5À[€À[œÀ[éÀ\ À\8À\_À\ À\ÕÀ\íÀ]À]À])À]9À]GÀ]IÀ]‡À]—À]ªÀ]ÉÀ]éÀ^
+À^;À^aÀ^À^¸À^ñÀ_À_[À_™À_³À_ËÀ_ôÀ`À`hÀ`À`£À`ÎÀ`şÀa)ÀarÀa½ÀaÙÀb&Àb]ÀbuÀbœÀbİÀcÀc*Àc@ÀcTÀcfÀcvÀc„Àc†Àc´ÀcÑÀcóÀdÀdWÀd‰Àd©ÀdÑÀe	Àe9ÀeAÀeCÀeYÀe€Àe¥Àe÷ÀfÀf-ÀfMÀfcÀf‡ÀfªÀfÂÀfÙÀg2Àg^Àg™Àg¥Àg¯Àg¶Àg¸ÀhÀh1ÀhvÀh°ÀhÓÀhõÀhıÀiYÀi®Ài¾ÀiéÀj5ÀjWÀj£ÀjÈÀjÖÀjØÀk	Àk0Àk2ÀkVÀkxÀkÈÀkíÀlAÀlÀlµÀlŞÀløÀm!Àm<ÀmaÀmµÀn	Àn.Àn|ÀnÎÀnŞÀo,ÀozÀo¾ÀoØÀpÀpÀpAÀp“ÀpåÀq
+ÀqVÀq¦Àq¯Àq½ÀqßÀq÷ÀrÀr7ÀrZÀr­ÀsÀs$ÀsrÀsÂÀsÉÀsËÀsäÀsıÀt(ÀtOÀt_ÀtÁÀtÊÀtÑÀtÓÀtöÀuÀu?ÀunÀu‹Àu¾ÀvÀvBÀv[Àv{ÀvÀÀvæÀwÀw(ÀwUÀwÀw¤Àw»ÀwÒÀwçÀx ÀxÀx:Àx[Àx~Àx™Àx¸ÀxÂÀxçÀy
+Ày>Ày[Ày{ÀyƒÀy…ÀyÓÀz"ÀzpÀz¼À{	À{WÀ{ À{ÜÀ|.À|gÀ|iÀ|¶À|¸À|ùÀ}À}`À}gÀ}{À}€À}ƒÀ}…À}ÌÀ}äÀ}éÀ~9À~À~ÍÀ~ÒÀ~çÀ8À…ÀÓÀ€%À€lÀ€qÀ€ÎÀ€ÓÀ,À=ÀBÀWÀÀëÀ‚0À‚5À‚œÀ‚¡À‚úÀƒÀƒÀƒ%ÀƒuÀƒÀÀ„À„À„pÀ„uÀ„ÎÀ„ßÀ„äÀ„ùÀ…CÀ…•À…ÍÀ…ÒÀ†=À†BÀ†›À†¬À†±À†ÆÀ‡À‡uÀ‡zÀ‡àÀ‡ñÀ‡öÀˆÀˆbÀˆµÀˆ÷ÀˆüÀ‰bÀ‰sÀ‰xÀ‰‡À‰ŒÀ‰ËÀ‰æÀŠ2ÀŠXÀŠ¥ÀŠÄÀŠĞÀŠéÀ‹2À‹`À‹gÀ‹»ÀŒÀŒ[ÀŒ{ÀŒ‚ÀŒÁÀŒÈÀÀ-À=ÀRÀcÀxÀÀ¬À¾ÀÔÀëÀÀÀ)À>À[ÀsÀÀ¡ÀÉÀÀDÀKÀpÀ“À¸ÀÉÀŞÀôÀÀ.ÀPÀgÀzÀ”ÀªÀËÀİÀóÀ‘
+À‘%À‘;À‘MÀ‘cÀ‘zÀ‘•À‘¶À‘ÉÀ‘àÀ‘øÀ’
+À’À’5À’KÀ’bÀ’{À’™À’³À’ÌÀ’ŞÀ’øÀ“À“5À“LÀ“eÀ“uÀ“¦À“èÀ“óÀ”À”/À”oÀ”zÀ”ŠÀ”½À•À•À•À•OÀ•“À•À•®À•áÀ–%À–0À–@À–qÀ–³À–¾À–ÀÀ—À—À—_À—fÀ—µÀ—ÜÀ—ãÀ˜À˜SÀ˜xÀ˜•À˜§À˜ğÀ™-À™4À™gÀ™yÀ™ÂÀ™ÿÀšÀš;ÀšPÀš`Àš}Àš•Àš±ÀšÃÀšëÀ›)À›fÀ›mÀ›’À›µÀ›ÚÀ›ôÀœ	ÀœÀœ5ÀœZÀœtÀœ‹Àœ ÀœºÀœĞÀœêÀÀ(À?ÀZÀvÀ•À«ÀÅÀàÀşÀÀAÀ]ÀxÀÀªÀÆÀæÀŸÀŸ#ÀŸ>ÀŸYÀŸuÀŸ•ÀŸ»ÀŸÓÀŸïÀ À (À FÀ iÀ ˆÀ ¦À ÊÀ¡7À¡nÀ¡ÛÀ¢À¢8À¢VÀ¢XÀ¢¦À¢¸À¢¿À£
+À£WÀ£kÀ£rÀ£«À£²À£ÿÀ¤DÀ¤ƒÀ¤ªÀ¤±À¤ÑÀ¤èÀ¤êÀ¥
+À¥À¥SÀ¥”À¥ÁÀ¥ÜÀ¥ŞÀ¦À¦À¦VÀ¦¤À¦òÀ§@À§”À§åÀ§ıÀ¨À¨À¨tÀ¨ÇÀ¨ÎÀ¨åÀ©7À©ˆÀ©À©ğÀªÀª
+ÀªGÀª_ÀªaÀª–ÀªÀªÔÀªÛÀ«)À«fÀ«‚À«„À«ÃÀ¬À¬/À¬6À¬}À¬ÃÀ¬ğÀ¬÷À­KÀ­“À­šÀ­èÀ®À®À®[À®¢À®äÀ®ëÀ¯À¯PÀ¯xÀ¯À¯ÑÀ°À°2À°9À°¦À°¹À°ÏÀ°ïÀ°ñÀ±8À±‚À±¿À±ÆÀ²À²?À²FÀ²•À²ÛÀ³À³À³9À³@À³€À³ÇÀ´	À´À´hÀ´ƒÀ´ŠÀ´¡À´ïÀµÀµÀµbÀµ²ÀµÙÀµàÀ¶VÀ¶iÀ¶À¶§À¶©À¶ïÀ¶öÀ·IÀ·œÀ·ÍÀ·ÔÀ·ëÀ¸>À¸ŠÀ¸‘À¸óÀ¹À¹À¹LÀ¹eÀ¹gÀ¹¸À¹ŞÀ¹åÀº4Àº€Àº´Àº»À»À»À»VÀ»sÀ»uÀ»£À»ªÀ»òÀ¼8À¼eÀ¼†À¼ˆÀ¼ÈÀ¼ÏÀ½À½eÀ½¶À¾À¾?À¾FÀ¾–À¾æÀ¿À¿"À¿eÀ¿À¿¤À¿µÀ¿¼À¿ÿÀÀÀÀÀÀ_ÀÀfÀÀ¸ÀÁÀÁWÀÁ~ÀÁ™ÀÁ›ÀÁĞÀÁ×ÀÂÀÂ1ÀÂ3ÀÂ_ÀÂfÀÂ¬ÀÂòÀÃÀÃ&ÀÃpÀÃ¾ÀÃùÀÄ ÀÄNÀÄzÀÄ™ÀÄ›ÀÄËÀÄÒÀÅÀÅHÀÅsÀÅuÀÅ³ÀÅºÀÅúÀÆÀÆDÀÆšÀÆàÀÆüÀÆşÀÇEÀÇLÀÇ•ÀÇåÀÈ
+ÀÈÀÈ^ÀÈªÀÈ±ÀÈúÀÉ1ÀÉ8ÀÉQÀÉaÀÉ‡ÀÉÃÀÉşÀÊÀÊ%ÀÊ'ÀÊwÀÊÖÀÊİÀË1ÀËlÀËsÀËŒÀË¬ÀË®ÀËşÀÌaÀÌhÀÌ¾ÀÌàÀÌçÀÍÀÍ;ÀÍ=ÀÍ’ÀÍ™ÀÍóÀÍúÀÎ7ÀÎOÀÎQÀÎ›ÀÎ¢ÀÎñÀÏÀÏ
+ÀÏUÀÏŒÀÏ“ÀÏáÀÏèÀĞ%ÀĞAÀĞCÀĞ‚ÀĞ¿ÀĞÆÀÑÀÑ@ÀÑGÀÑ‰ÀÑÒÀÒ"ÀÒlÀÒ{ÀÒ‘ÀÒ±ÀÒ³ÀÒòÀÒùÀÓGÀÓÀÓßÀÔ1ÀÔhÀÔoÀÔ½ÀÕÀÕAÀÕHÀÕ‹ÀÕÂÀÕÉÀÕÚÀÕáÀÖ&ÀÖCÀÖEÀÖÀÖÈÀÖÏÀ×"À×qÀ×À×¥À×÷ÀØÀØ%ÀØxÀØÀØ´ÀØ»ÀÙ
+ÀÙÀÙ"ÀÙ)ÀÙwÀÙ–ÀÙÍÀÙÏÀÚÀÚ[ÀÚbÀÚ²ÀÚıÀÛLÀÛ^ÀÛeÀÛ·ÀÛĞÀÛæÀÛíÀÜ=ÀÜDÀÜUÀÜ\ÀÜ®ÀÜÀÀÜùÀÜûÀİWÀİfÀİmÀİ‡ÀİŸÀİ¡ÀİÚÀİáÀŞ(ÀŞ/ÀŞ}ÀŞÀŞ•ÀŞáÀŞèÀßÀßÀßnÀß¼ÀàÀàÀàeÀà´ÀàÿÀáÀáRÀá•ÀáßÀáæÀâÀâÀâlÀâºÀãÀãÀãeÀã´ÀäÀäÀäTÀä˜ÀäâÀåÀåÀåTÀå[ÀåªÀåÑÀåØÀæ(ÀæDÀæFÀæ‘ÀæàÀæçÀç9Àç†ÀçšÀç¡ÀçğÀè;Àè‹ÀèÜÀé(Àé<ÀéCÀéRÀénÀé¯ÀéêÀéóÀéşÀêÀêLÀêSÀê°ÀêÇÀêÎÀêåÀë?ÀëpÀëwÀëŞÀëñÀëøÀì	ÀìÀìZÀì¤ÀìÚÀíÀílÀíÀí»Àí½ÀíéÀíğÀîAÀîHÀî˜ÀîäÀï0Àï}Àï¿ÀïÆÀïİÀğ,Àğ|ÀğƒÀğÃÀğñÀğøÀñDÀñQÀñXÀñËÀñŞÀòÀòÀòNÀòUÀò¢ÀòñÀó=ÀóNÀóUÀó”Àó›ÀóæÀóíÀóşÀôÀôBÀô[Àô]Àô Àô§ÀôùÀõ=ÀõDÀõ”ÀõÓÀõÚÀö)Àö0ÀöAÀöHÀö‰Àö¦Àö¨ÀöÖÀöİÀ÷%À÷kÀ÷˜À÷ŸÀ÷ÌÀ÷ÓÀ÷äÀ÷ëÀø-ÀøNÀøPÀøxÀøÀøÀø¥ÀøíÀù.Àù[Àù|Àù~ÀùÈÀúÀúÀúoÀú¼ÀúĞÀú×Àû&ÀûqÀûÁÀüÀü]ÀüuÀü|Àü‹Àü§ÀüæÀı Àı)Àı4Àı;ÀıˆÀıÍÀşÀş3Àş:Àş—Àş®ÀşµÀşÌÀÿ&ÀÿWÀÿ^ÀÿÅÀÿØÀÿßÀÿğÀÿ÷À AÀ ‹À ÁÀÀRÀ„À¡À£ÀàÀçÀ8ÀŠÀ×ÀŞÀÀ$ÀpÀwÀˆÀÀËÀäÀæÀ(À/ÀÀÅÀÌÀÀ[ÀbÀ²À¹ÀÊÀÑÀÀ.À0À^ÀeÀ²ÀúÀ À'ÀTÀ[ÀlÀsÀ´ÀÕÀ×ÀÀ	À(À/ÀwÀ¸ÀåÀ	À	À	4À	;À	ŒÀ	“À	ãÀ
+/À
+{À
+ÈÀ
+ÀÀ_ÀlÀsÀŠÀÙÀ)À0ÀpÀÀ¥ÀñÀşÀÀxÀ‹À»À½À ÀÀUÀbÀiÀ¹ÀÀÀÀ<ÀZÀ\À«ÀõÀÀÀ!ÀPÀWÀ ÀæÀÀÀIÀkÀmÀ³ÀºÀÀ.À5À‡ÀÀØÀ*À{ÀÉÀßÀæÀÀ'À)ÀiÀpÀÂÀäÀëÀ%ÀRÀYÀ À»À½ÀÀÀPÀ~À…ÀÔÀÀbÀÀ¤ÀëÀÀ	ÀUÀ~À…ÀÒÀûÀÀRÀ†ÀÀÑÀØÀÀ;À=ÀÀ¬À³ÀÄÀËÀÀ8À•ÀéÀ?À€ÀÉÀÀHÀ•ÀÈÀÀQÀŸÀÒÀÀQÀtÀvÀÆÀßÀæÀ÷ÀşÀ RÀ kÀ ÈÀ!À!rÀ!³À!üÀ"@À"{À"ÇÀ"şÀ#PÀ#‡À#ÕÀ$À$TÀ$‡À$¬À$®À$úÀ%À%À%+À%2À%†À%ŸÀ%üÀ&PÀ&¦À&çÀ'0À'tÀ'¯À'ûÀ(2À(À(²À) À)3À)À)²À)ÜÀ)ŞÀ*,À*EÀ*LÀ*]À*dÀ*½À+À+nÀ+ÄÀ,À,NÀ,’À,ÍÀ-À-PÀ-À-ĞÀ."À.YÀ.¥À.ØÀ.şÀ/ À/MÀ/fÀ/mÀ/~À/…À/ŞÀ0;À0À0åÀ1&À1oÀ1³À1îÀ2:À2qÀ2¾À2ñÀ3CÀ3zÀ3ÈÀ3ûÀ4 À4"À4lÀ4sÀ4ÊÀ4êÀ5À5+À5LÀ5mÀ5tÀ5ÉÀ6À6nÀ6½À7À7#À7pÀ7µÀ7öÀ8<À8bÀ8iÀ8·À8ÕÀ8ÜÀ9)À9|À9ÈÀ:À:KÀ:†À:À:ÕÀ;!À;(À;9À;@À;{À;ÂÀ;÷À<@À<„À<¢À<¤À=À=!À=JÀ=aÀ=cÀ=’À=™À=²À=¹À>À>*À>,À>xÀ>ÉÀ?À?À?4À?WÀ?YÀ?œÀ?£À?òÀ@?À@‡À@ÓÀ@áÀ@èÀA>ÀA‹ÀA·ÀAİÀAßÀBÀB"ÀB{ÀBªÀB±ÀCÀC3ÀC:ÀCÀCÀÀCÇÀDÀD=ÀDDÀDœÀDàÀDçÀDøÀDÿÀEXÀEtÀEÎÀEéÀFÀFÀF`ÀFzÀF˜ÀF«ÀFÂÀFÖÀFîÀG
+ÀG.ÀGCÀG\ÀGyÀG“ÀGªÀG½ÀGØÀGÿÀH ÀH8ÀHWÀHtÀH’ÀH¦ÀH¾ÀHÚÀHóÀI&ÀI[ÀIsÀI‡ÀI°ÀIÉÀIŞÀI÷ÀJ#ÀJ@ÀJ]ÀJvÀJ‹ÀJ¤ÀJÁÀJŞÀK
+ÀK ÀK:ÀKXÀKkÀK‚ÀKšÀK²ÀKÑÀKòÀLÀL:ÀL[ÀLuÀL‰ÀL«ÀLÊÀLìÀMÀM8ÀM@ÀM]ÀM}ÀM¬ÀMÏÀMşÀN0ÀNzÀN ÀNÒÀOÀOEÀOqÀO‘ÀOÀÀPÀP?ÀPƒÀPÍÀQÀQXÀQ{ÀQªÀQÜÀRÀRjÀRÀÀRõÀSÀS\ÀSÀS´ÀSæÀTÀT\ÀT¯ÀTáÀUÀU9ÀUnÀU¯ÀVÀV+ÀV`ÀV˜ÀV¾ÀVíÀWÀWQÀW†ÀWÁÀXÀXIÀX„ÀXªÀXÓÀY ÀYjÀYŸÀYÚÀYâÀYçÀYéÀZ6ÀZŠÀZ‘ÀZİÀ[À[]À[ÓÀ\À\KÀ\gÀ\ÌÀ\ÖÀ\İÀ]8À]]À]šÀ]°À]ãÀ^.À^dÀ^£À^ÓÀ_À_QÀ_„À_ÀÀ`À`kÀ`•À`ÔÀa
+Àa:ÀapÀa²ÀbÀb<Àb~ÀbÒÀcÀc2ÀcbÀc•ÀcÈÀcşÀd:Àd…ÀdÄÀe Àe'ÀerÀe¨ÀeäÀeìÀeñÀeóÀf Àf$ÀfGÀf[ÀfbÀfÀf¤Àf«ÀfÓÀfòÀgÀg<ÀgeÀgÀgËÀgîÀhÀhFÀhyÀh Àh¿ÀhèÀi!ÀiPÀi‡ÀiÂÀiùÀj2ÀjSÀj|Àj§ÀjØÀkÀk\ÀkÀk´ÀkáÀlÀlAÀldÀlÀl¼ÀlıÀm(Àm]Àm€Àm«ÀmØÀnÀn>ÀnkÀnšÀn½ÀnæÀoÀo<ÀoiÀošÀoÕÀpÀp9Àp\ÀpÀp¾ÀpùÀq&ÀqUÀqZÀq\ÀqiÀqÀqÀq«Àq½ÀqËÀqİÀqøÀrÀrÀr-ÀrAÀrXÀriÀrvÀrˆÀr¢Àr·ÀrĞÀrëÀsÀsÀs,Às>ÀsQÀsgÀs…Às¤Às´ÀsËÀsßÀsîÀt ÀtÀt&Àt9ÀtQÀt`ÀtsÀt‡Àt¥Àt¸ÀtĞÀtßÀtòÀuÀu$Àu4ÀuHÀu]ÀuqÀu‡Àu¢Àu¹ÀuÏÀuŞÀuîÀv
+Àv%Àv9ÀvOÀvWÀv{Àv€Àv‚ÀvÀv¦ÀvÉÀvñÀw(ÀwSÀwŒÀwàÀxÀxLÀx”ÀxÊÀxòÀy4Ày‚Ày¿ÀyøÀz1Àz^Àz—ÀzÓÀ{À{sÀ{ÑÀ|À|IÀ|‡À|ÁÀ}
+À}8À}rÀ}¯À~
+À~DÀ~À~»À~õÀ2ÀÀ¾ÀûÀ€;À€gÀ€À€ØÀÀOÀ’ÀäÀ‚*À‚mÀ‚›À‚ÂÀƒÀƒiÀƒ¦ÀƒéÀƒñÀ„+À„0À„3À„5À„oÀ„tÀ„ÈÀ…À…SÀ…XÀ…gÀ…lÀ…¿À…ßÀ†6À†bÀ†«À†÷À‡À‡<À‡LÀ‡hÀ‡ŒÀ‡©À‡ÃÀ‡ŞÀ‡ÿÀˆÀˆ3ÀˆLÀˆÀˆ´ÀˆÈÀˆñÀ‰	À‰ À‰=À‰ZÀ‰†À‰£À‰ÀÀ‰ìÀŠ
+ÀŠÀŠ4ÀŠ\ÀŠ|ÀŠ”ÀŠ¬ÀŠËÀŠìÀ‹À‹4À‹UÀ‹oÀ‹À‹°À‹ÓÀ‹øÀŒÀŒÀŒ6ÀŒSÀŒÀŒ¤ÀŒÌÀŒïÀÀ?ÀcÀŠÀ¹ÀéÀ
+À2ÀWÀzÀŸÀÈÀ÷ÀÀEÀtÀšÀºÀİÀÀ3ÀWÀ{À ÀÇÀóÀ‘À‘BÀ‘bÀ‘À‘³À‘ÛÀ‘óÀ‘şÀ’ À’RÀ’vÀ’ À’ÀÀ’îÀ“À“6À“^À“´À”À”3À”]À”ŠÀ”ªÀ”ÎÀ”úÀ•2À•VÀ•‚À•ºÀ•àÀ–À–#À–[À–ƒÀ–¥À–ÇÀ–ëÀ—À—EÀ—oÀ——À—±À—ìÀ˜À˜8À˜NÀ˜†À˜ˆÀ˜²À˜ÓÀ˜üÀ™À™=À™]À™ƒÀ™ À™ÁÀ™ßÀšÀšOÀšgÀš•Àš±ÀšÍÀšïÀ›À›BÀ›dÀ›†À›·À›ÚÀ›ñÀœÀœ:Àœ_Àœ|Àœ™Àœ½ÀœãÀÀ5À[ÀzÀÀÄÀìÀîÀ3À:À‡ÀßÀŸ/ÀŸ1ÀŸ~ÀŸ…ÀŸÒÀ 2À ZÀ ¡À £À ğÀ ÷À¡DÀ¡À¡ğÀ¡òÀ¢;À¢BÀ¢À¢ëÀ£AÀ£CÀ£‡À£À£ÛÀ¤2À¤À¤À¤ÌÀ¤ÓÀ¥ À¥~À¥ßÀ¥áÀ¦(À¦/À¦|À¦ÖÀ§&À§(À§mÀ§tÀ§ÁÀ¨À¨iÀ¨kÀ¨³À¨ºÀ©À©bÀ©µÀ©·ÀªÀªÀª[Àª¾ÀªôÀ«AÀ«CÀ«”À«›À«èÀ¬LÀ¬„À¬ÓÀ¬ÕÀ­À­À­kÀ­ÀÀ®À®À®LÀ®SÀ® À®üÀ¯aÀ¯cÀ¯©À¯°À¯ıÀ°VÀ°£À°¥À°éÀ°ğÀ±=À±”À±İÀ±ßÀ²%À²,À²yÀ²ÒÀ³%À³'À³qÀ³xÀ³ÅÀ´"À´}À´À´ÏÀ´ÖÀµ#Àµ†Àµ¶À¶À¶À¶KÀ¶RÀ¶ŸÀ¶øÀ·KÀ·MÀ·—À·À·ëÀ¸HÀ¸£À¸¥À¸õÀ¸üÀ¹IÀ¹¬À¹ÜÀº)Àº+ÀºrÀºyÀºÆÀ» À»vÀ»xÀ»¹À»ÀÀ¼À¼aÀ¼ŸÀ¼¡À¼åÀ¼ìÀ½9À½À½ÙÀ½ÛÀ¾(À¾/À¾|À¾ßÀ¿À¿XÀ¿ZÀ¿¥À¿¬À¿ùÀÀTÀÀ®ÀÀ°ÀÀõÀÀüÀÁIÀÁ¡ÀÁíÀÁïÀÂ4ÀÂ;ÀÂˆÀÂàÀÃ,ÀÃ.ÀÃtÀÃ{ÀÃÈÀÄ!ÀÄvÀÄxÀÄÀÀÄÇÀÅÀÅoÀÅÊÀÅÌÀÆÀÆ ÀÆmÀÆÍÀÆ÷ÀÇ>ÀÇ@ÀÇ‰ÀÇÀÇİÀÈ9ÀÈ—ÀÈ™ÀÈáÀÈèÀÉ5ÀÉÀÉëÀÉíÀÊ.ÀÊ5ÀÊ‚ÀÊÖÀËÀËÀËkÀËrÀË¿ÀÌÀÌÀÌƒÀÌÉÀÌĞÀÍÀÍvÀÍÎÀÍĞÀÎÀÎÀÎlÀÎÇÀÏ$ÀÏ&ÀÏfÀÏÀÏÀÏ¿ÀÏáÀĞÀĞ7ÀĞaÀĞÀĞ¯ÀĞÕÀĞ÷ÀÑÀÑWÀÑ‘ÀÑ­ÀÑ×ÀÑûÀÒÀÒ?ÀÒkÀÒ£ÀÒÇÀÒóÀÓ+ÀÓQÀÓkÀÓ‹ÀÓÃÀÓëÀÔÀÔ/ÀÔSÀÔ{ÀÔ­ÀÔ×ÀÔÿÀÕÀÕKÀÕoÀÕ—ÀÕ¡ÀÕ£ÀÕûÀÖÀÖFÀÖwÀÖ~ÀÖ¢ÀÖ©ÀÖ¸À×À×À×KÀ×‹À×ÑÀØ#ÀØ(ÀØ*ÀØ{ÀØÀØ•ÀØàÀÙ#ÀÙFÀÙbÀÙ†ÀÙ£ÀÙ½ÀÙØÀÙùÀÚÀÚ-ÀÚFÀÚyÀÚ®ÀÚÂÀÚëÀÛÀÛÀÛ7ÀÛTÀÛ€ÀÛÀÛºÀÛæÀÜÀÜÀÜ.ÀÜVÀÜvÀÜÀÜ¦ÀÜÅÀÜæÀİÀİ.ÀİOÀİiÀİˆÀİªÀİÍÀİÕÀİ÷ÀŞ)ÀŞsÀŞ¨ÀŞæÀßÀßYÀß‘ÀßÃÀßşÀàQÀà§ÀàĞÀáÀá=ÀárÀá§ÀáèÀâ;ÀâpÀâ±ÀãÀã<ÀãbÀã‘ÀãäÀäÀäQÀäƒÀä¸ÀäóÀå=Àå{Àå¶ÀåÜÀæ&Àæ[Àæ–ÀæÀæ£Àæ¥ÀæõÀçFÀçkÀçrÀçËÀè%Àè,ÀèÀèÒÀéÀé)Àé=ÀéDÀéZÀéÀéØÀêÀêMÀê}ÀêÂÀêûÀë.ÀëjÀë©ÀëÙÀìÀìQÀì¥ÀìÛÀíÀíqÀíªÀíÚÀî.ÀîjÀîÀîĞÀïÀïBÀïÀïÌÀğÀğ/ÀğeÀğ¡Àğ©Àğ®Àğ°Àğ½ÀñÀñÀñ"ÀñWÀñ“Àñ˜Àñ›ÀñÀñ×ÀñÜÀò0Àò„Àò»ÀòÀÀóÀóDÀóIÀóXÀó]Àó´ÀóàÀóìÀô"ÀôsÀô©ÀôÍÀôãÀõÀõÀõ2ÀõGÀõcÀõ{Àõ‘ÀõªÀõèÀö)ÀöDÀö^Àö}Àö’Àö©ÀöÄÀöåÀöüÀ÷À÷8À÷PÀ÷jÀ÷À÷ À÷¹À÷ÏÀ÷åÀ÷üÀøÀø3ÀøMÀøfÀøxÀøÀøµÀøÎÀøÕÀø×ÀùÀù3Àù5ÀùyÀù¡Àù£ÀùİÀùäÀú,ÀúrÀúŸÀúÀÀúÂÀûÀûÀûiÀûªÀû±ÀûôÀü,Àü3ÀüDÀüKÀüÀü¼Àü¾ÀüúÀıÀıGÀıÀıºÀıÁÀıÿÀşPÀş¡Àş°Àş·ÀÿÀÿ1ÀÿPÀÿRÀÿ©ÀÿÎÀÿĞÀ À %À sÀ ´À »À şÀ9ÀUÀWÀ“À³ÀµÀÀÀ]À›À¢ÀåÀÀ#À4À;ÀÀ­À¯ÀöÀıÀ.ÀdÀfÀ®ÀµÀèÀ À"ÀqÀÀ•À¯ÀÆÀÈÀÀÀIÀÀÖÀÀ]ÀƒÀŠÀÙÀ)ÀFÀsÀuÀ¸À¿À	À	HÀ	cÀ	eÀ	À	¤À	æÀ
+'À
+TÀ
+[À
+’À
+­À
+¯À
+íÀ
+ôÀ<À‚À¯À¶ÀãÀÀÀDÀKÀ“ÀÔÀÀÀ?À`ÀbÀ­À´À÷ÀÀ#ÀsÀ¿ÀÀXÀšÀ¡ÀíÀúÀ*À,ÀjÀqÀ¹ÀúÀ'À.À[À|À~À¼ÀÃÀÀLÀyÀ€À·ÀØÀÚÀ%À,ÀoÀ”À›ÀëÀ7ÀƒÀĞÀÀÀeÀrÀ¢À¤ÀãÀêÀ3ÀyÀ¦À­ÀÜÀşÀ ÀFÀMÀ‡À¦À­ÀôÀ6ÀaÀhÀ’À¨ÀªÀùÀ ÀAÀHÀÀÑÀüÀÀÀdÀˆÀŠÀ×ÀÀÀVÀ‰ÀÀÔÀÛÀ"ÀdÀÀ«À­ÀöÀ2À9À}À„ÀËÀÀ8À?ÀÀ¬À®ÀÀÀ$À5À<ÀÀ©À À ZÀ °À ñÀ!:À!~À!¹À"À"9À"‹À"ÂÀ#À#CÀ#À#ÂÀ#åÀ#çÀ$7À$PÀ$WÀ$hÀ$oÀ$ÃÀ$ÜÀ%9À%À%ãÀ&$À&mÀ&±À&ìÀ'8À'oÀ'ÁÀ'øÀ(FÀ(yÀ(ÅÀ(øÀ)À)À)kÀ)„À)‹À)œÀ)£À)÷À*À*mÀ*ÁÀ+À+XÀ+¡À+åÀ, À,lÀ,£À,ğÀ-#À-qÀ-¤À-ğÀ.#À.MÀ.OÀ.À.¶À.½À.ÎÀ.ÕÀ/.À/‹À/ßÀ05À0vÀ0¿À1À1>À1ŠÀ1ÁÀ2À2AÀ2“À2ÊÀ3À3IÀ3oÀ3qÀ3¾À3×À3ŞÀ3ïÀ3öÀ4OÀ4¬À5 À5VÀ5—À5àÀ6$À6_À6«À6âÀ7/À7bÀ7´À7ëÀ89À8lÀ8‘À8“À8İÀ8äÀ94À9À9˜À9ŸÀ9ìÀ:1À:rÀ:¸À:ŞÀ:åÀ;3À;QÀ;XÀ;¥À;øÀ<DÀ<ˆÀ<ÇÀ=À=	À=QÀ=À=¤À=µÀ=¼À=÷À>>À>sÀ>¼À? À?À? À?lÀ?½À@À@)À@+À@nÀ@uÀ@ÄÀAÀAYÀA¥ÀA³ÀAºÀB ÀB,ÀB3ÀBDÀBKÀBšÀBµÀBÛÀBİÀCÀC ÀCyÀC¨ÀC¯ÀDÀD1ÀD8ÀDÀD¾ÀDÅÀEÀE;ÀEBÀEyÀE€ÀE‘ÀE˜ÀEñÀFÀF^ÀFyÀF ÀF¢ÀFóÀGÀG-ÀGIÀGmÀGŠÀG¤ÀG¿ÀGàÀGøÀHÀH-ÀH`ÀH•ÀH©ÀHÒÀHêÀIÀIÀI;ÀIgÀI„ÀI¡ÀIÍÀIëÀIşÀJÀJ=ÀJ]ÀJuÀJÀJ¬ÀJÍÀJóÀKÀK6ÀKPÀKoÀK‘ÀK´ÀK¼ÀKâÀLÀL^ÀL“ÀLÑÀM ÀMDÀM|ÀM®ÀMéÀN<ÀN’ÀN»ÀNùÀO(ÀO]ÀO’ÀOÓÀP&ÀP[ÀPœÀPïÀQ'ÀQMÀQ|ÀQÏÀR
+ÀR<ÀRnÀR£ÀRŞÀS(ÀSfÀS¡ÀSÇÀTÀTFÀTÀT‰ÀTÀTÀTäÀU9ÀUbÀUiÀU­ÀUõÀV'ÀV.ÀV{ÀVÂÀVãÀW(ÀWBÀWVÀW]ÀWsÀW¦ÀWñÀX'ÀXfÀX–ÀXÛÀYÀYGÀYƒÀYÂÀYòÀZ(ÀZjÀZ¾ÀZôÀ[6À[ŠÀ[ÃÀ[óÀ\GÀ\ƒÀ\¶À\éÀ]À][À]¦À]åÀ^!À^HÀ^~À^ºÀ^ÂÀ^ÇÀ^ÉÀ^ÖÀ^úÀ_À_$À_6À_KÀ_[À_nÀ_À_“À_¯À_ÌÀ_ÚÀ_ïÀ`À`À`#À`9À`UÀ`gÀ`}À`À`­À`ÂÀ`ÑÀ`ãÀaÀaÀa*Àa=ÀaQÀagÀa‚Àa™Àa¯Àa¾ÀaÙÀaíÀbÀbÀb$Àb*Àb,Àb9Àb]Àb€Àb”Àb›ÀbÈÀbİÀbäÀcÀc@Àc{Àc¨ÀcÛÀdÀd;ÀdfÀd—Àd¼ÀdïÀeÀeEÀerÀe§ÀeèÀfÀfJÀf‹ÀfºÀfûÀg>ÀgaÀgŠÀgËÀgüÀh'ÀhRÀhÀh°ÀhëÀiÀiOÀirÀi¡ÀiÜÀj	Àj<ÀjkÀjpÀjrÀjÀjÅÀjñÀk'Àk<ÀkcÀkzÀkÀk¿ÀkÉÀkÑÀkæÀlÀl,ÀlIÀlÀl‹Àl“Àl¨ÀlÏÀlçÀlıÀm.Àm8Àm@ÀmUÀm¶Àm¾ÀmÓÀn8Àn@ÀnUÀn{Àn˜Àn³ÀnéÀnóÀnûÀoÀokÀosÀoˆÀo¯ÀoÆÀoÛÀpÀpÀpÀp2ÀpÀp˜Àp­ÀpàÀqÀq"Àq]ÀqgÀqoÀq„Àq¸ÀqÛÀqüÀr8ÀrBÀrJÀr_Àr¹ÀrÁÀrÖÀsÀs!Às:ÀsnÀsxÀs€Às•ÀsûÀtÀtÀtyÀtÀt–Àt¹ÀtÕÀtïÀu$Àu.Àu6ÀuKÀuwÀu™Àu¹ÀuôÀuşÀvÀvÀvBÀvZÀvpÀv¡Àv«Àv³ÀvÈÀvëÀwÀw!ÀwVÀw`ÀwhÀw}Àw©ÀwËÀwëÀx&Àx0Àx8ÀxMÀxtÀxŒÀx¢ÀxÓÀxİÀxåÀxúÀy!Ày:ÀyQÀyƒÀyÀy•ÀyúÀz\ÀzqÀz™Àz»ÀzÛÀ{À{ À{(À{=À{eÀ{À{—À{ÊÀ{ÔÀ{ÜÀ|AÀ|¦À|»À|äÀ|üÀ}À}CÀ}MÀ}UÀ}jÀ}“À}­À}ÅÀ}ıÀ~À~À~$À~MÀ~lÀ~‰À~ÁÀ~ËÀ~ÓÀ~èÀÀ,ÀEÀyÀƒÀ‹À ÀÉÀãÀûÀ€.À€8À€@À€UÀ€³À€»À€ĞÀ€òÀÀ.ÀfÀpÀxÀÀ¹ÀÑÀçÀ‚À‚"À‚*À‚?À‚jÀ‚„À‚œÀ‚ÏÀ‚ÙÀ‚áÀ‚æÀ‚éÀ‚ëÀƒ/ÀƒkÀƒmÀƒŒÀƒÀƒ›Àƒ÷À„)À„jÀ„qÀ„¬À„³À„µÀ„ÂÀ…À…QÀ…’À…™À…ÔÀ…ÛÀ…İÀ…êÀ†OÀ†À†ÂÀ†ÉÀ†øÀ‡=À‡DÀ‡uÀ‡¼À‡ÃÀ‡şÀˆÀˆÀˆÀˆrÀˆ¦ÀˆØÀ‰*À‰1À‰3À‰„À‰‹À‰À‰šÀ‰÷ÀŠ+ÀŠ]ÀŠ¯ÀŠ¶À‹À‹À‹À‹%À‹yÀ‹ÕÀŒÀŒfÀŒ¯ÀŒùÀÀÀ
+ÀÀkÀÆÀõÀüÀ-ÀbÀiÀœÀÆÀñÀùÀ ÀÀÀiÀÄÀóÀúÀ+À`ÀgÀšÀÄÀïÀ÷ÀşÀ‘ À‘À‘gÀ‘ÂÀ‘ñÀ‘øÀ’'À’ZÀ’aÀ’’À’ÇÀ’ÎÀ“À“+À“VÀ“^À“eÀ“hÀ“jÀ“ À“¢À“æÀ”+À”TÀ”ˆÀ”ŠÀ”À”âÀ•À•À• À•?À•AÀ•„À•ÆÀ•ÈÀ–À–qÀ–ÉÀ—"À—{À—®À˜À˜:À˜tÀ˜vÀ˜ƒÀ˜ßÀ™À™VÀ™]À™•À™œÀ™À™«À™ÿÀš1ÀšdÀškÀš˜ÀšŸÀš¡Àš®À›À›JÀ›À›—À›ÆÀ›ùÀœ7Àœ@ÀœsÀœ°Àœ¹ÀœéÀœğÀ!À_ÀfÀ—ÀËÀÒÀÀÀÀ#À…À·ÀıÀŸÀŸ3ÀŸfÀŸ¤ÀŸ­ÀŸàÀ À &À VÀ ]À À ÌÀ ÓÀ¡À¡8À¡?À¡oÀ¡vÀ¡xÀ¡…À¡ºÀ¡¼À¡ÉÀ¢#À¢UÀ¢ˆÀ¢À¢µÀ¢¼À¢¾À¢ËÀ£%À£WÀ£ŠÀ£‘À£ÀÀ£óÀ¤À¤&À¤CÀ¤JÀ¤pÀ¤wÀ¤yÀ¤†À¤ãÀ¥/À¥aÀ¥¯À¥¶À¥åÀ¦À¦RÀ¦[À¦À¦ÓÀ¦ÜÀ§À§À§LÀ§†À§À§¾À¨À¨À¨IÀ¨PÀ¨RÀ¨_À¨ÄÀ©À©BÀ©À©—À©ÆÀ©ùÀª3Àª<ÀªoÀª´Àª½ÀªõÀªüÀ«-À«gÀ«nÀ«ŸÀ«âÀ«éÀ¬*À¬1À¬3À¬@À¬À¬êÀ­À­jÀ­qÀ­²À­¹À­»À­ÈÀ®%À®qÀ®§À®®À®±À®ÄÀ®ÆÀ®ú   _kTransitionDuration_kTransitionCurve_kFinalLabelScale_kInputExtraPadding_kSubtextCounterPadding_kHintFadeTransitionDuration_InputBorderGap_InputBorderTween_InputBorderPainter_BorderContainer_BorderContainerState_HelperError_HelperErrorStateFloatingLabelBehaviorFloatingLabelAlignment_DecorationSlot_Decoration_RenderDecorationLayout_RenderDecoration
+_Decorator
+_AffixTextInputDecorator_InputDecoratorStateInputDecorationInputDecorationThemeInputDecorationThemeData_InputDecoratorDefaultsM2_InputDecoratorDefaultsM31flutter.material.InputDecorator.textAlignVertical‚?How the text should be aligned vertically.
+
+Determines the alignment of the baseline within the available space of
+the input (typically a TextField). For example, TextAlignVertical.top will
+place the baseline such that the text, and any attached decoration like
+prefix and suffix, is as close to the top of the input as possible without
+overflowing. The heights of the prefix and suffix are similarly included
+for other alignment values. If the height is greater than the height
+available, then the prefix and suffix will be allowed to overflow first
+before the text scrolls.&flutter.material.inputDecoration.label|When the input field is empty and unfocused, the label is displayed on
+top of the input field (i.e., at the same location on the screen where
+text may be entered in the input field). When the input field receives
+focus (or if the field is non-empty), depending on [floatingLabelAlignment],
+the label moves above, either vertically adjacent to, or to the center of
+the input field.+flutter.material.inputDecoration.labelStyle„?The style to use for [InputDecoration.labelText] when the label is on top
+of the input field.
+
+If [labelStyle] is a [WidgetStateTextStyle], then the effective
+text style can depend on the [WidgetState.focused] state, i.e.
+if the [TextField] is focused or not.
+
+When the [InputDecoration.labelText] is above (i.e., vertically adjacent to)
+the input field, the text uses the [floatingLabelStyle] instead.
+
+If null, defaults to a value derived from the base [TextStyle] for the
+input field and the current [Theme].
+
+Specifying this style will override the default behavior
+of [InputDecoration] that changes the color of the label to the
+[InputDecoration.errorStyle] color or [ColorScheme.error].
+
+{@tool dartpad}
+It's possible to override the label style for just the error state, or
+just the default state, or both.
+
+In this example the [labelStyle] is specified with a [WidgetStateProperty]
+which resolves to a text style whose color depends on the decorator's
+error state.
+
+** See code in examples/api/lib/material/input_decorator/input_decoration.label_style_error.0.dart **
+{@end-tool}3flutter.material.inputDecoration.floatingLabelStyle„mThe style to use for [InputDecoration.labelText] when the label is
+above (i.e., vertically adjacent to) the input field.
+
+When the [InputDecoration.labelText] is on top of the input field, the
+text uses the [labelStyle] instead.
+
+If [floatingLabelStyle] is a [WidgetStateTextStyle], then the effective
+text style can depend on the [WidgetState.focused] state, i.e.
+if the [TextField] is focused or not.
+
+If null, defaults to [labelStyle].
+
+Specifying this style will override the default behavior
+of [InputDecoration] that changes the color of the label to the
+[InputDecoration.errorStyle] color or [ColorScheme.error].
+
+When the input field receives focus, the font size of [InputDecoration.label] is
+scaled down by 75%.
+
+{@tool dartpad}
+It's possible to override the label style for just the error state, or
+just the default state, or both.
+
+In this example the [floatingLabelStyle] is specified with a
+[WidgetStateProperty] which resolves to a text style whose color depends
+on the decorator's error state.
+
+** See code in examples/api/lib/material/input_decorator/input_decoration.floating_label_style_error.0.dart **
+{@end-tool}+flutter.material.inputDecoration.errorStyle´The style to use for the [InputDecoration.errorText].
+
+If null, defaults of a value derived from the base [TextStyle] for the
+input field and the current [Theme].
+
+By default the color of style will be used by the label of
+[InputDecoration] if [InputDecoration.errorText] is not null. See
+[InputDecoration.labelStyle] or [InputDecoration.floatingLabelStyle] for
+an example of how to replicate this behavior when specifying those
+styles.6flutter.material.inputDecoration.floatingLabelBehaviorÄDefines **how** the floating label should behave.
+
+When [FloatingLabelBehavior.auto] the label will float to the top only when
+the field is focused or has some text content, otherwise it will appear
+in the field in place of the content.
+
+When [FloatingLabelBehavior.always] the label will always float at the top
+of the field above the content.
+
+When [FloatingLabelBehavior.never] the label will always appear in an empty
+field in place of the content.7flutter.material.inputDecoration.floatingLabelAlignmentxDefines **where** the floating label should be displayed.
+
+[FloatingLabelAlignment.start] aligns the floating label to the leftmost
+(when [TextDirection.ltr]) or rightmost (when [TextDirection.rtl]),
+possible position, which is vertically adjacent to the label, on top of
+the field.
+
+[FloatingLabelAlignment.center] aligns the floating label to the center on
+top of the field.6flutter.material.input_decorator.container_description€ÛThe decoration's container is the area which is filled if [filled] is true
+and bordered per the [border]. It's the area adjacent to [icon] and above
+the widgets that contain [helperText], [errorText], and [counterText]. èL

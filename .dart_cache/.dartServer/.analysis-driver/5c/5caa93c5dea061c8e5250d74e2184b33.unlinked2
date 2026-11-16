@@ -1,0 +1,700 @@
+€ tablabelstartstartOffsetfillcenterlinearelastictextchildicon
+iconMarginheight_buildLabelTextbuilddebugFillPropertiespreferredSize
+labelStyleunselectedLabelStyle
+isSelected	isPrimary
+labelColorunselectedLabelColordefaults_resolveWithLabelColoronPerformLayoutperformLayoutcreateRenderObjectupdateRenderObjectdividerColordividerHeightpaintshouldRepaintnotifytoString
+controller	indicatorindicatorSizeindicatorPaddingtabKeyslabelPaddingsshowDividerdevicePixelRatioindicatorAnimationtextDirection_repaint_currentTabOffsets_currentTextDirection_currentRect_painter_needsPaintmarkNeedsPaintdisposesaveTabOffsetsmaxTabIndexcenterOfindicatorRect_applyLinearEffectdecelerateInterpolationaccelerateInterpolation_applyElasticEffectparentremoveStatusListenerremoveListenervalueindextabBar_viewportDimensionWasNonZero_needsPixelsCorrectionapplyContentDimensionsmarkNeedsPixelsCorrection_tabBarStatedebugCheckHasTabBarStatecreateScrollPositiontabsscrollControllerisScrollablepaddingindicatorColorindicatorWeight!automaticIndicatorColorAdjustmentlabelPaddingoverlayColordragStartBehaviormouseCursorenableFeedbackonTaponHoveronFocusChangephysicssplashFactorysplashBorderRadiustabAlignment
+textScalertabHasTextAndIcon
+_isPrimarycreateState_internalScrollController_controller_indicatorPainter_currentIndex_tabStripWidth_tabKeys_labelPaddings%_debugHasScheduledValidTabsCountCheck	initState	_defaults_effectiveScrollController_getIndicator_controllerIsValid_updateTabController_updateScrollController_initIndicatorPainterdidChangeDependenciesdidUpdateWidget_tabScrollOffset_tabCenteredScrollOffset_initialScrollOffset_scrollToCurrentIndex_scrollToControllerValue!_handleTabControllerAnimationTick_handleTabControllerTick_saveTabOffsets
+_handleTap_buildStyledTab$_debugScheduleCheckHasValidTabsCount_debugTabAlignmentIsValidchildrenviewportFractionclipBehavior_pageController_childrenWithKey_warpUnderwayCount_scrollUnderwayCount)_debugHasScheduledValidChildrenCountCheck_jumpToPage_animateToPage_updateChildren_warpToCurrentIndex_warpToAdjacentTab_warpToNonAdjacentTab_syncControllerOffset_handleScrollNotification(_debugScheduleCheckHasValidChildrenCountbackgroundColorborderColorsizeborderStylecolorselectedColor_previousTabController_tabController
+_animation_setAnimation_buildTabIndicatorcontext_colorsisDarkprimaryColor
+_textTheme_kTabHeight_kTextAndIconTabHeight_kStartOffsetTabBarIndicatorSizeTabAlignmentTabIndicatorAnimationTab	_TabStyle_LayoutCallback_TabLabelBarRenderer_TabLabelBar_indexChangeProgress_DividerPainter_IndicatorPainterNotifier_IndicatorPainter_ChangeAnimation_DragAnimation_TabBarScrollPositionTabBarScrollControllerTabValueChangedTabBar_TabBarState
+TabBarView_TabBarViewStateTabPageSelectorIndicatorTabPageSelector_TabPageSelectorState_TabsDefaultsM2_TabsPrimaryDefaultsM3_TabsSecondaryDefaultsM3«SemanticsRole
+lerpDoubleDragStartBehaviordouble	indicatortabAlignmentisScrollablestart	ThemeDatauseMaterial3startOffsetTabBarThemeDataTabControllerStatelessWidgetPreferredSizeWidgetkeyStringText	SemanticsWidgetEdgeInsetsGeometryPreferredSizesoftWrapoverflowfadeTextOverflowoverrideBuildContextdebugCheckHasMaterialofTheme
+iconMarginColumnmainAxisAlignmentcenterMainAxisAlignmentchildrenPaddingpaddingchildSizedBoxheightCenterwidthFactorvoidDiagnosticPropertiesBuilderdebugFillPropertiesaddStringPropertydefaultValueSize
+fromHeightAnimatedWidget	Animation
+listenable	TextStyleboolColorWidgetStateColorIconThemeDataTabBarTheme
+labelColorcolor
+labelStyleresolveWidgetStateselectedunselectedLabelColorunselectedLabelStyle	withAlpharesolveWithSetcontainsstateslerpvaluecopyWithmergeinherit
+brightnesscolorSchemelight
+BrightnesskDefaultIconDarkColordarkkDefaultIconLightColor	IconTheme	iconThemeDefaultTextStylestyledatasizeListTextDirection
+RenderFlex	directionmainAxisSizecrossAxisAlignmenttextDirectionverticalDirectionperformLayout	RenderBox
+firstChild
+parentDataFlexParentDatadxoffsetnextSiblingrtlinsertwidthltrFlex
+horizontalAxisCrossAxisAlignmentdownVerticalDirectiongetEffectiveTextDirectiononPerformLayoutupdateRenderObject	animationtoDoublepreviousIndexindexindexIsChangingclampDoubleabsCustomPainterCanvasPaintstrokeWidthdrawLineOffsetdividerColordividerHeightChangeNotifiernotifyListenersdescribeIdentity
+Decoration	GlobalKey_
+controllerindicatorSizetabKeysoldindicatorPaddinglabelPaddingsshowDividerdevicePixelRatioindicatorAnimationrepaint
+ListenabledebugMaybeDispatchCreated_currentTabOffsets_currentTextDirectionRect
+BoxPainternotifydebugMaybeDispatchDisposeddisposeintlength
+isNotEmptylabelcurrentContext
+EdgeInsets+leftfromLTWHcollapsedSizeFlutterErrordeflateRectcreateBoxPainterlinearelasticImageConfigurationpainttopLeftclampfloorceilsinpicosisCompleted/rightfromLTRBtopbottom
+listEqualsAnimationWithParentMixinAnimationStatusListenerremoveStatusListenerVoidCallbackremoveListenerScrollPositionWithSingleContextphysicscontextoldPositioninitialPixelsviewportDimensioncorrectPixels_initialScrollOffsetapplyContentDimensionsScrollControllerStateScrollPositionScrollPhysicsScrollContexttabBaronHoveronFocusChangeTAppBarDefaultTabControllerMaterialScrollMetricsNotificationScrollNotificationNotificationListener	secondaryStatefulWidgetzerokTabLabelPaddingtextUnderlineTabIndicatortabBoxDecorationborderRadiusColorswhitetransparentColorSchemeoutlineVariantprimaryprimaryTextTheme	TextTheme	bodyLargeonSurfaceVariant
+titleSmallfocusedhoveredpressedInkResponse
+focusColor
+hoverColorsplashColorhighlightColorWidgetStatePropertyWidgetStateMouseCursormouseCursor	clickableMouseCursorValueChangedInkWellNoSplashsplashFactoryInteractiveInkFeatureFactoryBorderRadiusfill
+textScalerMediaQueryData
+MediaQuery
+TextScaleritempreferredSizemax	initStatetoListmaptabswidgetfilledgrowable
+_isPrimaryscrollControllerindicatorColor!automaticIndicatorColorAdjustmentmaybeOfindicatorWeightonlycircularRadiustopRight
+borderSide
+BorderSideruntimeTypeaddListener_tabBarStatedevicePixelRatioOfDirectionalitydidChangeDependenciesdidUpdateWidgetoldScrollController
+hasClientspositionmarkNeedsPixelsCorrectionaddAllgenerateremoveRangemaxTabIndexcenterOfminScrollExtentmaxScrollExtent	animateTodurationkTabScrollDurationcurveeaseCurvesjumpTomountedsetStatesaveTabOffsetscallonTap
+isSelected	isPrimarydefaultsaddPostFrameCallbackinstanceWidgetsBindingDuration
+debugLabel"debugCheckHasMaterialLocalizationsMaterialLocalizations
+LimitedBoxmaxWidthinfinitylabelPaddingtabHasTextAndIcon	symmetricverticalheightFactorKeyedSubtreeReverseAnimation	resolveAstoSetoverlayColorenableFeedbacksplashBorderRadiusroleStackkIsWebtabLabeltabIndextabCountMergeSemanticsExpanded	containerexplicitChildNodesCustomPaintpainterkAlwaysDismissedAnimationMainAxisSizeminEdgeInsetsDirectionalScrollConfigurationbehavior
+overscrollSingleChildScrollViewdragStartBehaviorscrollDirectionAlignmentGeometry	AlignmentcenterStartAlignmentDirectionalAlign	alignmenttypetransparencyMaterialTypehardEdgeClipPageScrollPhysicsPageController
+jumpToPage-FutureCurveanimateToPageinitialPageviewportFractionensureUniqueKeysForListtabPanelpageanimationDurationdepthScrollUpdateNotificationroundScrollEndNotificationonNotificationPageViewclipBehaviorapplyToClampingScrollPhysicssolidBorderStyle	Containermarginall
+decorationborderBordershapecircleBoxShapeCurvedAnimationparentfastOutSlowIn
+ColorTweenbeginbackgroundColorborderColorendborderStyleselectedColorAnimatedBuilderbuilderRowbrightnessOfgreyblue	textThemewithOpacity	onSurfaceStatelessWidgetPreferredSizeWidgetAnimatedWidget
+RenderFlexFlexCustomPainterChangeNotifier	AnimationAnimationWithParentMixinScrollPositionWithSingleContextScrollControllerStatefulWidgetStateTabBarThemeData0"ÜnŞŸ	p:ÔB    €Ø   €ê€ímath€í	dart:math#SemanticsRole
+lerpDouble €õ   dart:ui  )   package:flutter/foundation.dartzDragStartBehavior T   package:flutter/gestures.dart  ”   package:flutter/rendering.dart  ¾   package:flutter/widgets.dart  è   app_bar.dart  ‚    color_scheme.dart  ‚   colors.dart  ‚4   constants.dart  ‚N   
+debug.dart  ‚d   ink_well.dart  ‚}   material.dart  ‚–   material_localizations.dart  ‚½   tab_bar_theme.dart  ‚Û   tab_controller.dart  ‚ú   tab_indicator.dart  ƒ   text_theme.dart  ƒ3   
+theme.dartÀ ¿¦ À¦h‹‚ =€ˆ€§€©€Ë€Õ€×€ô&(S“½åçÿ‚‚3‚M‚c‚|‚•‚¼‚Ú‚ùƒƒ2ƒHƒJƒlƒ™ƒ½ƒ¿„„„„ „P„„ë……7…†…Ö…î…ö…ø†F†M†“†Ò†Ü†ß†á‡‡$‡3‡8‡i‡¸ˆˆ)ˆ>ˆˆ¯ˆ÷‰8‰u‰|‰º‰ä‰î‰ğŠ1ŠmŠ“ŠšŠŞ‹‹‹‹c‹“‹œ‹‹Õ‹à‹ã‹åŒ0Œ5ŒDŒtŒÈŒÛŒù%02lx{}¢§ğÿH–ö0t£ªú>‰¥ÿ‘‘F‘”‘‘­‘Õ’’(’*’Y’`’•’¬’®’ß’æ“0“7“k“ƒ“…“³“Ê“Ì“û””M”s”z”Î••+•-•M•T•¸––:–A–X–_–«–ù——"—1—U—„—œ—·—É—ç˜˜˜&˜D˜a˜q˜˜‹˜•˜ ˜³˜Ì˜Î˜ì™<™A™C™P™x™¥™§™Ë™ä™ıš$šFšwšš´šÂšô›*›C›n›¡›Ï›æœœ9œxœ–œ¢œ¬œ³œµœËœö,49;Hº1Lt·ôŸŸ4Ÿ;Ÿ@ŸCŸEŸoŸ„Ÿ¯ŸÎŸì  4 S | ™ ³ Ù Û û¡%¡?¡X¡t¡š¡½¡Ô¡Ö¢5¢i¢«¢ã¢å£3£€£Ø£ó¤
+¤-¤K¤u¤”¤–¤¸¤º¤è¥/¥ˆ¥–¥æ¦¦0¦S¦‚¦¬¦â§§$§T§’§™§›§à¨¨b¨k¨·¨À¨Å¨Ç¨Ô¨ü©,©n©¦©¨ªªª]ª¤ªŞ««7«}«Õ«ø¬$¬p¬½­	­;­m­u­Â®®0®8®m®}® ®¸¯¯	¯'¯\¯{¯Ğ¯ç¯ñ¯ù¯ş°°°-°G°g°x°|°~°¯°É°è±
+±1±Y±Š±±±Õ±Ü±Ş²²²²+²G²”²å³3³c³‡³©³Æ´
+´:´n´š´¡´Å´äµµ,µKµnµuµ±µ¶µ¹µ»¶¶a¶~¶¡···8·m·¥·Ù·ã·å¸¸¸¸W¸y¸–¸Ã¸æ¹¹P¹}¹¦¹®¹³¹µ¹ÂººNºƒºˆº‹ººÆ»»J»†»ˆ»Ó¼¼+¼v¼{¼}¼×½0½3½5½d½³½µ½Ò½ñ½ó¾ ¾*¾K¾Z¾a¾c¾~¾œ¾Â¾Ä¾Ú¿¿U¿c¿k¿p¿r¿¿´À @À @À @ À @"À @jÀ @¤À @·À @ÏÀ @ÔÀ @ÖÀ @ãÀ AÀ AÀ AÀ AIÀ AhÀ AÀ A´À AåÀ BÀ B2À BeÀ B›À BµÀ BÑÀ BñÀ CÀ CHÀ CsÀ C{À CÂÀ DÀ DVÀ D_À DªÀ DôÀ EÀ E4À EQÀ EvÀ EÀ E À EËÀ EğÀ FÀ F8À FYÀ F„À F³À FØÀ GÀ GÀ GÀ GÀ G-À GLÀ GjÀ GŒÀ G¨À GÎÀ GóÀ HÀ H-À HFÀ HfÀ H‚À H©À HËÀ HüÀ IÀ IqÀ IÀÀ IØÀ J"À J)À J.À J0À JSÀ JrÀ JÀ JÌÀ JîÀ KÀ K=À K]À KxÀ K›À KÎÀ KôÀ L!À L#À LoÀ L»À LëÀ MÀ M9À M;À MRÀ MkÀ MˆÀ M£À M¼À MÔÀ MÙÀ MÛÀ MïÀ NÀ N8À NQÀ NVÀ NXÀ N©À NÏÀ NûÀ O À OÀ O[À O°À OêÀ OìÀ PÀ P8À PeÀ PÀ P§À PşÀ QÀ QÀ Q<À QeÀ Q‘À Q¾À QÚÀ R À RÀ R\À R¼À SÀ S$À S&À S]À S«À SóÀ TAÀ TœÀ TÃÀ TéÀ TğÀ TòÀ UBÀ U˜À UšÀ UËÀ UæÀ V(À V^À VhÀ VoÀ V•À VšÀ VœÀ V©À VÓÀ VíÀ W+À W-À WdÀ WfÀ W˜À WíÀ XDÀ XLÀ XNÀ XqÀ XsÀ X¢À XÃÀ XğÀ YÀ Y#À YQÀ YuÀ Y–À Y¿À ZÀ ZlÀ Z¨À Z¯À ZóÀ ZøÀ ZúÀ [-À [xÀ [¯À [ÔÀ \&À \mÀ \£À \ÕÀ ]À ]À ]À ]?À ]tÀ ]¦À ]«À ]­À ]ĞÀ ^À ^=À ^BÀ ^DÀ ^xÀ ^ÄÀ ^ûÀ _-À _/À _vÀ _šÀ _ÊÀ _ûÀ `À `;À `„À `¨À `ÔÀ a À a#À aHÀ azÀ a°À aûÀ aıÀ bRÀ bŸÀ böÀ c$À c8À c?À cAÀ cfÀ chÀ cÀ cáÀ cşÀ d"À d+À doÀ d}À d¯À d¶À d¸À eÀ e2À eFÀ eMÀ eOÀ eoÀ eÀ eÉÀ f!À fyÀ fÀ f›À fİÀ g À g.À gpÀ g³À gºÀ g¼À gÜÀ gıÀ gÿÀ hhÀ h²À hÙÀ i&À iwÀ i…À iÓÀ jÀ jJÀ j“À jÀ jÍÀ kÀ kdÀ knÀ kuÀ kwÀ kÆÀ kËÀ kÍÀ kÚÀ l	À l$À lMÀ ltÀ l¥À lëÀ m(À m-À m0À m2À mŒÀ m²À m´À m×À mÙÀ mæÀ n À n"À n/À npÀ n™À nÆÀ nÍÀ nÒÀ nÔÀ náÀ oÀ o:À oaÀ ohÀ omÀ ooÀ o|À oµÀ o¸À oºÀ pÀ pBÀ pDÀ pgÀ p{À p}À pŠÀ pÄÀ pÆÀ pÓÀ qÀ q=À qjÀ qqÀ qvÀ qxÀ q…À qµÀ qŞÀ rÀ rÀ rÀ rÀ r À r6À r`À r«À rÜÀ s À sÀ s'À s/À s~À sƒÀ s†À sˆÀ sÒÀ t!À tmÀ t¼À uÀ uÀ u;À uXÀ uyÀ u”À u¸À uºÀ uØÀ uÚÀ vÀ v
+À vFÀ vmÀ voÀ v|À vÍÀ våÀ wÀ wOÀ wVÀ w£À wğÀ x<À x‰À x×À y+À yoÀ y–À y¬À zÀ zÀ z(À z/À z…À zŠÀ zŒÀ z²À zÖÀ zÛÀ zŞÀ zàÀ {À {RÀ { À {§À {èÀ |À |	À |\À |cÀ |¿À |ÆÀ }À }-À }À }À }¢À }§À }©À }¶À }ŞÀ }úÀ ~À ~8À ~?À ~hÀ ~jÀ ~À ~¦À ~¿À ~àÀ ~şÀ À À À À .À HÀ ^À cÀ fÀ hÀ ·À âÀ çÀ €8À €ŠÀ €ÙÀ €ïÀ 0À 2À ZÀ _À °À áÀ æÀ ‚/À ‚UÀ ‚ZÀ ‚À ‚£À ‚õÀ ƒEÀ ƒ„À ƒ¥À ƒªÀ ƒèÀ ƒíÀ „:À „?À „TÀ „»À …À …À …_À …pÀ …uÀ …ŠÀ …çÀ †BÀ †uÀ †zÀ †¿À †ĞÀ †ÕÀ †êÀ ‡;À ‡‡À ‡ØÀ ‡İÀ ˆ"À ˆ3À ˆ8À ˆMÀ ˆ¦À ˆéÀ ‰/À ‰wÀ ‰šÀ ‰ŸÀ ‰äÀ ‰õÀ ‰úÀ Š	À ŠÀ ŠCÀ ŠÀ ŠğÀ ‹8À ‹XÀ ‹À ‹ĞÀ ‹×À ŒÀ Œ=À ŒDÀ Œ†À Œ®À ŒµÀ ŒëÀ ŒòÀ 9À @À ‚À «À ²À øÀ =À À “À £À ¼À ÒÀ îÀ À !À ;À oÀ À ¾À ÓÀ ìÀ À À 3À IÀ aÀ À ¡À ØÀ ğÀ ‘À ‘!À ‘2À ‘EÀ ‘^À ‘qÀ ‘ŠÀ ‘¨À ‘ÀÀ ‘ÖÀ ‘ôÀ ’À ’MÀ ’OÀ ’ƒÀ ’ŠÀ ’ÛÀ “À “
+À “!À “tÀ “ÂÀ ”À ”À ”cÀ ”vÀ ”}À ”À ”•À ”ÀÀ •À •qÀ •»À •İÀ •ùÀ –	À –"À –8À –TÀ –tÀ –‡À –¡À –ÕÀ –öÀ —$À —9À —RÀ —jÀ —ƒÀ —™À —¯À —ÇÀ —çÀ ˜À ˜>À ˜VÀ ˜mÀ ˜‡À ˜˜À ˜«À ˜ÄÀ ˜×À ˜ğÀ ™À ™&À ™<À ™ZÀ ™vÀ ™´À ™¶À ™ìÀ ™óÀ šGÀ š€À šœÀ šÀ šÒÀ šÙÀ ›0À ›EÀ ›iÀ ›kÀ ›¢À ›©À ›ÿÀ œ2À œ4À œnÀ œuÀ œÈÀ À <À XÀ ZÀ ”À ›À ûÀ VÀ ¨À ÎÀ ĞÀ ŸÀ ŸÀ ŸhÀ ŸÀ ŸˆÀ ŸÏÀ ŸğÀ  À  À  XÀ  _À  À  ¤À  ğÀ ¡@À ¡lÀ ¡sÀ ¡ÀÀ ¡ıÀ ¢À ¢KÀ ¢RÀ ¢™À ¢ºÀ ¢ÛÀ ¢İÀ £À £
+À £JÀ £QÀ £À £éÀ ¤À ¤:À ¤<À ¤yÀ ¤€À ¤ÇÀ ¥À ¥À ¥hÀ ¥ˆÀ ¥À ¥ÜÀ ¦*À ¦kÀ ¦¹À ¦×À ¦ŞÀ ¦ïÀ ¦öÀ §FÀ §‰À §©À §«À §ùÀ ¨ À ¨3À ¨:À ¨qÀ ¨ÃÀ ©À ©(À ©YÀ ©[À ©À ©¤À ©íÀ ª9À ªÀ ª¶À ª½À «À «OÀ «nÀ «›À «À «¾À «ÅÀ ¬À ¬&À ¬{À ¬ÇÀ ­À ­<À ­>À ­`À ­gÀ ­¾À ­ÅÀ ®#À ®wÀ ®£À ®ÃÀ ®ÅÀ ®îÀ ®õÀ ¯IÀ ¯–À ¯×À °À °À °WÀ °¢À °íÀ ±+À ±2À ±ˆÀ ±ËÀ ±ğÀ ±÷À ²À ²À ²VÀ ²rÀ ²tÀ ²ŸÀ ²¦À ²îÀ ³4À ³‚À ³­À ³´À ´	À ´ZÀ ´¡À ´ÅÀ ´ÌÀ µ"À µrÀ µ¨À µ¯À µÀÀ µÇÀ ¶À ¶'À ¶)À ¶[À ¶bÀ ¶¶À ·
+À ·À ·#À ·sÀ ·¥À ·¬À ·ıÀ ¸À ¸]À ¸±À ¸âÀ ¹À ¹À ¹8À ¹?À ¹ŸÀ ºÀ º!À º(À ºƒÀ ºŠÀ ºãÀ »@À »’À »­À »×À »ÙÀ ¼À ¼À ¼QÀ ¼À ¼ÈÀ ¼ÏÀ ½À ½<À ½>À ½À ½†À ½ÏÀ ¾À ¾À ¾SÀ ¾|À ¾ƒÀ ¾àÀ ¿TÀ ¿®À ¿ÖÀ ¿éÀ À!À ÀZÀ À’À ÀÈÀ ÁÀ Á9À ÁmÀ ÁoÀ Á¬À ÁÚÀ ÁÜÀ ÂÀ Â^À Â}À Â„À Â»À Ã
+À ÃÀ Ã3À ÃIÀ ÃPÀ ÃœÀ ÃçÀ Ä
+À ÄÀ Ä]À ÄdÀ Ä¸À ÄùÀ Å À ÅÀ Å8À Å:À ÅÀ ÅˆÀ Å×À ÅŞÀ Æ+À ÆyÀ ÆÉÀ ÇÀ ÇGÀ ÇjÀ ÇlÀ Ç¸À ÇÑÀ ÇØÀ È)À È0À È}À È¸À È¿À ÉÀ É`À É™À É À É·À ÊÀ ÊÀ Ê À ÊmÀ Ê€À Ê©À Ê«À Ê÷À ËÀ ËÀ ËbÀ ËiÀ ËºÀ ËøÀ ËÿÀ ÌPÀ Ì À Ì×À ÌŞÀ ÌõÀ ÍCÀ Í^À ÍeÀ Í¸À ÍËÀ ÍúÀ ÍüÀ Î@À ÎGÀ Î™À ÎÅÀ ÎÌÀ ÎşÀ ÏÀ Ï!À ÏfÀ Ï®À ÏµÀ ĞÀ ĞQÀ ĞrÀ ĞyÀ ĞˆÀ Ğ—À ĞÇÀ ÑÀ Ñ.À Ñ„À Ñ’À ÑÀ Ñ½À ÑÏÀ ÑÛÀ ÑäÀ ÑïÀ Ò%À Ò'À ÒÀ ÒˆÀ ÒåÀ ÒìÀ ÒûÀ Ó
+À Ó-À ÓaÀ ÓmÀ Ó¥À ÓÄÀ ÓÖÀ ÓâÀ ÓëÀ ÓöÀ ÓıÀ ÔHÀ ÔsÀ ÔuÀ Ô¾À ÔÅÀ ÕÀ ÕZÀ ÕaÀ ÕÁÀ ÖÀ ÖÀ ÖlÀ ÖsÀ ÖÊÀ ×À ×BÀ ×IÀ ×¡À ×æÀ ØÀ Ø9À Ø;À Ø{À Ø‚À ØİÀ Ù?À Ù’À Ù™À ÙªÀ ÚÀ Ú)À Ú+À ÚiÀ ÚpÀ ÚÈÀ ÛÀ ÛhÀ Û½À ÛÄÀ ÛÛÀ Ü1À ÜdÀ ÜkÀ ÜÆÀ ÜÙÀ ÜàÀ ÜñÀ ÜøÀ İXÀ İŒÀ İÀ İÚÀ İáÀ Ş#À Ş0À ŞLÀ ŞqÀ Ş˜À ŞÂÀ ß À ß6À ß?À ßFÀ ß€À ß…À ß‡À ßÓÀ ßÚÀ à'À àvÀ à‹À à«À àÒÀ àüÀ á@À áXÀ ácÀ álÀ ásÀ á†À á‹À áÀ á¿À áÆÀ áóÀ âÀ âÀ âÀ âNÀ âQÀ âSÀ âÀ âµÀ âÔÀ âıÀ ãÀ ã3À ãUÀ ã†À ã½À ã¿À ãÌÀ ãâÀ ãúÀ äJÀ ä”À äÛÀ åÀ å-À åEÀ å\À ådÀ åiÀ åkÀ åÀ å¹À åÙÀ æÀ æ`À ænÀ æ«À æ²À æ·À æ¹À æôÀ ç À çMÀ çvÀ çxÀ ç À ç§À ç©À çíÀ çòÀ çôÀ è5À èeÀ è§À è©À èÎÀ èïÀ èöÀ é À éFÀ éMÀ éOÀ é´À êÀ êIÀ ê–À êãÀ ë2À ëƒÀ ë´À ë¼À ìÀ ì\À ìdÀ ì²À ìÜÀ í.À ícÀ í¦À íÃÀ íÊÀ íÌÀ îÀ îUÀ î¡À îáÀ îïÀ ïÀ ïeÀ ïªÀ ïáÀ ğ
+À ğÀ ğsÀ ğ‘À ğÒÀ ñÀ ñ!À ñ2À ñUÀ ñÀ ñ À ñğÀ òHÀ ò§À òäÀ óÀ ó%À ó/À ó7À ó<À ó>À óŠÀ óÙÀ ô À ôBÀ ôDÀ ôeÀ ôËÀ ôÜÀ õ À õÀ õXÀ õ±À öÀ öVÀ öµÀ öÁÀ öÊÀ öŞÀ öéÀ öëÀ ÷À ÷#À ÷*À ÷,À ÷KÀ ÷À ÷ÛÀ ÷âÀ øÀ ø$À øsÀ ø®À øÙÀ øàÀ øåÀ øçÀ ù8À ùsÀ ù¤À ù«À ù×À úÀ úCÀ úQÀ úÀ úÇÀ úÎÀ úÓÀ úÕÀ ú÷À û'À ûiÀ û˜À ûğÀ ûòÀ ü0À ü2À ü‹À üÎÀ ıÀ ıÀ ıÀ ıEÀ ıUÀ ısÀ ıšÀ ıĞÀ ıûÀ ş3À şSÀ ş­À şËÀ ş÷À ÿ]À ÿyÀ ÿØÀ À eÀ †À ´À çÀÀNÀ\À^ÀzÀÀÀÀ°ÀÔÀôÀÀ/À4À6ÀCÀoÀ–ÀÌÀÀ_À~ÀÀ ÀÂÀöÀDÀvÀ§À²À»À À@À|À¾ÀòÀ,ÀhÀ®ÀÎÀÕÀ×ÀÀGÀ˜ÀïÀ'ÀiÀ±À¸À½À¿ÀÌÀàÀ	À	"À	tÀ	²À	¹À	ÒÀ	ıÀ
+0À
+{À
+‘À
+–À
+˜À
+ÒÀ
+ÔÀ6ÀWÀjÀqÀ­ÀÇÀòÀÀ`À‘À°ÀşÀÀÀfÀkÀmÀÀçÀéÀÀÀ8ÀYÀzÀ‚À‡À‰ÀäÀ7À<À>À`À¥À§ÀÀÀÀ8ÀpÀ¨À¹ÀÀIÀÀ’À”ÀÍÀÀ:ÀlÀÀºÀÈÀéÀÀSÀ_ÀÀŸÀìÀôÀöÀ&À+À-À[ÀqÀ²ÀşÀ)ÀLÀSÀXÀZÀÀ¯ÀÚÀüÀÀ'À.ÀAÀˆÀ¡ÀªÀ¯À±ÀÚÀ8ÀUÀ˜ÀÀŸÀ¿ÀöÀÀ:À?ÀAÀ\ÀoÀ…À§ÀÆÀÍÀäÀÀ ÀEÀkÀ¥ÀËÀÀ À5À=ÀBÀDÀuÀ§À»ÀÂÀ
+À@ÀWÀhÀqÀ„À¾ÀİÀ6ÀÀÀ©À¿ÀÌÀúÀ-À?ÀDÀFÀ…À–ÀİÀ6À?ÀbÀÁÀÀÀ3À>ÀPÀUÀWÀdÀŒÀÆÀûÀ +À mÀ À òÀ!1À!3À!‡À!¬À!ÆÀ!ŞÀ">À"HÀ"OÀ"QÀ"¢À"ÆÀ#À#mÀ#oÀ#À#ÆÀ#üÀ$#À$}À$†À$®À$°À$ÆÀ$âÀ$ûÀ%&À%wÀ%ƒÀ%À%–À%˜À%æÀ&5À&•À&µÀ&òÀ&ôÀ'À'pÀ'¡À'îÀ(&À(NÀ(_À(uÀ(‹À(—À(ÎÀ(õÀ)À)À)3À)?À)OÀ)™À)ÇÀ*"À*TÀ*vÀ*‡À*£À*¹À*ÅÀ*èÀ+À+eÀ+šÀ+¨À+ÜÀ, À,À,4À,LÀ,ZÀ,eÀ,À,ÑÀ-À-KÀ-YÀ-À-±À-ÅÀ-áÀ-ùÀ.À.À.À."À.$À.oÀ.¼À.óÀ/!À/ZÀ/¸À/ºÀ/êÀ0GÀ0…À0ÉÀ0ËÀ1/À1QÀ1\À1µÀ1÷À2À2'À2SÀ2hÀ2†À2’À2³À2âÀ2îÀ3À3JÀ3VÀ3À3èÀ4NÀ4eÀ4À4¾À4éÀ5À5GÀ5dÀ5ÂÀ5èÀ6À6&À6KÀ6gÀ6œÀ6½À6ÛÀ75À7IÀ7[À7kÀ7yÀ7…À7À7ÖÀ8'À8jÀ8sÀ8zÀ8|À8œÀ8¿À8×À8øÀ9À98À9SÀ9„À9¢À9ËÀ9õÀ:3À:]À:›À:»À:ÛÀ;
+À;PÀ;tÀ;™À;½À;ËÀ;×À;áÀ;éÀ;ëÀ<À<qÀ<µÀ<îÀ=À=À=2À=zÀ=ÊÀ=ñÀ>)À>VÀ>‰À>¯À>ÓÀ>íÀ>ùÀ?À?$À?{À?¯À?ĞÀ?÷À@9À@EÀ@GÀ@kÀ@ÄÀ@êÀAFÀAHÀAaÀAÀA·ÀAáÀAûÀBÀB	ÀBQÀBrÀBÓÀBïÀBıÀCÀCÀC;ÀC}ÀC„ÀC†ÀCœÀCÄÀCŞÀDÀDUÀDmÀDwÀDÀD„ÀD‡ÀD‰ÀDÖÀDéÀDîÀE1ÀE6ÀEzÀEÀEÖÀEåÀEêÀF8ÀFwÀF|ÀFÊÀFõÀG(ÀG/ÀG~ÀG”ÀG¤ÀGÁÀG×ÀGêÀH!ÀHCÀHkÀHrÀHtÀH¨ÀH¯ÀIÀIÀI?ÀIAÀI\ÀIcÀI ÀIãÀJÀJÀJ<ÀJCÀJ“ÀJ½ÀJÄÀKÀK5ÀK<ÀKnÀKÀK‘ÀKÎÀKüÀKşÀL8ÀLZÀL\ÀL“ÀLšÀL¾ÀLÚÀLÜÀLéÀM#ÀM&ÀM(ÀM\ÀM{ÀMŸÀMÆÀMİÀMüÀNÀNXÀNZÀNªÀNùÀO ÀObÀOdÀO…ÀOëÀOüÀP ÀP=ÀPxÀPÑÀQ,ÀQvÀQÕÀQáÀQêÀQşÀR	ÀRÀR4ÀRCÀRJÀRLÀRkÀR½ÀRÄÀRæÀSÀSUÀS\ÀSaÀScÀSƒÀS¡ÀSÉÀSçÀSìÀSîÀTSÀTqÀTÄÀTâÀTçÀTéÀTöÀUÀU$ÀU<ÀUAÀUCÀUPÀUrÀU–ÀU³ÀUÜÀV ÀV)ÀVOÀVƒÀVÀV›ÀVÏÀVÖÀVÛÀVİÀVêÀWÀWAÀWwÀW–ÀWÁÀWåÀWìÀX.ÀXQÀXzÀX ÀXÔÀXŞÀXåÀY0ÀY|ÀYÉÀYãÀYêÀYïÀYñÀYşÀZÀZ1ÀZƒÀZŠÀZ£ÀZÄÀ[À[%À[*À[,À[HÀ[†À[ºÀ\À\À\À\"À\$À\RÀ\˜À\§À\äÀ\æÀ]À]AÀ]_À]fÀ]kÀ]mÀ]À]ØÀ]çÀ]îÀ]ğÀ^KÀ^kÀ^¦À^´À^òÀ^ùÀ^şÀ_ À_>À_dÀ_ˆÀ_–À_ëÀ_òÀ`À`À`7À`BÀ`IÀ`kÀ`pÀ`rÀ`³À`îÀa'Àa)ÀavÀa­ÀaéÀbÀb&Àb(Àb;ÀbŒÀbÜÀc.Àc|Àc¶ÀcşÀd-Àd6Àd8ÀdhÀd‡Àd‰ÀdºÀdàÀeÀeÀegÀenÀepÀe„Àe™ÀeµÀeÀÀeÇÀeÌÀeÎÀeğÀfPÀfUÀfWÀf~ÀfÃÀgÀgÀgÀg ÀgDÀgYÀg`ÀgbÀg‚Àg—ÀgÀg ÀgÀÀgñÀhGÀhÀhªÀhÖÀiÀiÀi,ÀieÀiÀiºÀiæÀjÀjÀjÀj8Àj:ÀjMÀjRÀjTÀj‰Àj¿ÀjÓÀjÚÀk"Àk\ÀksÀk„ÀkÀk ÀkŞÀkıÀlVÀlÀÀlÎÀlÙÀlïÀlüÀm7ÀmnÀm€Àm…Àm‡Àm”Àm¼ÀmõÀm÷Àn-Àn_ÀnwÀn­ÀnÙÀnÿÀo(ÀoxÀoºÀoßÀoéÀoñÀoöÀoùÀoûÀpMÀpiÀpnÀp¬ÀpæÀqÀqAÀqQÀquÀq•Àq®ÀqÙÀqàÀqâÀrÀr2Àr4Àr`Àr|Àr~Àr¦Àr¼Àr¾ÀrêÀrñÀs3ÀsUÀsWÀsdÀsŒÀs£Às·ÀsÌÀsöÀtÀt9Àt~ÀtŸÀt©Àt±Àt¶Àt¹Àt»ÀuÀu!Àu&ÀujÀuoÀuÀÀuÕÀuÚÀvÀv@ÀvpÀv¼Àv×ÀvçÀvıÀwÀw.ÀwGÀw^ÀwƒÀw…Àw¹ÀwÀÀwıÀx,ÀxPÀxRÀx–ÀxµÀx·ÀxöÀxıÀyWÀynÀypÀy½ÀyßÀyæÀz6ÀzVÀzuÀzwÀz£ÀzªÀzìÀ{À{À{À{bÀ{eÀ{gÀ{¥À{ÏÀ{õÀ|[À|lÀ|À|­À|ßÀ}=À}À}ËÀ~*À~6À~?À~SÀ~^À~zÀ~À~À~¡À~£À~°À~åÀÀVÀnÀuÀªÀÚÀáÀæÀèÀõÀ€À€;À€›À€³À€ºÀ€ïÀÀ&À+À-ÀGÀcÀÆÀËÀÍÀÚÀîÀ‚
+À‚ À‚%À‚'À‚EÀ‚XÀ‚zÀ‚À‚ÂÀ‚ÉÀ‚æÀƒÀƒ^Àƒ¡ÀƒÏÀ„À„?À„rÀ„‚À„³À„¼À„ÊÀ…À…jÀ…À…ËÀ†À†XÀ†À†ÙÀ‡À‡"À‡SÀ‡\À‡cÀ‡‰À‡­À‡ÚÀ‡ıÀˆ:ÀˆBÀˆGÀˆIÀˆVÀˆ~Àˆ¾À‰#À‰wÀ‰ËÀŠÀŠ<ÀŠ[ÀŠ“ÀŠ®ÀŠØÀ‹	À‹7À‹EÀ‹\À‹‰À‹ŞÀŒÀŒ#ÀŒDÀŒiÀŒÀŒ ÀŒºÀŒÈÀŒÔÀŒŞÀŒæÀŒëÀŒîÀŒğÀ$ÀUÀºÀ¼ÀÛÀÀjÀ·ÀÓÀÕÀâÀHÀJÀWÀ©À«À¸ÀÀÀÀmÀoÀ|ÀÓÀÕÀâÀ‘>À‘@À‘À‘À‘’À‘¾À‘ÀÀ’À’IÀ’rÀ’¦À’¨À’¼À’ôÀ“/À“gÀ“iÀ“ˆÀ“ËÀ”À”)À”+À”¢À”¯À”åÀ”çÀ•_À•lÀ•‘À•“À• À•ÑÀ•ÓÀ•àÀ–À–À–À–SÀ–UÀ–bÀ–¢À–¤À–±À–òÀ–ôÀ—À—3À—{À—¯À—äÀ˜À˜#À˜XÀ˜À˜˜À˜ÍÀ™À™À™"À™+À™^À™À™™À™ÌÀšÀš
+Àš=ÀšqÀšzÀšÀš—ÀšœÀšÀš«À›À›À›À›sÀ›uÀ›»À›àÀœ	Àœ2Àœ:Àœ?ÀœAÀœ‚ÀœµÀœäÀ0À3À5ÀoÀ¬ÀâÀäÀÀFÀˆÀ¤À¦ÀŸÀŸ,ÀŸbÀŸdÀŸŞÀŸëÀ À À À PÀ RÀ _À À À À ÔÀ ÖÀ ãÀ¡#À¡%À¡2À¡sÀ¡uÀ¡‚À¡´À¡üÀ¢0À¢eÀ¢›À¢¦À¢ÛÀ£À£À£RÀ£ˆÀ£“À£©À£²À£åÀ¤À¤"À¤UÀ¤ŠÀ¤“À¤ÆÀ¤úÀ¥À¥À¥ À¥%À¥'À¥4À¥‹À¥À¥šÀ¥üÀ¥şÀ¦&À¦)À¦<À¦>À¦h    /// @docImport 'no_splash.dart';€×€í €ô #(  S z“  ½  ç  ÿ  ‚  ‚3  ‚M  ‚c  ‚|  ‚•  ‚¼  ‚Ú  ‚ù  ƒ  ƒ2      ­ °      ²²	¸   ½½	Â   ÈÈ	Í   ÓÓØ   ääé   ññ
+ö ‘‘‘C‘š‘4‘#‘‘‘‘,‘&‘/‘<‘7‘?‘N‘¤‘ª‘Ò’$‘Â‘º‘µ‘½‘Ë‘Å‘Î‘İvv‚° /// Creates a Material Design [TabBar] tab.
+///
+/// At least one of [text], [icon], and [child] must be non-null. The [text]
+/// and [child] arguments must not be used at the same time. The
+/// [iconMargin] is only useful when [icon] and either one of [text] or
+/// [child] is non-null.  ’¥’,}’¥a/// The text to display as the tab's label.
+///
+/// Must not be used in combination with [child]. “{’°€Ğ“{€­/// The widget to be used as the tab's label.
+///
+/// Usually a [Text] widget, possibly wrapped in a [Semantics] widget.
+///
+/// Must not be used in combination with [text]. “Ã“‡@“Ã*/// An icon to display as the tab's label. •“ÎZ• /// The margin added around the tab's icon.
+///
+/// Only useful when used in combination with [icon], and either one of
+/// [text] or [child] is non-null.
+///
+/// Defaults to 2 pixels of bottom margin. If [ThemeData.useMaterial3] is false,
+/// then defaults to 10 pixels of bottom margin. ˜Ã•/ƒš˜Ãƒ+/// The height of the [Tab].
+///
+/// If null, the height will be calculated based on the content of the [Tab]. When `icon` is not
+/// null along with `child` or `text`, the default height is 72.0 pixels. Without an `icon`, the
+/// height is 46.0 pixels.
+///
+/// {@tool snippet}
+///
+/// The provided tab height cannot be lower than the default height. Use
+/// [PreferredSize] widget to adjust the overall [TabBar] height and match
+/// the provided tab [height]:
+///
+/// ```dart
+/// bottom: const PreferredSize(
+///   preferredSize: Size.fromHeight(20.0),
+///   child: TabBar(
+///     tabs: <Widget>[
+///       Tab(
+///         text: 'Tab 1',
+///         height: 20.0,
+///       ),
+///       Tab(
+///         text: 'Tab 2',
+///         height: 20.0,
+///       ),
+///     ],
+///   ),
+/// ),
+/// ```
+/// {@end-tool}  
+
+
+4      ˜Ğ˜Ğo˜×    ™_™_™l ™E™F™E™Eƒò™Y    cc& =>==€ÇO  }}‘Ä6§/// A Material Design [TabBar] tab.
+///
+/// If both [icon] and [text] are provided, the text is displayed below
+/// the icon.
+///
+/// See also:
+///
+///  * [TabBar], which displays a row of tabs.
+///  * [TabBarView], which displays a widget for the currently selected tab.
+///  * [TabController], which coordinates tab selection between a [TabBar] and a [TabBarView].
+///  * <https://material.io/design/components/tabs.html>  Ÿw Ÿ€    	  ŸˆŸˆ$Ÿ£   Ÿ³Ÿ³ŸÁ   ŸÒŸÒŸà   ŸğŸğŸş     "     8 8 F    W W" e    € €       «  º ¿ Õ À Ê ÌŸqŸqf     î İ î  ¡ ı%¡  ¡2¡'¡2  ¡L¡A¡L  ¡g¡Z¡g  ¡ƒ¡v!¡ƒ  ¡²¡œ¡²  ¡Ì¡¿¡Ì      ¢ ¢ ¢   ¢¢¢&  ¡Ø¡Ø†ë¡é    ¨ã¨ã¨ğ ¨É¨Ê¨É¨É‡3¨İ  ŸEŸEºŸK   °± °Å      °Í°Í°Ü   °ì°ì°û   ±± ±   ±5±5!±D   ±]±]*±z   ±± ±   ±µ±µ±Ã  °±°±)    ±ğ±à±ğ     ²²²²ƒ®²  °~°~…9°„   ¶© ¶µ      ¶·¶·¶½   ¶Ç¶Ç¶Õ   ¶æ¶æ¶õ ···ß··$·&·*·+·@·Q·S·d·e·u·‡·‰·›·œ·­·¾·À·Ñ·Ò¶£¶£>    ·ı·ç%·ı      ¸>¸>¸K ¸¸¸¸¸+    ¹Ü¹Ü¹é   ¹ò¹ò!º ¹·¹¸¹·¹·€Ï¹É  ¶~¶~„¶„   ½f ½u      ½w½w½…   ½“½“½¡  ½f½fK    ½Ã½·½Ã  ½á½Ô½á      ¾¾¾   ¾¾	¾! ½õ½ö½õ½õy¾    ¿”¿”¿¤ ¿t¿u¿t¿t€§¿†  ½5½5‚é½;         À @¦À @¦,À @«   À @ØÀ @ÙÀ @ØÀ @Ø9À @ì  À @jÀ @j€ªÀ @p  À AKÀ AS À Ad      À AlÀ Al!À Aƒ   À A”À A”À A¨   À A¸À A¸*À AÕ   À AéÀ Aé À B   À BÀ BÀ B,   À B6À B6,À BR   À BiÀ Bi/À B‹   À BŸÀ BŸÀ B¦   À B¹À B¹À BÁ   À BÕÀ BÕÀ Bã   À BõÀ BõÀ Bı   À CÀ C1À C3   À CLÀ CL$À Cc  À AKÀ AK…Å    À GÀ G'À G)      À G1À G1À G?   À GPÀ GPÀ G^   À GnÀ GnÀ G|   À GÀ GÀ G   À G¬À G¬À GÈ   À GÒÀ GÒÀ Gà   À G÷À G÷À H   À HÀ HÀ H   À H1À H1À H6   À HJÀ HJÀ HX   À HjÀ HjÀ Ho   À H†À H† À H”   À H­À H­À H»   À HÏÀ HÏ*À Hò À IÀ IÀ IÀ IÀ I$À IlÀ I%À I,À I.À I8À I9À I>À IkÀ ILÀ IjÀ I?À IKÀ I@À IJÀ IMÀ IWÀ IXÀ IcÀ GÀ GƒÀ G(   À JFÀ J2À JF  À JfÀ JUÀ Jf  À JÀ Jt'À J  À J¹À J )À J¹  À JäÀ JÎÀ Jä  À KÀ Jğ,À K  À K.À K!À K.  À KMÀ K?À KM  À KjÀ K_À Kj  À KˆÀ KzÀ Kˆ  À K¹À K.À K¹  À KäÀ KĞ!À Kä  À LÀ Kö(À L  À LûÀ Lí À Lû  À M!À M$À M!  À MCÀ M=À MC  À M`À MTÀ M` À M€À MrÀ MmÀ Mr    À O²À O²6À Oº     À MŠÀ MŠMÀ M    À MİÀ MİwÀ Mâ    À NnÀ NnÀ N|   À NˆÀ NˆÀ N—  À NZÀ NZ€¤À N_    À OşÀ OşÀ P  À OîÀ OîÀ Oõ    À QÀ QÀ Q   À Q+À Q+À Q/  À QÀ Q…‘À Q    À V¶À V¶À V½   À VÅÀ VÅ	À VÊ À VÀ VŸÀ VÀ V„XÀ V°    À [IÀ [IÀ [W   À []À []À [m  À ZüÀ Zü‚À [5//// Applies the linear effect to the indicator.   À ]`À ]`À ]g  À ]AÀ ]AhÀ ]H    À ]ñÀ ]ñÀ ]ø  À ]ÒÀ ]ÒnÀ ]Ù    À ^•À ^•À ^£   À ^©À ^©À ^¹  À ^FÀ ^FƒÀ ^€0/// Applies the elastic effect to the indicator.   À kïÀ kïÀ l À kÏÀ kĞÀ kÏÀ kÏ\À ká  À AÀ A¬À A   À m À m      À mŸÀ mŸÀ m¤  À mÀ m"    À mÊÀ m¶À mÊ   À mÛÀ mÜÀ mÛÀ mÛCÀ mş   À oqÀ orÀ oqÀ oqBÀ o‰     À nKÀ nK À nc À n$À n%À n$À n$€¬À n6    À n÷À n÷À o À nÖÀ n×À nÖÀ nÖ€•À nè  À m2À m2‚„À m8   À p À p"      À p#À p#À p(   À p4À p4
+À p9  À pÀ p,    À pZÀ pFÀ pZ  À psÀ piÀ ps   À pÀ p€À pÀ pCÀ p¢   À rÀ rÀ rÀ rlÀ r-     À pïÀ pï À q À pÈÀ pÉÀ pÈÀ pÈ€¬À pÚ    À q›À q›À q¨ À qzÀ q{À qzÀ qz€•À qŒ  À oºÀ oºƒÊÀ oÀ   À u À u      À u"À u"À u1   À u?À u?À uN   À u\À u\À uk   À u}À u}À u‹ À u›À u À u´À u¡À u®À u°À uÀ u€±    À uÏÀ u¼À uÏ À v À uáÀ uÜ)À uá À vfÀ vMÀ vH"À vM      À všÀ všÀ v¡   À v²À v²À v¹ À vqÀ vrÀ vqÀ vq„À vƒ    À zÀ zKÀ z“  À t¼À t¼† À tÂ    À {øÀ {T€°À {ø€Œ/// The state of the [TabBar] widget to which this controller is attached.
+///
+/// Is null if this controller is not attached to a [TabBar].     À |À |šÀ }€ï/// Asserts that this controller is currently attached to a [TabBar]'s [State].
+///
+/// To invoke this function, wrap it in an assert: `assert(debugCheckHasTabBarState());`
+///
+/// Does nothing if asserts are disabled. Always returns true.   À }âÀ }âÀ }ğ   À }şÀ }şÀ ~   À ~À ~À ~* À }«À }¬À }«À }«^À }Ç   À À À À RÀ !  À zàÀ zà„„À {1/// The [ScrollController] for a [TabBar] widget.  À ‰ À        À —À —	À    À §À §À µ   À ÀÀ ÀÀ Å   À ÖÀ ÖÀ Û   À òÀ òÀ ÷   À À À    À %À %À *   À ?À ?-À D   À sÀ sÀ x   À ”À ”'À ™   À ÂÀ ÂÀ Ç   À ×À ×À Ü   À ğÀ ğÀ õ   À À À    À !À !À &   À 7À 7À <   À MÀ MÀ R   À eÀ eÀ j   À …À …À Š   À ¥À ¥0À ª   À ÜÀ ÜÀ á   À ôÀ ôÀ ù   À ‘À ‘À ‘   À ‘%À ‘%
+À ‘*   À ‘6À ‘6À ‘;   À ‘IÀ ‘IÀ ‘N   À ‘bÀ ‘bÀ ‘g   À ‘uÀ ‘uÀ ‘z   À ‘À ‘À ‘“   À ‘¬À ‘¬À ‘±   À ‘ÄÀ ‘ÄÀ ‘É   À ‘ÚÀ ‘ÚÀ ‘ß À À hÀ ŠÀ ¬À ¶À ·À ¾À ÏÀ ĞÀ ‘ûÀ ’À ’À ’À ’À ’IÀ ’/À ’'À ’À ’*À ’2À ’HÀ ’CÀ ’3À ’EÀ ‹ À ‹ †« ‚¬/// Creates a Material Design primary tab bar.
+///
+/// The length of the [tabs] argument must match the [controller]'s
+/// [TabController.length].
+///
+/// If a [TabController] is not provided, then there must be a
+/// [DefaultTabController] ancestor.
+///
+/// The [indicatorWeight] parameter defaults to 2.
+///
+/// The [indicatorPadding] parameter defaults to [EdgeInsets.zero].
+///
+/// If [indicator] is not null or provided from [TabBarTheme],
+/// then [indicatorColor] is ignored.
+///
+/// The [indicatorWeight] does not affect the visual appearance of
+/// the indicator when a custom [indicator] is provided. However,
+/// it may still be used to compute the TabBar's preferred size.  À •åÀ •ëÀ •õ       À •ıÀ •ı	À –   À –À –À –   À –&À –&À –+   À –<À –<À –A   À –XÀ –XÀ –]   À –xÀ –xÀ –}   À –‹À –‹À –   À –¥À –¥-À –ª   À –ÙÀ –ÙÀ –Ş   À –úÀ –ú'À –ÿ   À —(À —(À —-   À —=À —=À —B   À —VÀ —VÀ —[   À —nÀ —nÀ —s   À —‡À —‡À —Œ   À —À —À —¢   À —³À —³À —¸   À —ËÀ —ËÀ —Ğ   À —ëÀ —ëÀ —ğ   À ˜À ˜0À ˜   À ˜BÀ ˜BÀ ˜G   À ˜ZÀ ˜ZÀ ˜_   À ˜qÀ ˜qÀ ˜v   À ˜‹À ˜‹
+À ˜   À ˜œÀ ˜œÀ ˜¡   À ˜¯À ˜¯À ˜´   À ˜ÈÀ ˜ÈÀ ˜Í   À ˜ÛÀ ˜ÛÀ ˜à   À ˜ôÀ ˜ôÀ ˜ù   À ™À ™À ™   À ™*À ™*À ™/   À ™@À ™@À ™E À –lÀ –ÎÀ –ğÀ —À —À —À ˜$À ˜5À ˜6À ™aÀ ™lÀ ™nÀ ™}À ™ƒÀ ™°À ™–À ™À ™„À ™‘À ™™À ™¯À ™ªÀ ™šÀ ™¬À ’QÀ ’Q‡aÀ •ìƒQ/// Creates a Material Design secondary tab bar.
+///
+/// Secondary tabs are used within a content area to further separate related
+/// content and establish hierarchy.
+///
+/// {@tool dartpad}
+/// This sample showcases nested Material 3 [TabBar]s. It consists of a primary
+/// [TabBar] with nested a secondary [TabBar]. The primary [TabBar] uses a
+/// [DefaultTabController] while the secondary [TabBar] uses a [TabController].
+///
+/// ** See code in examples/api/lib/material/tabs/tab_bar.2.dart **
+/// {@end-tool}
+///
+/// See also:
+///
+///  * [TabBar], for a primary tab bar.
+///  * [TabBarView], which displays page views that correspond to each tab.
+///  * [TabController], which coordinates tab selection between a [TabBar] and a [TabBarView].
+///  * https://m3.material.io/components/tabs/overview, the Material 3
+///     tab bar specification.   À š•À ™¸€áÀ š•€½/// Typically a list of two or more [Tab] widgets.
+///
+/// The length of this list must match the [controller]'s [TabController.length]
+/// and the length of the [TabBarView.children] list. À ›\À š €ÆÀ ›\€š/// This widget's selection and animation state.
+///
+/// If [TabController] is not provided, then the value of [DefaultTabController.of]
+/// will be used. À œÀ ›m€ÂÀ œ€Š/// The [TabBarScrollController] for this [TabBar].
+///
+/// This controller can be used to manipulate the scroll position of the [TabBar]. À IÀ œ6À I€ø/// Whether this tab bar can be scrolled horizontally.
+///
+/// If [isScrollable] is true, then each tab is as wide as needed for its label
+/// and the entire [TabBar] is scrollable. Otherwise each tab gets an equal
+/// share of the available space. À ÄÀ \oÀ Ä>/// The amount of space by which to inset the tab bar.
+///
+/// When [isScrollable] is false, this will yield the same result as if [TabBar] was wrapped
+/// in a [Padding] widget. When [isScrollable] is true, the scrollable itself is inset,
+/// allowing the padding to scroll with the tab bar, rather than enclosing it. À ŸÿÀ Ò;À Ÿÿ
+/// The color of the line that appears below the selected tab.
+///
+/// If this parameter is null, then the value of the Theme's indicatorColor
+/// property is used.
+///
+/// If [indicator] is specified or provided from [TabBarThemeData],
+/// this property is ignored. À ¢ÉÀ  ‚ÄÀ ¢É‚z/// The thickness of the line that appears below the selected tab.
+///
+/// The value of this parameter must be greater than zero.
+///
+/// If [ThemeData.useMaterial3] is true and [TabBar] is used to create a
+/// primary tab bar, the default value is 3.0. If the provided value is less
+/// than 3.0, the default value is used.
+///
+/// If [ThemeData.useMaterial3] is true and [TabBar.secondary] is used to
+/// create a secondary tab bar, the default value is 2.0.
+///
+/// If [ThemeData.useMaterial3] is false, the default value is 2.0.
+///
+/// If [indicator] is specified or provided from [TabBarThemeData],
+/// this property is ignored. À ¤'À ¢ßXÀ ¤'/// The padding for the indicator.
+///
+/// The default value of this property is [EdgeInsets.zero].
+///
+/// For [isScrollable] tab bars, specifying [kTabLabelPadding] will align
+/// the indicator with the tab's text for [Tab] widgets and all but the
+/// shortest [Tab.text] values. À §À ¤>ƒhÀ §ƒ/// Defines the appearance of the selected tab indicator.
+///
+/// If [indicator] is specified or provided from [TabBarThemeData],
+/// the [indicatorColor] and [indicatorWeight] properties are ignored.
+///
+/// The default, underline-style, selected tab indicator can be defined with
+/// [UnderlineTabIndicator].
+///
+/// The indicator's size is based on the tab's bounds. If [indicatorSize]
+/// is [TabBarIndicatorSize.tab] the tab's bounds are as wide as the space
+/// occupied by the tab in the tab bar. If [indicatorSize] is
+/// [TabBarIndicatorSize.label], then the tab's bounds are only as wide as
+/// the tab widget itself.
+///
+/// See also:
+///
+///  * [splashBorderRadius], which defines the clipping radius of the splash
+///    and is generally used with [BoxDecoration.borderRadius]. À ©5À §­©À ©5d/// Whether this tab bar should automatically adjust the [indicatorColor].
+///
+/// The default value of this property is true.
+///
+/// If [automaticIndicatorColorAdjustment] is true,
+/// then the [indicatorColor] will be automatically adjusted to [Colors.white]
+/// when the [indicatorColor] is same as [Material.color] of the [Material]
+/// parent widget. À «‹À ©]‚;À «‹ô/// Defines how the selected tab indicator's size is computed.
+///
+/// The size of the selected tab indicator is defined relative to the
+/// tab's overall bounds if [indicatorSize] is [TabBarIndicatorSize.tab]
+/// (the default) or relative to the bounds of the tab's widget if
+/// [indicatorSize] is [TabBarIndicatorSize.label].
+///
+/// The selected tab's location appearance can be refined further with
+/// the [indicatorColor], [indicatorWeight], [indicatorPadding], and
+/// [indicator] properties. À ­-À «ŸšÀ ­-k/// The color of the divider.
+///
+/// If the [dividerColor] is [Colors.transparent], then the divider will not be drawn.
+///
+/// If null and [ThemeData.useMaterial3] is false, [TabBarThemeData.dividerColor]
+/// color is used. If that is null and [ThemeData.useMaterial3] is true,
+/// [ColorScheme.outlineVariant] will be used, otherwise divider will not be drawn. À ®³À ­@€À ®³O/// The height of the divider.
+///
+/// If the [dividerHeight] is zero or negative, then the divider will not be drawn.
+///
+/// If null and [ThemeData.useMaterial3] is true, [TabBarThemeData.dividerHeight] is used.
+/// If that is also null and [ThemeData.useMaterial3] is true, 1.0 will be used.
+/// Otherwise divider will not be drawn. À ²eÀ ®Çƒ¨À ²eƒW/// The color of selected tab labels.
+///
+/// If null, then [TabBarThemeData.labelColor] is used. If that is also null and
+/// [ThemeData.useMaterial3] is true, [ColorScheme.primary] will be used,
+/// otherwise the color of the [ThemeData.primaryTextTheme]'s
+/// [TextTheme.bodyLarge] text color is used.
+///
+/// If [labelColor] (or, if null, [TabBarThemeData.labelColor]) is a
+/// [WidgetStateColor], then the effective tab color will depend on the
+/// [WidgetState.selected] state, i.e. if the [Tab] is selected or not,
+/// ignoring [unselectedLabelColor] even if it's non-null.
+///
+/// When this color or the [TabBarThemeData.labelColor] is specified, it overrides
+/// the [TextStyle.color] specified for the [labelStyle] or the
+/// [TabBarThemeData.labelStyle].
+///
+/// See also:
+///
+///   * [unselectedLabelColor], for color of unselected tab labels. À ¶À ²vƒ®À ¶ƒS/// The color of unselected tab labels.
+///
+/// If [labelColor] (or, if null, [TabBarThemeData.labelColor]) is a
+/// [WidgetStateColor], then the unselected tabs are rendered with
+/// that [WidgetStateColor]'s resolved color for unselected state, even if
+/// [unselectedLabelColor] is non-null.
+///
+/// If null, then [TabBarThemeData.unselectedLabelColor] is used. If that is also
+/// null and [ThemeData.useMaterial3] is true, [ColorScheme.onSurfaceVariant]
+/// will be used, otherwise unselected tab labels are rendered with
+/// [labelColor] at 70% opacity.
+///
+/// When this color or the [TabBarThemeData.unselectedLabelColor] is specified, it
+/// overrides the [TextStyle.color] specified for the [unselectedLabelStyle]
+/// or the [TabBarThemeData.unselectedLabelStyle].
+///
+/// See also:
+///
+///  * [labelColor], for color of selected tab labels. À ¸õÀ ¶+‚ÔÀ ¸õ‚/// The text style of the selected tab labels.
+///
+/// The color specified in [labelStyle] and [TabBarThemeData.labelStyle] is used
+/// to style the label when [labelColor] or [TabBarThemeData.labelColor] are not
+/// specified.
+///
+/// If [unselectedLabelStyle] is null, then this text style will be used for
+/// both selected and unselected label styles.
+///
+/// If this property is null, then [TabBarThemeData.labelStyle] will be used.
+///
+/// If that is also null and [ThemeData.useMaterial3] is true, [TextTheme.titleSmall]
+/// will be used, otherwise the text style of the [ThemeData.primaryTextTheme]'s
+/// [TextTheme.bodyLarge] definition is used. À »ÀÀ ¹‚ÎÀ »À‚„/// The text style of the unselected tab labels.
+///
+/// The color specified in [unselectedLabelStyle] and [TabBarThemeData.unselectedLabelStyle]
+/// is used to style the label when [unselectedLabelColor] or [TabBarThemeData.unselectedLabelColor]
+/// are not specified.
+///
+/// If this property is null, then [TabBarThemeData.unselectedLabelStyle] will be used.
+///
+/// If that is also null and [ThemeData.useMaterial3] is true, [TextTheme.titleSmall]
+/// will be used, otherwise then the [labelStyle] value is used. If [labelStyle] is null,
+/// the text style of the [ThemeData.primaryTextTheme]'s [TextTheme.bodyLarge]
+/// definition is used. À ½-À »Û^À ½-"/// The padding added to each of the tab labels.
+///
+/// If there are few tabs with both icon and text and few
+/// tabs with only icon or text, this padding is vertically
+/// adjusted to provide uniform padding to all tabs.
+///
+/// If this property is null, then [kTabLabelPadding] is used. À Á^À ½@„*À Á^ƒÁ/// Defines the ink response focus, hover, and splash colors.
+///
+/// If non-null, it is resolved against one of [WidgetState.focused],
+/// [WidgetState.hovered], and [WidgetState.pressed].
+///
+/// [WidgetState.pressed] triggers a ripple (an ink splash), per
+/// the current Material Design spec.
+///
+/// If the overlay color is null or resolves to null, then if [ThemeData.useMaterial3] is
+/// false, the default values for [InkResponse.focusColor], [InkResponse.hoverColor], [InkResponse.splashColor],
+/// and [InkResponse.highlightColor] will be used instead. If [ThemeData.useMaterial3]
+/// if true, the default values are:
+/// * selected:
+///   * pressed - ThemeData.colorScheme.primary(0.1)
+///   * hovered - ThemeData.colorScheme.primary(0.08)
+///   * focused - ThemeData.colorScheme.primary(0.1)
+/// * pressed - ThemeData.colorScheme.primary(0.1)
+/// * hovered - ThemeData.colorScheme.onSurface(0.08)
+/// * focused - ThemeData.colorScheme.onSurface(0.1) À ÁÆÀ ÁqfÀ ÁÆ9/// {@macro flutter.widgets.scrollable.dragStartBehavior} À ÃüÀ ÁŞ‚)À Ãüæ/// {@template flutter.material.tabs.mouseCursor}
+/// The cursor for a mouse pointer when it enters or is hovering over the
+/// individual tab widgets.
+///
+/// If [mouseCursor] is a [WidgetStateMouseCursor],
+/// [WidgetStateProperty.resolve] is used for the following [WidgetState]s:
+///
+///  * [WidgetState.selected].
+/// {@endtemplate}
+///
+/// If null, then the value of [TabBarThemeData.mouseCursor] is used. If
+/// that is also null, then [WidgetStateMouseCursor.clickable] is used. À Å'À Ä'À Å'€ú/// Whether detected gestures should provide acoustic and/or haptic feedback.
+///
+/// For example, on Android a tap will produce a clicking sound and a long-press
+/// will produce a short vibration, when feedback is enabled.
+///
+/// Defaults to true. À ÇbÀ Å<‚+À Çbñ/// An optional callback that's called when the [TabBar] is tapped.
+///
+/// The callback is applied to the index of the tab where the tap occurred.
+///
+/// This callback has no effect on the default handling of taps. It's for
+/// applications that want to do a little extra work when a tab is tapped,
+/// even if the tap doesn't change the TabController's index. TabBar [onTap]
+/// callbacks should not make changes to the TabController since that would
+/// interfere with the default tap handler. À ÊŸÀ Çnƒ8À ÊŸ‚İ/// An optional callback that's called when a [Tab]'s hover state in the
+/// [TabBar] changes.
+///
+/// Called when a pointer enters or exits the ink response area of the [Tab].
+///
+/// The value passed to the callback is true if a pointer has entered the
+/// [Tab] at `index` and false if a pointer has exited.
+///
+/// When hover is moved from one tab directly to another, this will be called
+/// twice. First to represent hover exiting the initial tab, and then second
+/// for the pointer entering hover over the next tab.
+///
+/// {@tool dartpad}
+/// This sample shows how to customize a [Tab] in response to hovering over a
+/// [TabBar].
+///
+/// ** See code in examples/api/lib/material/tabs/tab_bar.onHover.dart **
+/// {@end-tool} À ÍêÀ Ê­ƒJÀ Íê‚é/// An optional callback that's called when a [Tab]'s focus state in the
+/// [TabBar] changes.
+///
+/// Called when the node for the [Tab] at `index` gains or loses focus.
+///
+/// The value passed to the callback is true if the node has gained focus for
+/// the [Tab] at `index` and false if focus has been lost.
+///
+/// When focus is moved from one tab directly to another, this will be called
+/// twice. First to represent focus being lost by the initially focused tab,
+/// and then second for the next tab gaining focus.
+///
+/// {@tool dartpad}
+/// This sample shows how to customize a [Tab] based on focus traversal in
+/// enclosing [TabBar].
+///
+/// ** See code in examples/api/lib/material/tabs/tab_bar.onFocusChange.dart **
+/// {@end-tool} À ÏÀ ÍşÀ Ï€ï/// How the [TabBar]'s scroll view should respond to user input.
+///
+/// For example, determines how the scroll view continues to animate after the
+/// user stops dragging the scroll view.
+///
+/// Defaults to matching platform conventions. À ÒÀ Ï#‚ÿÀ Ò‚‘/// Creates the tab bar's [InkWell] splash factory, which defines
+/// the appearance of "ink" splashes that occur in response to taps.
+///
+/// Use [NoSplash.splashFactory] to defeat ink splash rendering. For example
+/// to defeat both the splash and the hover/pressed overlay, but not the
+/// keyboard focused overlay:
+///
+/// ```dart
+/// TabBar(
+///   splashFactory: NoSplash.splashFactory,
+///   overlayColor: WidgetStateProperty.resolveWith<Color?>(
+///     (Set<WidgetState> states) {
+///       return states.contains(WidgetState.focused) ? null : Colors.transparent;
+///     },
+///   ),
+///   tabs: const <Widget>[
+///     // ...
+///   ],
+/// )
+/// ``` À Ô^À Ò)‚GÀ Ô^í/// Defines the clipping radius of splashes that extend outside the bounds of the tab.
+///
+/// This can be useful to match the [BoxDecoration.borderRadius] provided as [indicator].
+///
+/// ```dart
+/// TabBar(
+///   indicator: BoxDecoration(
+///     borderRadius: BorderRadius.circular(40),
+///   ),
+///   splashBorderRadius: BorderRadius.circular(40),
+///   tabs: const <Widget>[
+///     // ...
+///   ],
+/// )
+/// ```
+///
+/// If this property is null, it is interpreted as [BorderRadius.zero]. À Ø*À Ôwƒ¿À Ø*ƒk/// Specifies the horizontal alignment of the tabs within a [TabBar].
+///
+/// If [TabBar.isScrollable] is false, only [TabAlignment.fill] and
+/// [TabAlignment.center] are supported. Otherwise an exception is thrown.
+///
+/// If [TabBar.isScrollable] is true, only [TabAlignment.start], [TabAlignment.startOffset],
+/// and [TabAlignment.center] are supported. Otherwise an exception is thrown.
+///
+/// If this is null, then the value of [TabBarThemeData.tabAlignment] is used.
+///
+/// If [TabBarThemeData.tabAlignment] is null and [ThemeData.useMaterial3] is true,
+/// then [TabAlignment.startOffset] is used if [isScrollable] is true,
+/// otherwise [TabAlignment.fill] is used.
+///
+/// If [TabBarThemeData.tabAlignment] is null and [ThemeData.useMaterial3] is false,
+/// then [TabAlignment.center] is used if [isScrollable] is true,
+/// otherwise [TabAlignment.fill] is used. À ÚÀ Ø=éÀ Ú´/// Specifies the text scaling behavior for the [Tab] label.
+///
+/// If this is null, then the value of [TabBarThemeData.textScaler] is used. If that is
+/// also null, then the text scaling behavior is determined by the [MediaQueryData.textScaler]
+/// from the ambient [MediaQuery], or 1.0 if there is no [MediaQuery] in scope.
+///
+/// See also:
+///   * [TextScaler], which is used to scale text based on the device's text scale factor. À İwÀ Ú-ƒ\À İw‚ù/// Specifies the animation behavior of the tab indicator.
+///
+/// If this is null, then the value of [TabBarThemeData.indicatorAnimation] is used.
+/// If that is also null, then the tab indicator will animate linearly if the
+/// [indicatorSize] is [TabBarIndicatorSize.tab], otherwise it will animate
+/// with an elastic effect if the [indicatorSize] is [TabBarIndicatorSize.label].
+///
+/// {@tool dartpad}
+/// This sample shows how to customize the animation behavior of the tab indicator
+/// by using the [indicatorAnimation] property.
+///
+/// ** See code in examples/api/lib/material/tabs/tab_bar.indicator_animation.0.dart **
+/// {@end-tool}
+///
+/// See also:
+///
+///  * [TabIndicatorAnimation], which specifies the animation behavior of the tab indicator. À â À á{À â \/// Whether this tab bar is a primary tab bar.
+///
+/// Otherwise, it is a secondary tab bar.  À Ş%À Ş&À İÀ İóÀ Ş;€‹/// A size whose height depends on if the tabs have both icons and text.
+///
+/// [AppBar] uses this size to compute its own preferred size.   À ß‰À ß‰‚ À à–€ô/// Returns whether the [TabBar] contains a tab with both text and icon.
+///
+/// [TabBar] uses this to give uniform padding to all tabs in cases where
+/// there are some tabs with both text and icon and some which contain only
+/// text or icon.   À âÀ âÀ âÀ â;À â,  À 2À 2À aÀ ‹^‰ê/// A Material Design primary tab bar.
+///
+/// Primary tabs are placed at the top of the content pane under a top app bar.
+/// They display the main content destinations.
+///
+/// Typically created as the [AppBar.bottom] part of an [AppBar] and in
+/// conjunction with a [TabBarView].
+///
+/// {@youtube 560 315 https://www.youtube.com/watch?v=POtoEH-5l40}
+///
+/// If a [TabController] is not provided, then a [DefaultTabController] ancestor
+/// must be provided instead. The tab controller's [TabController.length] must
+/// equal the length of the [tabs] list and the length of the
+/// [TabBarView.children] list.
+///
+/// Requires one of its ancestors to be a [Material] widget.
+///
+/// Uses values from [TabBarThemeData] if it is set in the current context.
+///
+/// {@tool dartpad}
+/// This sample shows the implementation of [TabBar] and [TabBarView] using a [DefaultTabController].
+/// Each [Tab] corresponds to a child of the [TabBarView] in the order they are written.
+///
+/// ** See code in examples/api/lib/material/tabs/tab_bar.0.dart **
+/// {@end-tool}
+///
+/// {@tool dartpad}
+/// [TabBar] can also be implemented by using a [TabController] which provides more options
+/// to control the behavior of the [TabBar] and [TabBarView]. This can be used instead of
+/// a [DefaultTabController], demonstrated below.
+///
+/// ** See code in examples/api/lib/material/tabs/tab_bar.1.dart **
+/// {@end-tool}
+///
+/// {@tool dartpad}
+/// This sample showcases nested Material 3 [TabBar]s. It consists of a primary
+/// [TabBar] with nested a secondary [TabBar]. The primary [TabBar] uses a
+/// [DefaultTabController] while the secondary [TabBar] uses a [TabController].
+///
+/// ** See code in examples/api/lib/material/tabs/tab_bar.2.dart **
+/// {@end-tool}
+///
+/// {@tool dartpad}
+/// This sample showcases how to apply custom behavior based on the scroll in [TabBar].
+/// It utilizes scroll notifications ([ScrollMetricsNotification]
+/// and [ScrollNotification]) within [NotificationListener] callback
+/// to monitor the scroll offset, allowing for interface customization
+/// based on the obtained offset.
+///
+/// ** See code in examples/api/lib/material/tabs/tab_bar.3.dart **
+/// {@end-tool}
+///
+/// See also:
+///
+///  * [TabBar.secondary], for a secondary tab bar.
+///  * [TabBarView], which displays page views that correspond to each tab.
+///  * [TabController], which coordinates tab selection between a [TabBar] and a [TabBarView].
+///  * https://m3.material.io/components/tabs/overview, the Material 3
+///     tab bar specification.   À â™À â1À â™  À âÆÀ â·À âÆ  À âéÀ âÖ$À âé  À ãÀ âÿÀ ã  À ã"À ãÀ ã"  À ãJÀ ã5À ãJ  À ãuÀ ãW,À ãu À ãµÀ ãÀ ãˆ2À ã    À åmÀ åmHÀ å    À æ»À æ»5À æÖ    À ôÀ ô>À ô    À
+šÀ
+š6À
+¢    À ãÁÀ ãÂÀ ãÁÀ ãÁ¦À ãÓ    À èÀ è!À è#  À çöÀ çö‹DÀ è    À ôFÀ ôF„À ôK    À ùÀ ù+À ù  À øéÀ øéèÀ øî    À ú×À ú×†¦À úÜ   ÀƒÀ„ÀƒÀƒ€¯À•    ÀZÀZÀa À8À9À8À8†ƒÀJ   ÀÁÀÂÀÁÀÁÓÀÓ    À
+îÀ
+î	À
+ò   À
+ùÀ
+ùÀ    ÀÀÀ   À!À!À(  À
+ÖÀ
+Ö‚“À
+İ    ÀÀ	À“  ÀoÀoÀv    À§À§À®   À½À½ÀÄ   ÀÏÀÏÀÖ  À‹À‹€¯À’    À@À@€ÏÀE    ÀÀ„À    À/À/'À4    À\À\QÀa    ÀñÀñÀş   À
+À
+À   À'À'À.  ÀÜÀÜ€¿Àá    À±À±	Àµ  À¡À¡€œÀ¦    À`À`Àg   ÀsÀsÀx   À‰À‰À›   À«À«À»  ÀCÀCıÀJ    ÀFÀF‚üÀK    ÀgÀgÀt  ÀHÀH‚ÀM    ÀsÀsÀ€ ÀYÀZÀYÀY¥)Àm  À âSÀ âSÀ b2À âY   ÀG† ÀG      ÀG˜ÀG˜	ÀG   ÀG¨ÀG¨ÀG¶   ÀGÅÀGÅÀGÊ   ÀGÛÀGÛÀGà   ÀGîÀGî0ÀGó   ÀH%ÀH%ÀH*   ÀHGÀHG!ÀHL ÀHÀHÀHÀH=ÀH[ÀH_ÀH`ÀF÷ÀF÷y /// Creates a page view with one child per tab.
+///
+/// The length of [children] must be the same as the [controller]'s length.  ÀI2ÀHv€ÆÀI2€š/// This widget's selection and animation state.
+///
+/// If [TabController] is not provided, then the value of [DefaultTabController.of]
+/// will be used. ÀIøÀIC€½ÀIø€•/// One widget per tab.
+///
+/// Its length must match the length of the [TabBar.tabs]
+/// list, as well as the [controller]'s [TabController.length]. ÀK…ÀJ…ÀK…M/// How the page view should respond to user input.
+///
+/// For example, determines how the page view continues to animate after the
+/// user stops dragging the page view.
+///
+/// The physics are modified to snap to page boundaries using
+/// [PageScrollPhysics] prior to being used.
+///
+/// Defaults to matching platform conventions. ÀKèÀK“fÀKè9/// {@macro flutter.widgets.scrollable.dragStartBehavior} ÀLGÀL WÀLG6/// {@macro flutter.widgets.pageview.viewportFraction} ÀLËÀL^yÀLËX/// {@macro flutter.material.Material.clipBehavior}
+///
+/// Defaults to [Clip.hardEdge].    ÀLŞÀLßÀLŞÀLŞCÀLı  ÀD‰ÀD‰ˆ›ÀFĞ‚2/// A page view that displays the widget which corresponds to the currently
+/// selected tab.
+///
+/// This widget is typically used in conjunction with a [TabBar].
+///
+/// {@youtube 560 315 https://www.youtube.com/watch?v=POtoEH-5l40}
+///
+/// If a [TabController] is not provided, then there must be a [DefaultTabController]
+/// ancestor.
+///
+/// The tab controller's [TabController.length] must equal the length of the
+/// [children] list and the length of the [TabBar.tabs] list.
+///
+/// To see a sample implementation, visit the [TabController] documentation.   ÀMmÀM^ÀMm  ÀMÀM}ÀM  ÀM³ÀM¡"ÀM³  ÀMÍÀMÈÀMÍ ÀMøÀMãÀMßÀMã ÀNÀNÀMşÀN ÀNPÀN$ÀN6ÀN$    ÀO"ÀO">ÀO+     ÀOfÀOfƒùÀOk    ÀSvÀSvÀSz  ÀSeÀSe€…ÀSj    ÀTÀTÀT   ÀTÀTÀT)   ÀT3ÀT3ÀTB  ÀSğÀSğ€õÀSı   ÀTëÀTìÀTëÀTëTÀTı   ÀUEÀUFÀUEÀUE”ÀUW    ÀWÀWÀW ÀVßÀVàÀVßÀVßƒÀVñ   ÀYóÀYôÀYóÀYó5ÀZ    À[.À[.€òÀ[3    À\&À\&CÀ\+    À]oÀ]oÀ]t    À_"À_"À_+  À_À_lÀ_    À`—À`—À`   À`tÀ`t…VÀ`    ÀeĞÀeĞ€ƒÀeÕ    ÀfŸÀfŸÀf²  Àf€Àf€ƒĞÀf…    ÀjVÀjVƒ-Àj[    Àm£Àm£Àm° Àm‰ÀmŠÀm‰Àm‰‚kÀm  ÀM(ÀM(¢ÏÀM.   Àq% Àq=      ÀqEÀqE	ÀqK   ÀqUÀqUÀqc   ÀqyÀqyÀq‡   Àq™Àq™Àq§   Àq²Àq²$Àq· ÀqÅÀqĞÀqÑÀpèÀpè€ö 3/// Creates an indicator used by [TabPageSelector].  Àr ÀqäKÀr ,/// The indicator circle's background color. ÀrnÀr6CÀrn(/// The indicator circle's border color. ÀrµÀr€9Àrµ$/// The indicator circle's diameter. ÀsGÀrÀ€’ÀsGk/// The indicator circle's border style.
+///
+/// Defaults to [BorderStyle.solid] if value is not specified.     ÀssÀssÀs€ ÀsYÀsZÀsYÀsY[Àsm  ÀoûÀoû„¼Àp²€¬/// Displays a single circle with the specified size, border style, border color
+/// and background colors.
+///
+/// Used by [TabPageSelector] to indicate the selected page.  ÀvÄ ÀvÓ      ÀvÛÀvÛ	Àvá   ÀvëÀvëÀvğ   ÀwÀwÀw   Àw!Àw!
+Àw&   Àw2Àw2Àw7   ÀwKÀwKÀwP ÀwÀweÀwkÀwÀwzÀwlÀw|ÀvrÀvr H/// Creates a compact widget that indicates which tab has been selected.  ÀxCÀw‡€ÆÀxC€š/// This widget's selection and animation state.
+///
+/// If [TabController] is not provided, then the value of
+/// [DefaultTabController.of] will be used. Àx¥ÀxT^Àx¥@/// The indicator circle's diameter (the default value is 12.0). ÀyfÀx¹€²Àyf€–/// The indicator circle's fill color for unselected pages.
+///
+/// If this parameter is null, then the indicator is filled with [Colors.transparent]. ÀzeÀyr Àze€Ö/// The indicator circle's fill color for selected pages and border color
+/// for all indicator circles.
+///
+/// If this parameter is null, then the indicator is filled with the theme's
+/// [ColorScheme.secondary]. À{Àzy€“À{k/// The indicator circle's border style.
+///
+/// Defaults to [BorderStyle.solid] if value is not specified.    À{À{À{À{MÀ{7  Àt»Àt»†¨ÀvFz/// Uses [TabPageSelectorIndicator] to display a row of small circular
+/// indicators, one per tab.
+///
+/// {@youtube 560 315 https://www.youtube.com/watch?v=Q628ue9Cq7U}
+///
+/// The selected tab's indicator is highlighted. Often used in conjunction with
+/// a [TabBarView].
+///
+/// If a [TabController] is not provided, then there must be a
+/// [DefaultTabController] ancestor.   À{¶À{§%À{¶  À~”À~ƒÀ~”    À{ÑÀ{Ñ‚¬À{ã     À~ÇÀ~ÇÀ~× À~¥À~¦À~¥À~¥?À~·   ÀêÀëÀêÀê?Àü    À/À/€šÀ4   ÀÏÀĞÀÏÀÏTÀá    À‚IÀ‚IÀ‚M   À‚\À‚\À‚j   À‚~À‚~À‚‰   À‚¢À‚¢À‚­  À‚)À‚)†À‚0    ÀˆeÀˆeÀˆr ÀˆKÀˆLÀˆKÀˆK„Àˆ_  À{gÀ{g‘…À{m   ÀW Àf      ÀgÀgÀl   ÀuÀuÀz ÀŠÀÀ¶ÀÀÀŸÀ²À³ÀWÀWa    ÀÑÀ¾ÀÑ ÀşÀÀÀÀÀÀÀÀôÀİ>Àô 
+ÀUÀ9À>À?ÀKÀSÀLÀXÀbÀcÀ0À GÀ0 À“À§ÀŒÀ¥À À¤À•À›ÀœÀ¡À©À¯À°À}ÀlHÀ}  ÀÄÀ¹ÀÄ À‘oÀ‘yÀ‘zÀ‘~À‘‰À‘À‘…À‘‡À‘bÀ‘BHÀ‘b   À×ÀØÀ×À×oÀï   ÀLÀMÀLÀL[Àd   À­À®À­À­WÀÉ   À
+ÀÀ
+À
+aÀ&   ÀqÀrÀqÀq`À    À×ÀØÀ×À×eÀö    À$À$„jÀ*   À’ö À“      À“À“À“   À“À“À“  À“5À“:À“cÀ“;À“HÀ“JÀ“]À“^À’öÀ’öo    À“~À“kÀ“~ À“«À“°À“±À“³À“»À“´À“¼À“½À“¡À“Š>À“¡ À“ïÀ“ôÀ“õÀ“÷À“ÿÀ“øÀ” À”À“âÀ“Í=À“â  À”À”À” ÀÀÀÀ"À,À#À)À+ÀÀœæGÀ 
+  À”¤À”¥À”¤À”¤?À”¼   À•aÀ•bÀ•aÀ•a.À•z   À••À•–À••À••:À•­   À•ÕÀ•ÖÀ•ÕÀ•Õ6À•í   À–À–À–À–@À–-   À–WÀ–XÀ–WÀ–WIÀ–o   À–¦À–§À–¦À–¦JÀ–Â   À–öÀ–÷À–öÀ–öƒ¤À—#   Àš Àš¡Àš Àš `ÀšÏ   À›À›À›À›kÀ›%     À›•À›•!À›©  À›wÀ›w€ÆÀ›…  À’¼À’¼ŠuÀ’Â   Àq À‰      ÀŠÀŠÀ   À˜À˜À À²À·ÀŞÀ¸ÀÅÀÇÀÚÀÛÀqÀqo    ÀùÀæÀù À&À+À,À.À6À/À7À8ÀÀ>À ÀjÀoÀpÀrÀzÀsÀ{À|À]ÀH=À]  À•ÀŠÀ• À¦ À¦À¦ #À¦ 
+  ÀŸ!ÀŸ"ÀŸ!ÀŸ!?ÀŸ9   ÀŸàÀŸáÀŸàÀŸà.ÀŸù   À À À À :À ,   À TÀ UÀ TÀ T8À l   À ’À “À ’À ’@À ®   À ØÀ ÙÀ ØÀ ØIÀ ğ   À¡'À¡(À¡'À¡'JÀ¡C   À¡wÀ¡xÀ¡wÀ¡wƒ¬À¡¤   À¥)À¥*À¥)À¥)`À¥X   À¥À¥À¥À¥kÀ¥®    À5À5ˆòÀ;     …9…9€º…ğ€­/// The tab indicator's bounds are as wide as the space occupied by the tab
+/// in the tab bar: from the right edge of the previous tab to the left edge
+/// of the next tab. …ú…ú€ß†Ô€Í/// The tab's bounds are only as wide as the (centered) tab widget itself.
+///
+/// This value is used to align the tab's label, typically a [Tab]
+/// widget's text or icon, with the selected tab indicator.    ƒ¿ƒ¿ƒ… S/// Defines how the bounds of the selected tab indicator are computed.
+///
+/// See also:
+///
+///  * [TabBar], which displays a row of tabs.
+///  * [TabBarView], which displays a widget for the currently selected tab.
+///  * [TabBar.indicator], which defines the appearance of the selected tab
+///    indicator relative to the tab's bounds.   ˆùˆù€ò‰æ€İ/// If [TabBar.isScrollable] is true, tabs are aligned to the
+/// start of the [TabBar]. Otherwise throws an exception.
+///
+/// It is not recommended to set [TabAlignment.start] when
+/// [ThemeData.useMaterial3] is false. ‰ò‰ò#‹
+/// If [TabBar.isScrollable] is true, tabs are aligned to the
+/// start of the [TabBar] with an offset of 52.0 pixels.
+/// Otherwise throws an exception.
+///
+/// It is not recommended to set [TabAlignment.startOffset] when
+/// [ThemeData.useMaterial3] is false. ‹‹}‹•r/// If [TabBar.isScrollable] is false, tabs are stretched to fill the
+/// [TabBar]. Otherwise throws an exception. ‹ ‹ =‹×3/// Tabs are aligned to the center of the [TabBar].    †á†á… ˆ.?/// Defines how tabs are aligned horizontally in a [TabBar].
+///
+/// See also:
+///
+///   * [TabBar], which displays a row of tabs.
+///   * [TabBarView], which displays a widget for the currently selected tab.
+///   * [TabBar.tabAlignment], which defines the horizontal alignment of the
+///     tabs within the [TabBar].   ŒûŒû2'(/// The tab indicator animates linearly. 44An6/// The tab indicator animates with an elastic effect.    ‹å‹å”Œà€ï/// Defines how the tab indicator animates when the selected tab changes.
+///
+/// See also:
+///  * [TabBar], which displays a row of tabs.
+///  * [TabBarThemeData], which can be used to configure the appearance of the tab
+///    indicator.      º©º©º·  ºº‚¤º”   ƒeƒWƒJƒW ƒ’ƒyƒl*ƒy ƒ¶ƒ¦ƒ™!ƒ¦   °°w° À À À   À hÀ hÆÀ €÷/// Signature for [TabBar] callbacks that report that an underlying value has
+/// changed for a given [Tab] at `index`.
+///
+/// Used for [TabBar.onHover] and [TabBar.onFocusChange] callbacks The provided
+/// `value` being true indicates focus has been gained, or a pointer has hovered
+/// over the tab, with false indicated focus has been lost or the pointer has
+/// exited hovering.   €²  no_splash.dart ‹‚ =€ˆ€§€©€Ë€Õ€×€ô&(S“½åçÿ‚‚3‚M‚c‚|‚•‚¼‚Ú‚ùƒƒ2ƒHƒJƒlƒ™ƒ½ƒ¿„„„„ „P„„ë……7…†…Ö…î…ö…ø†F†M†“†Ò†Ü†ß†á‡‡$‡3‡8‡i‡¸ˆˆ)ˆ>ˆˆ¯ˆ÷‰8‰u‰|‰º‰ä‰î‰ğŠ1ŠmŠ“ŠšŠŞ‹‹‹‹c‹“‹œ‹‹Õ‹à‹ã‹åŒ0Œ5ŒDŒtŒÈŒÛŒù%02lx{}¢§ğÿH–ö0t£ªú>‰¥ÿ‘‘F‘”‘‘­‘Õ’’(’*’Y’`’•’¬’®’ß’æ“0“7“k“ƒ“…“³“Ê“Ì“û””M”s”z”Î••+•-•M•T•¸––:–A–X–_–«–ù——"—1—U—„—œ—·—É—ç˜˜˜&˜D˜a˜q˜˜‹˜•˜ ˜³˜Ì˜Î˜ì™<™A™C™P™x™¥™§™Ë™ä™ıš$šFšwšš´šÂšô›*›C›n›¡›Ï›æœœ9œxœ–œ¢œ¬œ³œµœËœö,49;Hº1Lt·ôŸŸ4Ÿ;Ÿ@ŸCŸEŸoŸ„Ÿ¯ŸÎŸì  4 S | ™ ³ Ù Û û¡%¡?¡X¡t¡š¡½¡Ô¡Ö¢5¢i¢«¢ã¢å£3£€£Ø£ó¤
+¤-¤K¤u¤”¤–¤¸¤º¤è¥/¥ˆ¥–¥æ¦¦0¦S¦‚¦¬¦â§§$§T§’§™§›§à¨¨b¨k¨·¨À¨Å¨Ç¨Ô¨ü©,©n©¦©¨ªªª]ª¤ªŞ««7«}«Õ«ø¬$¬p¬½­	­;­m­u­Â®®0®8®m®}® ®¸¯¯	¯'¯\¯{¯Ğ¯ç¯ñ¯ù¯ş°°°-°G°g°x°|°~°¯°É°è±
+±1±Y±Š±±±Õ±Ü±Ş²²²²+²G²”²å³3³c³‡³©³Æ´
+´:´n´š´¡´Å´äµµ,µKµnµuµ±µ¶µ¹µ»¶¶a¶~¶¡···8·m·¥·Ù·ã·å¸¸¸¸W¸y¸–¸Ã¸æ¹¹P¹}¹¦¹®¹³¹µ¹ÂººNºƒºˆº‹ººÆ»»J»†»ˆ»Ó¼¼+¼v¼{¼}¼×½0½3½5½d½³½µ½Ò½ñ½ó¾ ¾*¾K¾Z¾a¾c¾~¾œ¾Â¾Ä¾Ú¿¿U¿c¿k¿p¿r¿¿´À @À @À @ À @"À @jÀ @¤À @·À @ÏÀ @ÔÀ @ÖÀ @ãÀ AÀ AÀ AÀ AIÀ AhÀ AÀ A´À AåÀ BÀ B2À BeÀ B›À BµÀ BÑÀ BñÀ CÀ CHÀ CsÀ C{À CÂÀ DÀ DVÀ D_À DªÀ DôÀ EÀ E4À EQÀ EvÀ EÀ E À EËÀ EğÀ FÀ F8À FYÀ F„À F³À FØÀ GÀ GÀ GÀ GÀ G-À GLÀ GjÀ GŒÀ G¨À GÎÀ GóÀ HÀ H-À HFÀ HfÀ H‚À H©À HËÀ HüÀ IÀ IqÀ IÀÀ IØÀ J"À J)À J.À J0À JSÀ JrÀ JÀ JÌÀ JîÀ KÀ K=À K]À KxÀ K›À KÎÀ KôÀ L!À L#À LoÀ L»À LëÀ MÀ M9À M;À MRÀ MkÀ MˆÀ M£À M¼À MÔÀ MÙÀ MÛÀ MïÀ NÀ N8À NQÀ NVÀ NXÀ N©À NÏÀ NûÀ O À OÀ O[À O°À OêÀ OìÀ PÀ P8À PeÀ PÀ P§À PşÀ QÀ QÀ Q<À QeÀ Q‘À Q¾À QÚÀ R À RÀ R\À R¼À SÀ S$À S&À S]À S«À SóÀ TAÀ TœÀ TÃÀ TéÀ TğÀ TòÀ UBÀ U˜À UšÀ UËÀ UæÀ V(À V^À VhÀ VoÀ V•À VšÀ VœÀ V©À VÓÀ VíÀ W+À W-À WdÀ WfÀ W˜À WíÀ XDÀ XLÀ XNÀ XqÀ XsÀ X¢À XÃÀ XğÀ YÀ Y#À YQÀ YuÀ Y–À Y¿À ZÀ ZlÀ Z¨À Z¯À ZóÀ ZøÀ ZúÀ [-À [xÀ [¯À [ÔÀ \&À \mÀ \£À \ÕÀ ]À ]À ]À ]?À ]tÀ ]¦À ]«À ]­À ]ĞÀ ^À ^=À ^BÀ ^DÀ ^xÀ ^ÄÀ ^ûÀ _-À _/À _vÀ _šÀ _ÊÀ _ûÀ `À `;À `„À `¨À `ÔÀ a À a#À aHÀ azÀ a°À aûÀ aıÀ bRÀ bŸÀ böÀ c$À c8À c?À cAÀ cfÀ chÀ cÀ cáÀ cşÀ d"À d+À doÀ d}À d¯À d¶À d¸À eÀ e2À eFÀ eMÀ eOÀ eoÀ eÀ eÉÀ f!À fyÀ fÀ f›À fİÀ g À g.À gpÀ g³À gºÀ g¼À gÜÀ gıÀ gÿÀ hhÀ h²À hÙÀ i&À iwÀ i…À iÓÀ jÀ jJÀ j“À jÀ jÍÀ kÀ kdÀ knÀ kuÀ kwÀ kÆÀ kËÀ kÍÀ kÚÀ l	À l$À lMÀ ltÀ l¥À lëÀ m(À m-À m0À m2À mŒÀ m²À m´À m×À mÙÀ mæÀ n À n"À n/À npÀ n™À nÆÀ nÍÀ nÒÀ nÔÀ náÀ oÀ o:À oaÀ ohÀ omÀ ooÀ o|À oµÀ o¸À oºÀ pÀ pBÀ pDÀ pgÀ p{À p}À pŠÀ pÄÀ pÆÀ pÓÀ qÀ q=À qjÀ qqÀ qvÀ qxÀ q…À qµÀ qŞÀ rÀ rÀ rÀ rÀ r À r6À r`À r«À rÜÀ s À sÀ s'À s/À s~À sƒÀ s†À sˆÀ sÒÀ t!À tmÀ t¼À uÀ uÀ u;À uXÀ uyÀ u”À u¸À uºÀ uØÀ uÚÀ vÀ v
+À vFÀ vmÀ voÀ v|À vÍÀ våÀ wÀ wOÀ wVÀ w£À wğÀ x<À x‰À x×À y+À yoÀ y–À y¬À zÀ zÀ z(À z/À z…À zŠÀ zŒÀ z²À zÖÀ zÛÀ zŞÀ zàÀ {À {RÀ { À {§À {èÀ |À |	À |\À |cÀ |¿À |ÆÀ }À }-À }À }À }¢À }§À }©À }¶À }ŞÀ }úÀ ~À ~8À ~?À ~hÀ ~jÀ ~À ~¦À ~¿À ~àÀ ~şÀ À À À À .À HÀ ^À cÀ fÀ hÀ ·À âÀ çÀ €8À €ŠÀ €ÙÀ €ïÀ 0À 2À ZÀ _À °À áÀ æÀ ‚/À ‚UÀ ‚ZÀ ‚À ‚£À ‚õÀ ƒEÀ ƒ„À ƒ¥À ƒªÀ ƒèÀ ƒíÀ „:À „?À „TÀ „»À …À …À …_À …pÀ …uÀ …ŠÀ …çÀ †BÀ †uÀ †zÀ †¿À †ĞÀ †ÕÀ †êÀ ‡;À ‡‡À ‡ØÀ ‡İÀ ˆ"À ˆ3À ˆ8À ˆMÀ ˆ¦À ˆéÀ ‰/À ‰wÀ ‰šÀ ‰ŸÀ ‰äÀ ‰õÀ ‰úÀ Š	À ŠÀ ŠCÀ ŠÀ ŠğÀ ‹8À ‹XÀ ‹À ‹ĞÀ ‹×À ŒÀ Œ=À ŒDÀ Œ†À Œ®À ŒµÀ ŒëÀ ŒòÀ 9À @À ‚À «À ²À øÀ =À À “À £À ¼À ÒÀ îÀ À !À ;À oÀ À ¾À ÓÀ ìÀ À À 3À IÀ aÀ À ¡À ØÀ ğÀ ‘À ‘!À ‘2À ‘EÀ ‘^À ‘qÀ ‘ŠÀ ‘¨À ‘ÀÀ ‘ÖÀ ‘ôÀ ’À ’MÀ ’OÀ ’ƒÀ ’ŠÀ ’ÛÀ “À “
+À “!À “tÀ “ÂÀ ”À ”À ”cÀ ”vÀ ”}À ”À ”•À ”ÀÀ •À •qÀ •»À •İÀ •ùÀ –	À –"À –8À –TÀ –tÀ –‡À –¡À –ÕÀ –öÀ —$À —9À —RÀ —jÀ —ƒÀ —™À —¯À —ÇÀ —çÀ ˜À ˜>À ˜VÀ ˜mÀ ˜‡À ˜˜À ˜«À ˜ÄÀ ˜×À ˜ğÀ ™À ™&À ™<À ™ZÀ ™vÀ ™´À ™¶À ™ìÀ ™óÀ šGÀ š€À šœÀ šÀ šÒÀ šÙÀ ›0À ›EÀ ›iÀ ›kÀ ›¢À ›©À ›ÿÀ œ2À œ4À œnÀ œuÀ œÈÀ À <À XÀ ZÀ ”À ›À ûÀ VÀ ¨À ÎÀ ĞÀ ŸÀ ŸÀ ŸhÀ ŸÀ ŸˆÀ ŸÏÀ ŸğÀ  À  À  XÀ  _À  À  ¤À  ğÀ ¡@À ¡lÀ ¡sÀ ¡ÀÀ ¡ıÀ ¢À ¢KÀ ¢RÀ ¢™À ¢ºÀ ¢ÛÀ ¢İÀ £À £
+À £JÀ £QÀ £À £éÀ ¤À ¤:À ¤<À ¤yÀ ¤€À ¤ÇÀ ¥À ¥À ¥hÀ ¥ˆÀ ¥À ¥ÜÀ ¦*À ¦kÀ ¦¹À ¦×À ¦ŞÀ ¦ïÀ ¦öÀ §FÀ §‰À §©À §«À §ùÀ ¨ À ¨3À ¨:À ¨qÀ ¨ÃÀ ©À ©(À ©YÀ ©[À ©À ©¤À ©íÀ ª9À ªÀ ª¶À ª½À «À «OÀ «nÀ «›À «À «¾À «ÅÀ ¬À ¬&À ¬{À ¬ÇÀ ­À ­<À ­>À ­`À ­gÀ ­¾À ­ÅÀ ®#À ®wÀ ®£À ®ÃÀ ®ÅÀ ®îÀ ®õÀ ¯IÀ ¯–À ¯×À °À °À °WÀ °¢À °íÀ ±+À ±2À ±ˆÀ ±ËÀ ±ğÀ ±÷À ²À ²À ²VÀ ²rÀ ²tÀ ²ŸÀ ²¦À ²îÀ ³4À ³‚À ³­À ³´À ´	À ´ZÀ ´¡À ´ÅÀ ´ÌÀ µ"À µrÀ µ¨À µ¯À µÀÀ µÇÀ ¶À ¶'À ¶)À ¶[À ¶bÀ ¶¶À ·
+À ·À ·#À ·sÀ ·¥À ·¬À ·ıÀ ¸À ¸]À ¸±À ¸âÀ ¹À ¹À ¹8À ¹?À ¹ŸÀ ºÀ º!À º(À ºƒÀ ºŠÀ ºãÀ »@À »’À »­À »×À »ÙÀ ¼À ¼À ¼QÀ ¼À ¼ÈÀ ¼ÏÀ ½À ½<À ½>À ½À ½†À ½ÏÀ ¾À ¾À ¾SÀ ¾|À ¾ƒÀ ¾àÀ ¿TÀ ¿®À ¿ÖÀ ¿éÀ À!À ÀZÀ À’À ÀÈÀ ÁÀ Á9À ÁmÀ ÁoÀ Á¬À ÁÚÀ ÁÜÀ ÂÀ Â^À Â}À Â„À Â»À Ã
+À ÃÀ Ã3À ÃIÀ ÃPÀ ÃœÀ ÃçÀ Ä
+À ÄÀ Ä]À ÄdÀ Ä¸À ÄùÀ Å À ÅÀ Å8À Å:À ÅÀ ÅˆÀ Å×À ÅŞÀ Æ+À ÆyÀ ÆÉÀ ÇÀ ÇGÀ ÇjÀ ÇlÀ Ç¸À ÇÑÀ ÇØÀ È)À È0À È}À È¸À È¿À ÉÀ É`À É™À É À É·À ÊÀ ÊÀ Ê À ÊmÀ Ê€À Ê©À Ê«À Ê÷À ËÀ ËÀ ËbÀ ËiÀ ËºÀ ËøÀ ËÿÀ ÌPÀ Ì À Ì×À ÌŞÀ ÌõÀ ÍCÀ Í^À ÍeÀ Í¸À ÍËÀ ÍúÀ ÍüÀ Î@À ÎGÀ Î™À ÎÅÀ ÎÌÀ ÎşÀ ÏÀ Ï!À ÏfÀ Ï®À ÏµÀ ĞÀ ĞQÀ ĞrÀ ĞyÀ ĞˆÀ Ğ—À ĞÇÀ ÑÀ Ñ.À Ñ„À Ñ’À ÑÀ Ñ½À ÑÏÀ ÑÛÀ ÑäÀ ÑïÀ Ò%À Ò'À ÒÀ ÒˆÀ ÒåÀ ÒìÀ ÒûÀ Ó
+À Ó-À ÓaÀ ÓmÀ Ó¥À ÓÄÀ ÓÖÀ ÓâÀ ÓëÀ ÓöÀ ÓıÀ ÔHÀ ÔsÀ ÔuÀ Ô¾À ÔÅÀ ÕÀ ÕZÀ ÕaÀ ÕÁÀ ÖÀ ÖÀ ÖlÀ ÖsÀ ÖÊÀ ×À ×BÀ ×IÀ ×¡À ×æÀ ØÀ Ø9À Ø;À Ø{À Ø‚À ØİÀ Ù?À Ù’À Ù™À ÙªÀ ÚÀ Ú)À Ú+À ÚiÀ ÚpÀ ÚÈÀ ÛÀ ÛhÀ Û½À ÛÄÀ ÛÛÀ Ü1À ÜdÀ ÜkÀ ÜÆÀ ÜÙÀ ÜàÀ ÜñÀ ÜøÀ İXÀ İŒÀ İÀ İÚÀ İáÀ Ş#À Ş0À ŞLÀ ŞqÀ Ş˜À ŞÂÀ ß À ß6À ß?À ßFÀ ß€À ß…À ß‡À ßÓÀ ßÚÀ à'À àvÀ à‹À à«À àÒÀ àüÀ á@À áXÀ ácÀ álÀ ásÀ á†À á‹À áÀ á¿À áÆÀ áóÀ âÀ âÀ âÀ âNÀ âQÀ âSÀ âÀ âµÀ âÔÀ âıÀ ãÀ ã3À ãUÀ ã†À ã½À ã¿À ãÌÀ ãâÀ ãúÀ äJÀ ä”À äÛÀ åÀ å-À åEÀ å\À ådÀ åiÀ åkÀ åÀ å¹À åÙÀ æÀ æ`À ænÀ æ«À æ²À æ·À æ¹À æôÀ ç À çMÀ çvÀ çxÀ ç À ç§À ç©À çíÀ çòÀ çôÀ è5À èeÀ è§À è©À èÎÀ èïÀ èöÀ é À éFÀ éMÀ éOÀ é´À êÀ êIÀ ê–À êãÀ ë2À ëƒÀ ë´À ë¼À ìÀ ì\À ìdÀ ì²À ìÜÀ í.À ícÀ í¦À íÃÀ íÊÀ íÌÀ îÀ îUÀ î¡À îáÀ îïÀ ïÀ ïeÀ ïªÀ ïáÀ ğ
+À ğÀ ğsÀ ğ‘À ğÒÀ ñÀ ñ!À ñ2À ñUÀ ñÀ ñ À ñğÀ òHÀ ò§À òäÀ óÀ ó%À ó/À ó7À ó<À ó>À óŠÀ óÙÀ ô À ôBÀ ôDÀ ôeÀ ôËÀ ôÜÀ õ À õÀ õXÀ õ±À öÀ öVÀ öµÀ öÁÀ öÊÀ öŞÀ öéÀ öëÀ ÷À ÷#À ÷*À ÷,À ÷KÀ ÷À ÷ÛÀ ÷âÀ øÀ ø$À øsÀ ø®À øÙÀ øàÀ øåÀ øçÀ ù8À ùsÀ ù¤À ù«À ù×À úÀ úCÀ úQÀ úÀ úÇÀ úÎÀ úÓÀ úÕÀ ú÷À û'À ûiÀ û˜À ûğÀ ûòÀ ü0À ü2À ü‹À üÎÀ ıÀ ıÀ ıÀ ıEÀ ıUÀ ısÀ ıšÀ ıĞÀ ıûÀ ş3À şSÀ ş­À şËÀ ş÷À ÿ]À ÿyÀ ÿØÀ À eÀ †À ´À çÀÀNÀ\À^ÀzÀÀÀÀ°ÀÔÀôÀÀ/À4À6ÀCÀoÀ–ÀÌÀÀ_À~ÀÀ ÀÂÀöÀDÀvÀ§À²À»À À@À|À¾ÀòÀ,ÀhÀ®ÀÎÀÕÀ×ÀÀGÀ˜ÀïÀ'ÀiÀ±À¸À½À¿ÀÌÀàÀ	À	"À	tÀ	²À	¹À	ÒÀ	ıÀ
+0À
+{À
+‘À
+–À
+˜À
+ÒÀ
+ÔÀ6ÀWÀjÀqÀ­ÀÇÀòÀÀ`À‘À°ÀşÀÀÀfÀkÀmÀÀçÀéÀÀÀ8ÀYÀzÀ‚À‡À‰ÀäÀ7À<À>À`À¥À§ÀÀÀÀ8ÀpÀ¨À¹ÀÀIÀÀ’À”ÀÍÀÀ:ÀlÀÀºÀÈÀéÀÀSÀ_ÀÀŸÀìÀôÀöÀ&À+À-À[ÀqÀ²ÀşÀ)ÀLÀSÀXÀZÀÀ¯ÀÚÀüÀÀ'À.ÀAÀˆÀ¡ÀªÀ¯À±ÀÚÀ8ÀUÀ˜ÀÀŸÀ¿ÀöÀÀ:À?ÀAÀ\ÀoÀ…À§ÀÆÀÍÀäÀÀ ÀEÀkÀ¥ÀËÀÀ À5À=ÀBÀDÀuÀ§À»ÀÂÀ
+À@ÀWÀhÀqÀ„À¾ÀİÀ6ÀÀÀ©À¿ÀÌÀúÀ-À?ÀDÀFÀ…À–ÀİÀ6À?ÀbÀÁÀÀÀ3À>ÀPÀUÀWÀdÀŒÀÆÀûÀ +À mÀ À òÀ!1À!3À!‡À!¬À!ÆÀ!ŞÀ">À"HÀ"OÀ"QÀ"¢À"ÆÀ#À#mÀ#oÀ#À#ÆÀ#üÀ$#À$}À$†À$®À$°À$ÆÀ$âÀ$ûÀ%&À%wÀ%ƒÀ%À%–À%˜À%æÀ&5À&•À&µÀ&òÀ&ôÀ'À'pÀ'¡À'îÀ(&À(NÀ(_À(uÀ(‹À(—À(ÎÀ(õÀ)À)À)3À)?À)OÀ)™À)ÇÀ*"À*TÀ*vÀ*‡À*£À*¹À*ÅÀ*èÀ+À+eÀ+šÀ+¨À+ÜÀ, À,À,4À,LÀ,ZÀ,eÀ,À,ÑÀ-À-KÀ-YÀ-À-±À-ÅÀ-áÀ-ùÀ.À.À.À."À.$À.oÀ.¼À.óÀ/!À/ZÀ/¸À/ºÀ/êÀ0GÀ0…À0ÉÀ0ËÀ1/À1QÀ1\À1µÀ1÷À2À2'À2SÀ2hÀ2†À2’À2³À2âÀ2îÀ3À3JÀ3VÀ3À3èÀ4NÀ4eÀ4À4¾À4éÀ5À5GÀ5dÀ5ÂÀ5èÀ6À6&À6KÀ6gÀ6œÀ6½À6ÛÀ75À7IÀ7[À7kÀ7yÀ7…À7À7ÖÀ8'À8jÀ8sÀ8zÀ8|À8œÀ8¿À8×À8øÀ9À98À9SÀ9„À9¢À9ËÀ9õÀ:3À:]À:›À:»À:ÛÀ;
+À;PÀ;tÀ;™À;½À;ËÀ;×À;áÀ;éÀ;ëÀ<À<qÀ<µÀ<îÀ=À=À=2À=zÀ=ÊÀ=ñÀ>)À>VÀ>‰À>¯À>ÓÀ>íÀ>ùÀ?À?$À?{À?¯À?ĞÀ?÷À@9À@EÀ@GÀ@kÀ@ÄÀ@êÀAFÀAHÀAaÀAÀA·ÀAáÀAûÀBÀB	ÀBQÀBrÀBÓÀBïÀBıÀCÀCÀC;ÀC}ÀC„ÀC†ÀCœÀCÄÀCŞÀDÀDUÀDmÀDwÀDÀD„ÀD‡ÀD‰ÀDÖÀDéÀDîÀE1ÀE6ÀEzÀEÀEÖÀEåÀEêÀF8ÀFwÀF|ÀFÊÀFõÀG(ÀG/ÀG~ÀG”ÀG¤ÀGÁÀG×ÀGêÀH!ÀHCÀHkÀHrÀHtÀH¨ÀH¯ÀIÀIÀI?ÀIAÀI\ÀIcÀI ÀIãÀJÀJÀJ<ÀJCÀJ“ÀJ½ÀJÄÀKÀK5ÀK<ÀKnÀKÀK‘ÀKÎÀKüÀKşÀL8ÀLZÀL\ÀL“ÀLšÀL¾ÀLÚÀLÜÀLéÀM#ÀM&ÀM(ÀM\ÀM{ÀMŸÀMÆÀMİÀMüÀNÀNXÀNZÀNªÀNùÀO ÀObÀOdÀO…ÀOëÀOüÀP ÀP=ÀPxÀPÑÀQ,ÀQvÀQÕÀQáÀQêÀQşÀR	ÀRÀR4ÀRCÀRJÀRLÀRkÀR½ÀRÄÀRæÀSÀSUÀS\ÀSaÀScÀSƒÀS¡ÀSÉÀSçÀSìÀSîÀTSÀTqÀTÄÀTâÀTçÀTéÀTöÀUÀU$ÀU<ÀUAÀUCÀUPÀUrÀU–ÀU³ÀUÜÀV ÀV)ÀVOÀVƒÀVÀV›ÀVÏÀVÖÀVÛÀVİÀVêÀWÀWAÀWwÀW–ÀWÁÀWåÀWìÀX.ÀXQÀXzÀX ÀXÔÀXŞÀXåÀY0ÀY|ÀYÉÀYãÀYêÀYïÀYñÀYşÀZÀZ1ÀZƒÀZŠÀZ£ÀZÄÀ[À[%À[*À[,À[HÀ[†À[ºÀ\À\À\À\"À\$À\RÀ\˜À\§À\äÀ\æÀ]À]AÀ]_À]fÀ]kÀ]mÀ]À]ØÀ]çÀ]îÀ]ğÀ^KÀ^kÀ^¦À^´À^òÀ^ùÀ^şÀ_ À_>À_dÀ_ˆÀ_–À_ëÀ_òÀ`À`À`7À`BÀ`IÀ`kÀ`pÀ`rÀ`³À`îÀa'Àa)ÀavÀa­ÀaéÀbÀb&Àb(Àb;ÀbŒÀbÜÀc.Àc|Àc¶ÀcşÀd-Àd6Àd8ÀdhÀd‡Àd‰ÀdºÀdàÀeÀeÀegÀenÀepÀe„Àe™ÀeµÀeÀÀeÇÀeÌÀeÎÀeğÀfPÀfUÀfWÀf~ÀfÃÀgÀgÀgÀg ÀgDÀgYÀg`ÀgbÀg‚Àg—ÀgÀg ÀgÀÀgñÀhGÀhÀhªÀhÖÀiÀiÀi,ÀieÀiÀiºÀiæÀjÀjÀjÀj8Àj:ÀjMÀjRÀjTÀj‰Àj¿ÀjÓÀjÚÀk"Àk\ÀksÀk„ÀkÀk ÀkŞÀkıÀlVÀlÀÀlÎÀlÙÀlïÀlüÀm7ÀmnÀm€Àm…Àm‡Àm”Àm¼ÀmõÀm÷Àn-Àn_ÀnwÀn­ÀnÙÀnÿÀo(ÀoxÀoºÀoßÀoéÀoñÀoöÀoùÀoûÀpMÀpiÀpnÀp¬ÀpæÀqÀqAÀqQÀquÀq•Àq®ÀqÙÀqàÀqâÀrÀr2Àr4Àr`Àr|Àr~Àr¦Àr¼Àr¾ÀrêÀrñÀs3ÀsUÀsWÀsdÀsŒÀs£Às·ÀsÌÀsöÀtÀt9Àt~ÀtŸÀt©Àt±Àt¶Àt¹Àt»ÀuÀu!Àu&ÀujÀuoÀuÀÀuÕÀuÚÀvÀv@ÀvpÀv¼Àv×ÀvçÀvıÀwÀw.ÀwGÀw^ÀwƒÀw…Àw¹ÀwÀÀwıÀx,ÀxPÀxRÀx–ÀxµÀx·ÀxöÀxıÀyWÀynÀypÀy½ÀyßÀyæÀz6ÀzVÀzuÀzwÀz£ÀzªÀzìÀ{À{À{À{bÀ{eÀ{gÀ{¥À{ÏÀ{õÀ|[À|lÀ|À|­À|ßÀ}=À}À}ËÀ~*À~6À~?À~SÀ~^À~zÀ~À~À~¡À~£À~°À~åÀÀVÀnÀuÀªÀÚÀáÀæÀèÀõÀ€À€;À€›À€³À€ºÀ€ïÀÀ&À+À-ÀGÀcÀÆÀËÀÍÀÚÀîÀ‚
+À‚ À‚%À‚'À‚EÀ‚XÀ‚zÀ‚À‚ÂÀ‚ÉÀ‚æÀƒÀƒ^Àƒ¡ÀƒÏÀ„À„?À„rÀ„‚À„³À„¼À„ÊÀ…À…jÀ…À…ËÀ†À†XÀ†À†ÙÀ‡À‡"À‡SÀ‡\À‡cÀ‡‰À‡­À‡ÚÀ‡ıÀˆ:ÀˆBÀˆGÀˆIÀˆVÀˆ~Àˆ¾À‰#À‰wÀ‰ËÀŠÀŠ<ÀŠ[ÀŠ“ÀŠ®ÀŠØÀ‹	À‹7À‹EÀ‹\À‹‰À‹ŞÀŒÀŒ#ÀŒDÀŒiÀŒÀŒ ÀŒºÀŒÈÀŒÔÀŒŞÀŒæÀŒëÀŒîÀŒğÀ$ÀUÀºÀ¼ÀÛÀÀjÀ·ÀÓÀÕÀâÀHÀJÀWÀ©À«À¸ÀÀÀÀmÀoÀ|ÀÓÀÕÀâÀ‘>À‘@À‘À‘À‘’À‘¾À‘ÀÀ’À’IÀ’rÀ’¦À’¨À’¼À’ôÀ“/À“gÀ“iÀ“ˆÀ“ËÀ”À”)À”+À”¢À”¯À”åÀ”çÀ•_À•lÀ•‘À•“À• À•ÑÀ•ÓÀ•àÀ–À–À–À–SÀ–UÀ–bÀ–¢À–¤À–±À–òÀ–ôÀ—À—3À—{À—¯À—äÀ˜À˜#À˜XÀ˜À˜˜À˜ÍÀ™À™À™"À™+À™^À™À™™À™ÌÀšÀš
+Àš=ÀšqÀšzÀšÀš—ÀšœÀšÀš«À›À›À›À›sÀ›uÀ›»À›àÀœ	Àœ2Àœ:Àœ?ÀœAÀœ‚ÀœµÀœäÀ0À3À5ÀoÀ¬ÀâÀäÀÀFÀˆÀ¤À¦ÀŸÀŸ,ÀŸbÀŸdÀŸŞÀŸëÀ À À À PÀ RÀ _À À À À ÔÀ ÖÀ ãÀ¡#À¡%À¡2À¡sÀ¡uÀ¡‚À¡´À¡üÀ¢0À¢eÀ¢›À¢¦À¢ÛÀ£À£À£RÀ£ˆÀ£“À£©À£²À£åÀ¤À¤"À¤UÀ¤ŠÀ¤“À¤ÆÀ¤úÀ¥À¥À¥ À¥%À¥'À¥4À¥‹À¥À¥šÀ¥üÀ¥şÀ¦&À¦)À¦<À¦>À¦h   _kTabHeight_kTextAndIconTabHeight_kStartOffsetTabBarIndicatorSizeTabAlignmentTabIndicatorAnimationTab	_TabStyle_TabLabelBarRenderer_TabLabelBar_indexChangeProgress_DividerPainter_IndicatorPainterNotifier_IndicatorPainter_ChangeAnimation_DragAnimation_TabBarScrollPositionTabBarScrollControllerTabBar_TabBarState
+TabBarView_TabBarViewStateTabPageSelectorIndicatorTabPageSelector_TabPageSelectorState_TabsDefaultsM2_TabsPrimaryDefaultsM3_TabsSecondaryDefaultsM3!flutter.material.tabs.mouseCursor€òThe cursor for a mouse pointer when it enters or is hovering over the
+individual tab widgets.
+
+If [mouseCursor] is a [WidgetStateMouseCursor],
+[WidgetStateProperty.resolve] is used for the following [WidgetState]s:
+
+ * [WidgetState.selected]. 

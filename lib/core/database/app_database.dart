@@ -112,8 +112,9 @@ class AppDatabase {
   ];
 
   static String generateDatabaseFilename(String profileId) {
-    final normalized = profileId.replaceAll(RegExp(r'[^a-zA-Z0-9_-]'), '_');
-    return '${normalized}_hisab_pro.db';
+    // Generate clean filename while preserving safety and avoiding collision
+    final safeName = profileId.replaceAll(RegExp(r'[^a-zA-Z0-9_-]'), '_');
+    return 'hisab_${safeName}.db';
   }
 
   static String generateEncryptionKeyAlias(String profileId) {

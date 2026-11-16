@@ -5,7 +5,7 @@ import 'package:hisab_pro/core/security/key_derivation_service.dart';
 import 'package:hisab_pro/core/security/secure_storage_service.dart';
 
 void main() {
-  group('Security foundation', () {
+  group('Security & Encryption Key Lifecycle', () {
     test('database key alias and filename are unique per profile', () {
       final profileA = AppDatabase.generateDatabaseFilename('profile_one');
       final profileB = AppDatabase.generateDatabaseFilename('profile_two');
@@ -30,23 +30,66 @@ void main() {
     });
 
     test(
-      'database encryption service creates a profile-specific database key',
+      'database encryption service initializes, wraps, verifies, and unlocks key',
       () async {
         final secureStorage = _InMemorySecureStorage();
-        final keyDerivation = const KeyDerivationService();
+        const keyDerivation = KeyDerivationService();
         final service = DatabaseEncryptionService(
           secureStorage: secureStorage,
           keyDerivation: keyDerivation,
         );
 
-        final key = await service.initializeProfileDatabaseKey(
-          profileId: 'profile_one',
-          userPassword: 'StrongPassword123',
+        const profileId = 'profile_alpha';
+        const correctPassword = 'StrongPassword123';
+        const wrongPassword = 'WrongPassword456';
+
+        // 1. Initialize
+        final rawKey = await service.initializeProfileDatabaseKey(
+          profileId: profileId,
+          userPassword: correctPassword,
         );
 
-        expect(key, isNotEmpty);
-        expect(key.length, greaterThan(20));
-        expect(await secureStorage.read('db_key_profile_one_profile'), key);
+        expect(rawKey, isNotEmpty);
+        expect(rawKey.length, greaterThan(20));
+
+        // Stored value should NOT be rawKey (it is wrapped)
+        final keyAlias = AppDatabase.generateEncryptionKeyAlias(profileId);
+        final storedWrapped = await secureStorage.read(keyAlias);
+        expect(storedWrapped, isNotNull);
+        expect(storedWrapped, isNot(equals(rawKey)));
+
+        // 2. Verify password
+        final isCorrectValid = await service.verifyPassword(
+          profileId: profileId,
+          userPassword: correctPassword,
+        );
+        expect(isCorrectValid, isTrue);
+
+        final isWrongValid = await service.verifyPassword(
+          profileId: profileId,
+          userPassword: wrongPassword,
+        );
+        expect(isWrongValid, isFalse);
+
+        // 3. Unlock with correct password
+        final unlockedKey = await service.unlockProfileDatabaseKey(
+          profileId: profileId,
+          userPassword: correctPassword,
+        );
+        expect(unlockedKey, equals(rawKey));
+
+        // 4. Unlock with wrong password should fail
+        final failedKey = await service.unlockProfileDatabaseKey(
+          profileId: profileId,
+          userPassword: wrongPassword,
+        );
+        expect(failedKey, isNull);
+
+        // 5. Destroy keys
+        await service.destroyProfileDatabaseKey(profileId: profileId);
+        expect(await secureStorage.read(keyAlias), isNull);
+        expect(await secureStorage.read('db_salt_$profileId'), isNull);
+        expect(await secureStorage.read('db_verifier_$profileId'), isNull);
       },
     );
   });

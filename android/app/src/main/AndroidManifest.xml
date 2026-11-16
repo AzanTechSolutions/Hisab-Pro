@@ -2,6 +2,7 @@
     <application
         android:label="Hisab Pro"
         android:name="${applicationName}"
+        android:icon="@mipmap/ic_launcher"
         android:theme="@style/LaunchTheme">
         <activity
             android:name=".MainActivity"

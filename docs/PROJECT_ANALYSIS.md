@@ -276,7 +276,7 @@ The specification explicitly prefers separate encrypted databases per profile wi
 
 ### 6.1 SQLCipher + Flutter compatibility
 
-This is the most important dependency risk. Drift and SQLCipher need to be integrated in a way that is compatible with the target platform and stable Flutter version. If the chosen SQLCipher package is not maintained or if the platform-specific binaries are problematic, the app can face build delays or runtime issues. Recommended approach:
+This is the most important dependency risk. The selected integration is `sqflite_sqlcipher` 3.4.1, which provides the SQLite abstraction and SQLCipher native support for Android and iOS. Drift's official encrypted adapter was not usable in this environment because its GitHub source could not be fetched. Recommended approach:
 
 - verify the latest stable package compatibility before implementation
 - prefer a maintained SQLCipher integration package

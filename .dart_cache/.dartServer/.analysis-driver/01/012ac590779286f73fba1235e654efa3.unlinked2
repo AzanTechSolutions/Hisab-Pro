@@ -1,0 +1,794 @@
+€±	automaticalways	navigatortoString==hashCodeisLTRwidthheightoffsetAnimationchildbuild
+largeTitleleadingautomaticallyImplyLeadingautomaticallyImplyMiddlepreviousPageTitlemiddletrailingbackgroundColorautomaticBackgroundVisibility
+brightnesspaddingbordertransitionBetweenRoutesenableBackgroundFilterBlurheroTagbottomshouldFullyObstructpreferredSizecreateStatekeys_scrollNotificationObserver_scrollAnimationValuedidChangeDependenciesdispose	initState_handleScrollNotificationautomaticallyImplyTitlealwaysShowMiddle
+bottomModeonSearchableBottomTapopaquestretchsearchField_searchable_scrollableStateeffectiveMiddle_animationController_searchAnimationpersistentHeightAnimationlargeTitleHeightAnimationscaledSearchFieldHeightscaledLargeTitleHeightsearchIsActive
+isPortraitdidUpdateWidget_bottomHeight_updateEffectiveMiddle_computeScaledHeights_setupSearchableAnimation_handleScrollChange_handleSearchFieldStatusChanged_onSearchFieldTap
+components
+userMiddleactionsForegroundColorpersistentHeightlargeTitleHeightbottomHeight
+controller
+searchable	minExtent	maxExtentstretchConfigurationshouldRebuildcreateRenderObjectupdateRenderObject	alignment
+_alignment_height_scale_computeTitleScalecomputeDistanceToActualBaselinecomputeDryBaselineperformLayoutapplyPaintTransformpainthitTestChildrenmiddleVisiblenavBarBoxKey
+leadingKeybackChevronKeybackLabelKey	middleKeytrailingKeylargeTitleKeynavBarBottomKey_derivedTitlecreateLeadingbackChevroncreateBackChevron	backLabelcreateBackLabelcreateMiddlecreateTrailingcreateLargeTitlenavBarBottomcreateNavBarBottom_clampedTextScalercolor	onPressed_backChevron
+_backLabelspecifiedPreviousTitleroute_buildPreviousTitleWidgetopacityanimationController	animationsearchFieldHeightonSearchFieldTapcomponentsKeysbackButtonTextStyletitleTextStylelargeTitleTextStylehasUserMiddlelargeExpanded	renderBoxuserGestureInProgress	topNavBarbottomNavBarheightTweenfadeOutfadeInbottomComponentstopComponentsbottomNavBarBoxtopNavBarBoxbottomBackButtonTextStyletopBackButtonTextStylebottomTitleTextStyletopTitleTextStylebottomLargeTitleTextStyletopLargeTitleTextStylebottomHasUserMiddletopHasUserMiddlebottomLargeExpandedtopLargeExpanded#bottomAutomaticBackgroundVisibilitybottomBackgroundColortopBackgroundColorbottomBorder	topBordertransitionBoxforwardDirectionpositionInTransitionBoxslideFromLeadingEdge
+fadeInFrom	fadeOutByrouteAnimationbottomNavBarBackgroundbottomLeadingbottomBackChevronbottomBackLabelbottomMiddlebottomLargeTitlebottomTrailingbottomNavBarBottomtopNavBarBackground
+topLeadingtopBackChevrontopBackLabel	topMiddletopTrailingtopLargeTitletopNavBarBottom1NavigationBarBottomMode_kNavBarPersistentHeight!_kNavBarLargeTitleHeightExtension_kNavBarShowLargeTitleThreshold"_kNavBarScrollUnderAnimationExtent_kNavBarEdgePadding_kNavBarBottomPadding_kNavBarBackButtonTapWidth_kMinScaleFactor_kMaxScaleFactor_kLargeTitleScaleDampingRatio_kSearchFieldCancelButtonWidth_kSearchFieldHeight_kNavBarSearchDuration_kNavBarSearchCurve_kNavBarTitleFadeDuration_kDefaultNavBarBorderColor_kDefaultNavBarBorder_kTransparentNavBarBorder _kTopNavBarHeaderTransitionCurve#_kBottomNavBarHeaderTransitionCurve_defaultHeroTag_HeroTag_FixedSizeSlidingTransition_wrapWithBackground_dampScaleFactor_isTransitionableCupertinoNavigationBar_CupertinoNavigationBarStateCupertinoSliverNavigationBar"_CupertinoSliverNavigationBarState&_LargeTitleNavigationBarSliverDelegate_LargeTitle_RenderLargeTitle_PersistentNavigationBar"_NavigationBarStaticComponentsKeys_NavigationBarStaticComponents CupertinoNavigationBarBackButton_BackChevron
+_BackLabel_CancelButton_InactiveSearchableBottom_ActiveSearchableBottom_TransitionableNavigationBar_NavigationBarTransition"_NavigationBarComponentsTransition(_linearTranslateWithLargestRectSizeTween_navBarHeroLaunchPadBuilder_navBarHeroFlightShuttleBuilderÕImageFilterdouble!kMinInteractiveDimensionCupertinoCustomScrollViewsearchDurationmillisecondsCurve	easeInOutCurvesColorBorderbottom
+BorderSidecolorwidthCubic	immutableNavigatorStateoverrideStringboolObject	identicalruntimeType	navigatorintidentityHashCodeAnimatedWidget
+listenable	AnimationOffsetWidgetBuildContext
+PositionedtopdyvalueleftdxrightheightchildBackdropFilter
+BrightnesscomputeLuminancedarklightSystemUiOverlayStyleAnnotatedRegionstatusBarColorstatusBarBrightnessstatusBarIconBrightnesssystemStatusBarContrastEnforcedDecoratedBox
+decorationBoxDecorationborderClipRectenabledalphafilterblursigmaXsigmaYmax
+ModalRoutedynamicof	PageRoutefullscreenDialoghasParentSheetCupertinoSheetRouteCupertinoPageRoutelargeCupertinoPageScaffoldnavigationBar
+MediaQuery
+TextScalerStatefulWidgetObstructingPreferredSizeWidgetkeyText
+largeTitlemiddleCupertinoThemeEdgeInsetsDirectional	NavigatorPreferredSizeWidgetCupertinoSearchTextFieldPreferredSizemaybeResolveCupertinoDynamicColorbackgroundColorbarBackgroundColorSizepreferredSize
+fromHeightStateScrollNotificationObserverStatevoiddidChangeDependenciesremoveListenermaybeOfScrollNotificationObservercontextaddListenerdispose	initStateScrollNotificationScrollUpdateNotificationdepthScrollMetricsmetricsaxisDirectionupAxisDirectionextentAfterdownextentBeforesetStateclampDoublewidget$CupertinoPageScaffoldBackgroundColorautomaticBackgroundVisibilitylerp	paddingOfkeysrouteuserLeadingleadingautomaticallyImplyLeadingautomaticallyImplyTitleautomaticallyImplyMiddlepreviousPageTitle
+userMiddleuserTrailingtrailingpaddinguserLargeTitle
+userBottom	staticBar
+componentsmiddleVisibleConstrainedBoxconstraintsBoxConstraints	maxHeightColumnchildrenExpandedPaddingonlystart	SemanticsheaderDefaultTextStylestylenavLargeTitleTextStyle	textThememaxLinesoverflowellipsisTextOverflowSizedBoxnavBarBottom
+brightnessenableBackgroundFilterBlur	textStyletransitionBetweenRoutesBuilderbuilderHerotagheroTagcreateRectTweenplaceholderBuilderflightShuttleBuildertransitionOnUserGesturescomponentsKeysbackButtonTextStylenavActionTextStyletitleTextStylenavTitleTextStylelargeTitleTextStylehasUserMiddlelargeExpanded
+searchable	GlobalKey	automatictitleValueChangedCupertinoSliverRefreshControlTickerProviderStateMixinScrollableStateAnimationControllerCurvedAnimationvsyncdurationparentcurvedidUpdateWidgetorientationOfportraitOrientationisScrollingNotifierposition
+Scrollable_searchabletextScalerOfscaleTweenbeginendanimateaddStatusListenerScrollPosition	hasPixelspixels
+bottomModealwaysmaxScrollExtent	animateTofastEaseInToSlowEaseOutAnimationStatusforwardreverse	completed	dismissedonSearchableBottomTaptoggle
+VisibilityvisibleisAnimatinganimationController	animationsearchFieldsearchFieldHeightonSearchFieldTapshrinkwithNoTextScalingAnimatedBuilderSliverPersistentHeaderpinneddelegateactionsForegroundColorprimaryColorpersistentHeightlargeTitleHeightalwaysShowMiddlestretchConfigurationstretch$OverScrollHeaderStretchConfigurationbottomHeight
+controllerSliverPersistentHeaderDelegateDiagnosticableTreeMixinStackSafeAreaAnimatedOpacityopacityisForwardOrCompletedSingleChildRenderObjectWidget	alignmentresolvebottomStartAlignmentDirectionalDirectionalityRenderShiftedBox	AlignmentmarkNeedsLayoutmaxWidthTextBaselinegetDistanceToActualBaseline
+parentDataBoxParentDataoffset	RenderBoxloosenwidthConstraintsgetDryBaselinegetDryLayoutalongOffsetbiggestsizelayoutparentUsesSizeMatrix4applyPaintTransformscaleByDoublePaintingContextlayerpushTransformneedsCompositingdiagonal3Values
+paintChildoldLayerTransformLayerBoxHitTestResultidentitytranslateByDoubleaddWithRawTransform	transformhitTesttransformedStatelessWidgetbackChevron	backLabel	_assembleAlignwidthFactorNavigationToolbarmiddleSpacing
+EdgeInsets
+debugLabel
+leadingKeybackChevronKeybackLabelKey	middleKeytrailingKeylargeTitleKeyautomaticImplyTitlenavBarBottomKeyCupertinoRouteTransitionMixinKeyedSubtreecanPopCupertinoButtonzero	onPressedmaybePopcancelButtonLabelCupertinoLocalizationsdatacopyWith
+textScalermerge	IconThemeIconThemeDataspecifiedPreviousTitlecurrentRoutelinearclampminScaleFactormaxScaleFactorSystemNavigatorVoidCallback	TextStyle	containerexcludeSemanticslabelbackButtonLabelbuttonminWidthRowmainAxisSizeminMainAxisSizeFlexibleTextDirectionrichTextSpantextfromCharCode	codePointbackCupertinoIconsinheritfontSize
+fontFamilypackagefontPackagertl	TransformcentertransformHitTestsltr
+backButtonStandardComponentTypelengthcenterStartisFirstValueListenableBuildervalueListenablepreviousTitle
+centerLeftOpacityclipGestureDetectoronTapAbsorbPointerFocusableActionDetectordescendantsAreFocusableLayoutBuilderspacingFadeTransitionnavBarBoxKeyfindRenderObjectcurrentContextattacheduserGestureInProgressvisitAncestorElementsElementancestorComponentElementMediaQueryData	renderBoxbottomNavBar	topNavBardirectionalitybottomNavBarBackgroundbottomBackChevronbottomBackLabelbottomLeadingbottomMiddlebottomLargeTitlebottomTrailingbottomNavBarBottomtopNavBarBackground
+topLeadingtopBackChevrontopBackLabel	topMiddletopLargeTitletopTrailingtopNavBarBottominfinityPositionedTransitionexpandToIncludepaintBounds
+AnimatableRectRelativeRectfromRectlocalToGlobalIntervalfromisLTRoffsetAnimationdrive
+CurveTweeneaseInchaineaseOutstatusflippedRelativeRectTweenshiftrectupdateSystemUiOverlaycurrentWidgetfromRelativeRectfromKeyfromNavBarBoxtoKeytoNavBarBoxDefaultTextStyleTransitionTextStyleTweenScaleTransitionRenderAnimatedOpacityfindAncestorRenderObjectOfType	RectTweentopLeftmaintainSizemaintainAnimationmaintainStateHeroFlightDirectionownerpushpop
+AnimatedWidgetStatefulWidgetObstructingPreferredSizeWidgetStateTickerProviderStateMixinSliverPersistentHeaderDelegateDiagnosticableTreeMixinSingleChildRenderObjectWidgetRenderShiftedBoxStatelessWidget§Ú MŸub\9wîß{    €Ö   €è€ëmath€ë	dart:mathImageFilter €ó   dart:ui     package:flutter/foundation.dart  D   package:flutter/rendering.dart  n   package:flutter/services.dart  —   package:flutter/widgets.dart  Á   button.dart  Ø   colors.dart  ï   constants.dart  ‚	   
+icons.dart  ‚   localizations.dart  ‚=   page_scaffold.dart  ‚[   
+route.dart  ‚q   search_field.dart  ‚   
+sheet.dart  ‚¤   
+theme.dartÀ ÚË À	Ù =€ˆ€§€©€É€Ó€Õ€òCm–¾À×î‚‚‚<‚Z‚p‚‚£‚¹‚»ƒƒ>ƒxƒƒÑ„!„C„Q„S„—„„ğ……!…$…&…f…k…º†††^†Š†Â†Ä‡‡b‡˜‡š‡îˆˆ	ˆ_ˆ˜ˆšˆÄˆÆˆñˆó‰$‰&‰x‰³‰·‰ñŠŠŠjŠ™ŠŠØ‹ ‹‹T‹X‹’‹Å‹ÇŒŒ<ŒAŒ|Œ±Œ³Œè@B~´úü5k ¢Á
+IKy¸éïóõ'dhj´ğõ‘4‘‚‘„‘Ñ’’’Q’£’¥’ô“@“r“t“€“’“µ“·“Û“İ””””ƒ””´”×”ë”ò••4•;•z••••Â•Å•Ç––c–q–­–Ô–î——,—G—a———Ü—ñ˜˜˜4˜K˜M˜z˜’˜”˜Ø˜Ş™.™e™k™´ššTš¦šËš÷šù››››G›_›…›»›òœœœ3œ;œ@œCœEœšœÖœÛ%q¢Åàú KQhˆÍŸ0ŸxŸ®ŸäŸì A d ³¡¡ ¡p¡š¡Ï¡ó¢)¢i¢±£	££)£1£6£c£«£¿£Å£Ç£Û£÷¤D¤¤¤¤¬¤²¤µ¤·¥¥X¥t¥¥¥Ú¥İ¥ß¦+¦[¦™¦›¦ê§:§M§m§§Ä§Ç§É§ì§ñ¨;¨W¨\¨¨¨Ü¨á©2©†©Ò©×ªªQªVª¥ªğªõ«««`«¯«î«ó¬:¬‹¬Ù­­­d­µ®®U®Z®o®t®Å¯¯f¯·°	°T°Y°®°ı±I±±„±×² ²k²œ²¡²¶³³\³|³³Û³ì³ñ´´W´ ´Å´Êµ$µ5µ:µIµNµšµ¼¶
+¶N¶°··c·j·¹·ö·ı¸¸¸a¸±¸Ü¸ş¹¹!¹M¹x¹•¹§¹»¹åº º0º]ºsº†º°ºÕºç»»»]»¬»ì»÷»ù¼M¼T¼¢¼ß¼æ¼÷¼ş½M½Ÿ½Í½õ¾¾¾.¾Z¾„¾¡¾µ¾ß¾ú¿*¿W¿m¿€¿ª¿Ï¿á¿øÀ @4À @DÀ @À @ŞÀ AÀ A)À A+À AyÀ A€À AÌÀ BÀ B2À B9À B‰À B×À BçÀ BîÀ BÿÀ CÀ COÀ CÀ CÚÀ C÷À CùÀ D=À DÀ DÒÀ DÙÀ E'À EMÀ EcÀ E}À EÀ EÕÀ F À F'À F|À FÔÀ FÛÀ G	À GÀ G_À G°À GÄÀ HÀ H^À H~À H”À H½À H¿À I	À IÀ I`À I«À IğÀ JÀ JÀ JhÀ J·À J×À JŞÀ K-À KmÀ K™À K À KòÀ LÀ LÀ L=À L?À LjÀ LqÀ L¾À MÀ M$À M+À M|À MÉÀ MĞÀ MáÀ MèÀ N+À NyÀ NµÀ NÎÀ NĞÀ OÀ OjÀ O¦À O¼À O×À OÙÀ P%À PyÀ PÄÀ QÀ Q-À Q4À QŒÀ QÙÀ QàÀ R$À R:À R[À R]À R·À SÀ SÀ SiÀ S½À SóÀ SúÀ TXÀ T_À TƒÀ T™À TÆÀ TÈÀ UÀ UIÀ UPÀ U À UéÀ VÀ V
+À V^À V…À V›À V¼À V¾À WÀ W9À W@À W†À WÀ WßÀ X
+À X\À X­À XÙÀ XàÀ Y À Y6À Y_À YaÀ Y¤À ZÀ Z
+À ZTÀ ZjÀ ZƒÀ Z…À ZÙÀ [À [À [iÀ [ºÀ \À \?À \FÀ \•À \çÀ \ûÀ ]À ]SÀ ]qÀ ]xÀ ]œÀ ]²À ]ÙÀ ]ÛÀ ^2À ^ƒÀ ^ŠÀ ^ÜÀ _7À _’À _™À _½À _ÓÀ _ıÀ _ÿÀ `CÀ `™À ` À `éÀ a;À aˆÀ aØÀ aßÀ b*À bmÀ b‚À b‰À bÉÀ bôÀ c
+À c#À c%À ccÀ cjÀ c¶À cÙÀ càÀ c÷À dAÀ dbÀ diÀ dÅÀ dØÀ dßÀ dğÀ d÷À eRÀ exÀ ezÀ eÄÀ eÑÀ fÀ f(À fvÀ f®À fÙÀ fŞÀ fàÀ fíÀ g	À gOÀ gQÀ gÀ gºÀ gÊÀ gÌÀ h)À h.À h0À h=À hÀ h’À h”À häÀ i0À iKÀ i—À iÈÀ iÊÀ jÀ j2À j4À jAÀ jcÀ j‡À jÔÀ k$À knÀ ksÀ kuÀ k‚À k–À kÆÀ lÀ l@À lGÀ l]À lbÀ ldÀ lqÀ l‡À lŸÀ lÑÀ lÖÀ lØÀ mÀ mmÀ m¨À míÀ nÀ n4À nTÀ nzÀ n©À nËÀ nûÀ oÀ o@À oÀ oÛÀ pÀ p&À p/À p1À p†À pÀ pÍÀ qÀ qÀ q-À q;À qHÀ qÀ q¼À qÓÀ qûÀ rÀ rQÀ rhÀ rÀ rÀ r¦À r­À r²À r´À rÁÀ réÀ sKÀ s®À sïÀ sñÀ tÀ tdÀ tœÀ tÀ uÀ uÀ uÀ uÀ u?À ušÀ u¿À uÙÀ vÀ v$À vqÀ vsÀ vŸÀ vúÀ w^À w}À w™À w›À wèÀ xÀ xcÀ x¹À x»À xóÀ yÀ y,À yPÀ y”À yÕÀ z	À z+À zQÀ zqÀ z›À z½À zæÀ {À {3À {;À {=À {dÀ {“À {²À {ÒÀ |À |À |À |3À |KÀ |kÀ |©À |ÁÀ |àÀ |õÀ }À }+À }gÀ }–À }ÈÀ }ÜÀ }ÿÀ ~ À ~LÀ ~¥À ~ÇÀ ~ıÀ &À hÀ À µÀ ËÀ ßÀ ñÀ €À €)À €xÀ €†À €’À €œÀ €ªÀ €ÂÀ €âÀ %À =À \À qÀ ™À èÀ öÀ ‚À ‚À ‚À ‚À ‚8À ‚XÀ ‚ŠÀ ‚°À ‚öÀ ƒ\À ƒdÀ ƒfÀ ƒ±À ƒëÀ „À „À „
+À „À „lÀ „•À „«À …À …WÀ …“À …ÕÀ † À †0À †SÀ †‹À †æÀ ‡;À ‡šÀ ‡ÀÀ ‡óÀ ˆ*À ˆJÀ ˆœÀ ˆ¸À ˆÆÀ ˆÒÀ ˆÜÀ ˆäÀ ˆéÀ ˆìÀ ˆîÀ ‰>À ‰CÀ ‰‘À ‰±À ‰¶À ŠÀ ŠQÀ ŠVÀ Š£À Š¼À ŠÁÀ ‹À ‹aÀ ‹–À ‹›À ‹êÀ Œ:À Œ„À ŒĞÀ ŒåÀ ŒêÀ À nÀ •À šÀ êÀ 1À 6À ‡À ÛÀ 'À ,À }À ÌÀ éÀ îÀ ?À À àÀ ‘1À ‘‚À ‘ÎÀ ‘ãÀ ‘èÀ ’=À ’ŒÀ ’ØÀ “À “À “aÀ “²À ” À ”5À ”:À ”OÀ ”­À ”²À •À •À •"À •7À •¬À •±À –À –À –!À –0À –5À –†À –•À –ğÀ —RÀ —À —ÄÀ —ËÀ ˜À ˜,À ˜TÀ ˜dÀ ˜zÀ ˜À ˜¹À ˜ãÀ ™À ™#À ™5À ™IÀ ™sÀ ™À ™¾À ™ëÀ šÀ šÀ š>À šcÀ š~À šÀ š¦À š¶À šïÀ ›@À ›’À ›¥À ›°À ›ÀÀ ›ğÀ œ7À œBÀ œhÀ œ„À œ¡À œ£À œñÀ  À 'À oÀ ¼À À À bÀ ¯À şÀ ŸOÀ Ÿ„À Ÿ‹À ŸÛÀ ŸìÀ ŸóÀ  
+À  8À  ~À  …À  áÀ  ôÀ ¡#À ¡3À ¡ZÀ ¡pÀ ¡ƒÀ ¡¯À ¡ÙÀ ¡üÀ ¢À ¢+À ¢?À ¢iÀ ¢„À ¢´À ¢áÀ ¢÷À £
+À £4À £YÀ £tÀ £®À £ÏÀ £ßÀ ¤À ¤iÀ ¤»À ¤ÎÀ ¤ÙÀ ¤ğÀ ¥À ¥À ¥1À ¥8À ¥‰À ¥ËÀ ¥ÒÀ ¦À ¦MÀ ¦TÀ ¦£À ¦ôÀ §DÀ §•À §çÀ ¨7À ¨>À ¨ŠÀ ¨ÚÀ ¨ğÀ ¨÷À ©DÀ ©”À ©±À ©³À ©ôÀ ©ûÀ ª@À ªZÀ ª\À ª¯À ªØÀ ªÚÀ «*À «1À «€À «ĞÀ ¬À ¬@À ¬BÀ ¬ŒÀ ¬¤À ¬«À ¬øÀ ­HÀ ­_À ­fÀ ­²À ­éÀ ®	À ®À ®VÀ ®zÀ ®|À ®ËÀ ®äÀ ®ëÀ ¯4À ¯„À ¯¨À ¯¯À ° À °À °'À °)À °kÀ °rÀ °·À °ÒÀ °ÔÀ ±À ±>À ±@À ±—À ±ÄÀ ±ÆÀ ²À ²DÀ ²FÀ ²ŠÀ ²«À ²­À ²îÀ ³À ³À ³YÀ ³rÀ ³tÀ ³ÅÀ ³ìÀ ³îÀ ´/À ´HÀ ´JÀ ´™À ´ÀÀ ´ÇÀ µÀ µ6À µ=À µNÀ µUÀ µ°À µÖÀ µØÀ ¶)À ¶iÀ ¶pÀ ¶¼À ·À ·:À ·<À ·‰À ·ÔÀ ¸À ¸
+À ¸TÀ ¸ŠÀ ¸ŒÀ ¸ÔÀ ¸ÛÀ ¹-À ¹~À ¹…À ¹ÑÀ º"À º[À ºbÀ º~À º•À º—À ºŞÀ ºåÀ »7À »ˆÀ »À »¤À »ÓÀ »ñÀ »óÀ ¼AÀ ¼\À ¼^À ¼kÀ ¼ÉÀ ¼ÌÀ ¼ÎÀ ½À ½jÀ ½…À ½ÛÀ ¾ À ¾1À ¾WÀ ¾sÀ ¾¥À ¾ÏÀ ¿À ¿9À ¿aÀ ¿ˆÀ ¿¨À ¿ÃÀ ¿ÅÀ ¿ÒÀ ¿èÀ À À À2À À’À ÀõÀ ÀúÀ ÀüÀ Á	À ÁKÀ ÁrÀ Á À ÁÁÀ ÁÈÀ ÁÍÀ ÁÏÀ ÁÜÀ ÁşÀ Â"À ÂoÀ ÂÀ Â¬À ÂÎÀ Ã'À Ã\À Ã²À Ã·À Ã¹À ÃÆÀ ÃÚÀ Ä	À ÄdÀ ÄkÀ ÄŒÀ Ä±À ÄÇÀ ÄÌÀ ÄÎÀ ÄìÀ Å'À ÅFÀ Å…À Å®À ÅáÀ ÅèÀ ÅùÀ ÅşÀ Æ À Æ#À ÆtÀ ÆyÀ Æ{À ÆÀ ÆâÀ ÇÀ Ç À Ç;À ÇmÀ ÇÀ ÇªÀ Ç¶À ÇßÀ ÈÀ È/À ÈuÀ È©À ÈÙÀ ÈêÀ ÈúÀ ÈÿÀ ÉÀ É'À É„À ÉÙÀ ÊÀ ÊqÀ ÊÇÀ ÊÌÀ ÊÎÀ ÊîÀ Ë0À Ë~À ËÀ Ë”À Ë–À Ë«À ÌÀ ÌÀ Ì/À ÌQÀ Ì¥À Ì§À ÌóÀ ÍÀ ÍIÀ ÍÀ ÍÖÀ Î À ÎtÀ Î­À ÎÎÀ ÎÕÀ Î×À Ï)À ÏjÀ Ï…À Ï–À ÏÖÀ ĞÀ Ğ<À ĞFÀ ĞMÀ ĞRÀ ĞTÀ Ğ–À ĞçÀ Ñ3À Ñ…À Ñ¬À Ñ¿À ÑØÀ ÑÿÀ Ò!À ÒHÀ ÒkÀ Ò”À Ò½À ÒÆÀ ÒÏÀ ÒÔÀ ÒÖÀ ÒôÀ Ó%À Ó\À ÓcÀ Ó‡À ÓŒÀ ÓÀ Ó›À ÓÃÀ ÓûÀ ÔÀ Ô4À Ô_À Ô©À Ô¼À Õ À Õ@À ÕtÀ ÕÌÀ ÕùÀ ÖDÀ ÖWÀ ÖÀ Ö”À Ö³À ÖÓÀ ×À ×GÀ ×†À ×ÀÀ ØÀ ØCÀ Ø\À ØÀ ØÒÀ ÙÀ ÙKÀ ÙÀ ÙÎÀ ÙçÀ Ú
+À Ú.À ÚNÀ ÚhÀ Ú–À Ú¯À Ú·À Ú¹À ÚãÀ ÛÀ Û(À ÛbÀ ÛŒÀ ÛÑÀ ÜÀ Ü+À ÜRÀ Ü~À ÜÀ ÜøÀ İ:À İÀ İ¼À İâÀ Ş
+À ŞZÀ Ş¢À ŞÊÀ ß0À ßrÀ ßÇÀ àÀ àJÀ àeÀ à³À àİÀ áÀ á^À áŠÀ á»À áêÀ áúÀ âÀ âÀ âÀ â&À â+À â.À â0À â…À â©À âÕÀ âîÀ ãÀ ã,À ãPÀ ã‚À ã¡À ã¼À ãØÀ äÀ ä/À äKÀ äpÀ ä•À äºÀ äãÀ åÀ å1À åRÀ åqÀ åÀ å—À å™À åËÀ åÿÀ æÀ æ<À æiÀ æŠÀ æ£À æÌÀ æóÀ çÀ ç3À çUÀ çwÀ ç—À çÁÀ çîÀ èÀ è5À èOÀ èQÀ è^À èyÀ èØÀ èÚÀ èçÀ é6À é8À éEÀ é„À é†À é“À éæÀ êGÀ êŒÀ êÀ êÃÀ ëÀ ëÀ ëRÀ ë¥À ëÔÀ ëŞÀ ëèÀ ëğÀ ëòÀ ì1À ìPÀ ìiÀ ì¶À ìàÀ í!À í)À í+À íÀ íŸÀ í§À í©À íÌÀ î À îEÀ îXÀ îŒÀ îœÀ îáÀ îãÀ ïÀ ïcÀ ïÆÀ ïåÀ ğÀ ğÀ ğ3À ğSÀ ğ…À ğ¤À ğãÀ ñÀ ñCÀ ñ[À ñzÀ ñ‘À ñ®À ñÓÀ ñòÀ òÀ ò>À ò_À ò¬À òñÀ óÀ ó7À ó^À ó¢À óÙÀ ôÀ ô/À ôYÀ ô€À ôªÀ ôİÀ õYÀ õ¿À öÀ ö0À ö]À ö•À öúÀ ÷(À ÷jÀ ÷ŸÀ ÷ÜÀ øÀ øAÀ øcÀ øƒÀ ø¡À ø½À ø×À øïÀ ùÀ ùeÀ ù­À ùÎÀ ùğÀ úÀ ú7À ú_À ú«À úõÀ ûÀ û'À û;À ûMÀ û]À ûœÀ ûëÀ ûùÀ üÀ üÀ üÀ üÀ ü]À üsÀ üzÀ ü|À üÀ üâÀ ı$À ıbÀ ıšÀ ıÁÀ şÀ ş\À ş¨À şÔÀ şóÀ ÿ'À ÿ~À ÿÏÀ *À LÀ ¡À ÉÀ êÀ1ÀIÀSÀ[À`ÀbÀoÀ»ÀïÀ À[À²ÀÛÀÀOÀšÀ×ÀÀQÀ|ÀÍÀşÀ3ÀdÀ“À˜À›ÀÀÉÀÎÀÀ0ÀkÀ¦À¨ÀÀÀÂÀÏÀÀ.À†ÀÀ¥ÀªÀ¬À¹ÀÀÀxÀ’À—ÀšÀœÀĞÀ	'À	)À	SÀ	lÀ	À	°À	¿À	ÆÀ	ßÀ	áÀ	ùÀ	şÀ
+ À
+!À
+4À
+RÀ
+oÀ
+~À
+…À
+›À
+À
+µÀ
+ºÀ
+¼À
+ÔÀ
+ÖÀ7ÀuÀÍÀÀJÀZÀ‰ÀÀÀÀáÀ-ÀJÀ^ÀeÀ§ÀâÀçÀéÀöÀSÀ}À—À«À²ÀÀVÀqÀ…ÀŒÀÎÀÀQÀnÀÂÀÇÀÉÀÖÀğÀÀ;À=ÀWÀfÀmÀoÀÅÀ ÀCÀ„ÀáÀæÀèÀõÀ7ÀYÀ[ÀÀÀÈÀÍÀÏÀÜÀÀ>À@ÀZÀoÀ}ÀÀÀÂÀèÀÀ-ÀdÀ¼ÀéÀóÀúÀÿÀÀÀ]À‡À‰À£À¸À¿ÀÁÀÀÀ:ÀuÀ¹À»ÀãÀ ÀÀ[À™À£À«À°À³ÀµÀùÀşÀQÀÀ²ÀìÀMÀOÀƒÀ…À®À°ÀşÀ4ÀRÀTÀaÀ‰À²À´ÀÏÀñÀ9ÀqÀ{ÀÎÀıÀ#À7ÀUÀ‰À½ÀÛÀëÀòÀôÀÀXÀÀÀ«ÀËÀéÀ"ÀwÀ…À¿ÀÆÀÈÀ÷À À 'À MÀ hÀ pÀ rÀ À ®À ıÀ!À!&À!-À!/À!EÀ!’À!ªÀ!æÀ!şÀ"À"'À"/À"4À"7À"9À"†À"ÅÀ#À#=À#AÀ#€À#ŒÀ#¸À#àÀ$*À$`À$ŸÀ$ÚÀ%À%FÀ%ƒÀ%ÌÀ%ÎÀ%ïÀ&À&1À&RÀ&pÀ&À&²À&ÖÀ&ÙÀ&ÛÀ'*À'sÀ'ÀÀ(À(À(<À(`À(—À(ÁÀ(äÀ)À)>À)gÀ)‰À)­À)ÓÀ)õÀ*#À*=À*[À*À* À*ÇÀ*ëÀ+À+CÀ+_À+{À+†À+¯À+ŞÀ,À,À,ZÀ,vÀ,À,¦À,ÑÀ,õÀ-À-=À-}À-™À-¤À-ÃÀ-èÀ.
+À.4À.LÀ.ˆÀ. À.ÀÀ.ÜÀ.çÀ/
+À/3À/YÀ/uÀ/‘À/œÀ/ÃÀ/ğÀ0À02À0jÀ0‚À0À0©À0ÔÀ1À1'À1CÀ1NÀ1PÀ1rÀ1À1ÆÀ1ÎÀ2À2:À2tÀ2›À2ÄÀ2ËÀ2ÍÀ2ßÀ2äÀ2æÀ3À3.À3RÀ3uÀ3ŸÀ3ÍÀ3ûÀ4À4'À4DÀ4FÀ4fÀ4‹À4¸À4×À4ğÀ5À5<À5_À5xÀ5 À5¬À5øÀ6À6	À6À6.À6BÀ6IÀ6KÀ6eÀ6}À6”À6ğÀ7À7gÀ7ÈÀ7ÔÀ7ŞÀ7æÀ7ëÀ7íÀ8À8=À8eÀ8ˆÀ8²À8àÀ9À9À9,À9SÀ9mÀ9‡À9ÂÀ9ÖÀ9İÀ9ßÀ9ùÀ:À:/À:ˆÀ:®À:¸À:ÀÀ:ÅÀ:ÇÀ;À;5À;WÀ;À;§À;ÊÀ;ôÀ<"À<KÀ<oÀ<wÀ<—À<¾À<ØÀ<òÀ=-À=AÀ=HÀ=JÀ=dÀ=~À=˜À=ñÀ>FÀ>PÀ>XÀ>]À>_À>ªÀ>ÍÀ>ìÀ?À?6À?XÀ?~À?˜À?¶À?âÀ@À@0À@8À@]À@_À@~À@ÅÀAÀA(ÀA/ÀA1ÀACÀAlÀAsÀAuÀA›ÀAÔÀAğÀAøÀAúÀBÀB0ÀB7ÀB9ÀBSÀBjÀB„ÀBİÀBüÀCÀCÀCÀCÀC6ÀC_ÀC„ÀC¨ÀCÖÀCúÀDÀD#ÀD7ÀD>ÀD@ÀDZÀDsÀDŠÀDâÀDşÀEYÀE¸ÀEÄÀEÎÀEÖÀEÛÀEİÀF(ÀFKÀFnÀF™ÀFÀÀFæÀG ÀG(ÀGRÀGvÀG~ÀG‘ÀG¥ÀG¬ÀG®ÀGÕÀGğÀHKÀHMÀHZÀH|ÀHÉÀHÑÀHÓÀHíÀIÀI"ÀIRÀI|ÀI›ÀIõÀJ'ÀJUÀJeÀJsÀJÀJ£ÀJ­ÀJµÀJºÀJ¼ÀJáÀKÀK7ÀKYÀK}ÀK…ÀKŸÀK¼ÀKÖÀL4ÀLkÀLuÀL}ÀL‚ÀL„ÀLÄÀLñÀM9ÀM>ÀMAÀMCÀMŠÀMÀMÕÀNÀN9ÀN>ÀNÀN×ÀNæÀNëÀO8ÀO‹ÀOªÀOìÀP:ÀPTÀP€ÀPÀP¡ÀP¾ÀPÓÀPğÀQÀQÀQYÀQ˜ÀQğÀRÀR&ÀR?ÀRAÀRhÀRoÀR¾ÀRÅÀSÀSÀSÀSkÀS»ÀSòÀTÀTÀThÀT‡ÀTÀTÚÀU&ÀU9ÀU@ÀUYÀU{ÀU}ÀUœÀUÀU»ÀU½ÀUÊÀUòÀV9ÀVWÀVfÀVÀVìÀVöÀVıÀVÿÀWYÀWsÀW¦ÀWêÀWôÀWûÀWıÀXSÀXpÀX‘ÀXªÀXÄÀXåÀYÀY+ÀYMÀYpÀY’ÀYèÀZÀZ0ÀZSÀZ¤ÀZÛÀ[,À[GÀ[aÀ[†À[éÀ[ıÀ\À\À\-À\9À\CÀ\ZÀ\|À\•À\§À\ÏÀ\ÚÀ\äÀ\ìÀ\ñÀ\ôÀ\öÀ]$À]=À]?À]LÀ]tÀ]¹À]şÀ^ À^JÀ^mÀ^À^ÓÀ^ìÀ^ÿÀ_DÀ_aÀ_~À_£À_ÀÀ_ùÀ`0À`>À`JÀ`TÀ`\À`zÀ`™À`ºÀaÀa.ÀaSÀaqÀa}ÀaœÀa¬Àa³ÀaµÀbÀbÀbÀbÀbjÀbxÀb¤ÀböÀbøÀc!ÀcFÀcHÀc”Àc°ÀdÀd4Àd[ÀdbÀddÀd½Àd¿ÀdåÀe3Àe:Àe<Àe¡Àe¦Àe¨ÀeµÀeİÀfÀfXÀf®ÀfşÀgNÀgœÀg°ÀgßÀhÀhDÀhNÀh\ÀhƒÀhŠÀhÀh’Àh”ÀhËÀh÷Ài&ÀimÀioÀi”Ài­Ài¯Ài¼ÀiäÀj:ÀjdÀjyÀj£Àj¼ÀjÙÀjüÀk#ÀkFÀk«Àk¹ÀkÅÀkÏÀk×ÀkÜÀkßÀkáÀl2ÀlDÀlÀl¤ÀlÌÀlìÀm
+Àm0ÀmUÀm\Àm^ÀmÀm®ÀmÔÀm÷Àn#Àn%Àn2ÀnZÀnwÀn”Àn³ÀnÕÀnôÀoÀoLÀoiÀo£ÀoĞÀoûÀp+Àp=ÀpŒÀpœÀpªÀp¶ÀpÀÀpøÀqÀq`ÀqyÀqœÀq·ÀqÑÀqÿÀrTÀruÀr‰ÀrâÀrıÀsSÀsvÀsÊÀtÀt+Àt?ÀtQÀtaÀtoÀt{Àt…ÀtÀt’Àt•Àt—ÀtèÀtøÀu1ÀuTÀu|ÀuœÀuºÀuàÀvÀvÀvÀv@Àv^Àv„Àv§ÀvÓÀvÕÀvâÀw
+ÀwÀwQÀwvÀwÀw¨Àw»ÀxÀx)Àx>Àx\Àx†ÀxÄÀxÔÀxâÀxşÀy!ÀyEÀyŸÀyáÀyñÀz/ÀzOÀz£ÀzÂÀzÔÀzäÀzòÀzşÀ{À{À{À{À{À{VÀ{[À{©À{öÀ|À|À|TÀ|wÀ|µÀ|×À|úÀ}À}FÀ}iÀ}‘À}¬À}ÎÀ}ğÀ~À~AÀ~[À~šÀ~ËÀ~ÍÀ	À*ÀRÀuÀÀ·ÀÔÀñÀ€À€8À€OÀ€QÀ€nÀ€ÍÀ€ÚÀ€ïÀ?À‘À±À¹ÀÊÀÏÀÑÀõÀ‚RÀ‚WÀ‚YÀ‚fÀ‚À‚ŸÀ‚ºÀ‚ôÀƒ!Àƒ4ÀƒzÀƒÅÀ„À„lÀ„•À„£À„ÙÀ„õÀ…À…À…#À….À…=À…NÀ…À…ÀÀ…ÊÀ…ŞÀ…éÀ…üÀ†À†À†À†WÀ†ŸÀ†¤À†ğÀ‡	À‡À‡ZÀ‡ŒÀ‡‘À‡ÔÀˆ&Àˆ8Àˆ=ÀˆÀˆÙÀˆôÀ‰.À‰LÀ‰jÀ‰ˆÀ‰©À‰ÎÀŠÀŠ3ÀŠ>ÀŠ@ÀŠfÀŠ—ÀŠËÀŠÍÀŠñÀŠóÀ‹ À‹(À‹nÀ‹‹À‹®À‹ËÀ‹şÀŒÀŒÀŒ(ÀŒ]ÀŒÀŒ»ÀŒçÀÀAÀnÀŸÀŞÀÀ9ÀfÀ‘À¹ÀåÀÀ=ÀEÀGÀ”À¾ÀÖÀ;À\À‡À‘À™ÀÀ¡À£ÀïÀ‘(À‘-À‘zÀ‘‘À‘–À‘æÀ’9À’~À’ƒÀ’ÒÀ“À“À“fÀ“­À“²À“ñÀ”2À”†À”ÕÀ”ûÀ•À•3À•[À•yÀ•²À•èÀ–À–LÀ–~À–°À–ÜÀ—"À—bÀ—À—ÔÀ˜À˜ZÀ˜”À˜ÈÀ™À™6À™tÀ™¬À™ØÀ™şÀšXÀšxÀšËÀ›À›)À›}À›ŞÀœ+Àœ-ÀœÀœĞÀœÒÀœøÀ6ÀqÀsÀ½ÀÀ6ÀZÀ{À}À«ÀÖÀÿÀŸ%ÀŸTÀŸ€ÀŸ‚ÀŸ¥ÀŸÅÀŸèÀ À -À GÀ zÀ |À £À ÇÀ æÀ¡À¡À¡PÀ¡›À¡¸À¡ºÀ¢À¢%À¢'À¢rÀ¢¾À£À£bÀ£†À£ˆÀ£«À£ÿÀ¤À¤À¤"À¤$À¤rÀ¤½À¤íÀ¤óÀ¥AÀ¥cÀ¥iÀ¥·À¦À¦RÀ¦ŸÀ¦ïÀ¦ûÀ§1À§RÀ§yÀ§˜À§½À§êÀ¨À¨À¨]À¨¨À¨ªÀ¨ØÀ¨ÚÀ©-À©uÀ©ÓÀª+ÀªjÀª‚Àª¢ÀªªÀ«	À«À«]À«¯À«şÀ¬LÀ¬aÀ¬cÀ¬µÀ¬ÊÀ¬ğÀ­!À­vÀ­ØÀ­ÚÀ®9À®hÀ®¡À®»À®ÃÀ®ÅÀ®ÿÀ¯(À¯]À¯eÀ¯gÀ¯À¯¥À¯ÇÀ¯óÀ°%À°MÀ°qÀ°†À°À°“À°•À°àÀ±>À±CÀ±EÀ±À±ïÀ±ôÀ±öÀ²<À²fÀ²—À²ÂÀ²õÀ²úÀ²üÀ³$À³NÀ³—À³«À³²À´ À´*À´]À´_À´¬À´şÀµÀµÀµ@ÀµfÀµ„ÀµŒÀµÀµ¼À¶À¶%À¶-À¶/À¶QÀ¶ŒÀ¶¯À¶ğÀ·À·IÀ·eÀ·¼À·ÆÀ·ÎÀ·ÓÀ·ÕÀ·ôÀ¸KÀ¸MÀ¸oÀ¸ƒÀ¸ŠÀ¸ŒÀ¸µÀ¹À¹bÀ¹jÀ¹oÀ¹qÀ¹”À¹óÀ¹õÀºÀº/Àº6Àº8ÀºaÀº¿ÀºİÀºÿÀ»cÀ»mÀ»uÀ»zÀ»|À»À»øÀ»úÀ¼À¼2À¼9À¼;À¼sÀ¼™À¼·À¼¿À¼ÁÀ½À½FÀ½ZÀ½·À½¿À½ÁÀ½ãÀ¾À¾.À¾PÀ¾²À¾¼À¾ÄÀ¾ÉÀ¾ËÀ¾éÀ¿>À¿“À¿äÀ¿æÀÀ1ÀÀ…ÀÀ½ÀÀÑÀÀØÀÀÚÀÁÀÁ_ÀÁƒÀÁ±ÀÁÚÀÂÀÂ*ÀÂJÀÂ›ÀÂÛÀÂôÀÃFÀÃ|ÀÃ¶ÀÃæÀÄÀÄhÀÄzÀÄ¤ÀÄ´ÀÄÂÀÄÎÀÄØÀÄßÀÄáÀÅ1ÀÅ‚ÀÅÀÅÇÀÅòÀÆMÀÆmÀÆ­ÀÆûÀÇWÀÇcÀÇmÀÇtÀÇvÀÇˆÀÇÀÇÀÇ±ÀÈÀÈcÀÈeÀÈ¢ÀÈ¶ÀÈ½ÀÈ¿ÀÈàÀÉ,ÀÉPÀÉ‚ÀÉ«ÀÉ×ÀÉûÀÊSÀÊsÀÊ—ÀÊ°ÀËÀË8ÀËrÀË¢ÀËÉÀÌ)ÀÌ;ÀÌWÀÌ‡ÀÌµÀÌÅÀÌÓÀÌßÀÌéÀÌğÀÌòÀÍ;ÀÍnÀÍ¦ÀÍÍÀÍëÀÍóÀÍõÀÎ#ÀÎ7ÀÎ‘ÀÎ™ÀÎ›ÀÎêÀÏÀÏ)ÀÏVÀÏtÀÏ–ÀÏâÀĞFÀĞPÀĞXÀĞ]ÀĞ_ÀĞÀĞØÀĞÚÀĞıÀÑÀÑÀÑÀÑCÀÑÀÑòÀÑúÀÑÿÀÒÀÒ%ÀÒ†ÀÒˆÀÒ¯ÀÒÃÀÒÊÀÒÌÀÓÀÓ-ÀÓKÀÓSÀÓ‰ÀÓ·ÀÓËÀÔ ÀÔ(ÀÔ*ÀÔXÀÔ¦ÀÔÕÀÕÀÕÀÕ]ÀÕ•ÀÕ­ÀÕÌÀÖÀÖÀÖ&ÀÖ-ÀÖ/ÀÖQÀÖ^ÀÖ¶ÀÖ×À×0À×†À×ˆÀ×®À×¶À×»À×½À×âÀØ	ÀØÀØ$ÀØrÀØœÀØÏÀØÑÀÙÀÙpÀÙxÀÙzÀÙàÀÙâÀÚÀÚaÀÚqÀÚyÀÚ{ÀÚÀÚØÀÚûÀÛ<ÀÛcÀÛ’ÀÛ®ÀÜÀÜÀÜÀÜÀÜÀÜ7ÀÜˆÀÜŠÀÜ©ÀÜ½ÀÜÄÀÜÆÀÜïÀİCÀİ”ÀİœÀİ¡Àİ£ÀİÃÀŞÀŞ{ÀŞ}ÀŞ ÀŞ´ÀŞ»ÀŞ½ÀŞóÀßÀß3Àß;ÀßOÀßQÀß{ÀßÂÀßûÀà5ÀàqÀà®ÀàÔÀàıÀàÿÀá7ÀágÀáÀá«ÀáÜÀâÀâÀâÀâmÀâ…Àâ«ÀâÌÀã&Àã‚Àã¢ÀãğÀäÀäÀäÀäÀä^Àä`Àä‚ÀäåÀåÀå+ÀåBÀå`Àå³ÀæÀæ,Àæ<ÀæJÀæVÀæ¥Àæ¯Àæ·Àæ¼Àæ¾ÀæÜÀç1ÀçÀçãÀçåÀèÀèÀè!Àè#Àè…ÀèÉÀèËÀèôÀéGÀéqÀé½ÀéÇÀéÎÀéĞÀêÀêjÀê¹ÀëÀëÀëVÀëzÀë¬ÀëÕÀìÀì%Àì}ÀìÀìÕÀíÀí(Àí†Àí–Àí°ÀíŞÀîÀîÀî Àî*Àî1Àî3ÀîÀî©ÀîÊÀîîÀïÀïEÀïqÀï•ÀïµÀïíÀğÀğ@Àğ™Àğ©ÀğÑÀğßÀğëÀğõÀğüÀğşÀñÀñÀñÀñ2ÀñÀñƒÀñ¡ÀñµÀñ¼Àñ¾Àò	Àò]ÀòÀò£ÀòªÀò¬ÀóÀólÀónÀóœÀóÀóğÀô
+Àô[Àô]Àô”ÀôÎÀôäÀõ4ÀõfÀõŸÀõ°ÀõºÀõßÀõçÀõéÀöÀö'ÀöoÀöÀö±ÀöÏÀöóÀ÷GÀ÷QÀ÷YÀ÷^À÷`À÷}À÷ĞÀ÷ÒÀ÷òÀøÀøÀøÀø8ÀøÀøßÀøçÀøìÀøîÀùÀùdÀùfÀùÀù±Àù¸ÀùºÀùğÀúÀú/Àú7Àú9ÀúpÀúÀúïÀúÿÀûÀû	ÀûWÀûƒÀû¸ÀûºÀûÜÀûéÀü?Àü`Àü¹ÀıÀı-ÀıgÀı‰Àı´ÀıÌÀıøÀşÀş+Àş5Àş=ÀşBÀşDÀşeÀşÀÀşÂÀşæÀşúÀÿÀÿÀÿ9Àÿ_ÀÿzÀÿ‚Àÿ¹ÀÿçÀ 8À HÀ PÀ RÀ }À À ÍÀ ùÀ.À0À}ÀµÀÍÀìÀ&À=ÀGÀNÀPÀrÀÀ×ÀøÀQÀ§ÀÍÀÕÀÚÀİÀßÀ,ÀuÀÃÀàÀÀFÀLÀ¥À¨ÀªÀÀ5À}À·À¹À	ÀXÀ¨ÀäÀæÀ7À‰À¤ÀºÀÓÀñÀ	À	 À	3À	9À	<À	>À	qÀ	šÀ	¹À	ÙÀ
+À
+"À
+AÀ
+FÀ
+qÀ
+šÀ
+œÀ
+ÖÀÀÀOÀÀÀÜÀ$À&À1À|ÀÊÀĞÀÛÀ$ÀpÀvÀxÀ–ÀºÀâÀÀ$ÀBÀLÀoÀ—À¶À×À÷ÀÀÀ	   /// @docImport 'refresh.dart';€Õ€ë €ò   C  m  –  À  ×  î  ‚  ‚  ‚<  ‚Z  ‚p  ‚  ‚£      “š “¢      “£“£“¨  “”“”    “Ï“¹“Ï   •ƒ•„•ƒ•ƒ=•˜    ””””m”&    ”£”£”ª ”…”†”…”…€ø”  “t“u“t“t‚O“†   –µ –Ğ      –Ø–Ø–æ   –ò–ò—    ———$   —0—0—>   —K—K—Y —h—m—‰—n—x—z–¯–¯€Ü    —ş—ó—ş  ˜C˜6˜C  ˜‰˜|˜‰  šåšÍ'šå  ›šû›      ›.›.›; ››››*›(  –q–q…Ğ–w   ¸ä ¸ú      ¹¹	¹   ¹¹¹   ¹%¹%%¹*   ¹Q¹Q$¹V   ¹|¹|¹   ¹™¹™¹   ¹«¹«¹°   ¹¿¹¿#¹Ä   ¹é¹é¹î   ºº)º	   º4º4&º9   ºaºaºf   ºwºwº|   ºŠºŠ#º   º´º´º¹   ºÙºÙºŞ ¹F¹q¹Íº)ºVº©ºÃºîºùºû»	»»Z»ó»4»»»7»@»Y»A»J»f»µ··„â ¬/// Creates a static iOS style navigation bar, with a centered [middle] title.
+///
+/// Similar to the collapsed state of [CupertinoSliverNavigationBar], which
+/// can dynamically change size in response to scrolling.
+///
+/// See also:
+///
+///   * [CupertinoNavigationBar.large], which creates a static iOS style
+///     navigation bar with a [largeTitle], similar to the expanded state of
+///     [CupertinoSliverNavigationBar].  ½Õ½ë½ñ      ½ù½ù	½ÿ   ¾	¾	¾   ¾¾¾$   ¾2¾2%¾7   ¾^¾^#¾c   ¾ˆ¾ˆ¾   ¾¥¾¥¾ª   ¾¹¾¹#¾¾   ¾ã¾ã¾è   ¾ş¾ş)¿   ¿.¿.&¿3   ¿[¿[¿`   ¿q¿q¿v   ¿„¿„#¿‰   ¿®¿®¿³   ¿Ó¿Ó¿Ø ¾S¾}¾Ç¿#¿P¿£¿½¿è¿ï¿ñ¿ÿÀ @À @À @;À @AÀ @ŒÀ A%À @fÀ @MÀ @NÀ @iÀ @rÀ @‹À @sÀ @|À @˜À @ç»û»û…,½ìµ/// Creates a static iOS style navigation bar, with a left aligned [largeTitle].
+///
+/// Similar to the expanded state of [CupertinoSliverNavigationBar], which
+/// can dynamically change size in response to scrolling.
+///
+/// See also:
+///
+///   * [CupertinoNavigationBar]'s base constructor, which creates a static
+///     iOS style navigation bar with [middle], similar to the collapsed state
+///     of [CupertinoSliverNavigationBar].  À CêÀ A-‚ÇÀ Cê‚/// The navigation bar's title, when using [CupertinoNavigationBar.large].
+///
+/// If null and `automaticallyImplyTitle` is true, an appropriate [Text]
+/// title will be created if the current route is a [CupertinoPageRoute] and
+/// has a `title`.
+///
+/// This property is null for the base [CupertinoNavigationBar] constructor,
+/// which shows a collapsed navigation bar and uses [middle] for the title
+/// instead.
+///
+/// See also:
+///
+///   * [CupertinoSliverNavigationBar.largeTitle], a similar property
+///     in the expanded state of [CupertinoSliverNavigationBar], which can
+///     dynamically change size in response to scrolling. À EsÀ CûÀ EsT/// {@template flutter.cupertino.CupertinoNavigationBar.leading}
+/// Widget to place at the start of the navigation bar. Normally a back button
+/// for a normal page or a cancel button for full page dialogs.
+///
+/// If null and [automaticallyImplyLeading] is true, an appropriate button
+/// will be automatically created.
+/// {@endtemplate} À H¡À Eƒ9À H¡‚ç/// {@template flutter.cupertino.CupertinoNavigationBar.automaticallyImplyLeading}
+/// Controls whether we should try to imply the leading widget if null.
+///
+/// If true and [leading] is null, automatically try to deduce what the [leading]
+/// widget should be. If [leading] widget is not null, this parameter has no effect.
+///
+/// Specifically this navigation bar will:
+///
+/// 1. Show a 'Cancel' button if the current route is a `fullscreenDialog`.
+/// 2. Show a back chevron with [previousPageTitle] if [previousPageTitle] is
+///    not null.
+/// 3. Show a back chevron with the previous route's `title` if the current
+///    route is a [CupertinoPageRoute] and the previous route is also a
+///    [CupertinoPageRoute].
+/// {@endtemplate} À IıÀ HÁTÀ Iı!/// Controls whether we should try to imply the middle widget if null.
+///
+/// If true and [middle] is null, automatically fill in a [Text] widget with
+/// the current route's `title` if the route is a [CupertinoPageRoute].
+/// If [middle] widget is not null, this parameter has no effect. À L)À J‚À L)İ/// {@template flutter.cupertino.CupertinoNavigationBar.previousPageTitle}
+/// Manually specify the previous route's title when automatically implying
+/// the leading back button.
+///
+/// Overrides the text shown with the back chevron instead of automatically
+/// showing the previous [CupertinoPageRoute]'s `title` when
+/// [automaticallyImplyLeading] is true.
+///
+/// Has no effect when [leading] is not null or if [automaticallyImplyLeading]
+/// is false.
+/// {@endtemplate} À NÅÀ LA‚ŠÀ NÅ‚K/// The navigation bar's default title.
+///
+/// If null and [automaticallyImplyMiddle] is true, an appropriate [Text]
+/// title will be created if the current route is a [CupertinoPageRoute] and
+/// has a `title`.
+///
+/// This property is null for the [CupertinoNavigationBar.large] constructor,
+/// which shows an expanded navigation bar and uses [largeTitle] instead.
+///
+/// See also:
+///
+/// * [CupertinoSliverNavigationBar.middle], a similar property
+///    in the collapsed state of [CupertinoSliverNavigationBar], which can
+///    dynamically change size in response to scrolling. À OÌÀ NÒÀ OÌ€ß/// {@template flutter.cupertino.CupertinoNavigationBar.trailing}
+/// Widget to place at the end of the navigation bar. Normally additional actions
+/// taken on the page such as a search or edit function.
+/// {@endtemplate} À RIÀ OÛ‚}À RI‚?/// {@template flutter.cupertino.CupertinoNavigationBar.backgroundColor}
+/// The background color of the navigation bar. If it contains transparency, the
+/// tab bar will automatically produce a blurring effect to the content
+/// behind it. This behavior can be disabled by setting [enableBackgroundFilterBlur]
+/// to false.
+///
+/// By default, the navigation bar's background is visible only when scrolled under.
+/// This behavior can be controlled with [automaticBackgroundVisibility].
+///
+/// Defaults to [CupertinoTheme]'s `barBackgroundColor` if null.
+/// {@endtemplate} À T¦À R_‚dÀ T¦‚/// {@template flutter.cupertino.CupertinoNavigationBar.automaticBackgroundVisibility}
+/// Whether the navigation bar appears transparent when no content is scrolled under.
+///
+/// If this is true, the navigation bar's background color will be transparent
+/// until the content scrolls under it. If false, the navigation bar will always
+/// use [backgroundColor] as its background color.
+///
+/// If the navigation bar is not a child of a [CupertinoPageScaffold], this has no effect.
+///
+/// This value defaults to true.
+/// {@endtemplate} À V¯À TÊïÀ V¯´/// {@template flutter.cupertino.CupertinoNavigationBar.brightness}
+/// The brightness of the specified [backgroundColor].
+///
+/// Setting this value changes the style of the system status bar. Typically
+/// used to increase the contrast ratio of the system status bar over
+/// [backgroundColor].
+///
+/// If set to null, the value of the property will be inferred from the relative
+/// luminance of [backgroundColor].
+/// {@endtemplate} À YUÀ VÀ‚œÀ YU‚P/// {@template flutter.cupertino.CupertinoNavigationBar.padding}
+/// Padding for the contents of the navigation bar.
+///
+/// If null, the navigation bar will adopt the following defaults:
+///
+///  * Vertically, contents will be sized to the same height as the navigation
+///    bar itself minus the status bar.
+///  * Horizontally, padding will be 16 pixels according to iOS specifications
+///    unless the leading widget is an automatically inserted back button, in
+///    which case the padding will be 0.
+///
+/// Vertical padding won't change the height of the nav bar.
+/// {@endtemplate} À ZzÀ YcÀ Zz€ù/// {@template flutter.cupertino.CupertinoNavigationBar.border}
+/// The border of the navigation bar. By default renders a single pixel bottom border side.
+///
+/// If a border is null, the navigation bar will not display a border.
+/// {@endtemplate} À ]¿À Z‡ƒOÀ ]¿‚ù/// {@template flutter.cupertino.CupertinoNavigationBar.transitionBetweenRoutes}
+/// Whether to transition between navigation bars.
+///
+/// When [transitionBetweenRoutes] is true, this navigation bar will transition
+/// on top of the routes instead of inside it if the route being transitioned
+/// to also has a [CupertinoNavigationBar] or a [CupertinoSliverNavigationBar]
+/// with [transitionBetweenRoutes] set to true.
+///
+/// This transition will also occur on edge back swipe gestures like on iOS
+/// but only if the previous page below has `maintainState` set to true on the
+/// [PageRoute].
+///
+/// When set to true, only one navigation bar can be present per route unless
+/// [heroTag] is also set.
+///
+/// This value defaults to true.
+/// {@endtemplate} À _àÀ ]İ‚À _àÜ/// {@template flutter.cupertino.CupertinoNavigationBar.enableBackgroundFilterBlur}
+/// Whether to have a blur effect when a non-opaque background color is used.
+///
+/// When [enableBackgroundFilterBlur] is set to false, the blur effect will be
+/// disabled. The behaviour of [enableBackgroundFilterBlur] will only be respected when
+/// [automaticBackgroundVisibility] is false or until content scrolls under the navbar.
+///
+/// This value defaults to true.
+/// {@endtemplate} À cÀ `ƒÀ c‚İ/// {@template flutter.cupertino.CupertinoNavigationBar.heroTag}
+/// Tag for the navigation bar's Hero widget if [transitionBetweenRoutes] is true.
+///
+/// Defaults to a common tag between all [CupertinoNavigationBar] and
+/// [CupertinoSliverNavigationBar] instances of the same [Navigator]. With the
+/// default tag, all navigation bars of the same navigator can transition
+/// between each other as long as there's only one navigation bar per route.
+///
+/// This [heroTag] can be overridden to manually handle having multiple
+/// navigation bars per route or to transition between multiple
+/// [Navigator]s.
+///
+/// To disable Hero transitions for this navigation bar, set
+/// [transitionBetweenRoutes] to false.
+/// {@endtemplate} À eoÀ c'‚NÀ eoÿ/// A widget to place at the bottom of the navigation bar.
+///
+/// Only widgets that implement [PreferredSizeWidget] can be used at the
+/// bottom of a navigation bar.
+///
+/// {@tool dartpad}
+/// This example shows a [CupertinoSearchTextField] at the bottom of a
+/// [CupertinoNavigationBar].
+///
+/// ** See code in examples/api/lib/cupertino/nav_bar/cupertino_navigation_bar.1.dart **
+/// {@end-tool}
+///
+/// See also:
+///
+///  * [PreferredSize], which can be used to give an arbitrary widget a preferred size.  À fâÀ fãÀ fâÀ fâJÀ fø     À eìÀ eìÀ eù À eÆÀ eÇÀ e|À e|`À eØF/// True if the navigation bar's background color has no transparency.  À h2À h3À h2À h2[À h]  §É§ÉÀ @Ç¶¶š/// An iOS-styled navigation bar.
+///
+/// The navigation bar is a toolbar that minimally consists of a widget,
+/// normally a page title.
+///
+/// It also supports [leading] and [trailing] widgets on either end of the
+/// toolbar, typically for actions and navigation.
+///
+/// The [leading] widget will automatically be a back chevron icon button (or a
+/// cancel button in case of a fullscreen dialog) to pop the current route if none
+/// is provided and [automaticallyImplyLeading] is true (true by default).
+///
+/// This toolbar should be placed at top of the screen where it will
+/// automatically account for the OS's status bar.
+///
+/// If the given [backgroundColor]'s opacity is not 1.0 (which is the case by
+/// default), it will produce a blurring effect to the content behind it.
+///
+/// ### Layout options
+///
+/// While the [CupertinoSliverNavigationBar] can dynamically change size and
+/// layout in response to scrolling, this static version can reflect the same
+/// large (expanded) layout, or the small (collapsed) layout.
+///
+/// The default constructor will display the collapsed version of the
+/// [CupertinoSliverNavigationBar]. The [middle] widget will automatically be a
+/// title text from the current [CupertinoPageRoute] if none is provided and
+/// [automaticallyImplyMiddle] is true (true by default).
+///
+/// Using the [CupertinoNavigationBar.large] constructor will display the
+/// expanded version of [CupertinoSliverNavigationBar]. The [largeTitle] widget
+/// will automatically be a title text from the current [CupertinoPageRoute] if
+/// none is provided and `automaticallyImplyTitle` is true (true by default).
+///
+/// ### Transitions
+///
+/// When [transitionBetweenRoutes] is true, this navigation bar will transition
+/// on top of the routes instead of inside them if the route being transitioned
+/// to also has a [CupertinoNavigationBar] or a [CupertinoSliverNavigationBar]
+/// with [transitionBetweenRoutes] set to true. If [transitionBetweenRoutes] is
+/// true, none of the [Widget] parameters can contain a key in its subtree since
+/// that widget will exist in multiple places in the tree simultaneously.
+///
+/// By default, only one [CupertinoNavigationBar] or [CupertinoSliverNavigationBar]
+/// should be present in each [PageRoute] to support the default transitions.
+/// Use [transitionBetweenRoutes] or [heroTag] to customize the transition
+/// behavior for multiple navigation bars per route.
+///
+/// When used in a [CupertinoPageScaffold], [CupertinoPageScaffold.navigationBar]
+/// disables text scaling to match the native iOS behavior. To override
+/// this behavior, wrap each of the `navigationBar`'s components inside a
+/// [MediaQuery] with the desired [TextScaler].
+///
+/// {@tool dartpad}
+/// This example shows a [CupertinoNavigationBar] placed in a [CupertinoPageScaffold].
+/// Since [backgroundColor]'s opacity is not 1.0, there is a blur effect and
+/// content slides underneath.
+///
+/// ** See code in examples/api/lib/cupertino/nav_bar/cupertino_navigation_bar.0.dart **
+/// {@end-tool}
+///
+/// {@tool dartpad}
+/// This example shows the resulting layout from [CupertinoNavigationBar.large]
+/// constructor, showing a large title similar to the expanded state of
+/// [CupertinoSliverNavigationBar].
+///
+/// ** See code in examples/api/lib/cupertino/nav_bar/cupertino_navigation_bar.2.dart **
+/// {@end-tool}
+///
+/// See also:
+///
+///  * [CupertinoPageScaffold], a page layout helper typically hosting the
+///    [CupertinoNavigationBar].
+///  * [CupertinoSliverNavigationBar] for a navigation bar to be placed in a
+///    scrolling list and that supports iOS-11-style large titles.
+///  * <https://developer.apple.com/design/human-interface-guidelines/ios/bars/navigation-bars/>   À iÁÀ i™,À iÁ  À iíÀ iÌ<À ií À j,À jÀ j"À j     À j6À j7À j6À j6;À jH   À kwÀ kxÀ kwÀ kw€éÀ k‰   À lfÀ lgÀ lfÀ lfnÀ lx    À lùÀ lùÀ m  À lÚÀ lÚ…ÖÀ lß    À rĞÀ rĞÀ rİ À r¶À r·À r¶À r¶–1À rÊ  À iKÀ iKŸŸÀ iQ   À ˜4 À ˜P      À ˜XÀ ˜X	À ˜^   À ˜hÀ ˜hÀ ˜m   À ˜~À ˜~À ˜ƒ   À ˜‘À ˜‘%À ˜–   À ˜½À ˜½#À ˜Â   À ˜çÀ ˜çÀ ˜ì   À ™
+À ™
+À ™   À ™'À ™'À ™,   À ™9À ™9À ™>   À ™MÀ ™M#À ™R   À ™wÀ ™wÀ ™|   À ™’À ™’)À ™—   À ™ÂÀ ™Â&À ™Ç   À ™ïÀ ™ïÀ ™ô   À šÀ šÀ š
+   À šÀ š#À š   À šBÀ šBÀ šG   À šgÀ šgÀ šl   À š‚À š‚À š‡   À š”À š”À š™ *À ˜²À ˜ÜÀ ˜ÿÀ ™[À ™·À ™äÀ š7À šQÀ švÀ š­À š³À šìÀ ›¬À š×À š¿À šåÀ šÚÀ šèÀ šøÀ ›IÀ ››À ›·À ›½À ›íÀ œ>À ›ÜÀ ›ÔÀ ›ÉÀ ›×À ›æÀ ›ßÀ ›éÀ ›ùÀ œIÀ œ_À œaÀ œoÀ œ{À œ}À œ‹À œ—À œ™À —‘À —‘… €/// Creates a navigation bar for scrolling lists.
+///
+/// If [automaticallyImplyTitle] is false, then the [largeTitle] argument is
+/// required.  À  üÀ ¡À ¡      À ¡'À ¡'	À ¡-   À ¡7À ¡7 À ¡L   À ¡^À ¡^À ¡c   À ¡tÀ ¡tÀ ¡y   À ¡‡À ¡‡%À ¡Œ   À ¡³À ¡³#À ¡¸   À ¡İÀ ¡İÀ ¡â   À ¢ À ¢ À ¢   À ¢À ¢À ¢"   À ¢/À ¢/À ¢4   À ¢CÀ ¢C#À ¢H   À ¢mÀ ¢mÀ ¢r   À ¢ˆÀ ¢ˆ)À ¢   À ¢¸À ¢¸&À ¢½   À ¢åÀ ¢åÀ ¢ê   À ¢ûÀ ¢ûÀ £    À £À £#À £   À £8À £8À £=   À £]À £]À £b   À £xÀ £x3À £}   À £²À £²À £· À ¡¨À ¡ÒÀ ¡õÀ ¢QÀ ¢­À ¢ÚÀ £-À £GÀ £lÀ £ŠÀ £¡À £¢À £ÖÀ £ÜÀ ¤À ¤ÕÀ ¤ À £èÀ ¤À ¤À ¤À ¤!À ¤rÀ ¤ÄÀ ¤àÀ ¤çÀ ¤éÀ ¤÷À ¥À ¥À œ¥À œ¥ˆeÀ ¡„/// A navigation bar for scrolling lists that integrates a provided search
+/// field directly into the navigation bar.
+///
+/// This search-enabled navigation bar is functionally equivalent to
+/// the standard [CupertinoSliverNavigationBar] constructor, but with the
+/// addition of [searchField], which sits at the bottom of the navigation bar.
+///
+/// When the search field is tapped, [leading], [trailing], [middle], and
+/// [largeTitle] all collapse, causing the search field to animate to the
+/// 'top' of the navigation bar. A 'Cancel' button is presented next to the
+/// active [searchField], which when tapped, closes the search view, bringing
+/// the navigation bar back to its initial state.
+///
+/// If [automaticallyImplyTitle] is false, then the [largeTitle] argument is
+/// required.
+///
+/// {@tool dartpad}
+/// This example demonstrates how to use a
+/// [CupertinoSliverNavigationBar.search] to manage a search view.
+///
+/// ** See code in examples/api/lib/cupertino/nav_bar/cupertino_sliver_nav_bar.1.dart **
+/// {@end-tool}  À ©¤À ¥„À ©¤„F/// The navigation bar's title.
+///
+/// This text will appear in the top static navigation bar when collapsed and
+/// below the navigation bar, in a larger font, when expanded.
+///
+/// A suitable [DefaultTextStyle] is provided around this widget as it is
+/// moved around, to change its font size.
+///
+/// If [middle] is null, then the [largeTitle] widget will be inserted into
+/// the tree in two places when transitioning from the collapsed state to the
+/// expanded state. It is therefore imperative that this subtree not contain
+/// any [GlobalKey]s, and that it not rely on maintaining state (for example,
+/// animations will not survive the transition from one location to the other,
+/// and may in fact be visible in two places at once during the transition).
+///
+/// If null and [automaticallyImplyTitle] is true, an appropriate [Text]
+/// title will be created if the current route is a [CupertinoPageRoute] and
+/// has a `title`.
+///
+/// This parameter must either be non-null or the route must have a title
+/// ([CupertinoPageRoute.title]) and [automaticallyImplyTitle] must be true. À ªPÀ ©µ€¢À ªP€ƒ/// {@macro flutter.cupertino.CupertinoNavigationBar.leading}
+///
+/// This widget is visible in both collapsed and expanded states. À ª¼À ª^wÀ ª¼O/// {@macro flutter.cupertino.CupertinoNavigationBar.automaticallyImplyLeading} À ¬&À ªÜaÀ ¬&//// Controls whether we should try to imply the [largeTitle] widget if null.
+///
+/// If true and [largeTitle] is null, automatically fill in a [Text] widget
+/// with the current route's `title` if the route is a [CupertinoPageRoute].
+/// If [largeTitle] widget is not null, this parameter has no effect. À ­öÀ ¬DÂÀ ­ö‹/// Controls whether [middle] widget should always be visible (even in
+/// expanded state).
+///
+/// If true (default) and [middle] is not null, [middle] widget is always
+/// visible. If false, [middle] widget is visible only in collapsed state if
+/// it is provided.
+///
+/// This should be set to false if you only want to show [largeTitle] in
+/// expanded state and [middle] in collapsed state. À ®fÀ ®jÀ ®fG/// {@macro flutter.cupertino.CupertinoNavigationBar.previousPageTitle} À °À ®~¦À °v/// A widget to place in the middle of the static navigation bar instead of
+/// the [largeTitle].
+///
+/// If [alwaysShowMiddle] is true, this widget is visible in both the
+/// collapsed and expanded states of the navigation bar. Else, it is visible
+/// only in the collapsed state.
+///
+/// If null, [largeTitle] will be displayed in the navigation bar's collapsed
+/// state. À °ÇÀ °+€¤À °Ç€„/// {@macro flutter.cupertino.CupertinoNavigationBar.trailing}
+///
+/// This widget is visible in both collapsed and expanded states. À ±,À °ÖeÀ ±,E/// {@macro flutter.cupertino.CupertinoNavigationBar.backgroundColor} À ±¤À ±BÀ ±¤S/// {@macro flutter.cupertino.CupertinoNavigationBar.automaticBackgroundVisibility} À ²'À ±ÈyÀ ²'P/// {@macro flutter.cupertino.CupertinoNavigationBar.enableBackgroundFilterBlur} À ²À ²H`À ²@/// {@macro flutter.cupertino.CupertinoNavigationBar.brightness} À ³À ²¯eÀ ³=/// {@macro flutter.cupertino.CupertinoNavigationBar.padding} À ³iÀ ³TÀ ³i</// {@macro flutter.cupertino.CupertinoNavigationBar.border} À ³ÒÀ ³vsÀ ³ÒM/// {@macro flutter.cupertino.CupertinoNavigationBar.transitionBetweenRoutes} À ´>À ³ğUÀ ´>=/// {@macro flutter.cupertino.CupertinoNavigationBar.heroTag} À µÍÀ ´L‡À µÍJ/// A widget to place at the bottom of the large title or static navigation
+/// bar if there is no large title.
+///
+/// Only widgets that implement [PreferredSizeWidget] can be used at the
+/// bottom of a navigation bar.
+///
+/// See also:
+///
+///  * [PreferredSize], which can be used to give an arbitrary widget a preferred size. À ·-À µÚ]À ·-$/// Modes that determine how to display the navigation bar's [bottom], or the
+/// search field in a [CupertinoSliverNavigationBar.search].
+///
+/// If null, defaults to [NavigationBarBottomMode.automatic] if either a
+/// [bottom] is provided or this is a [CupertinoSliverNavigationBar.search]. À ·ğÀ ·>€ÇÀ ·ğ€‘/// Called when the search field in [CupertinoSliverNavigationBar.search]
+/// is tapped, toggling between an active and an inactive search state. À º‹À ¸‚À º‹Ó/// Whether the nav bar should stretch to fill the over-scroll area.
+///
+/// The nav bar can still expand and contract as the user scrolls, but it will
+/// also stretch when the user over-scrolls if the [stretch] value is `true`.
+///
+/// When set to `true`, the nav bar will prevent subsequent slivers from
+/// accessing overscrolls. This may be undesirable for using overscroll-based
+/// widgets like the [CupertinoSliverRefreshControl].
+///
+/// Defaults to `false`. À »ãÀ º™UÀ »ã&/// The search field used in [CupertinoSliverNavigationBar.search].
+///
+/// The provided search field is constrained to a fixed height of 35 pixels in
+/// its inactive state, and [kMinInteractiveDimensionCupertino] pixels in its
+/// active state.
+///
+/// Typically a [CupertinoSearchTextField]. À ¼NÀ »õdÀ ¼NJ/// True if the [CupertinoSliverNavigationBar.search] constructor is used.   À ¸À ¸|À ¸_F/// True if the navigation bar's background color has no transparency.   À ¼`À ¼aÀ ¼`À ¼`gÀ ¼‘  À ˆîÀ ˆî³ÜÀ —X/// An iOS-styled navigation bar with iOS-11-style large titles using slivers.
+///
+/// The [CupertinoSliverNavigationBar] must be placed in a sliver group such
+/// as the [CustomScrollView].
+///
+/// This navigation bar consists of two sections, a pinned static section on top
+/// and a sliding section containing iOS-11-style large title below it.
+///
+/// It should be placed at top of the screen and automatically accounts for
+/// the iOS status bar.
+///
+/// This navigation bar is expanded only in portrait orientation. In landscape
+/// mode, the navigation bar remains permanently collapsed. The navigation bar
+/// also collapses when scrolling in portrait mode.
+///
+/// Minimally, a [largeTitle] widget will appear in the middle of the app bar
+/// when the sliver is collapsed and transfer to the area below in larger font
+/// when the sliver is expanded. This expanded view will only trigger in
+/// portrait orientation, while in landscape mode the bar will stay in its
+/// collapsed view.
+///
+/// For advanced uses, an optional [middle] widget
+/// can be supplied to show a different widget in the middle of the navigation
+/// bar when the sliver is collapsed.
+///
+/// Like [CupertinoNavigationBar], it also supports a [leading] and [trailing]
+/// widget on the static section on top that remains while scrolling.
+///
+/// The [leading] widget will automatically be a back chevron icon button (or a
+/// cancel button in case of a fullscreen dialog) to pop the current route if none
+/// is provided and [automaticallyImplyLeading] is true (true by default).
+///
+/// The [largeTitle] widget will automatically be a title text from the current
+/// [CupertinoPageRoute] if none is provided and [automaticallyImplyTitle] is
+/// true (true by default).
+///
+/// When [transitionBetweenRoutes] is true, this navigation bar will transition
+/// on top of the routes instead of inside them if the route being transitioned
+/// to also has a [CupertinoNavigationBar] or a [CupertinoSliverNavigationBar]
+/// with [transitionBetweenRoutes] set to true. If [transitionBetweenRoutes] is
+/// true, none of the [Widget] parameters can contain any [GlobalKey]s in their
+/// subtrees since those widgets will exist in multiple places in the tree
+/// simultaneously.
+///
+/// By default, only one [CupertinoNavigationBar] or [CupertinoSliverNavigationBar]
+/// should be present in each [PageRoute] to support the default transitions.
+/// Use [transitionBetweenRoutes] or [heroTag] to customize the transition
+/// behavior for multiple navigation bars per route.
+///
+/// The [stretch] parameter determines whether the nav bar should stretch to
+/// fill the over-scroll area. The nav bar can still expand and contract as the
+/// user scrolls, but it will also stretch when the user over-scrolls if the
+/// [stretch] value is `true`. Defaults to `false`.
+///
+/// {@tool dartpad}
+/// This example shows [CupertinoSliverNavigationBar] in action inside a [CustomScrollView].
+///
+/// ** See code in examples/api/lib/cupertino/nav_bar/cupertino_sliver_nav_bar.0.dart **
+/// {@end-tool}
+///
+/// {@tool dartpad}
+/// To add a widget to the bottom of the nav bar, wrap it with [PreferredSize] and provide its fully extended size.
+///
+/// ** See code in examples/api/lib/cupertino/nav_bar/cupertino_sliver_nav_bar.2.dart **
+/// {@end-tool}
+///
+/// See also:
+///
+///  * [CupertinoNavigationBar], an iOS navigation bar for use on non-scrolling
+///    pages.
+///  * [CustomScrollView], a ScrollView that creates custom scroll effects using slivers.
+///  * <https://developer.apple.com/design/human-interface-guidelines/ios/bars/navigation-bars/>   À ¾*À ¾,À ¾*  À ¾DÀ ¾3!À ¾D  À ¾aÀ ¾YÀ ¾a  À ¾À ¾u-À ¾  À ¾¼À ¾§%À ¾¼  À ¾èÀ ¾Ñ0À ¾è  À ¿À ¿0À ¿  À ¿GÀ ¿;#À ¿G  À ¿oÀ ¿c"À ¿o À ¿ À ¿À ¿ŠÀ ¿ À ¿¼À ¿¯À ¿ªÀ ¿¯    À ÄĞÀ ÄĞ,À ÄÛ    À ¿ÇÀ ¿ÈÀ ¿ÇÀ ¿Ç1À ¿Ù    À Á À Á &À Á= À ÀşÀ ÀÿÀ ÀşÀ Àş€ÍÀ Á   À ÁÑÀ ÁÒÀ ÁÑÀ ÁÑäÀ Áã   À Ã»À Ã¼À Ã»À Ã»À ÃÍ    À ÆÀ ÆuÀ Æ    À Æ}À Æ}‚€À Æ‚    À ÉÀ ÉÇÀ É    À ÊĞÀ ÊĞ…€À ÊÕ    À Ğ{À Ğ{À Ğ‹  À ĞVÀ ĞV‚|À Ğ[    À ÒØÀ ÒØ€²À Òİ    À ÓªÀ ÓªÀ Ó· À ÓÀ Ó‘À ÓÀ Ó™À Ó¤  À ½…À ½…¤§À ½‹   À â« À âÑ      À âÙÀ âÙÀ âç   À âòÀ âòÀ ã    À ãÀ ãÀ ã   À ã0À ã0À ã>   À ãTÀ ãT+À ãb   À ã†À ã†À ã”   À ã¥À ã¥À ã³   À ãÀÀ ãÀÀ ãÎ   À ãÜÀ ãÜ$À ãê   À äÀ ä%À ä   À ä3À ä3À äA   À äOÀ äOÀ ä]   À ätÀ ätÀ ä‚   À ä™À ä™À ä§   À ä¾À ä¾"À äÌ   À äçÀ äç(À äõ   À åÀ åÀ å$   À å5À å5À åC   À åVÀ åVÀ åd   À åuÀ åuÀ åƒ  À â«À â«‚ê    À åÄÀ å›-À åÄ  À åòÀ åÍ/À åò  À æÀ æÀ æ  À æ*À æÀ æ*  À æIÀ æ>(À æI  À æ}À ækÀ æ}  À æšÀ æŒÀ æš  À æÂÀ æ¥$À æÂ  À æÚÀ æÎ"À æÚ  À ç À æõ"À ç   À ç)À çÀ ç)  À çBÀ ç5À çB  À çdÀ çWÀ çd  À ç„À çyÀ ç„  À ç¤À ç™%À ç¤  À çáÀ çÃ(À çá  À çıÀ çğÀ çı  À è(À è$À è(  À èBÀ è7À èB À é:À é;À émÀ é:GÀ ém   À èSÀ èTÀ èSÀ èS€ƒÀ èk   À èÜÀ èİÀ èÜÀ èÜXÀ èô     À é¢À é¢À é¯   À é¸À é¸À é¿   À éÍÀ éÍÀ éÒ À éˆÀ é‰À éˆÀ éˆ—ÖÀ éœ    À„À„2À« ÀdÀeÀdÀd„2Àv  À â0À â0£iÀ â6   Às À~      À€À€À†   ÀÀÀ›  ÀmÀm7    À·ÀªÀ·      ÀöÀöÀ ÀÄÀÅÀÄÀÄ€äÀã    ÀÓÀÓÀà   ÀéÀéÀû À®À¯À®À®€çÀÀ  ÀÀ‚ûÀ6€/// The large title of the navigation bar.
+///
+/// Magnifies on over-scroll when [CupertinoSliverNavigationBar.stretch]
+/// parameter is true.  ÀÒ Àã      ÀåÀåÀó   ÀÿÀÿÀ	 À	À	À	#À	ÀÒÀÒS    À	_À	UÀ	_  À
+*À
+#À
+* À
+ÎÀ
+ÅÀ
+¾À
+Å    À	+À	+&À	9    À
+À
+À
+    À	|À	|À	†  À	nÀ	n€À	r    À
+AÀ
+AÀ
+H  À
+6À
+6€‚À
+:    À
+ùÀ
+ùÀ
+ş   À	À	À   À%À%À,  À
+ØÀ
+Ø´À
+æ    ÀÇÀÇÀÔ À’À“À’À’SÀ§    ÀÀ$À,   À9À9ÀF ÀëÀìÀëÀë‚ÚÀ    ÀËÀÌÀËÀË‚Àİ    ÀÀÀ   À!À!À) ÀêÀëÀêÀê€áÀü    ÀéÀéÀù   ÀÀÀ	 ÀÑÀÒÀÑÀÑ‚,Àã    À%À%À6   À?À?ÀO ÀÀÀÀ‚«À  ÀœÀœÀ¢   Àô À      ÀÀÀ   À(À(À-   À6À6À;  ÀîÀî]    ÀvÀQ/Àv  À¤À‡$À¤  ÀBÀ²€ÀB}/// Whether the middle widget has a visible animated opacity. A null value
+/// means the middle opacity will not be animated.     ÀpÀpÀ} ÀVÀWÀVÀV†ÜÀj  ÀµÀµ‰€À¸€÷/// The top part of the navigation bar that's never scrolled away.
+///
+/// Consists of the entire navigation bar without background and border when used
+/// without large titles. With large titles, it's the top static half that
+/// doesn't scroll.  À#º À#Ü     @À#æÀ#óÀ#õÀ#şÀ$&À#ÿÀ$	À$À$0À$;À$=À$FÀ$\À$GÀ$QÀ$SÀ$fÀ$uÀ$wÀ$€À$›À$À$‹À$À$¥À$²À$´À$½À$ÖÀ$¾À$ÈÀ$ÊÀ$àÀ$êÀ$ìÀ$õÀ%
+À$öÀ% À%À%À% À%"À%+À%BÀ%,À%6À%8À%LÀ%ZÀ%\À%eÀ%À%fÀ%pÀ%rÀ%‰À%™À%›À%¤À%ÈÀ%¥À%¯À%±À#ºÀ#º‚    À%àÀ%ĞÀ%à  À&À%ñÀ&  À& À&À&   À&CÀ&3À&C  À&dÀ&TÀ&d  À&‚À&rÀ&‚  À&¢À&’À&¢  À&ÄÀ&´À&Ä    À#€À#À#€À#€ƒWÀ#’   À(> À(\      À(dÀ(d0À(   À(›À(›#À(¹   À(ÅÀ(ÅÀ(Ö   À(èÀ(è'À(ö   À)À)%À)$   À)BÀ)B"À)S   À)kÀ)kÀ)|   À)À)À)   À)±À)±À)Â   À)×À)×À)è   À)ùÀ)ù'À*   À*'À*'À*5   À*AÀ*AÀ*O   À*_À*_À*u €£À*†À*À*À*À+‚À*©À*³À*µÀ*¹À*ºÀ*ĞÀ*ÛÀ*İÀ*ôÀ*ùÀ*ûÀ+À+%À+'À+LÀ+SÀ+UÀ+hÀ+oÀ+qÀ+À+™À+›À+¬À,}À+¸À+ÆÀ+ÈÀ+ÌÀ+ÍÀ+çÀ+òÀ+ôÀ,À,À,À,#À,<À,>À,cÀ,jÀ,lÀ,ˆÀ,’À,”À,£À- À,¯À,»À,½À,ÁÀ,ÂÀ,ÚÀ,åÀ,çÀ,şÀ-À-À-À-'À-)À-FÀ-_À-aÀ-†À-À-À-«À-²À-´À-ÀÀ.ãÀ-ÌÀ-ÕÀ-×À-ÛÀ-ÜÀ-ñÀ-ûÀ-ıÀ.À.!À.#À.=À.BÀ.DÀ.UÀ.lÀ.nÀ.‘À.–À.˜À.©À.²À.´À.ÉÀ.ĞÀ.ÒÀ.îÀ.÷À.ùÀ/À/˜À/À/À/ À/$À/%À/<À/HÀ/JÀ/bÀ/iÀ/kÀ/~À/…À/‡À/£À/®À/°À/ÀÀ0¥À/ÌÀ/ÙÀ/ÛÀ/ßÀ/àÀ/ùÀ0À0	À0#À0(À0*À0;À0NÀ0PÀ0sÀ0xÀ0zÀ0‹À0’À0”À0°À0½À0¿À0ÑÀ1JÀ0İÀ0ìÀ0îÀ0òÀ0óÀ1À1À1À10À17À19À(>À(>‰    À2üÀ2èÀ2ü  À8À7ïÀ8  À;KÀ:É€‹À;Kg/// This widget is not decorated with a font since the font style could
+/// animate during transitions. À>ãÀ>a€ˆÀ>ãg/// This widget is not decorated with a font since the font style could
+/// animate during transitions. ÀC+ÀCÀC+  ÀFaÀEß€ŒÀFag/// This widget is not decorated with a font since the font style could
+/// animate during transitions. ÀJÒÀJ¾ ÀJÒ   	   À1vÀ1v%À1„   À1¢À1¢!À1·  À1RÀ1RÀ1a    À32À32À3E   À3VÀ3VÀ3g   À3yÀ3y#À3—   À3£À3£'À3±   À3ÑÀ3Ñ'À3ñ   À3ÿÀ3ÿÀ4  À3À3„áÀ3    À8AÀ8A!À8T   À8iÀ8iÀ8z   À8ŒÀ8Œ#À8ª   À8¶À8¶'À8Ä   À8äÀ8äÀ8ú  À8À8‚°À8(    À;…À;…À;˜   À;«À;«À;¼   À;ÎÀ;Î#À;ì   À;øÀ;ø'À<   À<&À<&"À<7   À<OÀ<OÀ<e  À;YÀ;YƒÀ;n    À?À?À?*   À?:À?:À?K   À?\À?\À?m   À?‚À?‚À?   À?œÀ?œÀ?ª   À?ºÀ?º%À?È   À?æÀ?æ#À@   À@À@À@&  À>îÀ>î„#À?    ÀCcÀCcÀCv   ÀCˆÀCˆÀC™   ÀC¬ÀC¬'ÀCÌ   ÀCÚÀCÚÀCğ  ÀC8ÀC8‚¡ÀCM    ÀFÀF ÀF°   ÀFÄÀFÄÀFÕ   ÀFêÀFêÀFø   ÀGÀG!ÀG   ÀG,ÀG,#ÀGJ   ÀGVÀGVÀGl  ÀFpÀFp„HÀF…    ÀKÀK"ÀK%   ÀK;ÀK;ÀKL   ÀK]ÀK]ÀKs  ÀJãÀJãÀJø    ÀL«ÀL«ÀL¸  ÀL†ÀL†€¶ÀL˜ À(À(	À(À(¥7À(   ÀP\ ÀP|      ÀP„ÀP„	ÀPŠ   ÀP”ÀP”
+ÀP™   ÀP¥ÀP¥ÀPª   ÀPÂÀPÂÀPÇ ÀPÚÀPçÀPéÀP÷ÀQÀQÀOîÀOî a/// Construct a [CupertinoNavigationBarBackButton] that can be used to pop
+/// the current route.  ÀQ ÀQÀÀQÊ      ÀQËÀQËÀQĞ   ÀQŞÀQŞÀQã 	ÀQöÀRÀR
+ÀRÀRÀRÀR,ÀR6ÀR8ÀQšÀQš€£ÀQÁ   ÀSÀRC€ÔÀS€²/// The [Color] of the back button.
+///
+/// Can be used to override the color of the back button chevron and label.
+///
+/// Defaults to [CupertinoTheme]'s `primaryColor` if null. ÀTÀS€õÀT€Ì/// An override for showing the previous route's title. If null, it will be
+/// automatically derived from [CupertinoPageRoute.title] if the current and
+/// previous routes are both [CupertinoPageRoute]s. ÀUoÀT^ÀUo(/// An override callback to perform instead of the default behavior which is
+/// to pop the [Navigator].
+///
+/// It can, for instance, be used to pop the platform's navigation stack
+/// via [SystemNavigator] instead of Flutter's [Navigator] in add-to-app
+/// situations.
+///
+/// Defaults to null. ÀUÀUÀU  ÀU®ÀU ÀU®      ÀUÙÀUÙÀUæ ÀU¿ÀUÀÀU¿ÀU¿‡0ÀUÓ  ÀMCÀMC¯ÀO°‚Y/// A nav bar back button typically used in [CupertinoNavigationBar].
+///
+/// This is automatically inserted into [CupertinoNavigationBar] and
+/// [CupertinoSliverNavigationBar]'s `leading` slot when
+/// `automaticallyImplyLeading` is true.
+///
+/// When manually inserted, the [CupertinoNavigationBarBackButton] should only
+/// be used in routes that can be popped unless a custom [onPressed] is
+/// provided.
+///
+/// Shows a back chevron and the previous route's title when available from
+/// the previous [CupertinoPageRoute.title]. If [previousPageTitle] is specified,
+/// it will be shown instead.  À], À]8      À]&À]&         À][À][À]h À]AÀ]BÀ]AÀ]A„ÏÀ]U  À\öÀ\ö…À\ü   Àb¬ Àb¶      Àb¸Àb¸$ÀbÆ   ÀbŞÀbŞÀbì  Àb¦Àb¦N    ÀcÀbú$Àc  Àc>Àc# Àc>      ÀcÓÀcÓÀcà   ÀcéÀcéÀcñ   Àd Àd Àd  Àc²Àc²òÀc¹    ÀeÄÀeÄÀeÑ ÀeªÀe«ÀeªÀeª‚ãÀe¾  ÀbÀb†yÀb~^/// A widget that shows next to the back chevron when `automaticallyImplyLeading`
+/// is true.  Ài. Ài;      Ài=Ài=ÀiB   ÀiQÀiQÀi_ ÀiLÀi(Ài(C    ÀiˆÀiq Àiˆ  Ài£Ài–Ài£      ÀiËÀiËÀiØ Ài±Ài²Ài±Ài±‚)ÀiÅ  Àh”Àh”ƒIÀhı`/// The 'Cancel' button next to the search field in a
+/// [CupertinoSliverNavigationBar.search].  Àl‡ Àl       Àl¨Àl¨!Àl¶   ÀlĞÀlĞÀlŞ   ÀlğÀlğÀlş   ÀmÀmÀm   Àm4Àm4ÀmB  ÀlÀl€Ù    ÀmzÀm`-Àmz  Àm Àm’Àm   ÀmÈÀm°!ÀmÈ  ÀmãÀmÖÀmã  ÀnÀmù'Àn      ÀnAÀnAÀnN Àn'Àn(Àn'Àn'†iÀn;  ÀkáÀkáˆ²ÀlJ`/// The bottom of a [CupertinoSliverNavigationBar.search] when the search field
+/// is inactive.  Àu9 ÀuP      ÀuXÀuX!Àuf   Àu€Àu€Àu   Àu Àu Àu®   Àu¾Àu¾ÀuÌ   ÀuäÀuäÀuò  Àu3Àu3€×    Àv*Àv-Àv*  ÀvPÀvBÀvP  ÀvxÀv`!Àvx  Àv“Àv†Àv“  ÀvÀÀv©'ÀvÀ      ÀvñÀvñÀvş Àv×ÀvØÀv×Àv×„<Àvë  Àt—Àt—†Àtş^/// The bottom of a [CupertinoSliverNavigationBar.search] when the search field
+/// is active.  À|· À|Ó      À|ÛÀ|ÛÀ|é   À|şÀ|şÀ}   À}"À}"!À}0   À}JÀ}JÀ}X   À}mÀ}m!À}{   À}•À}•À}£   À}°À}°À}¾   À}ÒÀ}ÒÀ}à   À}ôÀ}ôÀ~   À~À~+À~!   À~EÀ~EÀ~S À~bÀ~hÀ~–À~xÀ~iÀ~jÀ~À~{À~’À~¡À~¦À~ÇÀ~§À~ªÀ~¬À~ºÀ~»À|·À|·‚    À~øÀ~Ï7À~ø  ÀÀÀ  À<À,#À<  ÀdÀTÀd  ÀˆÀw$Àˆ  À®À À®  ÀÄÀ¹ÀÄ  ÀáÀÖÀá  ÀşÀóÀş  À€À€(À€  À€GÀ€:À€G    À€SÀ€SzÀ€a    ÀÓÀÓ€‚ÀÜ     À‚uÀ‚uÀ‚‚ À‚[À‚\À‚[À‚[ƒ¤À‚o  À{À{ŠèÀ|}T/// This should always be the first child of Hero widgets.
+///
+/// This class helps each Hero transition obtain the start or end navigation
+/// bar's box size and the inner components of the navigation bar that will
+/// move around.
+///
+/// It should be wrapped around the biggest [RenderBox] of the static
+/// navigation bar in each route.  À‰0 À‰H      À‰PÀ‰PÀ‰^   À‰nÀ‰nÀ‰|   À‰ŒÀ‰ŒÀ‰š À‰°À‰¼À‰¾À‰ÃÀ‰ÊÀ‰ÄÀ‰ËÀŠ:À‰×À‰ÜÀ‰ŞÀ‰êÀ‰ëÀ‰ôÀ‰õÀ‰ùÀ‰úÀŠÀŠÀŠÀŠÀŠÀŠ$ÀŠ%ÀŠ)ÀŠ*À‰0À‰0    ÀŠZÀŠB!ÀŠZ  ÀŠ‹ÀŠh,ÀŠ‹  ÀŠ¼ÀŠ™/ÀŠ¼  ÀŠãÀŠÏÀŠã      À‹À‹À‹ ÀŠõÀŠöÀŠõÀŠõ…§À‹	  À†À†Š™Àˆú‚İ/// This class represents the widget that will be in the Hero flight instead of
+/// the 2 static navigation bars by taking inner components from both.
+///
+/// The `topNavBar` parameter is the nav bar that was on top regardless of
+/// push/pop direction.
+///
+/// Similarly, the `bottomNavBar` parameter is the nav bar that was at the
+/// bottom regardless of the push/pop direction.
+///
+/// If [MediaQueryData.padding] is still present in this widget's
+/// [BuildContext], that padding will become part of the transitional navigation
+/// bar as well.
+///
+/// [MediaQueryData.padding] should be consistent between the from/to routes and
+/// the Hero overlay. Inconsistent [MediaQueryData.padding] will produce
+/// undetermined results.  À•5 À•W      À•_À•_À•m   À•}À•}2À•£   À•¶À•¶/À•Ü   À•ìÀ•ì%À– €À–À–,À–.À–:À–;À–SÀ–aÀ–cÀ–lÀ–mÀ–…À–•À–—À–£À–¤À–·À–ÄÀ–ÆÀ–ÏÀ–ĞÀ–ãÀ–ıÀ–ÿÀ—À—À—)À—@À—BÀ—KÀ—LÀ—iÀ—~À—€À—ŒÀ—À—¥À—·À—¹À—ÂÀ—ÃÀ—ÛÀ—õÀ—÷À˜À˜À˜!À˜8À˜:À˜CÀ˜DÀ˜aÀ˜uÀ˜wÀ˜ƒÀ˜„À˜›À˜¬À˜®À˜·À˜¸À˜ÏÀ˜ãÀ˜åÀ˜ñÀ˜òÀ™	À™À™À™%À™&À™=À™SÀ™UÀ™aÀ™bÀ™{À™À™À™™À™šÀ™³À™ÀÀ™ÂÀ™ÎÀ™ÏÀ™ßÀ™éÀ™ëÀ™ôÀ™õÀšÀš)Àš+Àš7Àš8Àš_ÀšuÀš£ÀšƒÀšŒÀšÀš¦Àš²Àš³ÀšÒÀšİÀšôÀšßÀšèÀšéÀš÷À›À›À›À›&À›ˆÀ›”À›•À›À›ŸÀ›ªÀ›«À›ºÀ›ÚÀ›»À›ÄÀ›ÅÀ›ÎÀ›ÏÀ›åÀ›öÀœÀœ"ÀœÀ›øÀœ
+ÀœÀœÀœÀœ$Àœ%À•5À•5†ô   ÀœYÀœ^ÀœeÀœ_ÀœfÀœ{ÀœgÀœlÀœnÀœsÀœvÀœxÀœOÀœ/MÀœO ÀœªÀœ¯Àœ¶Àœ°Àœ·ÀœÌÀœ¸Àœ½Àœ¿ÀœÄÀœÇÀœÉÀœ¡ÀœLÀœ¡  ÀœìÀœÔ!Àœì  À#Àœú9À#  ÀaÀ86Àa  ÀHÀ8ÀH  ÀlÀ\Àl  ÀÀ)À  À½À­&À½  ÀèÀØ$Àè  ÀŸÀŸ!ÀŸ  ÀŸ8ÀŸ'*ÀŸ8  ÀŸgÀŸV'ÀŸg  ÀŸÀŸ„ÀŸ  ÀŸ²ÀŸ§ÀŸ²  ÀŸÒÀŸÇÀŸÒ  ÀŸõÀŸêÀŸõ  À À 
+ À   À :À /À :  À TÀ I.À T  À ‹À ~"À ‹  À ²À ¥À ²  À ×À ÉÀ ×  À öÀ èÀ ö  À¡¨À¡À¡¨  À¢À¢À¢    À²>À²>€ºÀ²T    À²şÀ²ş„ÓÀ³
+    À·×À·×–À·ã    À¹sÀ¹s‚À¹    À»~À»~ƒIÀ»Š    À¾ÍÀ¾Íˆ¾À¾Ù    ÀÇ‘ÀÇ‘ˆÊÀÇ    ÀĞaÀĞaœÀĞm    ÀÒÀÒ…¶ÀÒ    À×¿À×¿„XÀ×Ë    ÀÜÀÜ‚ÀÜ)    Àİ¥Àİ¥‰Àİ±    ÀæÀÀæÀŠSÀæÌ    ÀñÀñ†CÀñ%    À÷bÀ÷bˆÀ÷n    ÀøğÀøğ…PÀøü    ÀşFÀşF…’ÀşR     À¢åÀ¢åÀ¢ï   À¢õÀ¢õÀ£  À¢ÀÀ¢À`À¢Í    À§5À§5À§H   À§VÀ§V À§i   À§}À§}À§   À§œÀ§œÀ§¯   À§ÁÀ§Á&À§Ç   À§îÀ§îÀ§ş À§ÏÀ§ÕÀ§İÀ§æÀ§ŞÀ§ãÀ¦ıÀ¦ı‰”À§    À°´À°´À°»   À°¿À°¿À°Å À°ÍÀ°ÓÀ°ÔÀ°—À°—€ªÀ°©    À±cÀ±cÀ±j   À±nÀ±nÀ±t À±|À±‚À±ƒÀ±GÀ±G€«À±Y À”ûÀ”üÀ£À£À s8À•„B/// This class helps create widgets that are in transition based on static
+/// components from the bottom and top navigation bars.
+///
+/// It animates these transitional components both in terms of position and
+/// their appearance.
+///
+/// Instead of running the transitional components through their normal static
+/// navigation bar layout logic, this creates transitional widgets that are based
+/// on these widgets' existing render objects' layout and position.
+///
+/// This is possible because this widget is only used during Hero transitions
+/// where both the from and to routes are already built and laid out.
+///
+/// The components' existing layout constraints and positions are then
+/// replicated using [Positioned] or [PositionedTransition] wrappers.
+///
+/// This class should never return [KeyedSubtree]s created by
+/// _NavigationBarStaticComponents directly. Since widgets from
+/// _NavigationBarStaticComponents are still present in the widget tree during the
+/// hero transitions, it would cause global key duplications. Instead, return
+/// only the [KeyedSubtree]s' child.    ƒ@ƒ@„E€õ/// Enable hiding the bottom in response to scrolling.
+///
+/// As scrolling starts, the large title stays pinned while the bottom resizes
+/// until it is completely consumed. Then, the large title scrolls under the
+/// persistent navigation bar. „U„U€É…€¶/// Always display the bottom regardless of the scroll activity.
+///
+/// When scrolled, the bottom stays pinned while the large title scrolls under
+/// the persistent navigation bar.    ‚»‚»‚gƒ#a/// Modes that determine how to display the navigation bar's bottom in relation to scroll events.      ‘‘™   ¤¤³   ÇÇÓ   ââò   üü!   ""&' DœEœEˆnx&/// Returns `child` wrapped with background and a bottom border if background color
+/// is opaque. Otherwise, also blur with [BackdropFilter].
+///
+/// When `updateSystemUiOverlay` is true, the nav bar will update the OS
+/// status bar's color theme based on the background color of the nav bar.   ¤Ï¤Ï¤Ö   ¤æ¤æ¤í   ¤ÿ¤ÿ¥  ¤·¤·$¤¾    ¦B¦B¦O  ¦+¦+š¦0    À¨À¨À®   ÀµÀµ	À»  ÀßÀßÇÀ€“/// Navigation bars' hero rect tween that will move between the static bars
+/// but keep a constant size that's the bigger of both navigation bars.   ÀÍÀÍÀÚ   ÀãÀãÀè   ÀòÀòÀù  ÀªÀªƒÀ±    À	œÀ	œÀ	©   À	»À	»À	Í   À	ÛÀ	Û#À	ï   À
+À
+À
+   À
+$À
+$À
+1  À	>À	>…ÉÀ	x1/// Navigation bars' hero flight shuttle builder.  …â…Ç…&€İ…Ç€/// Standard iOS navigation bar height without the status bar.
+///
+/// This height is constant and independent of accessibility as it is in iOS.†»†—†€·†—/// Size increase from expanding the navigation bar into an iOS-11-style large title
+/// configuration in a [CustomScrollView].‡‘‡o†Ä€Ñ‡o€›/// Number of logical pixels scrolled down before the title text is transferred
+/// from the normal navigation bar to a big title below the navigation bar.ˆ‘ˆl‡š€ûˆl€À/// Number of logical pixels scrolled during which the navigation bar's background
+/// fades in or out.
+///
+/// Eyeballed on the native Settings app on an iPhone 15 simulator running iOS 17.4.ˆ½ˆ§ˆš'ˆ§ ˆëˆÓˆÆ(ˆÓ ‰‰ ˆó.‰  Š‰ş‰ñ#‰ş ŠøŠåŠØ%Šå ‹¿‹Ÿ‹’0‹Ÿ ŒªŒ‰‹Ç€çŒ‰€°/// The width of the 'Cancel' button if the search field in a
+/// [CupertinoSliverNavigationBar.search] is active.
+///
+/// Eyeballed on an iPhone 15 simulator running iOS 17.5.9#Œ³€Š#`/// The height of the unscaled search field used in
+/// a [CupertinoSliverNavigationBar.search].ÜäöåñóÃB€µÃo/// The duration of the animation when the search field in
+/// [CupertinoSliverNavigationBar.search] is tapped.“”wü€¡wl/// The curve of the animation when the search field in
+/// [CupertinoSliverNavigationBar.search] is tapped.ìôõĞ¢eĞ/// Title text transfer fade.5:E;: pvï{ƒë”™›¼ÁÃXK€¥X $d)/1;`<ACHSIV[]õp ‘c‘h‘~‘i‘n‘t‘z‘@j‘@€Å/// The curve of the animation of the top nav bar regardless of push/pop
+/// direction in the hero transition between two nav bars.
+///
+/// Eyeballed on an iPhone 15 Pro simulator running iOS 17.5.’ƒ’ˆ’Ÿ’‰’’•’›’]‘„’]€È/// The curve of the animation of the bottom nav bar regardless of push/pop
+/// direction in the hero transition between two nav bars.
+///
+/// Eyeballed on an iPhone 15 Pro simulator running iOS 17.5.“a“i“n“j“O“@/“O     €²  refresh.dart Ù =€ˆ€§€©€É€Ó€Õ€òCm–¾À×î‚‚‚<‚Z‚p‚‚£‚¹‚»ƒƒ>ƒxƒƒÑ„!„C„Q„S„—„„ğ……!…$…&…f…k…º†††^†Š†Â†Ä‡‡b‡˜‡š‡îˆˆ	ˆ_ˆ˜ˆšˆÄˆÆˆñˆó‰$‰&‰x‰³‰·‰ñŠŠŠjŠ™ŠŠØ‹ ‹‹T‹X‹’‹Å‹ÇŒŒ<ŒAŒ|Œ±Œ³Œè@B~´úü5k ¢Á
+IKy¸éïóõ'dhj´ğõ‘4‘‚‘„‘Ñ’’’Q’£’¥’ô“@“r“t“€“’“µ“·“Û“İ””””ƒ””´”×”ë”ò••4•;•z••••Â•Å•Ç––c–q–­–Ô–î——,—G—a———Ü—ñ˜˜˜4˜K˜M˜z˜’˜”˜Ø˜Ş™.™e™k™´ššTš¦šËš÷šù››››G›_›…›»›òœœœ3œ;œ@œCœEœšœÖœÛ%q¢Åàú KQhˆÍŸ0ŸxŸ®ŸäŸì A d ³¡¡ ¡p¡š¡Ï¡ó¢)¢i¢±£	££)£1£6£c£«£¿£Å£Ç£Û£÷¤D¤¤¤¤¬¤²¤µ¤·¥¥X¥t¥¥¥Ú¥İ¥ß¦+¦[¦™¦›¦ê§:§M§m§§Ä§Ç§É§ì§ñ¨;¨W¨\¨¨¨Ü¨á©2©†©Ò©×ªªQªVª¥ªğªõ«««`«¯«î«ó¬:¬‹¬Ù­­­d­µ®®U®Z®o®t®Å¯¯f¯·°	°T°Y°®°ı±I±±„±×² ²k²œ²¡²¶³³\³|³³Û³ì³ñ´´W´ ´Å´Êµ$µ5µ:µIµNµšµ¼¶
+¶N¶°··c·j·¹·ö·ı¸¸¸a¸±¸Ü¸ş¹¹!¹M¹x¹•¹§¹»¹åº º0º]ºsº†º°ºÕºç»»»]»¬»ì»÷»ù¼M¼T¼¢¼ß¼æ¼÷¼ş½M½Ÿ½Í½õ¾¾¾.¾Z¾„¾¡¾µ¾ß¾ú¿*¿W¿m¿€¿ª¿Ï¿á¿øÀ @4À @DÀ @À @ŞÀ AÀ A)À A+À AyÀ A€À AÌÀ BÀ B2À B9À B‰À B×À BçÀ BîÀ BÿÀ CÀ COÀ CÀ CÚÀ C÷À CùÀ D=À DÀ DÒÀ DÙÀ E'À EMÀ EcÀ E}À EÀ EÕÀ F À F'À F|À FÔÀ FÛÀ G	À GÀ G_À G°À GÄÀ HÀ H^À H~À H”À H½À H¿À I	À IÀ I`À I«À IğÀ JÀ JÀ JhÀ J·À J×À JŞÀ K-À KmÀ K™À K À KòÀ LÀ LÀ L=À L?À LjÀ LqÀ L¾À MÀ M$À M+À M|À MÉÀ MĞÀ MáÀ MèÀ N+À NyÀ NµÀ NÎÀ NĞÀ OÀ OjÀ O¦À O¼À O×À OÙÀ P%À PyÀ PÄÀ QÀ Q-À Q4À QŒÀ QÙÀ QàÀ R$À R:À R[À R]À R·À SÀ SÀ SiÀ S½À SóÀ SúÀ TXÀ T_À TƒÀ T™À TÆÀ TÈÀ UÀ UIÀ UPÀ U À UéÀ VÀ V
+À V^À V…À V›À V¼À V¾À WÀ W9À W@À W†À WÀ WßÀ X
+À X\À X­À XÙÀ XàÀ Y À Y6À Y_À YaÀ Y¤À ZÀ Z
+À ZTÀ ZjÀ ZƒÀ Z…À ZÙÀ [À [À [iÀ [ºÀ \À \?À \FÀ \•À \çÀ \ûÀ ]À ]SÀ ]qÀ ]xÀ ]œÀ ]²À ]ÙÀ ]ÛÀ ^2À ^ƒÀ ^ŠÀ ^ÜÀ _7À _’À _™À _½À _ÓÀ _ıÀ _ÿÀ `CÀ `™À ` À `éÀ a;À aˆÀ aØÀ aßÀ b*À bmÀ b‚À b‰À bÉÀ bôÀ c
+À c#À c%À ccÀ cjÀ c¶À cÙÀ càÀ c÷À dAÀ dbÀ diÀ dÅÀ dØÀ dßÀ dğÀ d÷À eRÀ exÀ ezÀ eÄÀ eÑÀ fÀ f(À fvÀ f®À fÙÀ fŞÀ fàÀ fíÀ g	À gOÀ gQÀ gÀ gºÀ gÊÀ gÌÀ h)À h.À h0À h=À hÀ h’À h”À häÀ i0À iKÀ i—À iÈÀ iÊÀ jÀ j2À j4À jAÀ jcÀ j‡À jÔÀ k$À knÀ ksÀ kuÀ k‚À k–À kÆÀ lÀ l@À lGÀ l]À lbÀ ldÀ lqÀ l‡À lŸÀ lÑÀ lÖÀ lØÀ mÀ mmÀ m¨À míÀ nÀ n4À nTÀ nzÀ n©À nËÀ nûÀ oÀ o@À oÀ oÛÀ pÀ p&À p/À p1À p†À pÀ pÍÀ qÀ qÀ q-À q;À qHÀ qÀ q¼À qÓÀ qûÀ rÀ rQÀ rhÀ rÀ rÀ r¦À r­À r²À r´À rÁÀ réÀ sKÀ s®À sïÀ sñÀ tÀ tdÀ tœÀ tÀ uÀ uÀ uÀ uÀ u?À ušÀ u¿À uÙÀ vÀ v$À vqÀ vsÀ vŸÀ vúÀ w^À w}À w™À w›À wèÀ xÀ xcÀ x¹À x»À xóÀ yÀ y,À yPÀ y”À yÕÀ z	À z+À zQÀ zqÀ z›À z½À zæÀ {À {3À {;À {=À {dÀ {“À {²À {ÒÀ |À |À |À |3À |KÀ |kÀ |©À |ÁÀ |àÀ |õÀ }À }+À }gÀ }–À }ÈÀ }ÜÀ }ÿÀ ~ À ~LÀ ~¥À ~ÇÀ ~ıÀ &À hÀ À µÀ ËÀ ßÀ ñÀ €À €)À €xÀ €†À €’À €œÀ €ªÀ €ÂÀ €âÀ %À =À \À qÀ ™À èÀ öÀ ‚À ‚À ‚À ‚À ‚8À ‚XÀ ‚ŠÀ ‚°À ‚öÀ ƒ\À ƒdÀ ƒfÀ ƒ±À ƒëÀ „À „À „
+À „À „lÀ „•À „«À …À …WÀ …“À …ÕÀ † À †0À †SÀ †‹À †æÀ ‡;À ‡šÀ ‡ÀÀ ‡óÀ ˆ*À ˆJÀ ˆœÀ ˆ¸À ˆÆÀ ˆÒÀ ˆÜÀ ˆäÀ ˆéÀ ˆìÀ ˆîÀ ‰>À ‰CÀ ‰‘À ‰±À ‰¶À ŠÀ ŠQÀ ŠVÀ Š£À Š¼À ŠÁÀ ‹À ‹aÀ ‹–À ‹›À ‹êÀ Œ:À Œ„À ŒĞÀ ŒåÀ ŒêÀ À nÀ •À šÀ êÀ 1À 6À ‡À ÛÀ 'À ,À }À ÌÀ éÀ îÀ ?À À àÀ ‘1À ‘‚À ‘ÎÀ ‘ãÀ ‘èÀ ’=À ’ŒÀ ’ØÀ “À “À “aÀ “²À ” À ”5À ”:À ”OÀ ”­À ”²À •À •À •"À •7À •¬À •±À –À –À –!À –0À –5À –†À –•À –ğÀ —RÀ —À —ÄÀ —ËÀ ˜À ˜,À ˜TÀ ˜dÀ ˜zÀ ˜À ˜¹À ˜ãÀ ™À ™#À ™5À ™IÀ ™sÀ ™À ™¾À ™ëÀ šÀ šÀ š>À šcÀ š~À šÀ š¦À š¶À šïÀ ›@À ›’À ›¥À ›°À ›ÀÀ ›ğÀ œ7À œBÀ œhÀ œ„À œ¡À œ£À œñÀ  À 'À oÀ ¼À À À bÀ ¯À şÀ ŸOÀ Ÿ„À Ÿ‹À ŸÛÀ ŸìÀ ŸóÀ  
+À  8À  ~À  …À  áÀ  ôÀ ¡#À ¡3À ¡ZÀ ¡pÀ ¡ƒÀ ¡¯À ¡ÙÀ ¡üÀ ¢À ¢+À ¢?À ¢iÀ ¢„À ¢´À ¢áÀ ¢÷À £
+À £4À £YÀ £tÀ £®À £ÏÀ £ßÀ ¤À ¤iÀ ¤»À ¤ÎÀ ¤ÙÀ ¤ğÀ ¥À ¥À ¥1À ¥8À ¥‰À ¥ËÀ ¥ÒÀ ¦À ¦MÀ ¦TÀ ¦£À ¦ôÀ §DÀ §•À §çÀ ¨7À ¨>À ¨ŠÀ ¨ÚÀ ¨ğÀ ¨÷À ©DÀ ©”À ©±À ©³À ©ôÀ ©ûÀ ª@À ªZÀ ª\À ª¯À ªØÀ ªÚÀ «*À «1À «€À «ĞÀ ¬À ¬@À ¬BÀ ¬ŒÀ ¬¤À ¬«À ¬øÀ ­HÀ ­_À ­fÀ ­²À ­éÀ ®	À ®À ®VÀ ®zÀ ®|À ®ËÀ ®äÀ ®ëÀ ¯4À ¯„À ¯¨À ¯¯À ° À °À °'À °)À °kÀ °rÀ °·À °ÒÀ °ÔÀ ±À ±>À ±@À ±—À ±ÄÀ ±ÆÀ ²À ²DÀ ²FÀ ²ŠÀ ²«À ²­À ²îÀ ³À ³À ³YÀ ³rÀ ³tÀ ³ÅÀ ³ìÀ ³îÀ ´/À ´HÀ ´JÀ ´™À ´ÀÀ ´ÇÀ µÀ µ6À µ=À µNÀ µUÀ µ°À µÖÀ µØÀ ¶)À ¶iÀ ¶pÀ ¶¼À ·À ·:À ·<À ·‰À ·ÔÀ ¸À ¸
+À ¸TÀ ¸ŠÀ ¸ŒÀ ¸ÔÀ ¸ÛÀ ¹-À ¹~À ¹…À ¹ÑÀ º"À º[À ºbÀ º~À º•À º—À ºŞÀ ºåÀ »7À »ˆÀ »À »¤À »ÓÀ »ñÀ »óÀ ¼AÀ ¼\À ¼^À ¼kÀ ¼ÉÀ ¼ÌÀ ¼ÎÀ ½À ½jÀ ½…À ½ÛÀ ¾ À ¾1À ¾WÀ ¾sÀ ¾¥À ¾ÏÀ ¿À ¿9À ¿aÀ ¿ˆÀ ¿¨À ¿ÃÀ ¿ÅÀ ¿ÒÀ ¿èÀ À À À2À À’À ÀõÀ ÀúÀ ÀüÀ Á	À ÁKÀ ÁrÀ Á À ÁÁÀ ÁÈÀ ÁÍÀ ÁÏÀ ÁÜÀ ÁşÀ Â"À ÂoÀ ÂÀ Â¬À ÂÎÀ Ã'À Ã\À Ã²À Ã·À Ã¹À ÃÆÀ ÃÚÀ Ä	À ÄdÀ ÄkÀ ÄŒÀ Ä±À ÄÇÀ ÄÌÀ ÄÎÀ ÄìÀ Å'À ÅFÀ Å…À Å®À ÅáÀ ÅèÀ ÅùÀ ÅşÀ Æ À Æ#À ÆtÀ ÆyÀ Æ{À ÆÀ ÆâÀ ÇÀ Ç À Ç;À ÇmÀ ÇÀ ÇªÀ Ç¶À ÇßÀ ÈÀ È/À ÈuÀ È©À ÈÙÀ ÈêÀ ÈúÀ ÈÿÀ ÉÀ É'À É„À ÉÙÀ ÊÀ ÊqÀ ÊÇÀ ÊÌÀ ÊÎÀ ÊîÀ Ë0À Ë~À ËÀ Ë”À Ë–À Ë«À ÌÀ ÌÀ Ì/À ÌQÀ Ì¥À Ì§À ÌóÀ ÍÀ ÍIÀ ÍÀ ÍÖÀ Î À ÎtÀ Î­À ÎÎÀ ÎÕÀ Î×À Ï)À ÏjÀ Ï…À Ï–À ÏÖÀ ĞÀ Ğ<À ĞFÀ ĞMÀ ĞRÀ ĞTÀ Ğ–À ĞçÀ Ñ3À Ñ…À Ñ¬À Ñ¿À ÑØÀ ÑÿÀ Ò!À ÒHÀ ÒkÀ Ò”À Ò½À ÒÆÀ ÒÏÀ ÒÔÀ ÒÖÀ ÒôÀ Ó%À Ó\À ÓcÀ Ó‡À ÓŒÀ ÓÀ Ó›À ÓÃÀ ÓûÀ ÔÀ Ô4À Ô_À Ô©À Ô¼À Õ À Õ@À ÕtÀ ÕÌÀ ÕùÀ ÖDÀ ÖWÀ ÖÀ Ö”À Ö³À ÖÓÀ ×À ×GÀ ×†À ×ÀÀ ØÀ ØCÀ Ø\À ØÀ ØÒÀ ÙÀ ÙKÀ ÙÀ ÙÎÀ ÙçÀ Ú
+À Ú.À ÚNÀ ÚhÀ Ú–À Ú¯À Ú·À Ú¹À ÚãÀ ÛÀ Û(À ÛbÀ ÛŒÀ ÛÑÀ ÜÀ Ü+À ÜRÀ Ü~À ÜÀ ÜøÀ İ:À İÀ İ¼À İâÀ Ş
+À ŞZÀ Ş¢À ŞÊÀ ß0À ßrÀ ßÇÀ àÀ àJÀ àeÀ à³À àİÀ áÀ á^À áŠÀ á»À áêÀ áúÀ âÀ âÀ âÀ â&À â+À â.À â0À â…À â©À âÕÀ âîÀ ãÀ ã,À ãPÀ ã‚À ã¡À ã¼À ãØÀ äÀ ä/À äKÀ äpÀ ä•À äºÀ äãÀ åÀ å1À åRÀ åqÀ åÀ å—À å™À åËÀ åÿÀ æÀ æ<À æiÀ æŠÀ æ£À æÌÀ æóÀ çÀ ç3À çUÀ çwÀ ç—À çÁÀ çîÀ èÀ è5À èOÀ èQÀ è^À èyÀ èØÀ èÚÀ èçÀ é6À é8À éEÀ é„À é†À é“À éæÀ êGÀ êŒÀ êÀ êÃÀ ëÀ ëÀ ëRÀ ë¥À ëÔÀ ëŞÀ ëèÀ ëğÀ ëòÀ ì1À ìPÀ ìiÀ ì¶À ìàÀ í!À í)À í+À íÀ íŸÀ í§À í©À íÌÀ î À îEÀ îXÀ îŒÀ îœÀ îáÀ îãÀ ïÀ ïcÀ ïÆÀ ïåÀ ğÀ ğÀ ğ3À ğSÀ ğ…À ğ¤À ğãÀ ñÀ ñCÀ ñ[À ñzÀ ñ‘À ñ®À ñÓÀ ñòÀ òÀ ò>À ò_À ò¬À òñÀ óÀ ó7À ó^À ó¢À óÙÀ ôÀ ô/À ôYÀ ô€À ôªÀ ôİÀ õYÀ õ¿À öÀ ö0À ö]À ö•À öúÀ ÷(À ÷jÀ ÷ŸÀ ÷ÜÀ øÀ øAÀ øcÀ øƒÀ ø¡À ø½À ø×À øïÀ ùÀ ùeÀ ù­À ùÎÀ ùğÀ úÀ ú7À ú_À ú«À úõÀ ûÀ û'À û;À ûMÀ û]À ûœÀ ûëÀ ûùÀ üÀ üÀ üÀ üÀ ü]À üsÀ üzÀ ü|À üÀ üâÀ ı$À ıbÀ ıšÀ ıÁÀ şÀ ş\À ş¨À şÔÀ şóÀ ÿ'À ÿ~À ÿÏÀ *À LÀ ¡À ÉÀ êÀ1ÀIÀSÀ[À`ÀbÀoÀ»ÀïÀ À[À²ÀÛÀÀOÀšÀ×ÀÀQÀ|ÀÍÀşÀ3ÀdÀ“À˜À›ÀÀÉÀÎÀÀ0ÀkÀ¦À¨ÀÀÀÂÀÏÀÀ.À†ÀÀ¥ÀªÀ¬À¹ÀÀÀxÀ’À—ÀšÀœÀĞÀ	'À	)À	SÀ	lÀ	À	°À	¿À	ÆÀ	ßÀ	áÀ	ùÀ	şÀ
+ À
+!À
+4À
+RÀ
+oÀ
+~À
+…À
+›À
+À
+µÀ
+ºÀ
+¼À
+ÔÀ
+ÖÀ7ÀuÀÍÀÀJÀZÀ‰ÀÀÀÀáÀ-ÀJÀ^ÀeÀ§ÀâÀçÀéÀöÀSÀ}À—À«À²ÀÀVÀqÀ…ÀŒÀÎÀÀQÀnÀÂÀÇÀÉÀÖÀğÀÀ;À=ÀWÀfÀmÀoÀÅÀ ÀCÀ„ÀáÀæÀèÀõÀ7ÀYÀ[ÀÀÀÈÀÍÀÏÀÜÀÀ>À@ÀZÀoÀ}ÀÀÀÂÀèÀÀ-ÀdÀ¼ÀéÀóÀúÀÿÀÀÀ]À‡À‰À£À¸À¿ÀÁÀÀÀ:ÀuÀ¹À»ÀãÀ ÀÀ[À™À£À«À°À³ÀµÀùÀşÀQÀÀ²ÀìÀMÀOÀƒÀ…À®À°ÀşÀ4ÀRÀTÀaÀ‰À²À´ÀÏÀñÀ9ÀqÀ{ÀÎÀıÀ#À7ÀUÀ‰À½ÀÛÀëÀòÀôÀÀXÀÀÀ«ÀËÀéÀ"ÀwÀ…À¿ÀÆÀÈÀ÷À À 'À MÀ hÀ pÀ rÀ À ®À ıÀ!À!&À!-À!/À!EÀ!’À!ªÀ!æÀ!şÀ"À"'À"/À"4À"7À"9À"†À"ÅÀ#À#=À#AÀ#€À#ŒÀ#¸À#àÀ$*À$`À$ŸÀ$ÚÀ%À%FÀ%ƒÀ%ÌÀ%ÎÀ%ïÀ&À&1À&RÀ&pÀ&À&²À&ÖÀ&ÙÀ&ÛÀ'*À'sÀ'ÀÀ(À(À(<À(`À(—À(ÁÀ(äÀ)À)>À)gÀ)‰À)­À)ÓÀ)õÀ*#À*=À*[À*À* À*ÇÀ*ëÀ+À+CÀ+_À+{À+†À+¯À+ŞÀ,À,À,ZÀ,vÀ,À,¦À,ÑÀ,õÀ-À-=À-}À-™À-¤À-ÃÀ-èÀ.
+À.4À.LÀ.ˆÀ. À.ÀÀ.ÜÀ.çÀ/
+À/3À/YÀ/uÀ/‘À/œÀ/ÃÀ/ğÀ0À02À0jÀ0‚À0À0©À0ÔÀ1À1'À1CÀ1NÀ1PÀ1rÀ1À1ÆÀ1ÎÀ2À2:À2tÀ2›À2ÄÀ2ËÀ2ÍÀ2ßÀ2äÀ2æÀ3À3.À3RÀ3uÀ3ŸÀ3ÍÀ3ûÀ4À4'À4DÀ4FÀ4fÀ4‹À4¸À4×À4ğÀ5À5<À5_À5xÀ5 À5¬À5øÀ6À6	À6À6.À6BÀ6IÀ6KÀ6eÀ6}À6”À6ğÀ7À7gÀ7ÈÀ7ÔÀ7ŞÀ7æÀ7ëÀ7íÀ8À8=À8eÀ8ˆÀ8²À8àÀ9À9À9,À9SÀ9mÀ9‡À9ÂÀ9ÖÀ9İÀ9ßÀ9ùÀ:À:/À:ˆÀ:®À:¸À:ÀÀ:ÅÀ:ÇÀ;À;5À;WÀ;À;§À;ÊÀ;ôÀ<"À<KÀ<oÀ<wÀ<—À<¾À<ØÀ<òÀ=-À=AÀ=HÀ=JÀ=dÀ=~À=˜À=ñÀ>FÀ>PÀ>XÀ>]À>_À>ªÀ>ÍÀ>ìÀ?À?6À?XÀ?~À?˜À?¶À?âÀ@À@0À@8À@]À@_À@~À@ÅÀAÀA(ÀA/ÀA1ÀACÀAlÀAsÀAuÀA›ÀAÔÀAğÀAøÀAúÀBÀB0ÀB7ÀB9ÀBSÀBjÀB„ÀBİÀBüÀCÀCÀCÀCÀC6ÀC_ÀC„ÀC¨ÀCÖÀCúÀDÀD#ÀD7ÀD>ÀD@ÀDZÀDsÀDŠÀDâÀDşÀEYÀE¸ÀEÄÀEÎÀEÖÀEÛÀEİÀF(ÀFKÀFnÀF™ÀFÀÀFæÀG ÀG(ÀGRÀGvÀG~ÀG‘ÀG¥ÀG¬ÀG®ÀGÕÀGğÀHKÀHMÀHZÀH|ÀHÉÀHÑÀHÓÀHíÀIÀI"ÀIRÀI|ÀI›ÀIõÀJ'ÀJUÀJeÀJsÀJÀJ£ÀJ­ÀJµÀJºÀJ¼ÀJáÀKÀK7ÀKYÀK}ÀK…ÀKŸÀK¼ÀKÖÀL4ÀLkÀLuÀL}ÀL‚ÀL„ÀLÄÀLñÀM9ÀM>ÀMAÀMCÀMŠÀMÀMÕÀNÀN9ÀN>ÀNÀN×ÀNæÀNëÀO8ÀO‹ÀOªÀOìÀP:ÀPTÀP€ÀPÀP¡ÀP¾ÀPÓÀPğÀQÀQÀQYÀQ˜ÀQğÀRÀR&ÀR?ÀRAÀRhÀRoÀR¾ÀRÅÀSÀSÀSÀSkÀS»ÀSòÀTÀTÀThÀT‡ÀTÀTÚÀU&ÀU9ÀU@ÀUYÀU{ÀU}ÀUœÀUÀU»ÀU½ÀUÊÀUòÀV9ÀVWÀVfÀVÀVìÀVöÀVıÀVÿÀWYÀWsÀW¦ÀWêÀWôÀWûÀWıÀXSÀXpÀX‘ÀXªÀXÄÀXåÀYÀY+ÀYMÀYpÀY’ÀYèÀZÀZ0ÀZSÀZ¤ÀZÛÀ[,À[GÀ[aÀ[†À[éÀ[ıÀ\À\À\-À\9À\CÀ\ZÀ\|À\•À\§À\ÏÀ\ÚÀ\äÀ\ìÀ\ñÀ\ôÀ\öÀ]$À]=À]?À]LÀ]tÀ]¹À]şÀ^ À^JÀ^mÀ^À^ÓÀ^ìÀ^ÿÀ_DÀ_aÀ_~À_£À_ÀÀ_ùÀ`0À`>À`JÀ`TÀ`\À`zÀ`™À`ºÀaÀa.ÀaSÀaqÀa}ÀaœÀa¬Àa³ÀaµÀbÀbÀbÀbÀbjÀbxÀb¤ÀböÀbøÀc!ÀcFÀcHÀc”Àc°ÀdÀd4Àd[ÀdbÀddÀd½Àd¿ÀdåÀe3Àe:Àe<Àe¡Àe¦Àe¨ÀeµÀeİÀfÀfXÀf®ÀfşÀgNÀgœÀg°ÀgßÀhÀhDÀhNÀh\ÀhƒÀhŠÀhÀh’Àh”ÀhËÀh÷Ài&ÀimÀioÀi”Ài­Ài¯Ài¼ÀiäÀj:ÀjdÀjyÀj£Àj¼ÀjÙÀjüÀk#ÀkFÀk«Àk¹ÀkÅÀkÏÀk×ÀkÜÀkßÀkáÀl2ÀlDÀlÀl¤ÀlÌÀlìÀm
+Àm0ÀmUÀm\Àm^ÀmÀm®ÀmÔÀm÷Àn#Àn%Àn2ÀnZÀnwÀn”Àn³ÀnÕÀnôÀoÀoLÀoiÀo£ÀoĞÀoûÀp+Àp=ÀpŒÀpœÀpªÀp¶ÀpÀÀpøÀqÀq`ÀqyÀqœÀq·ÀqÑÀqÿÀrTÀruÀr‰ÀrâÀrıÀsSÀsvÀsÊÀtÀt+Àt?ÀtQÀtaÀtoÀt{Àt…ÀtÀt’Àt•Àt—ÀtèÀtøÀu1ÀuTÀu|ÀuœÀuºÀuàÀvÀvÀvÀv@Àv^Àv„Àv§ÀvÓÀvÕÀvâÀw
+ÀwÀwQÀwvÀwÀw¨Àw»ÀxÀx)Àx>Àx\Àx†ÀxÄÀxÔÀxâÀxşÀy!ÀyEÀyŸÀyáÀyñÀz/ÀzOÀz£ÀzÂÀzÔÀzäÀzòÀzşÀ{À{À{À{À{À{VÀ{[À{©À{öÀ|À|À|TÀ|wÀ|µÀ|×À|úÀ}À}FÀ}iÀ}‘À}¬À}ÎÀ}ğÀ~À~AÀ~[À~šÀ~ËÀ~ÍÀ	À*ÀRÀuÀÀ·ÀÔÀñÀ€À€8À€OÀ€QÀ€nÀ€ÍÀ€ÚÀ€ïÀ?À‘À±À¹ÀÊÀÏÀÑÀõÀ‚RÀ‚WÀ‚YÀ‚fÀ‚À‚ŸÀ‚ºÀ‚ôÀƒ!Àƒ4ÀƒzÀƒÅÀ„À„lÀ„•À„£À„ÙÀ„õÀ…À…À…#À….À…=À…NÀ…À…ÀÀ…ÊÀ…ŞÀ…éÀ…üÀ†À†À†À†WÀ†ŸÀ†¤À†ğÀ‡	À‡À‡ZÀ‡ŒÀ‡‘À‡ÔÀˆ&Àˆ8Àˆ=ÀˆÀˆÙÀˆôÀ‰.À‰LÀ‰jÀ‰ˆÀ‰©À‰ÎÀŠÀŠ3ÀŠ>ÀŠ@ÀŠfÀŠ—ÀŠËÀŠÍÀŠñÀŠóÀ‹ À‹(À‹nÀ‹‹À‹®À‹ËÀ‹şÀŒÀŒÀŒ(ÀŒ]ÀŒÀŒ»ÀŒçÀÀAÀnÀŸÀŞÀÀ9ÀfÀ‘À¹ÀåÀÀ=ÀEÀGÀ”À¾ÀÖÀ;À\À‡À‘À™ÀÀ¡À£ÀïÀ‘(À‘-À‘zÀ‘‘À‘–À‘æÀ’9À’~À’ƒÀ’ÒÀ“À“À“fÀ“­À“²À“ñÀ”2À”†À”ÕÀ”ûÀ•À•3À•[À•yÀ•²À•èÀ–À–LÀ–~À–°À–ÜÀ—"À—bÀ—À—ÔÀ˜À˜ZÀ˜”À˜ÈÀ™À™6À™tÀ™¬À™ØÀ™şÀšXÀšxÀšËÀ›À›)À›}À›ŞÀœ+Àœ-ÀœÀœĞÀœÒÀœøÀ6ÀqÀsÀ½ÀÀ6ÀZÀ{À}À«ÀÖÀÿÀŸ%ÀŸTÀŸ€ÀŸ‚ÀŸ¥ÀŸÅÀŸèÀ À -À GÀ zÀ |À £À ÇÀ æÀ¡À¡À¡PÀ¡›À¡¸À¡ºÀ¢À¢%À¢'À¢rÀ¢¾À£À£bÀ£†À£ˆÀ£«À£ÿÀ¤À¤À¤"À¤$À¤rÀ¤½À¤íÀ¤óÀ¥AÀ¥cÀ¥iÀ¥·À¦À¦RÀ¦ŸÀ¦ïÀ¦ûÀ§1À§RÀ§yÀ§˜À§½À§êÀ¨À¨À¨]À¨¨À¨ªÀ¨ØÀ¨ÚÀ©-À©uÀ©ÓÀª+ÀªjÀª‚Àª¢ÀªªÀ«	À«À«]À«¯À«şÀ¬LÀ¬aÀ¬cÀ¬µÀ¬ÊÀ¬ğÀ­!À­vÀ­ØÀ­ÚÀ®9À®hÀ®¡À®»À®ÃÀ®ÅÀ®ÿÀ¯(À¯]À¯eÀ¯gÀ¯À¯¥À¯ÇÀ¯óÀ°%À°MÀ°qÀ°†À°À°“À°•À°àÀ±>À±CÀ±EÀ±À±ïÀ±ôÀ±öÀ²<À²fÀ²—À²ÂÀ²õÀ²úÀ²üÀ³$À³NÀ³—À³«À³²À´ À´*À´]À´_À´¬À´şÀµÀµÀµ@ÀµfÀµ„ÀµŒÀµÀµ¼À¶À¶%À¶-À¶/À¶QÀ¶ŒÀ¶¯À¶ğÀ·À·IÀ·eÀ·¼À·ÆÀ·ÎÀ·ÓÀ·ÕÀ·ôÀ¸KÀ¸MÀ¸oÀ¸ƒÀ¸ŠÀ¸ŒÀ¸µÀ¹À¹bÀ¹jÀ¹oÀ¹qÀ¹”À¹óÀ¹õÀºÀº/Àº6Àº8ÀºaÀº¿ÀºİÀºÿÀ»cÀ»mÀ»uÀ»zÀ»|À»À»øÀ»úÀ¼À¼2À¼9À¼;À¼sÀ¼™À¼·À¼¿À¼ÁÀ½À½FÀ½ZÀ½·À½¿À½ÁÀ½ãÀ¾À¾.À¾PÀ¾²À¾¼À¾ÄÀ¾ÉÀ¾ËÀ¾éÀ¿>À¿“À¿äÀ¿æÀÀ1ÀÀ…ÀÀ½ÀÀÑÀÀØÀÀÚÀÁÀÁ_ÀÁƒÀÁ±ÀÁÚÀÂÀÂ*ÀÂJÀÂ›ÀÂÛÀÂôÀÃFÀÃ|ÀÃ¶ÀÃæÀÄÀÄhÀÄzÀÄ¤ÀÄ´ÀÄÂÀÄÎÀÄØÀÄßÀÄáÀÅ1ÀÅ‚ÀÅÀÅÇÀÅòÀÆMÀÆmÀÆ­ÀÆûÀÇWÀÇcÀÇmÀÇtÀÇvÀÇˆÀÇÀÇÀÇ±ÀÈÀÈcÀÈeÀÈ¢ÀÈ¶ÀÈ½ÀÈ¿ÀÈàÀÉ,ÀÉPÀÉ‚ÀÉ«ÀÉ×ÀÉûÀÊSÀÊsÀÊ—ÀÊ°ÀËÀË8ÀËrÀË¢ÀËÉÀÌ)ÀÌ;ÀÌWÀÌ‡ÀÌµÀÌÅÀÌÓÀÌßÀÌéÀÌğÀÌòÀÍ;ÀÍnÀÍ¦ÀÍÍÀÍëÀÍóÀÍõÀÎ#ÀÎ7ÀÎ‘ÀÎ™ÀÎ›ÀÎêÀÏÀÏ)ÀÏVÀÏtÀÏ–ÀÏâÀĞFÀĞPÀĞXÀĞ]ÀĞ_ÀĞÀĞØÀĞÚÀĞıÀÑÀÑÀÑÀÑCÀÑÀÑòÀÑúÀÑÿÀÒÀÒ%ÀÒ†ÀÒˆÀÒ¯ÀÒÃÀÒÊÀÒÌÀÓÀÓ-ÀÓKÀÓSÀÓ‰ÀÓ·ÀÓËÀÔ ÀÔ(ÀÔ*ÀÔXÀÔ¦ÀÔÕÀÕÀÕÀÕ]ÀÕ•ÀÕ­ÀÕÌÀÖÀÖÀÖ&ÀÖ-ÀÖ/ÀÖQÀÖ^ÀÖ¶ÀÖ×À×0À×†À×ˆÀ×®À×¶À×»À×½À×âÀØ	ÀØÀØ$ÀØrÀØœÀØÏÀØÑÀÙÀÙpÀÙxÀÙzÀÙàÀÙâÀÚÀÚaÀÚqÀÚyÀÚ{ÀÚÀÚØÀÚûÀÛ<ÀÛcÀÛ’ÀÛ®ÀÜÀÜÀÜÀÜÀÜÀÜ7ÀÜˆÀÜŠÀÜ©ÀÜ½ÀÜÄÀÜÆÀÜïÀİCÀİ”ÀİœÀİ¡Àİ£ÀİÃÀŞÀŞ{ÀŞ}ÀŞ ÀŞ´ÀŞ»ÀŞ½ÀŞóÀßÀß3Àß;ÀßOÀßQÀß{ÀßÂÀßûÀà5ÀàqÀà®ÀàÔÀàıÀàÿÀá7ÀágÀáÀá«ÀáÜÀâÀâÀâÀâmÀâ…Àâ«ÀâÌÀã&Àã‚Àã¢ÀãğÀäÀäÀäÀäÀä^Àä`Àä‚ÀäåÀåÀå+ÀåBÀå`Àå³ÀæÀæ,Àæ<ÀæJÀæVÀæ¥Àæ¯Àæ·Àæ¼Àæ¾ÀæÜÀç1ÀçÀçãÀçåÀèÀèÀè!Àè#Àè…ÀèÉÀèËÀèôÀéGÀéqÀé½ÀéÇÀéÎÀéĞÀêÀêjÀê¹ÀëÀëÀëVÀëzÀë¬ÀëÕÀìÀì%Àì}ÀìÀìÕÀíÀí(Àí†Àí–Àí°ÀíŞÀîÀîÀî Àî*Àî1Àî3ÀîÀî©ÀîÊÀîîÀïÀïEÀïqÀï•ÀïµÀïíÀğÀğ@Àğ™Àğ©ÀğÑÀğßÀğëÀğõÀğüÀğşÀñÀñÀñÀñ2ÀñÀñƒÀñ¡ÀñµÀñ¼Àñ¾Àò	Àò]ÀòÀò£ÀòªÀò¬ÀóÀólÀónÀóœÀóÀóğÀô
+Àô[Àô]Àô”ÀôÎÀôäÀõ4ÀõfÀõŸÀõ°ÀõºÀõßÀõçÀõéÀöÀö'ÀöoÀöÀö±ÀöÏÀöóÀ÷GÀ÷QÀ÷YÀ÷^À÷`À÷}À÷ĞÀ÷ÒÀ÷òÀøÀøÀøÀø8ÀøÀøßÀøçÀøìÀøîÀùÀùdÀùfÀùÀù±Àù¸ÀùºÀùğÀúÀú/Àú7Àú9ÀúpÀúÀúïÀúÿÀûÀû	ÀûWÀûƒÀû¸ÀûºÀûÜÀûéÀü?Àü`Àü¹ÀıÀı-ÀıgÀı‰Àı´ÀıÌÀıøÀşÀş+Àş5Àş=ÀşBÀşDÀşeÀşÀÀşÂÀşæÀşúÀÿÀÿÀÿ9Àÿ_ÀÿzÀÿ‚Àÿ¹ÀÿçÀ 8À HÀ PÀ RÀ }À À ÍÀ ùÀ.À0À}ÀµÀÍÀìÀ&À=ÀGÀNÀPÀrÀÀ×ÀøÀQÀ§ÀÍÀÕÀÚÀİÀßÀ,ÀuÀÃÀàÀÀFÀLÀ¥À¨ÀªÀÀ5À}À·À¹À	ÀXÀ¨ÀäÀæÀ7À‰À¤ÀºÀÓÀñÀ	À	 À	3À	9À	<À	>À	qÀ	šÀ	¹À	ÙÀ
+À
+"À
+AÀ
+FÀ
+qÀ
+šÀ
+œÀ
+ÖÀÀÀOÀÀÀÜÀ$À&À1À|ÀÊÀĞÀÛÀ$ÀpÀvÀxÀ–ÀºÀâÀÀ$ÀBÀLÀoÀ—À¶À×À÷ÀÀÀ	   1NavigationBarBottomMode_kNavBarPersistentHeight!_kNavBarLargeTitleHeightExtension_kNavBarShowLargeTitleThreshold"_kNavBarScrollUnderAnimationExtent_kNavBarEdgePadding_kNavBarBottomPadding_kNavBarBackButtonTapWidth_kMinScaleFactor_kMaxScaleFactor_kLargeTitleScaleDampingRatio_kSearchFieldCancelButtonWidth_kSearchFieldHeight_kNavBarSearchDuration_kNavBarSearchCurve_kNavBarTitleFadeDuration_kDefaultNavBarBorderColor_kDefaultNavBarBorder_kTransparentNavBarBorder _kTopNavBarHeaderTransitionCurve#_kBottomNavBarHeaderTransitionCurve_defaultHeroTag_HeroTag_FixedSizeSlidingTransition_wrapWithBackground_dampScaleFactor_isTransitionableCupertinoNavigationBar_CupertinoNavigationBarStateCupertinoSliverNavigationBar"_CupertinoSliverNavigationBarState&_LargeTitleNavigationBarSliverDelegate_LargeTitle_RenderLargeTitle_PersistentNavigationBar"_NavigationBarStaticComponentsKeys_NavigationBarStaticComponents CupertinoNavigationBarBackButton_BackChevron
+_BackLabel_CancelButton_InactiveSearchableBottom_ActiveSearchableBottom_TransitionableNavigationBar_NavigationBarTransition"_NavigationBarComponentsTransition(_linearTranslateWithLargestRectSizeTween_navBarHeroLaunchPadBuilder_navBarHeroFlightShuttleBuilder0flutter.cupertino.CupertinoNavigationBar.leading€íWidget to place at the start of the navigation bar. Normally a back button
+for a normal page or a cancel button for full page dialogs.
+
+If null and [automaticallyImplyLeading] is true, an appropriate button
+will be automatically created.Bflutter.cupertino.CupertinoNavigationBar.automaticallyImplyLeading‚PControls whether we should try to imply the leading widget if null.
+
+If true and [leading] is null, automatically try to deduce what the [leading]
+widget should be. If [leading] widget is not null, this parameter has no effect.
+
+Specifically this navigation bar will:
+
+1. Show a 'Cancel' button if the current route is a `fullscreenDialog`.
+2. Show a back chevron with [previousPageTitle] if [previousPageTitle] is
+   not null.
+3. Show a back chevron with the previous route's `title` if the current
+   route is a [CupertinoPageRoute] and the previous route is also a
+   [CupertinoPageRoute].:flutter.cupertino.CupertinoNavigationBar.previousPageTitle]Manually specify the previous route's title when automatically implying
+the leading back button.
+
+Overrides the text shown with the back chevron instead of automatically
+showing the previous [CupertinoPageRoute]'s `title` when
+[automaticallyImplyLeading] is true.
+
+Has no effect when [leading] is not null or if [automaticallyImplyLeading]
+is false.1flutter.cupertino.CupertinoNavigationBar.trailing€‚Widget to place at the end of the navigation bar. Normally additional actions
+taken on the page such as a search or edit function.8flutter.cupertino.CupertinoNavigationBar.backgroundColorÁThe background color of the navigation bar. If it contains transparency, the
+tab bar will automatically produce a blurring effect to the content
+behind it. This behavior can be disabled by setting [enableBackgroundFilterBlur]
+to false.
+
+By default, the navigation bar's background is visible only when scrolled under.
+This behavior can be controlled with [automaticBackgroundVisibility].
+
+Defaults to [CupertinoTheme]'s `barBackgroundColor` if null.Fflutter.cupertino.CupertinoNavigationBar.automaticBackgroundVisibilityWhether the navigation bar appears transparent when no content is scrolled under.
+
+If this is true, the navigation bar's background color will be transparent
+until the content scrolls under it. If false, the navigation bar will always
+use [backgroundColor] as its background color.
+
+If the navigation bar is not a child of a [CupertinoPageScaffold], this has no effect.
+
+This value defaults to true.3flutter.cupertino.CupertinoNavigationBar.brightness?The brightness of the specified [backgroundColor].
+
+Setting this value changes the style of the system status bar. Typically
+used to increase the contrast ratio of the system status bar over
+[backgroundColor].
+
+If set to null, the value of the property will be inferred from the relative
+luminance of [backgroundColor].0flutter.cupertino.CupertinoNavigationBar.paddingÓPadding for the contents of the navigation bar.
+
+If null, the navigation bar will adopt the following defaults:
+
+ * Vertically, contents will be sized to the same height as the navigation
+   bar itself minus the status bar.
+ * Horizontally, padding will be 16 pixels according to iOS specifications
+   unless the leading widget is an automatically inserted back button, in
+   which case the padding will be 0.
+
+Vertical padding won't change the height of the nav bar./flutter.cupertino.CupertinoNavigationBar.border€›The border of the navigation bar. By default renders a single pixel bottom border side.
+
+If a border is null, the navigation bar will not display a border.@flutter.cupertino.CupertinoNavigationBar.transitionBetweenRoutes‚]Whether to transition between navigation bars.
+
+When [transitionBetweenRoutes] is true, this navigation bar will transition
+on top of the routes instead of inside it if the route being transitioned
+to also has a [CupertinoNavigationBar] or a [CupertinoSliverNavigationBar]
+with [transitionBetweenRoutes] set to true.
+
+This transition will also occur on edge back swipe gestures like on iOS
+but only if the previous page below has `maintainState` set to true on the
+[PageRoute].
+
+When set to true, only one navigation bar can be present per route unless
+[heroTag] is also set.
+
+This value defaults to true.Cflutter.cupertino.CupertinoNavigationBar.enableBackgroundFilterBlur[Whether to have a blur effect when a non-opaque background color is used.
+
+When [enableBackgroundFilterBlur] is set to false, the blur effect will be
+disabled. The behaviour of [enableBackgroundFilterBlur] will only be respected when
+[automaticBackgroundVisibility] is false or until content scrolls under the navbar.
+
+This value defaults to true.0flutter.cupertino.CupertinoNavigationBar.heroTag‚XTag for the navigation bar's Hero widget if [transitionBetweenRoutes] is true.
+
+Defaults to a common tag between all [CupertinoNavigationBar] and
+[CupertinoSliverNavigationBar] instances of the same [Navigator]. With the
+default tag, all navigation bars of the same navigator can transition
+between each other as long as there's only one navigation bar per route.
+
+This [heroTag] can be overridden to manually handle having multiple
+navigation bars per route or to transition between multiple
+[Navigator]s.
+
+To disable Hero transitions for this navigation bar, set
+[transitionBetweenRoutes] to false. ZÑ
