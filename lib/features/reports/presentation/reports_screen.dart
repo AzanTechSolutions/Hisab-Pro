@@ -4,6 +4,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:hisab_pro/core/theme/design_tokens.dart';
 import 'package:hisab_pro/features/reports/domain/report_data.dart';
 import 'package:hisab_pro/features/reports/reports_providers.dart';
+import 'package:hisab_pro/shared/services/export_modal_helper.dart';
 import 'package:hisab_pro/shared/services/money_service.dart';
 import 'package:intl/intl.dart';
 
@@ -44,6 +45,14 @@ class _ReportsScreenState extends ConsumerState<ReportsScreen> {
         title: const Text('Reports & Analytics'),
         backgroundColor: Colors.transparent,
         elevation: 0,
+        actions: [
+          IconButton(
+            tooltip: 'Export Statement',
+            icon: const Icon(Icons.file_download_outlined, color: AppColors.emerald),
+            onPressed: () => ExportModalHelper.showExportModal(context, ref),
+          ),
+          const SizedBox(width: 8),
+        ],
       ),
       body: SafeArea(
         child: Padding(
@@ -99,8 +108,29 @@ class _ReportsScreenState extends ConsumerState<ReportsScreen> {
 
                             // Category Breakdown List
                             _buildCategoryBreakdownList(report.categoryBreakdown, isDark),
-                            const SizedBox(height: 40),
+                            const SizedBox(height: 24),
                           ],
+
+                          // Export Financial Statement Action
+                          SizedBox(
+                            width: double.infinity,
+                            height: 50,
+                            child: ElevatedButton.icon(
+                              style: ElevatedButton.styleFrom(
+                                backgroundColor: AppColors.emerald,
+                                foregroundColor: Colors.white,
+                                shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
+                                elevation: 0,
+                              ),
+                              onPressed: () => ExportModalHelper.showExportModal(context, ref),
+                              icon: const Icon(Icons.file_download_outlined),
+                              label: const Text(
+                                'Export PDF / CSV Statement',
+                                style: TextStyle(fontWeight: FontWeight.bold, fontSize: 15),
+                              ),
+                            ),
+                          ),
+                          const SizedBox(height: 36),
                         ],
                       ),
                     );
@@ -243,14 +273,18 @@ class _ReportsScreenState extends ConsumerState<ReportsScreen> {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          Row(
-            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+          Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              const Text('Income vs Expenses (Last 6 Months)', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16)),
+              const Text(
+                'Income vs Expenses (Last 6 Months)',
+                style: TextStyle(fontWeight: FontWeight.bold, fontSize: 15),
+              ),
+              const SizedBox(height: 8),
               Row(
                 children: [
                   _legendDot(AppColors.emerald, 'Income'),
-                  const SizedBox(width: 10),
+                  const SizedBox(width: 14),
                   _legendDot(AppColors.danger, 'Expense'),
                 ],
               ),

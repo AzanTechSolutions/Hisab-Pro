@@ -165,6 +165,27 @@ Hisab Pro is a 100% offline-first, local-first personal finance and accounting m
 - **Fix:** Changed to `Colors.white`.
 - **Files Changed:** `lib/features/authentication/auth_gate.dart`.
 
+### BUG-004: RenderFlex right overflow (82 & 109 pixels) on physical device (Moderate — Fixed Nov 16)
+- **Symptom:** Yellow-and-black striped overflow banners appeared on Transactions Ledger and Reports & Analytics screens.
+- **Root Cause:**
+  1. In `TransactionListScreen`, the transaction card subtitle had an unconstrained `Row` with category chip, account name, and date, which overflowed horizontally when trailing amount took space.
+  2. In `ReportsScreen`, the `Income vs Expenses (Last 6 Months)` card header placed the title and legend in a single unconstrained `Row`.
+- **Fix:**
+  1. Refactored `TransactionListScreen` card to use `Wrap` with spacing and `Expanded` title/amount row.
+  2. Changed chart header to vertical `Column` layout.
+  3. Protected `LoanListScreen` contact info with `Expanded`.
+- **Files Changed:** `lib/features/transactions/presentation/transaction_list_screen.dart`, `lib/features/reports/presentation/reports_screen.dart`, `lib/features/loans/presentation/loan_list_screen.dart`.
+
+### BUG-005: Unselectable export location & missing PDF reports (High — Fixed Nov 16)
+- **Symptom:** CSV export dumped files into internal root-only storage `/data/user/0/...` where users could not access them, and no PDF statement export existed.
+- **Root Cause:** Export was writing to `getApplicationDocumentsDirectory()` without offering directory choice.
+- **Fix:**
+  1. Integrated `pdf: ^3.13.1` and `printing: ^5.15.1`.
+  2. Created `PdfReportService` generating publication-quality multi-page PDF statements with AzanTech Solutions branding, summary grids, category breakdown, cash flow, and transaction tables.
+  3. Created `ExportModalHelper` with user-selectable directory picker (`FilePicker.platform.getDirectoryPath()`) allowing users to save directly to `Downloads` or any folder, plus direct `Share / Print PDF`.
+  4. Added export actions in `ReportsScreen` (AppBar & bottom action button) and updated `SettingsScreen`.
+- **Files Changed:** `lib/shared/services/pdf_report_service.dart`, `lib/shared/services/export_modal_helper.dart`, `lib/features/reports/presentation/reports_screen.dart`, `lib/features/settings/presentation/settings_screen.dart`.
+
 ---
 
 ## 6. Current Work

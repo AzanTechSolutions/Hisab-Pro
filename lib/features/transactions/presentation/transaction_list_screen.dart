@@ -231,75 +231,91 @@ class _TransactionListScreenState extends ConsumerState<TransactionListScreen> {
         borderRadius: BorderRadius.circular(16),
         side: BorderSide(color: isDark ? Colors.white10 : Colors.black.withValues(alpha: 0.04)),
       ),
-      child: ListTile(
-        contentPadding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
-        leading: CircleAvatar(
-          radius: 22,
-          backgroundColor: themeColor.withValues(alpha: 0.12),
-          child: Icon(
-            isIncome ? Icons.arrow_downward : Icons.arrow_upward,
-            color: themeColor,
-            size: 20,
-          ),
-        ),
-        title: Text(
-          tx.title,
-          style: const TextStyle(fontWeight: FontWeight.w600, fontSize: 15),
-        ),
-        subtitle: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
+      child: Padding(
+        padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 12),
+        child: Row(
+          crossAxisAlignment: CrossAxisAlignment.center,
           children: [
-            const SizedBox(height: 2),
-            Row(
-              children: [
-                if (tx.categoryName != null) ...[
-                  Container(
-                    padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
-                    decoration: BoxDecoration(
-                      color: isDark ? Colors.white10 : Colors.black.withValues(alpha: 0.05),
-                      borderRadius: BorderRadius.circular(6),
-                    ),
-                    child: Text(
-                      tx.categoryName!,
-                      style: const TextStyle(fontSize: 11, fontWeight: FontWeight.w500),
-                    ),
-                  ),
-                  const SizedBox(width: 6),
-                ],
-                Text(
-                  tx.accountName ?? 'Account',
-                  style: const TextStyle(fontSize: 12, color: AppColors.textSecondary),
-                ),
-                const SizedBox(width: 6),
-                Text(
-                  '• $dateStr',
-                  style: const TextStyle(fontSize: 12, color: AppColors.textSecondary),
-                ),
-              ],
-            ),
-            if (tx.notes != null && tx.notes!.isNotEmpty) ...[
-              const SizedBox(height: 4),
-              Text(
-                tx.notes!,
-                style: const TextStyle(fontSize: 12, fontStyle: FontStyle.italic, color: Colors.grey),
-                maxLines: 1,
-                overflow: TextOverflow.ellipsis,
-              ),
-            ],
-          ],
-        ),
-        trailing: Row(
-          mainAxisSize: MainAxisSize.min,
-          children: [
-            Text(
-              '${isIncome ? '+' : '-'}${_currencyFormat.format(amountMajor)}',
-              style: TextStyle(
-                fontWeight: FontWeight.bold,
-                fontSize: 15,
+            CircleAvatar(
+              radius: 20,
+              backgroundColor: themeColor.withValues(alpha: 0.12),
+              child: Icon(
+                isIncome ? Icons.arrow_downward : Icons.arrow_upward,
                 color: themeColor,
+                size: 20,
               ),
             ),
+            const SizedBox(width: 12),
+            Expanded(
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Row(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Expanded(
+                        child: Text(
+                          tx.title,
+                          style: const TextStyle(fontWeight: FontWeight.w600, fontSize: 14),
+                          maxLines: 1,
+                          overflow: TextOverflow.ellipsis,
+                        ),
+                      ),
+                      const SizedBox(width: 8),
+                      Text(
+                        '${isIncome ? '+' : '-'}${_currencyFormat.format(amountMajor)}',
+                        style: TextStyle(
+                          fontWeight: FontWeight.bold,
+                          fontSize: 14,
+                          color: themeColor,
+                        ),
+                      ),
+                    ],
+                  ),
+                  const SizedBox(height: 4),
+                  Wrap(
+                    spacing: 6,
+                    runSpacing: 4,
+                    crossAxisAlignment: WrapCrossAlignment.center,
+                    children: [
+                      if (tx.categoryName != null)
+                        Container(
+                          padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+                          decoration: BoxDecoration(
+                            color: isDark ? Colors.white10 : Colors.black.withValues(alpha: 0.05),
+                            borderRadius: BorderRadius.circular(6),
+                          ),
+                          child: Text(
+                            tx.categoryName!,
+                            style: const TextStyle(fontSize: 11, fontWeight: FontWeight.w500),
+                          ),
+                        ),
+                      Text(
+                        tx.accountName ?? 'Account',
+                        style: const TextStyle(fontSize: 12, color: AppColors.textSecondary),
+                      ),
+                      Text(
+                        '• $dateStr',
+                        style: const TextStyle(fontSize: 12, color: AppColors.textSecondary),
+                      ),
+                    ],
+                  ),
+                  if (tx.notes != null && tx.notes!.isNotEmpty) ...[
+                    const SizedBox(height: 4),
+                    Text(
+                      tx.notes!,
+                      style: const TextStyle(fontSize: 12, fontStyle: FontStyle.italic, color: Colors.grey),
+                      maxLines: 1,
+                      overflow: TextOverflow.ellipsis,
+                    ),
+                  ],
+                ],
+              ),
+            ),
+            const SizedBox(width: 4),
             IconButton(
+              padding: EdgeInsets.zero,
+              constraints: const BoxConstraints(minWidth: 32, minHeight: 32),
               icon: const Icon(Icons.delete_outline, size: 18, color: Colors.grey),
               onPressed: () => _confirmDelete(tx),
             ),

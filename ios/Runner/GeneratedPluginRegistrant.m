@@ -36,6 +36,12 @@
 @import local_auth_darwin;
 #endif
 
+#if __has_include(<printing/PrintingPlugin.h>)
+#import <printing/PrintingPlugin.h>
+#else
+@import printing;
+#endif
+
 #if __has_include(<sqflite_sqlcipher/SqfliteSqlCipherPlugin.h>)
 #import <sqflite_sqlcipher/SqfliteSqlCipherPlugin.h>
 #else
@@ -50,6 +56,7 @@
   [FlutterSecureStorageDarwinPlugin registerWithRegistrar:[registry registrarForPlugin:@"FlutterSecureStorageDarwinPlugin"]];
   [IntegrationTestPlugin registerWithRegistrar:[registry registrarForPlugin:@"IntegrationTestPlugin"]];
   [LocalAuthPlugin registerWithRegistrar:[registry registrarForPlugin:@"LocalAuthPlugin"]];
+  [PrintingPlugin registerWithRegistrar:[registry registrarForPlugin:@"PrintingPlugin"]];
   [SqfliteSqlCipherPlugin registerWithRegistrar:[registry registrarForPlugin:@"SqfliteSqlCipherPlugin"]];
 }
 

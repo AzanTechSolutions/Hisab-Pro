@@ -261,30 +261,42 @@ class _LoanListScreenState extends ConsumerState<LoanListScreen> {
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
-                  Row(
-                    children: [
-                      CircleAvatar(
-                        radius: 18,
-                        backgroundColor: themeColor.withValues(alpha: 0.15),
-                        child: Text(
-                          loan.personName?.isNotEmpty == true ? loan.personName![0].toUpperCase() : 'L',
-                          style: TextStyle(fontWeight: FontWeight.bold, color: themeColor),
-                        ),
-                      ),
-                      const SizedBox(width: 10),
-                      Column(
-                        crossAxisAlignment: CrossAxisAlignment.start,
-                        children: [
-                          Text(
-                            loan.personName ?? 'Contact',
-                            style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 16),
+                  Expanded(
+                    child: Row(
+                      children: [
+                        CircleAvatar(
+                          radius: 18,
+                          backgroundColor: themeColor.withValues(alpha: 0.15),
+                          child: Text(
+                            loan.personName?.isNotEmpty == true ? loan.personName![0].toUpperCase() : 'L',
+                            style: TextStyle(fontWeight: FontWeight.bold, color: themeColor),
                           ),
-                          if (loan.personPhone != null)
-                            Text(loan.personPhone!, style: const TextStyle(fontSize: 12, color: AppColors.textSecondary)),
-                        ],
-                      ),
-                    ],
+                        ),
+                        const SizedBox(width: 10),
+                        Expanded(
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              Text(
+                                loan.personName ?? 'Contact',
+                                style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 16),
+                                maxLines: 1,
+                                overflow: TextOverflow.ellipsis,
+                              ),
+                              if (loan.personPhone != null)
+                                Text(
+                                  loan.personPhone!,
+                                  style: const TextStyle(fontSize: 12, color: AppColors.textSecondary),
+                                  maxLines: 1,
+                                  overflow: TextOverflow.ellipsis,
+                                ),
+                            ],
+                          ),
+                        ),
+                      ],
+                    ),
                   ),
+                  const SizedBox(width: 8),
                   Container(
                     padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
                     decoration: BoxDecoration(

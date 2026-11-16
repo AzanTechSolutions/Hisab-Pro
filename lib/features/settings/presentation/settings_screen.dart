@@ -8,6 +8,7 @@ import 'package:hisab_pro/features/settings/domain/app_settings_state.dart';
 import 'package:hisab_pro/features/settings/settings_providers.dart';
 import 'package:hisab_pro/features/transactions/transactions_providers.dart';
 import 'package:hisab_pro/features/user_profiles/profile_providers.dart';
+import 'package:hisab_pro/shared/services/export_modal_helper.dart';
 import 'package:hisab_pro/shared/services/export_service.dart';
 
 class SettingsScreen extends ConsumerWidget {
@@ -160,10 +161,10 @@ class SettingsScreen extends ConsumerWidget {
                   const Divider(height: 1),
                   ListTile(
                     leading: const Icon(Icons.file_download_outlined, color: AppColors.emerald),
-                    title: Text(settings.isUrdu ? 'آف لائن CSV لیجر برآمد کریں' : 'Export Offline CSV Ledgers'),
-                    subtitle: Text(settings.isUrdu ? 'ٹرانزیکشنز اور ادھار کی رپورٹس' : 'Export transactions & loans to CSV'),
-                    trailing: const Icon(Icons.download, size: 20),
-                    onTap: () => _handleExportCsv(context, ref),
+                    title: Text(settings.isUrdu ? 'رپورٹس برآمد کریں (PDF / CSV)' : 'Export Financial Reports'),
+                    subtitle: Text(settings.isUrdu ? 'پی ڈی ایف یا سی ایس وی اپنی مرضی کے فولڈر میں' : 'Export PDF or CSV to your chosen folder'),
+                    trailing: const Icon(Icons.arrow_forward_ios, size: 16),
+                    onTap: () => ExportModalHelper.showExportModal(context, ref),
                   ),
                 ],
               ),
