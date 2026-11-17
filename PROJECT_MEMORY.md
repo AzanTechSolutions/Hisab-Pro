@@ -1,8 +1,16 @@
 # Hisab Pro — Project Memory
 
-**Last Updated:** 2026-11-16 (18:50 PKT)  
+**Last Updated:** 2026-11-17 (10:05 PKT)  
 **Project:** Hisab Pro (Personal Budget & Accounting Management System)  
-**Status:** All 7 Phases Complete — Custom AzanTech App Icon & Developer Branding Integrated — APK Recompiled — iOS Deployment Guide Added
+**Status:** All 7 Phases Complete — RenderFlex Overflows Fixed — PDF Export Engine Added — Codemagic CI/CD Configured — iOS Permissions Updated — APK Built (214 MB, 16-Nov 6:49 PM)
+
+### Latest Changes (Nov 17, 2026)
+- **codemagic.yaml** added with 3 workflows: `ios-debug-build`, `ios-release-build`, `android-debug-build`
+- **ios/Runner/Info.plist** updated with Face ID, Photo Library, File Sharing permissions
+- **PDF Report Service** (`lib/shared/services/pdf_report_service.dart`) — Full A4 PDF generation with AzanTech branding
+- **Export Modal Helper** (`lib/shared/services/export_modal_helper.dart`) — User folder selection + Share/Print
+- **RenderFlex overflow fixes** in TransactionListScreen, ReportsScreen, LoanListScreen
+- Commit `431d1ce` staged, needs `git push origin main`
 
 ---
 
