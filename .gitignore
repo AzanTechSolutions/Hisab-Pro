@@ -26,6 +26,10 @@ local.properties
 # iOS / Android generated artifacts
 ios/Pods/
 ios/Podfile.lock
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/Flutter/flutter_export_environment.sh
+ios/.symlinks/
 android/.gradle/
 android/.idea/
 android/local.properties
