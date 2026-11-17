@@ -28,5 +28,13 @@
     </array>
     <key>LSRequiresIPhoneOS</key>
     <true/>
+    <key>NSFaceIDUsageDescription</key>
+    <string>Hisab Pro uses Face ID to securely unlock your encrypted ledger.</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Hisab Pro needs access to save exported PDF reports.</string>
+    <key>UIFileSharingEnabled</key>
+    <true/>
+    <key>LSSupportsOpeningDocumentsInPlace</key>
+    <true/>
 </dict>
 </plist>
