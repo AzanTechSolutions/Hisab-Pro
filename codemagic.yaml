@@ -40,51 +40,50 @@ workflows:
   # iOS Release Build (Requires Apple Developer)
   # Generates signed .ipa for TestFlight / App Store
   # ─────────────────────────────────────────────
-  ios-release-build:
-    name: iOS Release Build
-    max_build_duration: 45
-    instance_type: mac_mini_m2
-    environment:
-      flutter: stable
-      xcode: latest
-      groups:
-        - apple_credentials
-      ios_signing:
-        distribution_type: app_store
-        bundle_identifier: com.azantech.hisabpro
-    scripts:
-      - name: Get Flutter packages
-        script: flutter pub get
-
-      - name: Install CocoaPods
-        script: |
-          cd ios
-          pod install
-
-      - name: Set up code signing
-        script: |
-          xcode-project use-profiles
-
-      - name: Run static analysis
-        script: flutter analyze --no-fatal-infos
-
-      - name: Run unit tests
-        script: flutter test
-
-      - name: Build iOS Release IPA
-        script: |
-          flutter build ipa \
-            --release \
-            --export-options-plist=/Users/builder/export_options.plist
-
-    artifacts:
-      - build/ios/ipa/*.ipa
-
-    publishing:
-      app_store_connect:
-        auth: integration
-        submit_to_testflight: true
-        expire_build_submitted_for_review: true
+  # ─────────────────────────────────────────────
+  # iOS Release Build (DISABLED until Apple Developer Account is configured)
+  # Uncomment this workflow when you have:
+  # 1. Apple Developer Account ($99/year)
+  # 2. App Store Connect API Key uploaded to Codemagic
+  # 3. Environment variable group "apple_credentials" created
+  # ─────────────────────────────────────────────
+  # ios-release-build:
+  #   name: iOS Release Build
+  #   max_build_duration: 45
+  #   instance_type: mac_mini_m2
+  #   environment:
+  #     flutter: stable
+  #     xcode: latest
+  #     groups:
+  #       - apple_credentials
+  #     ios_signing:
+  #       distribution_type: app_store
+  #       bundle_identifier: com.azantech.hisabpro
+  #   scripts:
+  #     - name: Get Flutter packages
+  #       script: flutter pub get
+  #     - name: Install CocoaPods
+  #       script: |
+  #         cd ios
+  #         pod install
+  #     - name: Set up code signing
+  #       script: xcode-project use-profiles
+  #     - name: Run static analysis
+  #       script: flutter analyze --no-fatal-infos
+  #     - name: Run unit tests
+  #       script: flutter test
+  #     - name: Build iOS Release IPA
+  #       script: |
+  #         flutter build ipa \
+  #           --release \
+  #           --export-options-plist=/Users/builder/export_options.plist
+  #   artifacts:
+  #     - build/ios/ipa/*.ipa
+  #   publishing:
+  #     app_store_connect:
+  #       auth: integration
+  #       submit_to_testflight: true
+  #       expire_build_submitted_for_review: true
 
   # ─────────────────────────────────────────────
   # Android Debug APK Build
